@@ -1,8 +1,82 @@
 import Image from "next/image";
+import Script from "next/script";
 
 export default function Home() {
   return (
     <>
+      <Script
+        id="structured-data"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "K&T Textiles",
+            "description": "Specializing in premium fabric and apparel exports since 2020. Your trusted partner for quality textile logistics.",
+            "url": "https://kandttextiles.com",
+            "email": "contact@k-and-t-textiles.com",
+            "foundingDate": "2020",
+            "makesOffer": [
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Export Logistics",
+                  "description": "End-to-end export management with proven reliability. We ensure your goods arrive at their destination efficiently and as expected."
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Quality Control",
+                  "description": "Our rigorous quality control process ensures all exported textiles meet international standards and client specifications."
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Global Distribution",
+                  "description": "Professional handling of your shipments through our established international distribution network, with reliability you can count on."
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Logistics Technology",
+                  "description": "Advanced shipment monitoring and security solutions to ensure reliable delivery of your valuable cargo."
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Specialty Fabrics Export",
+                  "description": "Export services for high-performance ripstop fabrics, weatherproof materials, and specialty textiles."
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Tactical Apparel Export",
+                  "description": "Export services for professional-grade protective wear and gear designed for high-stakes operational environments."
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Bulk Textiles Export",
+                  "description": "Export services for large-volume fabric exports, including specialized prints and patterns."
+                }
+              }
+            ]
+          })
+        }}
+      />
       <header className="bg-gradient-to-r from-[#1a237e] to-[#0d47a1] py-5 shadow-md">
         <div className="max-w-7xl mx-auto px-5">
           <nav className="flex justify-between items-center">
@@ -226,7 +300,7 @@ export default function Home() {
         <div className="relative z-10 max-w-7xl mx-auto px-5">
           <h2 className="text-4xl font-bold mb-4">Ready to Partner With Us?</h2>
           <p className="mb-8 text-white/80">Contact K&T Textiles today to discuss your textile export needs.</p>
-          <a href="mailto:kiara@k-and-t-textiles.com" 
+          <a href="mailto:contact@k-and-t-textiles.com" 
              className="inline-block bg-white/10 backdrop-blur-sm text-white border border-white/20 px-8 py-3 rounded-lg font-semibold 
                       hover:bg-white/20 transition-all duration-300">
             Contact Us
@@ -253,7 +327,7 @@ export default function Home() {
             <div>
               <h3 className="text-xl font-bold mb-4">Contact Info</h3>
               <ul className="space-y-2 text-gray-300">
-                <li>Email: kiara@k-and-t-textiles.com</li>
+                <li>Email: <a href="mailto:contact@k-and-t-textiles.com" className="hover:text-white transition-colors">contact@k-and-t-textiles.com</a></li>
               </ul>
             </div>
           </div>
