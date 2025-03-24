@@ -9,6 +9,7 @@ interface Supplier {
   logo: string;
   link: string;
   certification?: string;
+  featured?: boolean;
 }
 
 export default function Home() {
