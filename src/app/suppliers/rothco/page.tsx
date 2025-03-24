@@ -7,6 +7,7 @@ import ProductSlideshow from '@/components/ProductSlideshow';
 import { BrandHero } from '@/components/BrandHero';
 import { FeaturedProducts } from '@/components/FeaturedProducts';
 import { CONTACT } from '@/constants/contact';
+import { Footer } from '@/components/Footer';
 
 export const metadata = {
   title: "Rothco Military & Tactical Gear | Authorized International Dealer",
@@ -183,44 +184,7 @@ export default function Suppliers() {
         </section>
       </main>
 
-      {/* Footer */}
-      <footer className="bg-[#102a43] text-white py-10">
-        <div className="max-w-7xl mx-auto px-5">
-          <div className="grid md:grid-cols-4 gap-8 mb-8">
-            <div>
-              <h3 className="text-xl font-bold mb-4">K&T Textiles</h3>
-              <p className="text-gray-300">Authorized Rothco dealer specializing in military and tactical gear exports.</p>
-            </div>
-            <div>
-              <h3 className="text-xl font-bold mb-4">Quick Links</h3>
-              <ul className="space-y-2">
-                <li><Link href="/" className="text-gray-300 hover:text-white transition-colors">Home</Link></li>
-                <li><Link href="/#products" className="text-gray-300 hover:text-white transition-colors">Products</Link></li>
-                <li><Link href="/#about" className="text-gray-300 hover:text-white transition-colors">About Us</Link></li>
-                <li><Link href="/#contact" className="text-gray-300 hover:text-white transition-colors">Contact</Link></li>
-              </ul>
-            </div>
-            <div>
-              <h3 className="text-xl font-bold mb-4">Rothco Products</h3>
-              <ul className="space-y-2">
-                <li><a href="#rothco-products" className="text-gray-300 hover:text-white transition-colors">Featured Items</a></li>
-                <li><Link href="/catalog" className="text-gray-300 hover:text-white transition-colors">Full Catalog</Link></li>
-                <li><a href="https://www.rothco.com" target="_blank" className="text-gray-300 hover:text-white transition-colors">Visit Rothco.com</a></li>
-              </ul>
-            </div>
-            <div>
-              <h3 className="text-xl font-bold mb-4">Contact</h3>
-              <ul className="space-y-2 text-gray-300">
-                <li>Email: <a href={`mailto:${CONTACT.email}`} className="hover:text-white transition-colors">{CONTACT.email}</a></li>
-                <li className="text-sm mt-4">Authorized Rothco Dealer</li>
-              </ul>
-            </div>
-          </div>
-          <div className="text-center pt-8 border-t border-gray-600">
-            <p className="text-gray-300">&copy; 2025 K&T Textiles. All Rights Reserved.</p>
-          </div>
-        </div>
-      </footer>
+      <Footer variant="dark" />
     </>
   );
 } 

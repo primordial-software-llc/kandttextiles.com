@@ -1,6 +1,8 @@
 import Image from "next/image";
 import Script from "next/script";
 import Link from "next/link";
+import { CONTACT } from "@/constants/contact";
+import { Footer } from "@/components/Footer";
 
 interface Supplier {
   name: string;
@@ -25,7 +27,7 @@ export default function Home() {
             "name": "K&T Textiles",
             "description": "Specializing in premium fabric and apparel exports since 2020. Your trusted partner for quality textile logistics.",
             "url": "https://kandttextiles.com",
-            "email": "contact@k-and-t-textiles.com",
+            "email": CONTACT.email,
             "foundingDate": "2020",
             "makesOffer": [
               {
@@ -278,7 +280,7 @@ export default function Home() {
               <p className="text-xl text-white/80 mb-8 max-w-2xl mx-auto">
                 Contact K&T Textiles today to discuss your textile export needs.
               </p>
-              <a href="mailto:contact@k-and-t-textiles.com" 
+              <a href={`mailto:${CONTACT.email}`} 
                  className="inline-block bg-white text-[#1B2845] px-8 py-3 rounded-lg font-semibold 
                           hover:bg-gray-100 transition-all duration-300 shadow-lg hover:shadow-xl">
                 Contact Us
@@ -288,39 +290,7 @@ export default function Home() {
         </div>
       </section>
 
-      <footer className="bg-gray-50 text-[#1B2845] py-10 border-t border-gray-200">
-        <div className="max-w-7xl mx-auto px-5">
-          <div className="grid md:grid-cols-3 gap-8 mb-8">
-            <div>
-              <h3 className="text-xl font-bold text-[#1B2845] mb-4">K&T Textiles</h3>
-              <p className="text-gray-600">Specializing in fabric and clothing exports since 2020.</p>
-            </div>
-            <div>
-              <h3 className="text-xl font-bold text-[#1B2845] mb-4">Quick Links</h3>
-              <ul className="space-y-2">
-                <li><a href="#services" className="text-gray-600 hover:text-[#1B2845] transition-colors">Services</a></li>
-                <li><a href="#products" className="text-gray-600 hover:text-[#1B2845] transition-colors">Products</a></li>
-                <li><a href="#about" className="text-gray-600 hover:text-[#1B2845] transition-colors">About Us</a></li>
-                <li><a href="#contact" className="text-gray-600 hover:text-[#1B2845] transition-colors">Contact</a></li>
-              </ul>
-            </div>
-            <div>
-              <h3 className="text-xl font-bold text-[#1B2845] mb-4">Contact Info</h3>
-              <ul className="space-y-2">
-                <li className="text-gray-600">
-                  Email: <a href="mailto:contact@k-and-t-textiles.com" 
-                           className="hover:text-[#1B2845] transition-colors">
-                    contact@k-and-t-textiles.com
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div className="text-center pt-8 border-t border-gray-200">
-            <p className="text-gray-600">&copy; 2025 K&T Textiles. All Rights Reserved.</p>
-          </div>
-        </div>
-      </footer>
+      <Footer />
     </>
   );
 }
