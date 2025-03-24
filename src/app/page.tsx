@@ -155,8 +155,7 @@ export default function Home() {
                 key={index}
                 className="block h-full"
               >
-                <div className={`bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 h-full flex flex-col
-                               ${supplier.featured ? 'border border-gray-200' : ''}`}>
+                <div className={`bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 h-full flex flex-col`}>
                   {supplier.logo && (
                     <div className="mb-6">
                       <Image 
@@ -174,14 +173,6 @@ export default function Home() {
                     </h3>
                     <div className="text-gray-600 font-medium mb-4">{supplier.specialty}</div>
                     <p className="text-[#34495e] mb-4">{supplier.description}</p>
-                  </div>
-                  <div className="flex items-center justify-between mt-auto">
-                    <div className="inline-block bg-[#e3f2fd] text-[#1976d2] px-3 py-1 rounded-full text-sm">
-                      {supplier.certification}
-                    </div>
-                    {supplier.featured && (
-                      <span className="text-gray-600 text-sm font-medium">Featured Partner</span>
-                    )}
                   </div>
                 </div>
               </Link>
