@@ -85,6 +85,70 @@ export default function Home() {
                   "name": "Bulk Textiles Export",
                   "description": "Export services for large-volume fabric exports, including specialized prints and patterns."
                 }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Product",
+                  "name": "MULTICAM® Fabric",
+                  "description": "Exclusive distributor of MULTICAM® fabric development and distribution in the US and internationally."
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Product",
+                  "name": "Military & Tactical Textiles",
+                  "description": "Specialized military, tactical, and industrial textile products with expertise in domestic and international manufacturing."
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Product",
+                  "name": "Industrial Webbing",
+                  "description": "High-quality military solid and camouflage webbing for various military applications and equipment."
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Product",
+                  "name": "U.S. Army Uniform Caps",
+                  "description": "Premium quality military uniform caps manufactured to exact U.S. Army specifications, made in the USA."
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Product",
+                  "name": "U.S. Air Force Uniform Caps",
+                  "description": "High-quality military headwear meeting U.S. Air Force uniform standards, manufactured in New York."
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Product",
+                  "name": "U.S. Navy Uniform Caps",
+                  "description": "Professional-grade naval uniform caps produced to U.S. Navy specifications, ensuring superior comfort and durability."
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Product",
+                  "name": "U.S. Marine Corps Uniform Caps",
+                  "description": "Military-grade uniform caps for U.S. Marine Corps, manufactured with premium materials to meet strict specifications."
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Product",
+                  "name": "U.S. Coast Guard Uniform Caps",
+                  "description": "Specialized uniform headwear for U.S. Coast Guard personnel, produced to exact service specifications."
+                }
               }
             ]
           })
@@ -150,34 +214,84 @@ export default function Home() {
                 description: "Global leader in marine hardware and performance textiles, providing innovative solutions for sailing and marine applications.",
                 logo: "/harken/harken.webp",
                 link: "/suppliers/harken"
+              },
+              {
+                name: "1947 LLC",
+                specialty: "Military & Tactical Textiles",
+                description: "Full-service textile solution provider specializing in military, tactical, and industrial products, with expertise in MULTICAM® fabric development and distribution.",
+                logo: "/1947llc/1947llc-logo-black.svg",
+                link: "https://1947llc.com/"
+              },
+              {
+                name: "Kingform Cap Company",
+                specialty: "Military Uniform Headwear",
+                description: "Premium manufacturer of military uniform caps since 1960, producing high-quality headwear for all branches of the U.S. Armed Forces.",
+                logo: "/kingformcap/kflogowhite.jpg",
+                link: "https://www.kingformcap.com/"
               }
             ].map((supplier, index) => (
-              <Link 
-                href={supplier.link || '#'} 
-                key={index}
-                className="block h-full"
-              >
-                <div className={`bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 h-full flex flex-col`}>
-                  {supplier.logo && (
-                    <div className="mb-6">
-                      <Image 
-                        src={supplier.logo}
-                        alt={`${supplier.name} logo`}
-                        width={200}
-                        height={60}
-                        className="object-contain"
-                      />
+              supplier.link ? (
+                <Link 
+                  href={supplier.link} 
+                  key={index}
+                  className="block h-full"
+                >
+                  <div className={`bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 h-full flex flex-col`}>
+                    {supplier.logo && (
+                      <div className="mb-6">
+                        <Image 
+                          src={supplier.logo}
+                          alt={`${supplier.name} logo`}
+                          width={200}
+                          height={60}
+                          className="object-contain"
+                        />
+                      </div>
+                    )}
+                    <div className="flex-grow">
+                      <h3 className="text-xl font-bold text-[#1a237e] mb-2">
+                        {supplier.name}
+                      </h3>
+                      <div className="text-gray-600 font-medium mb-4">{supplier.specialty}</div>
+                      <p className="text-[#34495e] mb-4">{supplier.description}</p>
+                      <div className="mt-auto">
+                        <span className="inline-flex items-center px-6 py-2.5 bg-[#1a237e] text-white rounded-lg font-medium group hover:bg-[#1a237e]/90 transition-all duration-300 shadow-md hover:shadow-lg">
+                          Explore {supplier.name}
+                          <svg className="w-4 h-4 ml-2 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                          </svg>
+                        </span>
+                      </div>
                     </div>
-                  )}
-                  <div className="flex-grow">
-                    <h3 className="text-xl font-bold text-[#1a237e] mb-2">
-                      {supplier.name}
-                    </h3>
-                    <div className="text-gray-600 font-medium mb-4">{supplier.specialty}</div>
-                    <p className="text-[#34495e] mb-4">{supplier.description}</p>
+                  </div>
+                </Link>
+              ) : (
+                <div 
+                  key={index}
+                  className="block h-full"
+                >
+                  <div className={`bg-white p-8 rounded-xl shadow-lg h-full flex flex-col`}>
+                    {supplier.logo && (
+                      <div className="mb-6">
+                        <Image 
+                          src={supplier.logo}
+                          alt={`${supplier.name} logo`}
+                          width={200}
+                          height={60}
+                          className="object-contain"
+                        />
+                      </div>
+                    )}
+                    <div className="flex-grow">
+                      <h3 className="text-xl font-bold text-[#1a237e] mb-2">
+                        {supplier.name}
+                      </h3>
+                      <div className="text-gray-600 font-medium mb-4">{supplier.specialty}</div>
+                      <p className="text-[#34495e] mb-4">{supplier.description}</p>
+                    </div>
                   </div>
                 </div>
-              </Link>
+              )
             ))}
           </div>
         </div>
