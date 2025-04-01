@@ -296,7 +296,8 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <section className="py-20 bg-white relative">
+
+      <section className="pb-20 bg-gray-50 relative">
         {/* Background Pattern */}
         <div className="absolute inset-0">
           <div className="absolute inset-0 bg-[linear-gradient(45deg,rgba(15,23,42,0.02)_25%,transparent_25%,transparent_50%,rgba(15,23,42,0.02)_50%,rgba(15,23,42,0.02)_75%,transparent_75%)] bg-[length:24px_24px]"></div>
@@ -304,43 +305,78 @@ export default function Home() {
         
         <div className="max-w-7xl mx-auto px-5 relative">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-[#1B2845] mb-4">Global Export Solutions</h2>
+            <h2 className="text-4xl font-bold text-[#1B2845] mb-4">Logistics Tools</h2>
             <p className="text-gray-600 max-w-3xl mx-auto">
-              Comprehensive international logistics ensuring secure, efficient delivery of tactical gear worldwide.
+              Advanced tracking solutions for secure and efficient cargo monitoring worldwide.
             </p>
           </div>
-          <div className="grid md:grid-cols-3 gap-8">
-            {[
-              {
-                icon: "🌐",
-                title: "Global Distribution",
-                description: "Established international network enabling efficient customs clearance and reliable delivery across borders."
-              },
-              {
-                icon: "🔍",
-                title: "Quality Assurance",
-                description: "Rigorous authentication and inspection processes ensuring genuine, certified products."
-              },
-              {
-                icon: "📱",
-                title: "Advanced Tracking",
-                description: "Real-time monitoring and secure documentation from pickup to final delivery."
-              }
-            ].map((service, index) => (
-              <div key={index} className="group relative">
-                {/* Card Background with Gradient */}
-                <div className="absolute inset-0 bg-gradient-to-br from-[#1B2845]/5 to-transparent rounded-2xl transform transition-transform duration-300 group-hover:scale-[1.02]"></div>
-                
-                {/* Card Content */}
-                <div className="relative p-8 rounded-2xl border border-[#1B2845]/10 bg-white/50 backdrop-blur-sm">
-                  <div className="bg-[#1B2845]/5 w-16 h-16 rounded-xl flex items-center justify-center mb-6 mx-auto group-hover:scale-110 transition-transform duration-300 border border-[#1B2845]/10">
-                    <div className="text-3xl">{service.icon}</div>
+          <div className="grid md:grid-cols-2 gap-8">
+            {/* Tracki Pro Card */}
+            <div className="group relative">
+              <div className="absolute inset-0 bg-gradient-to-br from-[#1B2845]/5 to-transparent rounded-2xl transform transition-transform duration-300 group-hover:scale-[1.02]"></div>
+              <div className="relative p-8 rounded-2xl border border-[#1B2845]/10 bg-white/50 backdrop-blur-sm">
+                <div className="flex items-center justify-between mb-6">
+                  <h3 className="text-2xl font-bold text-[#1B2845]">Tracki Pro GPS Tracker</h3>
+                  <div className="text-2xl font-bold text-[#3b82f6]">$38.88</div>
+                </div>
+                <div className="space-y-4">
+                  <div className="flex items-center gap-2">
+                    <svg className="w-5 h-5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    <span className="text-gray-600">10,000mAh Battery - Up to 12 months life</span>
                   </div>
-                  <h3 className="text-xl font-bold text-[#1B2845] mb-4 text-center">{service.title}</h3>
-                  <p className="text-gray-600 leading-relaxed text-center">{service.description}</p>
+                  <div className="flex items-center gap-2">
+                    <svg className="w-5 h-5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    <span className="text-gray-600">IP67 Waterproof - 30min submersion</span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <svg className="w-5 h-5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    <span className="text-gray-600">Multi-network tracking (GPS, WiFi, Cellular)</span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <svg className="w-5 h-5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    <span className="text-gray-600">Adjustable update intervals (1min - 24hrs)</span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <svg className="w-5 h-5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    <span className="text-gray-600">Movement detection & hibernation mode</span>
+                  </div>
+                </div>
+                <div className="mt-6 pt-6 border-t border-gray-200">
+                  <div className="flex items-center justify-between">
+                    <span className="text-gray-600">Monthly Service: $20</span>
+                    <Link href="/logistics/tracki-pro" 
+                       className="inline-flex items-center px-4 py-2 bg-[#3b82f6] text-white rounded-lg hover:bg-[#2563eb] transition-colors">
+                      Learn More
+                      <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                      </svg>
+                    </Link>
+                  </div>
                 </div>
               </div>
-            ))}
+            </div>
+
+            {/* Placeholder for Future Tools */}
+            <div className="group relative">
+              <div className="absolute inset-0 bg-gradient-to-br from-[#1B2845]/5 to-transparent rounded-2xl transform transition-transform duration-300 group-hover:scale-[1.02]"></div>
+              <div className="relative p-8 rounded-2xl border border-[#1B2845]/10 bg-white/50 backdrop-blur-sm h-full flex items-center justify-center">
+                <div className="text-center">
+                  <div className="text-4xl mb-4">🚀</div>
+                  <h3 className="text-xl font-bold text-[#1B2845] mb-2">More Tools Coming Soon</h3>
+                  <p className="text-gray-600">Stay tuned for additional tracking solutions</p>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </section>

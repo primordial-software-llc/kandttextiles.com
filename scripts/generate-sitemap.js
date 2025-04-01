@@ -5,7 +5,7 @@ const { DOMParser, XMLSerializer } = require('xmldom');
 
 // Define the site URLs
 const siteUrl = 'https://kandttextiles.com'; // Production domain for the sitemap
-const localUrl = 'http://localhost:3000'; // Local URL to crawl
+const localUrl = 'http://localhost:3001'; // Local URL to crawl
 
 // Initialize the generator to crawl local URL
 const sitemap = generator(localUrl, {

@@ -150,19 +150,19 @@ Get authentic Rothco gear below MSRP, with bulk discounts and expert internation
   ],
   cta: {
     title: "Ready to Order Rothco Products?",
-    description: "Get access to our complete catalog of military, tactical, and outdoor gear. Wholesale pricing available for qualified buyers.",
+    description: "Contact us today to discuss your wholesale needs and international shipping requirements.",
     buttons: [
       {
         text: "Contact Sales",
         href: `mailto:${CONTACT.email}`,
-        variant: "primary",
-        isExternal: false
+        variant: "primary" as const,
+        isExternal: true
       },
       {
         text: "View Catalog",
-        href: "/catalog",
-        variant: "outline",
-        isExternal: false
+        href: "https://www.rothco.com/catalog",
+        variant: "secondary" as const,
+        isExternal: true
       }
     ]
   }
