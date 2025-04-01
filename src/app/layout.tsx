@@ -43,7 +43,6 @@ export default function RootLayout({
                 
                 {/* Desktop Navigation */}
                 <ul className="hidden md:flex space-x-8">
-                  <li><Link href="/#services" className="text-gray-600 font-medium hover:text-[#1B2845] transition-colors">Services</Link></li>
                   <li><Link href="/#suppliers" className="text-gray-600 font-medium hover:text-[#1B2845] transition-colors">Suppliers</Link></li>
                   <li><Link href="/#about" className="text-gray-600 font-medium hover:text-[#1B2845] transition-colors">About</Link></li>
                   <li><Link href="/#contact" className="text-gray-600 font-medium hover:text-[#1B2845] transition-colors">Contact</Link></li>
