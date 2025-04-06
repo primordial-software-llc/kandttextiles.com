@@ -23,6 +23,7 @@
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
     "eslint": "^9.23.0",
+    "eslint-config-next": "^15.2.2",
     "sharp": "^0.33.5",
     "sitemap-generator": "^8.5.1",
     "svg2png": "^4.1.1",
