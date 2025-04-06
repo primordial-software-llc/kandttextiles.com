@@ -44,8 +44,10 @@ export default function RootLayout({
                 {/* Desktop Navigation */}
                 <ul className="hidden md:flex space-x-8">
                   <li><Link href="/#suppliers" className="text-gray-600 font-medium hover:text-[#1B2845] transition-colors">Suppliers</Link></li>
+                  <li><Link href="/logistics" className="text-gray-600 font-medium hover:text-[#1B2845] transition-colors">Logistics</Link></li>
                   <li><Link href="/#about" className="text-gray-600 font-medium hover:text-[#1B2845] transition-colors">About</Link></li>
                   <li><Link href="/#contact" className="text-gray-600 font-medium hover:text-[#1B2845] transition-colors">Contact</Link></li>
+                  <li><Link href="/vendor/login" className="text-white font-medium bg-[#1B2845] px-4 py-2 rounded hover:bg-[#34495e] transition-colors">Vendor Portal</Link></li>
                 </ul>
 
                 {/* Mobile Menu Toggle */}
@@ -66,10 +68,16 @@ export default function RootLayout({
                     <Link href="/#suppliers" className="block w-full px-5 py-4 text-gray-600 font-medium hover:text-[#1B2845] hover:bg-gray-50 transition-colors">Suppliers</Link>
                   </li>
                   <li className="border-b">
+                    <Link href="/logistics" className="block w-full px-5 py-4 text-gray-600 font-medium hover:text-[#1B2845] hover:bg-gray-50 transition-colors">Logistics</Link>
+                  </li>
+                  <li className="border-b">
                     <Link href="/#about" className="block w-full px-5 py-4 text-gray-600 font-medium hover:text-[#1B2845] hover:bg-gray-50 transition-colors">About</Link>
                   </li>
-                  <li>
+                  <li className="border-b">
                     <Link href="/#contact" className="block w-full px-5 py-4 text-gray-600 font-medium hover:text-[#1B2845] hover:bg-gray-50 transition-colors">Contact</Link>
+                  </li>
+                  <li>
+                    <Link href="/vendor/login" className="block w-full px-5 py-4 bg-[#1B2845] text-white font-medium hover:bg-[#34495e] transition-colors">Vendor Portal</Link>
                   </li>
                 </ul>
               </div>
