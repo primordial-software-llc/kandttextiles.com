@@ -1,11 +1,11 @@
 "use client";
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { getTrackingDB } from '@/utils/tracking-db';
 import { TrackingDevice } from '@/types/vendor';
 
-export default function AddTrackingDevice() {
+function AddTrackingDeviceContent() {
   const [device, setDevice] = useState<Partial<TrackingDevice> | null>(null);
   const [code, setCode] = useState('');
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
@@ -201,5 +201,26 @@ export default function AddTrackingDevice() {
         </div>
       </div>
     </div>
+  );
+}
+
+export default function AddTrackingDevice() {
+  return (
+    <Suspense fallback={
+      <div className="min-h-screen bg-gray-50 flex flex-col justify-center py-12 sm:px-6 lg:px-8">
+        <div className="sm:mx-auto sm:w-full sm:max-w-md">
+          <h2 className="mt-6 text-center text-3xl font-bold tracking-tight text-[#1B2845]">
+            Loading...
+          </h2>
+        </div>
+        <div className="mt-8 sm:mx-auto sm:w-full sm:max-w-md">
+          <div className="bg-white py-8 px-4 shadow sm:rounded-lg sm:px-10 flex justify-center">
+            <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-[#1B2845]"></div>
+          </div>
+        </div>
+      </div>
+    }>
+      <AddTrackingDeviceContent />
+    </Suspense>
   );
 } 
