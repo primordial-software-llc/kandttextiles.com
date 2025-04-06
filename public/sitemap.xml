@@ -1,23 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kandttextiles.com/</loc>
-    <lastmod>2025-04-01</lastmod>
+    <loc>https://www.kandttextiles.com/</loc>
+    <lastmod>2025-04-06</lastmod>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://kandttextiles.com/suppliers/rothco</loc>
-    <lastmod>2025-04-01</lastmod>
+    <loc>https://www.kandttextiles.com/logistics</loc>
+    <lastmod>2025-04-06</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kandttextiles.com/logistics/tracki-pro</loc>
-    <lastmod>2025-04-01</lastmod>
+    <loc>https://www.kandttextiles.com/vendor/login</loc>
+    <lastmod>2025-04-06</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kandttextiles.com/suppliers/harken</loc>
-    <lastmod>2025-04-01</lastmod>
+    <loc>https://www.kandttextiles.com/suppliers/rothco</loc>
+    <lastmod>2025-04-06</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.kandttextiles.com/logistics/tracki-pro</loc>
+    <lastmod>2025-04-06</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.kandttextiles.com/suppliers/harken</loc>
+    <lastmod>2025-04-06</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>

@@ -105,12 +105,6 @@ The 3/4 finger design, particularly popular among professionals, offers the perf
         href: `mailto:${CONTACT.email}`,
         variant: "primary",
         isExternal: false
-      },
-      {
-        text: "View Catalog",
-        href: "/catalog",
-        variant: "outline",
-        isExternal: false
       }
     ]
   }
