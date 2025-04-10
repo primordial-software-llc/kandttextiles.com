@@ -509,7 +509,7 @@ export default function Home() {
               <div className="absolute inset-0 bg-white/40 backdrop-blur-sm rounded-2xl transform -rotate-1"></div>
               <div className="relative rounded-xl overflow-hidden shadow-2xl border border-gray-200">
                 <Image
-                  src="/images/vendor-portal-device-detail.png"
+                  src="/images/vendor-portal-device-detail.jpg"
                   alt="K&T Textiles Vendor Portal Device Detail"
                   width={800}
                   height={600}
@@ -529,9 +529,9 @@ export default function Home() {
               <div className="inline-block bg-blue-50 text-[#1B2845] px-4 py-2 rounded-full text-sm mb-4 border border-blue-100">
                 Advanced Device Management
               </div>
-              <h2 className="text-4xl font-bold text-[#1B2845] mb-6">Detailed Tracking Insights</h2>
+              <h2 className="text-4xl font-bold text-[#1B2845] mb-6">Peace of Mind Through Visibility</h2>
               <p className="text-gray-600 mb-6">
-                Get comprehensive information about each tracking device in your fleet. Our detailed view provides you with all the vital information needed to monitor your shipments effectively.
+                Our logistics tracking software creates a clear, detailed story of your cargo's path with precise timestamps and locations — giving you the confidence that comes with complete visibility.
               </p>
               <div className="space-y-4 mb-8">
                 <div className="flex items-start gap-3">
@@ -541,8 +541,8 @@ export default function Home() {
                     </svg>
                   </div>
                   <div>
-                    <h3 className="font-medium text-[#1B2845]">Device Status Monitoring</h3>
-                    <p className="text-gray-600">Track active, inactive, and maintenance status of all your devices</p>
+                    <h3 className="font-medium text-[#1B2845]">The Complete Picture</h3>
+                    <p className="text-gray-600">See the full story of your shipment with detailed, time-stamped location tracking</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
@@ -552,8 +552,8 @@ export default function Home() {
                     </svg>
                   </div>
                   <div>
-                    <h3 className="font-medium text-[#1B2845]">Live Data Visualization</h3>
-                    <p className="text-gray-600">View real-time tracking data in customizable visual formats</p>
+                    <h3 className="font-medium text-[#1B2845]">Spot the Unexpected</h3>
+                    <p className="text-gray-600">Quickly identify when shipments appear in unexpected locations or take unusual routes</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
@@ -563,8 +563,19 @@ export default function Home() {
                     </svg>
                   </div>
                   <div>
-                    <h3 className="font-medium text-[#1B2845]">Device Management</h3>
-                    <p className="text-gray-600">Add, remove, and configure tracking devices with just a few clicks</p>
+                    <h3 className="font-medium text-[#1B2845]">Your Digital Paper Trail</h3>
+                    <p className="text-gray-600">Access historical records from a trusted 3rd party that complement your documentation and strengthen your records</p>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <div className="mt-1 bg-green-100 p-1 rounded-full">
+                    <svg className="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                  </div>
+                  <div>
+                    <h3 className="font-medium text-[#1B2845]">Shareable Insights</h3>
+                    <p className="text-gray-600">Create beautiful reports that tell the true story of your shipment's journey when you need them</p>
                   </div>
                 </div>
               </div>

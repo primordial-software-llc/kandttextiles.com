@@ -11,6 +11,9 @@
     "generate-sitemap": "node scripts/generate-sitemap.js"
   },
   "dependencies": {
+    "@neondatabase/serverless": "^1.0.0",
+    "@nwpr/airport-codes": "^3.0.3",
+    "@vercel/postgres": "^0.10.0",
     "autoprefixer": "^10.4.0",
     "next": "^15.2.2",
     "postcss": "^8.4.0",

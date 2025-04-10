@@ -5,32 +5,85 @@ import { useRouter, useParams } from 'next/navigation';
 import { getTrackingDB } from '../../../../utils/tracking-db';
 import { TrackingDevice } from '../../../../types/vendor';
 import Image from 'next/image';
+import { TrackingPoint } from '@/db';
+import { getLocationString } from '@/utils/airport-city';
 
 export default function DeviceDetail() {
   // Use the useParams hook instead of the params prop
   const params = useParams();
-  // Safely access id from params
-  const deviceId = params?.id as string;
+  // Safely access id from params - this is already the base64 encoded device data
+  const paramsDeviceId = params?.id as string;
   
   const [device, setDevice] = useState<TrackingDevice | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
+  const [trackingData, setTrackingData] = useState<TrackingPoint[]>([]);
+  const [trackingLoading, setTrackingLoading] = useState(false);
+  const [trackingError, setTrackingError] = useState('');
+  const [selectedFilter, setSelectedFilter] = useState<string>('gps'); // Default filter to GPS
   const router = useRouter();
-
+  
   useEffect(() => {
     const loadDevice = async () => {
-      if (!deviceId) {
-        setError('No device ID provided');
-        setLoading(false);
+      if (!paramsDeviceId) {
         return;
       }
       
       try {
+        setTrackingLoading(true);
+        setTrackingError('');    
+        setLoading(true);
         const db = getTrackingDB();
         await db.init();
-        const foundDevice = await db.getDevice(deviceId);
+        const foundDevice = await db.getDevice(paramsDeviceId);
+        console.log('Device from IndexedDB:', foundDevice);
         
         if (foundDevice) {
+          // Create minimal device object with just id and content
+          const minimalDevice = {
+            id: foundDevice.id,
+            content: foundDevice.content
+          };
+          
+          // Encode the minimal device object to base64 with pretty printing (spaces)
+          const jsonData = JSON.stringify(minimalDevice, null, 2)
+            .replace(/\n/g, ' ')
+            .replace(/\s+/g, ' ');
+
+          // Standard base64 encoding
+          let base64Data = btoa(jsonData);
+          
+          // Don't make any URL-safe replacements to preserve the exact same encoding
+          // The add page already handles decoding correctly
+          
+          console.log('Encoded minimal device data:', base64Data);
+          
+          // Send the encoded data to the tracking API
+          try {
+            const response = await fetch(`/api/tracking/data`, {
+              method: 'POST',
+              headers: {
+                'Content-Type': 'application/json',
+              },
+              body: JSON.stringify({
+                encodedData: base64Data
+              }),
+            });
+            
+            if (!response.ok) {
+              const errorData = await response.json();
+              console.error('Tracking API error:', errorData);
+            } else {
+              console.log('Successfully sent to tracking API');
+              const data = await response.json();
+              console.log('Tracking data received:', data);
+              // Extract tracking array from the wrapped response
+              setTrackingData(Array.isArray(data.tracking) ? data.tracking : []);
+            }
+          } catch (apiError) {
+            console.error('Error sending to tracking API:', apiError);
+          }
+          
           setDevice(foundDevice);
         } else {
           setError('Device not found');
@@ -38,13 +91,19 @@ export default function DeviceDetail() {
       } catch (error) {
         console.error('Error loading device:', error);
         setError('Failed to load device');
+        console.error('Error fetching tracking data:', error);
+        setTrackingError(error instanceof Error ? error.message : 'Failed to fetch tracking data');  
+        // Reset tracking data to empty array on error
+        setTrackingData([]);
       } finally {
         setLoading(false);
+        setTrackingLoading(false);
       }
     };
 
     loadDevice();
-  }, [deviceId]);
+  }, [paramsDeviceId]);
+
 
   const handleBack = () => {
     router.back();
@@ -129,17 +188,17 @@ export default function DeviceDetail() {
     switch (device.contentType) {
       case 'iframe':
         return (
-          <div className="w-full h-[500px] overflow-hidden" dangerouslySetInnerHTML={{ __html: device.content }} />
+          <div className="w-full h-full overflow-hidden" dangerouslySetInnerHTML={{ __html: device.content }} />
         );
       case 'link':
         // Instead of linking out, display the URL in an iframe
         return (
-          <div className="w-full h-[700px] flex flex-col overflow-hidden">
+          <div className="w-full h-full flex flex-col overflow-hidden">
             <div className="w-full h-full overflow-hidden">
               <iframe
                 src={device.content}
                 title={deviceTitle}
-                className="w-full h-[calc(100%+60px)] border-0 -mt-[60px]" /* 60px is the estimated height to trim from the top */
+                className="w-full h-full border-0" 
                 sandbox="allow-scripts allow-same-origin allow-forms allow-popups"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
@@ -197,48 +256,41 @@ export default function DeviceDetail() {
   };
 
   return (
-    <div>
-      <div className="flex justify-between items-center mb-6">
-        <button
-          onClick={handleBack}
-          className="inline-flex items-center px-3 py-2 border border-gray-300 shadow-sm text-sm leading-4 font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
-        >
-          <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 19l-7-7m0 0l7-7m-7 7h18" />
-          </svg>
-          Back
-        </button>
+    <div className="max-w-[100vw] px-4 overflow-x-hidden">
+      {/* Title Header with Device Info and Navigation Buttons */}
+      <div className="bg-white shadow-md rounded-lg overflow-hidden mb-6">
+        <div className="p-6 pb-4">
+          <div className="flex items-center mb-4">
+            <button
+              onClick={handleBack}
+              className="mr-auto inline-flex items-center px-3 py-2 border border-gray-300 shadow-sm text-sm leading-4 font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 19l-7-7m0 0l7-7m-7 7h18" />
+              </svg>
+              Back
+            </button>
+            
+            <h1 className="text-2xl font-bold text-[#1B2845] text-center mx-4">{deviceTitle}</h1>
+            
+            <button
+              onClick={handleDelete}
+              className="ml-auto inline-flex items-center px-3 py-2 border border-red-300 shadow-sm text-sm leading-4 font-medium rounded-md text-red-700 bg-white hover:bg-red-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
+              </svg>
+              Remove
+            </button>
+          </div>
+        </div>
         
-        <button
-          onClick={handleDelete}
-          className="inline-flex items-center px-3 py-2 border border-red-300 shadow-sm text-sm leading-4 font-medium rounded-md text-red-700 bg-white hover:bg-red-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500"
-        >
-          <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
-          </svg>
-          Remove
-        </button>
-      </div>
-
-      {/* Desktop: side-by-side layout, Mobile: stacked layout */}
-      <div className="flex flex-col lg:flex-row gap-6">
-        {/* Device Info Panel */}
-        <div className="bg-white shadow-md rounded-lg overflow-hidden lg:w-1/3">
-          <div className="p-6">
-            <div className="flex flex-wrap justify-between items-start mb-4">
-              <h1 className="text-2xl font-bold text-[#1B2845] mb-2 sm:mb-0 flex-1">{deviceTitle}</h1>
-              {device.status && (
-                <span className={`inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium ${getStatusColor(device.status)}`}>
-                  {device.status.charAt(0).toUpperCase() + device.status.slice(1)}
-                </span>
-              )}
-            </div>
-            
-            {device.description && (
-              <p className="text-gray-600 mb-6">{device.description}</p>
-            )}
-            
-            <div className="grid grid-cols-1 gap-4 mb-6">
+        <div className="border-t border-gray-200">
+          <div className="px-6 py-4">
+            <h2 className="text-lg font-medium text-[#1B2845]">Tracking for {deviceTitle}</h2>
+          </div>
+          <div className="px-6 pb-6">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
               <div>
                 <h3 className="text-sm font-medium text-gray-500">Device ID</h3>
                 <p className="mt-1 text-sm text-gray-900">{device.id}</p>
@@ -248,6 +300,17 @@ export default function DeviceDetail() {
                 <div>
                   <h3 className="text-sm font-medium text-gray-500">Device Type</h3>
                   <p className="mt-1 text-sm text-gray-900">{device.type}</p>
+                </div>
+              )}
+              
+              {device.status && (
+                <div>
+                  <h3 className="text-sm font-medium text-gray-500">Status</h3>
+                  <p className="mt-1 text-sm">
+                    <span className={`inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium ${getStatusColor(device.status)}`}>
+                      {device.status.charAt(0).toUpperCase() + device.status.slice(1)}
+                    </span>
+                  </p>
                 </div>
               )}
               
@@ -267,31 +330,154 @@ export default function DeviceDetail() {
             </div>
           </div>
         </div>
+      </div>
 
-        {/* Tracking Visualization Panel */}
-        <div className="bg-white shadow-md rounded-lg overflow-hidden lg:w-2/3">
-          <div className="border-b border-gray-200 px-6 py-4">
-            <h2 className="text-lg font-medium text-[#1B2845]">Tracking Visualization</h2>
-          </div>
-          
-          <div className="p-6">
-            {/* The tracking content wrapper with K&T Textiles branding */}
-            <div className="border border-gray-200 rounded-lg">
-              <div className="bg-[#1B2845] text-white px-4 py-3 flex items-center">
-                <div className="font-bold">K&T Textiles Tracking</div>
-                <div className="ml-auto text-sm text-gray-300">Live Data</div>
-              </div>
-              
-              <div className="bg-white p-2">
-                {renderContent()}
-              </div>
+      {/* Two column layout for Map and History */}
+      <div className="flex flex-col lg:flex-row gap-6 mb-6">
+        {/* Tracking history side - moved to top */}
+        <div className="lg:w-1/2 w-full">
+          <div className="bg-white shadow-md rounded-lg overflow-hidden h-full flex flex-col">
+            <div className="border-b border-gray-200 px-6 py-4 flex items-center justify-between">
+              <h2 className="text-lg font-medium text-[#1B2845]">Tracking History</h2>
+              <span className={`px-2 py-1 text-xs font-medium rounded-full ${
+                selectedFilter === 'gps' ? 'bg-green-100 text-green-800' : 
+                selectedFilter === 'wifi' ? 'bg-blue-100 text-blue-800' :
+                'bg-gray-100 text-gray-800'
+              }`}>
+                {selectedFilter === 'all' ? 'All Types' : `${selectedFilter.toUpperCase()}`}
+              </span>
             </div>
             
-            <div className="mt-4 text-sm text-gray-500">
-              <p>This tracking visualization is for authorized vendors only. Do not share this view publicly.</p>
+            <div className="flex-1 overflow-auto">
+              {/* Filter controls */}
+              <div className="px-3 py-2 bg-gray-50 border-b border-gray-200 flex items-center flex-wrap gap-2">
+                <span className="text-xs font-medium text-gray-700 mr-1">Filter:</span>
+                <div className="flex flex-wrap gap-1">
+                  <button
+                    onClick={() => setSelectedFilter('all')}
+                    className={`px-2 py-0.5 text-xs font-medium rounded-full ${
+                      selectedFilter === 'all' 
+                        ? 'bg-[#1B2845] text-white' 
+                        : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
+                    }`}
+                  >
+                    All
+                  </button>
+                  {Array.from(new Set(trackingData.map(point => point.type))).map(type => (
+                    <button
+                      key={type}
+                      onClick={() => setSelectedFilter(type)}
+                      className={`px-2 py-0.5 text-xs font-medium rounded-full ${
+                        selectedFilter === type
+                          ? type === 'gps' 
+                            ? 'bg-green-600 text-white' 
+                            : type === 'wifi'
+                              ? 'bg-blue-600 text-white'
+                              : 'bg-[#1B2845] text-white'
+                          : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
+                      }`}
+                    >
+                      {type.toUpperCase()}
+                    </button>
+                  ))}
+                </div>
+                <div className="ml-auto text-xs text-gray-500">
+                  {trackingData.filter(point => selectedFilter === 'all' ? true : point.type === selectedFilter).length} of {trackingData.length}
+                </div>
+              </div>
+              
+              {/* Tracking data table */}
+              <div className="overflow-y-auto max-h-[465px]">
+                {trackingLoading ? (
+                  <div className="flex justify-center items-center h-32">
+                    <div className="animate-spin rounded-full h-8 w-8 border-t-2 border-b-2 border-[#1B2845]"></div>
+                  </div>
+                ) : trackingError ? (
+                  <div className="text-center p-4">
+                    <p className="text-red-600 text-sm">Error loading data</p>
+                  </div>
+                ) : trackingData.length === 0 ? (
+                  <div className="text-center p-4 text-sm text-gray-600">
+                    <p>No tracking data available</p>
+                  </div>
+                ) : (
+                  <table className="min-w-full divide-y divide-gray-200">
+                    <thead className="bg-gray-50">
+                      <tr>
+                        <th scope="col" className="px-3 py-2 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                          Date/Time
+                        </th>
+                        <th scope="col" className="px-3 py-2 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                          Location
+                        </th>
+                        <th scope="col" className="px-3 py-2 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                          Details
+                        </th>
+                      </tr>
+                    </thead>
+                    <tbody className="bg-white divide-y divide-gray-200">
+                      {trackingData
+                        .filter(point => selectedFilter === 'all' ? true : point.type === selectedFilter)
+                        .slice(0, 20) // Limit to first 20 records for performance
+                        .map((point) => (
+                          <tr key={point.id} className="hover:bg-gray-50">
+                            <td className="px-3 py-2 text-xs text-gray-900">
+                              <div>{point.formatted_date || new Date(point.date_recorded).toLocaleDateString()}</div>
+                              <div className="text-gray-500">{point.formatted_time || point.time_recorded}</div>
+                            </td>
+                            <td className="px-3 py-2 text-xs text-gray-900 truncate max-w-[120px]">
+                              {getLocationString(point.latitude, point.longitude)}
+                            </td>
+                            <td className="px-3 py-2 text-xs text-gray-900">
+                              <div className="flex flex-col gap-1">
+                                <span className={`px-1.5 inline-flex text-xs leading-4 font-semibold rounded-full ${
+                                  point.type === 'gps' ? 'bg-green-100 text-green-800' : 
+                                  point.type === 'wifi' ? 'bg-blue-100 text-blue-800' : 
+                                  'bg-gray-100 text-gray-800'
+                                }`}>
+                                  {point.type}
+                                </span>
+                                <div className="flex items-center">
+                                  <span className="text-xs">{point.speed} MPH</span>
+                                  <span className="mx-1">|</span>
+                                  <span className="text-xs">{point.battery_level}%</span>
+                                </div>
+                                <a 
+                                  href={point.google_maps_link || `http://maps.google.com/maps?q=${point.latitude},${point.longitude}`}
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  className="text-blue-600 hover:text-blue-900 text-xs"
+                                >
+                                  View on map
+                                </a>
+                              </div>
+                            </td>
+                          </tr>
+                        ))}
+                    </tbody>
+                  </table>
+                )}
+              </div>
             </div>
           </div>
         </div>
+
+        {/* Map/Visualization side - moved to bottom */}
+        <div className="lg:w-1/2 w-full">
+          <div className="bg-white shadow-md rounded-lg overflow-hidden h-full">
+            <div className="border-b border-gray-200 px-6 py-4">
+              <h2 className="text-lg font-medium text-[#1B2845]">Tracking Map</h2>
+            </div>
+            <div className="p-2 h-[500px] overflow-hidden">
+              {renderContent()}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* Footer disclaimer */}
+      <div className="bg-gray-50 rounded-lg px-6 py-3 text-xs text-gray-500 mb-6">
+        <p>This tracking visualization is for authorized vendors only. Do not share this view publicly.</p>
       </div>
     </div>
   );
