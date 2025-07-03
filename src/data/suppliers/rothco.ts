@@ -148,6 +148,171 @@ Get authentic Rothco gear below MSRP, with bulk discounts and expert internation
         price: 16.90
       }
   ],
+  featuredProductGroups: [
+    {
+      name: "IPX7 Military Waterproof Bags",
+      products: [
+        {
+          name: "Rothco Waveguard Waterproof Crossbody Bag",
+          image: "/rothco/12440-waterproof-bag/12441-A2.jpg",
+          description: "Engineered with heavy-duty three-layer waterproof vinyl tarpaulin shell and waterproof zipper. Fully submersible and meets IPX7 waterproof standards, ideal for water sports and outdoor adventures.",
+          features: [
+            "IPX7 Waterproof Standards",
+            "2.2L Capacity (8.75\" x 5.5\" x 3\")",
+            "Tension-Locked Waterproof Zipper",
+            "MOLLE Loops for Accessory Attachment",
+            "Adjustable Shoulder/Waist Strap",
+            "Available in 3 Colors"
+          ],
+          itemNumber: "12440",
+          price: 38.99
+        },
+        {
+          name: "Rothco Waveguard Waterproof Backpack",
+          image: "/rothco/12422-waterproof-bag/12422-A.jpg",
+          description: "Engineered with heavy-duty three-layer waterproof vinyl tarpaulin shell, waterproof zippers, and tension pull tabs. Fully submersible and meets IPX7 waterproof standards, perfect for water sports and outdoor adventures.",
+          features: [
+            "IPX7 Waterproof Standards",
+            "15.6L Capacity (16.5\" x 11\" x 5.25\")",
+            "Tension-Locked Waterproof Zippers",
+            "MOLLE Loops for Gear Attachment",
+            "Adjustable Padded Shoulder & Sternum Straps",
+            "Molded Top Handle",
+            "Main Compartment + Front Pouch",
+            "Side Mesh Bottle Pouch",
+            "Available in 3 Colors"
+          ],
+          itemNumber: "12422",
+          price: 98.99
+        },
+        {
+          name: "Rothco Waveguard Waterproof Duffle Bag",
+          image: "/rothco/12431-waterproof-bag/12431-A.jpg",
+          description: "Engineered with heavy-duty three-layer waterproof vinyl tarpaulin shell and waterproof zipper. Fully submersible and meets IPX7 waterproof standards, ideal for water sports and outdoor adventures.",
+          features: [
+            "IPX7 Waterproof Standards",
+            "20L Capacity (19\" x 9\")",
+            "Tension-Locked Waterproof Zipper",
+            "MOLLE Loops for Gear Attachment",
+            "Removable Adjustable Shoulder Strap",
+            "Dual Web Carry Handles with Handle Wrap",
+            "Inner Mesh Accessory Pouch",
+            "Available in 3 Colors"
+          ],
+          itemNumber: "12431",
+          price: 76.99
+        }
+      ]
+    },
+    {
+      name: "Steel & Composite Toe + Shank Boots",
+      products: [
+        {
+          name: "Rothco Forced Entry Composite Toe Tactical Boots - 6 Inch",
+          image: "/rothco/5584-boots/5584-A1.jpg",
+          description: "Non-metallic composite toe boot and shank for maximum safety. Denier nylon and leather upper ensures longevity with slip-resistant rubber cup sole for traction on any surface.",
+          features: [
+            "Non-Metallic Composite Toe & Shank",
+            "Denier Nylon & Leather Upper",
+            "Slip-Resistant Rubber Cup Sole",
+            "Suede Collar Design",
+            "Plastic Hardware",
+            "1.5 Inch Heel",
+            "6 Inch Height"
+          ],
+          itemNumber: "5584",
+          price: 79.99
+        },
+        {
+          name: "Rothco Forced Entry Tactical Waterproof Boot - 6 Inch",
+          image: "/rothco/5005-boots/5005-A-amazon.jpg",
+          description: "Features 100% waterproof membrane ensuring protection from rain, mud, and other elements. Built-in steel shank offers excellent support and stability, reducing fatigue during extended wear.",
+          features: [
+            "100% Waterproof Membrane",
+            "Built-in Steel Shank Support",
+            "Slip-Resistant Cup Sole",
+            "Gusseted Tongue Design",
+            "Rust-Proof Hardware",
+            "6 Inch Height",
+            "Debris Defense System"
+          ],
+          itemNumber: "5005",
+          price: 79.99
+        },
+        {
+          name: "Rothco Forced Entry Deployment Boot With Side Zipper - 8 Inch",
+          image: "/rothco/5358-boots/5358-C-amazon.jpg",
+          description: "Running shoe comfort combined with active-duty boot durability. Quick-access side zipper lets you gear up in seconds without tying laces. Features denier nylon, suede leather, and breathable mesh to keep feet cool and dry with EVA midsole and steel shank for added support.",
+          features: [
+            "Running Shoe Comfort",
+            "Steel Shank Support",
+            "8 Inch Height",
+            "Side Zipper with Hook-and-Loop Tab",
+            "Mountaineer Rubber Outsole",
+            "Rustproof Eyelet Lace System",
+            "Breathable Mesh Construction",
+            "Padded Collar",
+            "Available in Regular & Wide Widths"
+          ],
+          itemNumber: "5358",
+          price: 103.99
+        }
+      ]
+    },
+    {
+      name: "Concealed Carry Knives",
+      products: [
+        {
+          name: "Rothco Black Raider II Boot Knife",
+          image: "/rothco/3139-knife/3139.jpg",
+          description: "Features a 3-inch matte black stainless steel blade designed in classic dagger style for precision and effectiveness. Comes with sturdy leather sheath that has clip and snap closure for secure storage and easy accessibility.",
+          features: [
+            "3-Inch Matte Black Stainless Steel Blade",
+            "Classic Dagger Style Design",
+            "Leather Sheath with Clip & Snap Closure",
+            "Versatile Attachment Options",
+            "6½ Inch Total Length",
+            "Compact & Portable Design",
+            "Corrosion Resistant Finish"
+          ],
+          itemNumber: "3139",
+          price: 21.99
+        },
+        {
+          name: "Ka-bar Dozier Folding Hunter Knife",
+          image: "/rothco/3290-knife/3290-hr1.jpg",
+          description: "Features a 3-inch blade ideal for precise cutting and easy handling. Made with AUS 8A stainless steel for excellent edge retention and corrosion resistance with reliable liner lock for safe and secure use.",
+          features: [
+            "3-Inch AUS 8A Stainless Steel Blade",
+            "Reliable Liner Lock Mechanism",
+            "Lightweight Non-Slip Grip Handle",
+            "Sturdy Belt Clip Included",
+            "Excellent Edge Retention",
+            "Corrosion Resistant",
+            "Compact Design for Easy Carry"
+          ],
+          itemNumber: "3290",
+          price: 49.99
+        },
+        {
+          name: "Rothco Neck Knife With Sheath",
+          image: "/rothco/3671-knife/3671-hr1.jpg",
+          description: "Ultra-compact neck knife designed for discrete carry and emergency use. Perfect for survival situations, outdoor activities, and as a backup blade for tactical applications.",
+          features: [
+            "Compact Fixed Blade Design",
+            "Lightweight Construction",
+            "Includes Secure Sheath",
+            "Discrete Carry Profile",
+            "Emergency Ready",
+            "Durable Build Quality",
+            "Easy Concealment"
+          ],
+          itemNumber: "3671",
+          price: 25.99
+        }
+      ]
+    }
+  ],
   cta: {
     title: "Ready to Order Rothco Products?",
     description: "Contact us today to discuss your wholesale needs and international shipping requirements.",

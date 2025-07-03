@@ -314,6 +314,18 @@ export default function LogisticsPage() {
                     </svg>
                     <span className="text-gray-600">Multi-network tracking (GPS, WiFi, Cellular)</span>
                   </div>
+                  <div className="flex items-center gap-2">
+                    <svg className="w-5 h-5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    <span className="text-gray-600">Adjustable update intervals (1min - 24hrs)</span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <svg className="w-5 h-5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    <span className="text-gray-600">Movement detection & hibernation mode</span>
+                  </div>
                 </div>
                 <div className="mt-6 pt-6 border-t border-gray-200">
                   <div className="flex items-center justify-between">
@@ -330,14 +342,40 @@ export default function LogisticsPage() {
               </div>
             </div>
 
-            {/* Coming Soon Card */}
+            {/* Logistics Overview Card */}
             <div className="group relative">
               <div className="absolute inset-0 bg-gradient-to-br from-[#1B2845]/5 to-transparent rounded-2xl transform transition-transform duration-300 group-hover:scale-[1.02]"></div>
-              <div className="relative p-8 rounded-2xl border border-[#1B2845]/10 bg-white/50 backdrop-blur-sm h-full flex items-center justify-center">
-                <div className="text-center">
-                  <div className="text-4xl mb-4">🚀</div>
-                  <h3 className="text-xl font-bold text-[#1B2845] mb-2">More Solutions Coming Soon</h3>
-                  <p className="text-gray-600">Stay tuned for additional tracking solutions</p>
+              <div className="relative p-8 rounded-2xl border border-[#1B2845]/10 bg-white/50 backdrop-blur-sm h-full flex flex-col">
+                <div className="flex-grow">
+                  <h3 className="text-2xl font-bold text-[#1B2845] mb-4">Logistics Overview</h3>
+                  <p className="text-gray-600 mb-6">
+                    Discover how modern tracking technology is revolutionizing cargo security and supply chain visibility.
+                  </p>
+                  <div className="space-y-4">
+                    <div className="flex items-center gap-2">
+                      <svg className="w-5 h-5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                      </svg>
+                      <span className="text-gray-600">Comprehensive tracking solutions</span>
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <svg className="w-5 h-5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                      </svg>
+                      <span className="text-gray-600">Best practices & security protocols</span>
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <svg className="w-5 h-5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                      </svg>
+                      <span className="text-gray-600">Educational resources & insights</span>
+                    </div>
+                  </div>
+                </div>
+                <div className="mt-6 pt-6 border-t border-gray-200">
+                  <div className="text-center">
+                    <p className="text-gray-600">Continue reading below for in-depth logistics insights and technology details</p>
+                  </div>
                 </div>
               </div>
             </div>

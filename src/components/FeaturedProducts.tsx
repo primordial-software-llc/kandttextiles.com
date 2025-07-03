@@ -23,7 +23,7 @@ export function FeaturedProducts({ title, products, sectionId }: FeaturedProduct
       <div className="max-w-7xl mx-auto px-5 py-12">
         <div id={sectionId}>
           <h3 className="text-2xl font-bold text-[#1a237e] mb-8">
-            Featured {title} Products
+            {title}
           </h3>
           <div className="grid md:grid-cols-3 gap-8">
             {products.map((product, index) => (

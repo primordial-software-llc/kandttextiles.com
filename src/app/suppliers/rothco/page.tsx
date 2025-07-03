@@ -47,14 +47,26 @@ export default function Suppliers() {
     <>
       <BaseStructuredData />
       <ProductStructuredData 
-        products={rothcoData.featuredProducts.map(product => ({
-          name: product.name,
-          description: product.description,
-          image: product.image,
-          brandName: "Rothco",
-          sellerName: "K&T Textiles",
-          price: product.price
-        }))}
+        products={[
+          ...rothcoData.featuredProducts.map(product => ({
+            name: product.name,
+            description: product.description,
+            image: product.image,
+            brandName: "Rothco",
+            sellerName: "K&T Textiles",
+            price: product.price
+          })),
+          ...rothcoData.featuredProductGroups.flatMap(group => 
+            group.products.map(product => ({
+              name: product.name,
+              description: product.description,
+              image: product.image,
+              brandName: "Rothco",
+              sellerName: "K&T Textiles",
+              price: product.price
+            }))
+          )
+        ]}
       />
 
       <BrandHero
@@ -127,9 +139,18 @@ export default function Suppliers() {
           </div>
         </section>
 
+        {/* Featured Product Groups */}
+        {rothcoData.featuredProductGroups.map((group, index) => (
+          <FeaturedProducts
+            key={index}
+            title={group.name}
+            products={group.products}
+            sectionId={`${urlSafeName(group.name)}-products`}
+          />
+        ))}
+
         <FeaturedProducts
-          title={rothcoData.spotlight.title}
-          products={rothcoData.featuredProducts}
+          title={`${rothcoData.spotlight.title} Featured Products`}          products={rothcoData.featuredProducts}
           sectionId={`${urlSafeName(rothcoData.spotlight.title)}-products`}
         />
 
