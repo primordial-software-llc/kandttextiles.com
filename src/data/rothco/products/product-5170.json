@@ -1,0 +1,95 @@
+{
+  "item_index": "5170",
+  "item_name": "Rothco Waveguard Waterproof Crossbody Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "https://youtu.be/3cZD95_oV70?si=x1jTqrXEOSd9jAoj",
+  "rating": "5.0000",
+  "item_short_desc": "<p>Gear up with the Waveguard Waterproof Crossbody Bag. Engineered with a heavy-duty three-layer waterproof vinyl tarpaulin shell and waterproof zipper, the watertight waist pack ensures your essentials remain secure, organized, and dry. As part of Rothco&rsquo;s Waveguard collection, this waterproof bag is fully submersible and meets IPX7 waterproof standards, ideal for water sport enthusiasts, outdoor adventurers, and avid travelers.</p>",
+  "no_ratings": null,
+  "sort_order": null,
+  "description": "<p>Gear up&nbsp;with the Waveguard Waterproof Crossbody Bag. Engineered with a heavy-duty three-layer waterproof vinyl tarpaulin shell and waterproof zipper, the watertight waist pack ensures your essentials remain secure, organized, and dry. As part of Rothco&rsquo;s Waveguard collection, this waterproof bag is fully submersible and meets IPX7 waterproof standards, ideal for water sport enthusiasts, outdoor adventurers, and avid travelers. Tension-Locked Waterproof Zipper: For optimal performance and protection, our Waveguard bags feature waterproof zippers that are designed with a secure zipper seal that increases tension. To ensure a full closure, always zip the waterproof dry bag completely to maintain waterproof performance. Compact &amp; Lightweight: Built with practicality and comfort, the day bag keeps your possessions close to you, right where you need them. Compact and designed to fit comfortably between your shoulder blades, this crossbody organizer bag has a 2.2L capacity that is ideal for travel and measures 8.75 inch x 5.5 inch x 3 inch. Utility at the Forefront: These waterproof waist packs come equipped with an adjustable shoulder / waist strap for a comfortable carry while exploring the great outdoors. These compact travel bags feature MOLLE loops on the front for accessory attachment. Adventure Ready: Whether you&rsquo;re on a rafting trip or spending a day out on the beach, our Waveguard waterproof bags allow you to keep your everyday carry essentials protected and are perfect for kayaking, canoeing, boating, camping, and hiking.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "757",
+    "2",
+    "650"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "30781",
+      "item_index": "5170",
+      "rothco_item_no": "12440",
+      "upc": "613902054820",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.5000",
+      "image_filename": "12441-A2.jpg",
+      "catalog_page_no": null,
+      "msrp": 38.99,
+      "ship_length": "9.0000",
+      "ship_width": "6.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 17.5,
+      "case_price": 17.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30786",
+      "item_index": "5170",
+      "rothco_item_no": "12441",
+      "upc": "613902054882",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.5000",
+      "image_filename": "12441-A.jpg",
+      "catalog_page_no": null,
+      "msrp": 38.99,
+      "ship_length": "9.0000",
+      "ship_width": "6.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 17.5,
+      "case_price": 17.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30787",
+      "item_index": "5170",
+      "rothco_item_no": "12442",
+      "upc": "613902054899",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.5000",
+      "image_filename": "12441-A1.jpg",
+      "catalog_page_no": null,
+      "msrp": 38.99,
+      "ship_length": "9.0000",
+      "ship_width": "6.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Desert Sand"
+      },
+      "color": "Desert Sand",
+      "price": 17.5,
+      "case_price": 17.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

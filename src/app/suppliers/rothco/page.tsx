@@ -9,6 +9,8 @@ import { FeaturedProducts } from '@/components/FeaturedProducts';
 import { CONTACT } from '@/constants/contact';
 import { Footer } from '@/components/Footer';
 import { CTA } from '@/components/CTA';
+import { AnimatedButtonAccent } from '@/components/AnimatedButtonAccent';
+import { AnimatedButtonOutline } from '@/components/AnimatedButtonOutline';
 
 export const metadata = {
   title: "Rothco Military & Tactical Gear | Authorized International Dealer",
@@ -158,11 +160,24 @@ export default function Suppliers() {
         <CTA 
           title={rothcoData.cta.title}
           description={rothcoData.cta.description}
-          buttons={rothcoData.cta.buttons}
+          buttons={[
+            <AnimatedButtonAccent 
+              href={`mailto:${CONTACT.email}`}
+              isExternal={true}
+              textSize="text-xl"
+            >
+              <span className="font-bold">Contact Sales</span>
+            </AnimatedButtonAccent>,
+            <AnimatedButtonOutline 
+              href="https://www.rothco.com/catalog"
+              isExternal={true}
+              textSize="text-xl"
+            >
+              <span className="font-bold">View Catalog</span>
+            </AnimatedButtonOutline>
+          ]}
         />
       </main>
-
-      <Footer variant="dark" />
     </>
   );
 } 

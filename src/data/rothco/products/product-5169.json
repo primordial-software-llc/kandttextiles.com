@@ -1,0 +1,95 @@
+{
+  "item_index": "5169",
+  "item_name": "Rothco Waveguard Waterproof Duffle Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://youtu.be/3cZD95_oV70?si=2emr0KyzNnij2xyP",
+  "rating": "5.0000",
+  "item_short_desc": "<p>Gear up with the Waveguard Waterproof Duffle Bag. Engineered with a heavy-duty three-layer waterproof vinyl tarpaulin shell and waterproof zipper, the watertight duffle bag ensures your gear and essentials remain secure, organized, and dry. As part of Rothco&rsquo;s Waveguard collection, this waterproof bag is fully submersible and meets IPX7 waterproof standards, ideal for water sport enthusiasts, outdoor adventurers, and avid travelers.</p>",
+  "no_ratings": null,
+  "sort_order": null,
+  "description": "<p>Gear up with the Waveguard Waterproof Duffle Bag. Engineered with a heavy-duty three-layer waterproof vinyl tarpaulin shell and waterproof zipper, the watertight duffle bag ensures your gear and essentials remain secure, organized, and dry. As part of Rothco&rsquo;s Waveguard collection, this waterproof bag is fully submersible and meets IPX7 waterproof standards, ideal for water sport enthusiasts, outdoor adventurers, and avid travelers. Tension-Locked Waterproof Zipper: For optimal performance and protection, our Waveguard bags feature waterproof zippers that are designed with a secure zipper seal that increases tension. To ensure a full closure, always zip the waterproof dry bag completely to maintain waterproof performance. All-in-One Storage: The dry bag features a large main compartment with a waterproof zipper and an inner mesh accessory pouch for keeping your possessions dry. The waterproof duffle has a 20L capacity and measures 19 inch x 9 inch overall. Utility at the Forefront: These kayak bags come equipped with a removable and adjustable shoulder strap and dual web carry handles with handle wrap for a comfortable carry while exploring the great outdoors. These travel duffle bags feature MOLLE loops for gear attachment and a grab handle for quick and easy handling. Adventure Ready: Whether you&rsquo;re on a rafting trip or spending a day out on the beach, our Waveguard waterproof bags allow you to keep your outdoor gear protected and are perfect for kayaking, canoeing, boating, camping, and hiking.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "757",
+    "2",
+    "211"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "30780",
+      "item_index": "5169",
+      "rothco_item_no": "12430",
+      "upc": "613902054813",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "1.2000",
+      "image_filename": "12431-A1.jpg",
+      "catalog_page_no": null,
+      "msrp": 76.99,
+      "ship_length": "20.0000",
+      "ship_width": "13.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 34.95,
+      "case_price": 34.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30784",
+      "item_index": "5169",
+      "rothco_item_no": "12431",
+      "upc": "613902054868",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "1.2000",
+      "image_filename": "12431-A.jpg",
+      "catalog_page_no": null,
+      "msrp": 76.99,
+      "ship_length": "20.0000",
+      "ship_width": "13.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 34.95,
+      "case_price": 34.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30785",
+      "item_index": "5169",
+      "rothco_item_no": "12432",
+      "upc": "613902054875",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "1.2000",
+      "image_filename": "12431-A2.jpg",
+      "catalog_page_no": null,
+      "msrp": 76.99,
+      "ship_length": "20.0000",
+      "ship_width": "13.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Desert Sand"
+      },
+      "color": "Desert Sand",
+      "price": 34.95,
+      "case_price": 34.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

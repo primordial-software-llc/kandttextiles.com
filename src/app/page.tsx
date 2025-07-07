@@ -1,21 +1,20 @@
 import Image from "next/image";
 import Script from "next/script";
 import Link from "next/link";
+import { CTA } from "@/components/CTA";
 import { CONTACT } from "@/constants/contact";
-import { Footer } from "@/components/Footer";
 import { FeaturedProducts } from "@/components/FeaturedProducts";
 import { ProductStructuredData } from '@/components/ProductStructuredData';
+import { AnimatedButton } from '@/components/AnimatedButton';
+import { AnimatedButtonAccent } from '@/components/AnimatedButtonAccent';
+import { AnimatedButtonOutline } from '@/components/AnimatedButtonOutline';
 import { rothcoData } from '@/data/suppliers/rothco';
-
-interface Supplier {
-  name: string;
-  specialty: string;
-  description: string;
-  logo: string;
-  link: string;
-  certification?: string;
-  featured?: boolean;
-}
+import product5168Data from '@/data/rothco/products/product-5168.json';
+import product5169Data from '@/data/rothco/products/product-5169.json';
+import product5170Data from '@/data/rothco/products/product-5170.json';
+import product997Data from '@/data/rothco/products/product-997.json';
+import product4198Data from '@/data/rothco/products/product-4198.json';
+import product4446Data from '@/data/rothco/products/product-4446.json';
 
 export const metadata = {
   title: "K&T Textiles | Premium Textile Export Solutions & Military Tactical Gear",
@@ -41,7 +40,27 @@ export const metadata = {
 
 export default function Home() {
   // Constants for featured product groups
-  const FEATURED_GROUP_NAME = "IPX7 Military Waterproof Bags";
+  const FEATURED_GROUP_NAME = "Fully Submersible Waterproof Bags";
+
+  var productGroups = [
+  {
+    supplier: "rothco",
+    name: "Fully Submersible Waterproof Bags",
+    products: [
+      { ...product5170Data, selectedVariationItemNo: "12440" },
+      { ...product5168Data, selectedVariationItemNo: "12422" },
+      { ...product5169Data, selectedVariationItemNo: "12431" }
+    ]
+  },
+  {
+    supplier: "rothco",
+    name: "Boots",
+    products: [
+      { ...product997Data, selectedVariationItemNo: "12440" },
+      { ...product4198Data, selectedVariationItemNo: "12422" },
+      { ...product4446Data, selectedVariationItemNo: "12431" }
+    ]
+  }];
   
   // Helper function to find specific product groups
   const getProductGroupByName = (groupName: string) => {
@@ -204,7 +223,7 @@ export default function Home() {
         }}
       />
       
-      <section className="relative min-h-[600px] flex items-center bg-[#0f172a]">
+      <section className="relative min-h-[700px] flex items-center bg-[#0f172a]">
         <div className="absolute inset-0">
           <div className="absolute inset-0 bg-[linear-gradient(45deg,rgba(255,255,255,0.03)_25%,transparent_25%,transparent_50%,rgba(255,255,255,0.03)_50%,rgba(255,255,255,0.03)_75%,transparent_75%)] bg-[length:24px_24px]"></div>
           <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_50%,rgba(255,255,255,0.02)_1px,transparent_1px)] bg-[length:16px_16px]"></div>
@@ -216,424 +235,285 @@ export default function Home() {
               <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 leading-tight">
                 Global Textile<br />Export Solutions
               </h1>
-              <p className="text-xl text-white/80 mb-8 max-w-xl font-light">
-                Specializing in premium fabric and apparel exports since 2020. Your trusted partner for quality textile logistics.
+              <p className="text-lg text-white/70 mb-8 max-w-xl leading-relaxed">
+                Our specialized sourcing capabilities and advanced logistics tracking technology ensure reliable delivery with real-time visibility across international markets.
               </p>
               <div className="flex gap-4">
-                <a href="#contact" 
-                   className="inline-block bg-[#f8fafc] text-[#0f172a] px-8 py-3 rounded-lg font-semibold 
-                            hover:bg-[#e2e8f0] transition-all duration-300 shadow-lg">
+                <AnimatedButtonAccent href="#contact" textSize="text-base" width="w-44">
                   Get in Touch
-                </a>
-                <a href="#suppliers" 
-                   className="inline-block bg-white/5 backdrop-blur-sm text-white border border-white/10 px-8 py-3 rounded-lg font-semibold 
-                            hover:bg-white/10 transition-all duration-300">
+                </AnimatedButtonAccent>
+                <AnimatedButtonOutline href="/suppliers" textSize="text-base" width="w-44">
                   View Suppliers
-                </a>
+                </AnimatedButtonOutline>
               </div>
             </div>
             <div className="hidden md:block relative">
               <div className="absolute top-0 right-0 w-96 h-96 bg-[#3b82f6]/10 rounded-full blur-3xl"></div>
               <div className="absolute bottom-0 left-0 w-72 h-72 bg-[#0f172a]/50 rounded-full blur-3xl"></div>
+              
+              {/* Enhanced feature cards */}
+              <div className="relative bg-white rounded-2xl p-8 border border-white/10 overflow-hidden">
+                <div className="relative z-10 space-y-6">
+                  <div className="flex items-center space-x-4">
+                    <div className="w-12 h-12 bg-gray-50 rounded-lg flex items-center justify-center">
+                      <svg className="w-6 h-6 text-[#1B2845]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                      </svg>
+                    </div>
+                    <div>
+                      <h3 className="font-semibold text-[#1B2845]">Global Reach</h3>
+                      <p className="text-gray-600 text-sm">Worldwide distribution network</p>
+                    </div>
+                  </div>
+                  <div className="flex items-center space-x-4">
+                    <div className="w-12 h-12 bg-gray-50 rounded-lg flex items-center justify-center">
+                      <svg className="w-6 h-6 text-[#1B2845]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                      </svg>
+                    </div>
+                    <div>
+                      <h3 className="font-semibold text-[#1B2845]">Custom Sourcing</h3>
+                      <p className="text-gray-600 text-sm">Specialized fabric specifications on demand</p>
+                    </div>
+                  </div>
+                  <div className="flex items-center space-x-4">
+                    <div className="w-12 h-12 bg-gray-50 rounded-lg flex items-center justify-center">
+                      <svg className="w-6 h-6 text-[#1B2845]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+                      </svg>
+                    </div>
+                    <div>
+                      <h3 className="font-semibold text-[#1B2845]">Fast Delivery</h3>
+                      <p className="text-gray-600 text-sm">Real-time tracking technology</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
       </section>
 
-      <section id="suppliers" className="py-20 bg-gray-50">
+      <section id="suppliers" className="py-12 bg-gray-50">
         <div className="max-w-7xl mx-auto px-5">
-          <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-[#1B2845] mb-4">Our Trusted Suppliers</h2>
-            <p className="text-gray-600 max-w-3xl mx-auto mb-6">
-              Partnering with industry-leading manufacturers to deliver premium tactical and military-grade textiles worldwide.
+          <div className="text-center mb-10">
+            <h2 className="text-3xl font-bold text-[#1B2845] mb-3">Trusted by Industry Leaders</h2>
+            <p className="text-gray-600 max-w-2xl mx-auto">
+              We partner with premium manufacturers to deliver quality textiles worldwide.
             </p>
           </div>
-          <div className="grid md:grid-cols-2 gap-8">
+          
+          {/* Supplier logos in horizontal layout */}
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 items-center mb-10">
             {[
               {
                 name: "Rothco",
-                specialty: "Military & Tactical Gear",
-                description: "Leading manufacturer of military and tactical equipment, providing high-quality gear for over 60 years.",
                 logo: "/Rothco_Logo_2-color_8x8-R.jpg",
                 link: "/suppliers/rothco"
               },
               {
                 name: "Harken",
-                specialty: "Marine Hardware & Textiles",
-                description: "Global leader in marine hardware and performance textiles, providing innovative solutions for sailing and marine applications.",
                 logo: "/harken/harken.webp",
                 link: "/suppliers/harken"
               },
               {
                 name: "1947 LLC",
-                specialty: "Military & Tactical Textiles",
-                description: "Full-service textile solution provider specializing in military, tactical, and industrial products, with expertise in MULTICAM® fabric development and distribution.",
                 logo: "/1947llc/1947llc-logo-black.svg",
-                link: "https://1947llc.com/"
+                link: "https://1947llc.com/",
+                isExternal: true
               },
               {
                 name: "Kingform Cap Company",
-                specialty: "Military Uniform Headwear",
-                description: "Premium manufacturer of military uniform caps since 1960, producing high-quality headwear for all branches of the U.S. Armed Forces.",
                 logo: "/kingformcap/kflogowhite.jpg",
-                link: "https://www.kingformcap.com/"
+                link: "https://www.kingformcap.com/",
+                isExternal: true
               }
             ].map((supplier, index) => (
-              supplier.link ? (
-                <Link 
-                  href={supplier.link} 
+              supplier.isExternal ? (
+                <a
                   key={index}
-                  className="block h-full"
+                  href={supplier.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="group"
                 >
-                  <div className={`bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 h-full flex flex-col`}>
-                    {supplier.logo && (
-                      <div className="mb-6">
-                        <Image 
-                          src={supplier.logo}
-                          alt={`${supplier.name} logo`}
-                          width={200}
-                          height={60}
-                          className="object-contain"
-                        />
-                      </div>
-                    )}
-                    <div className="flex-grow">
-                      <h3 className="text-xl font-bold text-[#1a237e] mb-2">
-                        {supplier.name}
-                      </h3>
-                      <div className="text-gray-600 font-medium mb-4">{supplier.specialty}</div>
-                      <p className="text-[#34495e] mb-4">{supplier.description}</p>
-                      <div className="mt-auto">
-                        <span className="inline-flex items-center px-6 py-2.5 bg-[#1a237e] text-white rounded-lg font-medium group hover:bg-[#1a237e]/90 transition-all duration-300 shadow-md hover:shadow-lg">
-                          Explore {supplier.name}
-                          <svg className="w-4 h-4 ml-2 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                          </svg>
-                        </span>
-                      </div>
+                  <div className="relative bg-transparent p-8 rounded-lg hover:bg-white/20 transition-all duration-300 aspect-[4/3] flex items-center justify-center">
+                    <div className="w-full h-full flex items-center justify-center">
+                      <Image 
+                        src={supplier.logo}
+                        alt={`${supplier.name} logo`}
+                        width={200}
+                        height={120}
+                        className="object-contain transition-all duration-300 max-w-full max-h-full"
+                        style={{ width: 'auto', height: 'auto' }}
+                      />
                     </div>
+                    
+                    {/* Animated lines from AnimatedButton */}
+                    {/* Bottom underline */}
+                    <div className="absolute bottom-0 left-0 w-0 h-px bg-[#1B2845] transition-all duration-500 group-hover:w-full"></div>
+                    
+                    {/* Top accent line */}
+                    <div className="absolute top-0 left-1/2 transform -translate-x-1/2 w-0 h-px bg-[#1B2845] transition-all duration-500 group-hover:w-full"></div>
+                    
+                    {/* Left border - slides down from top */}
+                    <div className="absolute left-0 top-0 w-px h-0 bg-[#1B2845] transition-all duration-500 group-hover:h-full"></div>
+                    
+                    {/* Right border - slides up from bottom */}
+                    <div className="absolute right-0 bottom-0 w-px h-0 bg-[#1B2845] transition-all duration-500 group-hover:h-full"></div>
+                  </div>
+                </a>
+              ) : (
+                <Link 
+                  key={index}
+                  href={supplier.link}
+                  className="group"
+                >
+                  <div className="relative bg-transparent p-8 rounded-lg hover:bg-white/20 transition-all duration-300 aspect-[4/3] flex items-center justify-center">
+                    <div className="w-full h-full flex items-center justify-center">
+                      <Image 
+                        src={supplier.logo}
+                        alt={`${supplier.name} logo`}
+                        width={200}
+                        height={120}
+                        className="object-contain transition-all duration-300 max-w-full max-h-full"
+                        style={{ width: 'auto', height: 'auto' }}
+                      />
+                    </div>
+                    
+                    {/* Animated lines from AnimatedButton */}
+                    {/* Bottom underline */}
+                    <div className="absolute bottom-0 left-0 w-0 h-px bg-[#1B2845] transition-all duration-500 group-hover:w-full"></div>
+                    
+                    {/* Top accent line */}
+                    <div className="absolute top-0 left-1/2 transform -translate-x-1/2 w-0 h-px bg-[#1B2845] transition-all duration-500 group-hover:w-full"></div>
+                    
+                    {/* Left border - slides down from top */}
+                    <div className="absolute left-0 top-0 w-px h-0 bg-[#1B2845] transition-all duration-500 group-hover:h-full"></div>
+                    
+                    {/* Right border - slides up from bottom */}
+                    <div className="absolute right-0 bottom-0 w-px h-0 bg-[#1B2845] transition-all duration-500 group-hover:h-full"></div>
                   </div>
                 </Link>
-              ) : (
-                <div 
-                  key={index}
-                  className="block h-full"
-                >
-                  <div className={`bg-white p-8 rounded-xl shadow-lg h-full flex flex-col`}>
-                    {supplier.logo && (
-                      <div className="mb-6">
-                        <Image 
-                          src={supplier.logo}
-                          alt={`${supplier.name} logo`}
-                          width={200}
-                          height={60}
-                          className="object-contain"
-                        />
-                      </div>
-                    )}
-                    <div className="flex-grow">
-                      <h3 className="text-xl font-bold text-[#1a237e] mb-2">
-                        {supplier.name}
-                      </h3>
-                      <div className="text-gray-600 font-medium mb-4">{supplier.specialty}</div>
-                      <p className="text-[#34495e] mb-4">{supplier.description}</p>
-                    </div>
-                  </div>
-                </div>
               )
             ))}
+          </div>
+          
+          {/* Call to action */}
+          <div className="text-center">
+            <AnimatedButton href="/suppliers" textSize="text-lg">
+              View All Suppliers
+            </AnimatedButton>
           </div>
         </div>
       </section>
 
       {/* Featured Product Groups */}
-      <section className="bg-white">
+      <section className="bg-white pt-20">
         <div className="max-w-7xl mx-auto px-5">
-          <div className="text-center mb-10">
-            <div className="inline-block bg-blue-50 text-[#1B2845] px-4 py-2 rounded-full text-sm mb-4 border border-blue-100">
-              Featured Products
-            </div>
-            <h2 className="text-4xl font-bold text-[#1B2845] mb-4">Top-Recommended Tactical Gear</h2>
-            <p className="text-gray-600 max-w-3xl mx-auto">
-              Discover our most popular and trusted products from industry-leading manufacturers like Rothco. 
-              These featured items represent the best value and performance in their categories.
-              Explore tactical boots, concealed carry knives, and more from our complete Rothco catalog <Link href="/suppliers/rothco" className="underline">here</Link>.
-            </p>
+          <div className="text-center mb-12">
+            <div className="w-12 h-1 bg-gradient-to-r from-[#1B2845] to-[#34495e] mx-auto mb-6"></div>
+            <h2 className="text-4xl font-bold text-[#1B2845] mb-6">Top-Recommended Tactical Gear</h2>
           </div>
         </div>
         
-        {featuredHomepageProducts.map((group, index) => (
+        {productGroups.map((group, index) => (
           <FeaturedProducts
             key={index}
+            supplier={group.supplier}
             title={group.name}
             products={group.products}
             sectionId={`homepage-${group.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')}-products`}
           />
         ))}
+
+          {/* Call to action */}
+          <div className="text-center">
+            <AnimatedButton href="/suppliers/rothco" textSize="text-lg">
+              View Rothco Products
+            </AnimatedButton>
+          </div>
         
       </section>
 
-      <section className="pb-10 bg-gray-50 relative">
+      <section className="py-20 bg-gray-50 relative">
         {/* Background Pattern */}
         <div className="absolute inset-0">
           <div className="absolute inset-0 bg-[linear-gradient(45deg,rgba(15,23,42,0.02)_25%,transparent_25%,transparent_50%,rgba(15,23,42,0.02)_50%,rgba(15,23,42,0.02)_75%,transparent_75%)] bg-[length:24px_24px]"></div>
         </div>
         
         <div className="max-w-7xl mx-auto px-5 relative">
-          <div className="text-center">
-            <h2 className="text-4xl font-bold text-[#1B2845] mb-4">Logistics Tools</h2>
-            <p className="text-gray-600 max-w-3xl mx-auto mb-8">
-              Advanced tracking solutions for secure and efficient cargo monitoring worldwide. Learn more about logistics technolgy <Link href="/logistics" className="underline">here</Link>.
-            </p>
-
-          </div>
-        </div>
-      </section>
-
-      <section className="bg-white">
-        <div className="max-w-7xl mx-auto px-5">
-          <div className="grid md:grid-cols-2 gap-12 items-center">
-            <div>
-              <div className="inline-block bg-blue-50 text-[#1B2845] px-4 py-2 rounded-full text-sm mb-4 border border-blue-100">
-                Vendor Tracking Portal
-              </div>
-              <h3 className="text-4xl font-bold text-[#1B2845] mb-6">Custom Logistics Tracking Software</h3>
-              <p className="text-gray-600 mb-6">
-                K&T Textiles has developed a proprietary vendor tracking portal that provides real-time visibility into your shipments. Our custom logistics software gives you complete transparency and control over your textile exports.
-              </p>
-              <div className="space-y-4 mb-8">
-                <div className="flex items-start gap-3">
-                  <div className="mt-1 bg-green-100 p-1 rounded-full">
-                    <svg className="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                    </svg>
-                  </div>
-                  <div>
-                    <h3 className="font-medium text-[#1B2845]">Real-Time Tracking</h3>
-                    <p className="text-gray-600">Monitor your shipments with GPS precision across oceans and continents</p>
-                  </div>
-                </div>
-                <div className="flex items-start gap-3">
-                  <div className="mt-1 bg-green-100 p-1 rounded-full">
-                    <svg className="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                    </svg>
-                  </div>
-                  <div>
-                    <h3 className="font-medium text-[#1B2845]">Environmental Monitoring</h3>
-                    <p className="text-gray-600">Track temperature, humidity, and conditions for sensitive textile products</p>
-                  </div>
-                </div>
-                <div className="flex items-start gap-3">
-                  <div className="mt-1 bg-green-100 p-1 rounded-full">
-                    <svg className="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                    </svg>
-                  </div>
-                  <div>
-                    <h3 className="font-medium text-[#1B2845]">Secure Vendor Portal</h3>
-                    <p className="text-gray-600">Password-protected access to your company's specific tracking devices</p>
-                  </div>
-                </div>
-                <div className="flex items-start gap-3">
-                  <div className="mt-1 bg-green-100 p-1 rounded-full">
-                    <svg className="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                    </svg>
-                  </div>
-                  <div>
-                    <h3 className="font-medium text-[#1B2845]">Supply Chain Visualization</h3>
-                    <p className="text-gray-600">End-to-end visibility of your entire supply chain in one intuitive dashboard</p>
-                  </div>
-                </div>
-              </div>
-              <Link href="/vendor/login" 
-                 className="inline-flex items-center px-6 py-3 bg-[#1B2845] text-white rounded-lg font-medium hover:bg-[#34495e] transition-all duration-300 shadow-md hover:shadow-lg">
-                Try Vendor Portal
-                <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                </svg>
-              </Link>
-            </div>
-            <div className="relative">
-              <div className="absolute -inset-4 bg-gradient-to-r from-blue-100 to-indigo-100 rounded-2xl transform -rotate-2"></div>
-              <div className="absolute inset-0 bg-white/40 backdrop-blur-sm rounded-2xl transform rotate-1"></div>
-              <div className="relative rounded-xl overflow-hidden shadow-2xl border border-gray-200">
-                <Image
-                  src="/images/vendor-portal-dashboard.png"
-                  alt="K&T Textiles Vendor Portal Dashboard"
-                  width={800}
-                  height={600}
-                  className="w-full"
-                  priority
-                />
-              </div>
-              <div className="absolute -bottom-4 -right-4 bg-white rounded-full shadow-lg p-3 border border-gray-100">
-                <div className="bg-[#1B2845] text-white rounded-full w-12 h-12 flex items-center justify-center">
-                  <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
-                  </svg>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-      </section>
-
-      <section className="py-20 bg-gray-50">
-        <div className="max-w-7xl mx-auto px-5">
-          <div className="grid md:grid-cols-2 gap-12 items-center">
-            <div className="order-2 md:order-1 relative">
-              <div className="absolute -inset-4 bg-gradient-to-r from-indigo-100 to-blue-100 rounded-2xl transform rotate-2"></div>
-              <div className="absolute inset-0 bg-white/40 backdrop-blur-sm rounded-2xl transform -rotate-1"></div>
-              <div className="relative rounded-xl overflow-hidden shadow-2xl border border-gray-200">
-                <Image
-                  src="/images/vendor-portal-device-detail.jpg"
-                  alt="K&T Textiles Vendor Portal Device Detail"
-                  width={800}
-                  height={600}
-                  className="w-full"
-                  priority
-                />
-              </div>
-              <div className="absolute -bottom-4 -left-4 bg-white rounded-full shadow-lg p-3 border border-gray-100">
-                <div className="bg-[#1B2845] text-white rounded-full w-12 h-12 flex items-center justify-center">
-                  <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
-                  </svg>
-                </div>
-              </div>
-            </div>
-            <div className="order-1 md:order-2">
-              <div className="inline-block bg-blue-50 text-[#1B2845] px-4 py-2 rounded-full text-sm mb-4 border border-blue-100">
-                Advanced Device Management
-              </div>
-              <h3 className="text-4xl font-bold text-[#1B2845] mb-6">Peace of Mind Through Visibility</h3>
-              <p className="text-gray-600 mb-6">
-                Our logistics tracking software creates a clear, detailed story of your cargo's path with precise timestamps and locations — giving you the confidence that comes with complete visibility.
-              </p>
-              <div className="space-y-4 mb-8">
-                <div className="flex items-start gap-3">
-                  <div className="mt-1 bg-green-100 p-1 rounded-full">
-                    <svg className="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                    </svg>
-                  </div>
-                  <div>
-                    <h3 className="font-medium text-[#1B2845]">The Complete Picture</h3>
-                    <p className="text-gray-600">See the full story of your shipment with detailed, time-stamped location tracking</p>
-                  </div>
-                </div>
-                <div className="flex items-start gap-3">
-                  <div className="mt-1 bg-green-100 p-1 rounded-full">
-                    <svg className="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                    </svg>
-                  </div>
-                  <div>
-                    <h3 className="font-medium text-[#1B2845]">Spot the Unexpected</h3>
-                    <p className="text-gray-600">Quickly identify when shipments appear in unexpected locations or take unusual routes</p>
-                  </div>
-                </div>
-                <div className="flex items-start gap-3">
-                  <div className="mt-1 bg-green-100 p-1 rounded-full">
-                    <svg className="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                    </svg>
-                  </div>
-                  <div>
-                    <h3 className="font-medium text-[#1B2845]">Your Digital Paper Trail</h3>
-                    <p className="text-gray-600">Access historical records from a trusted 3rd party that complement your documentation and strengthen your records</p>
-                  </div>
-                </div>
-                <div className="flex items-start gap-3">
-                  <div className="mt-1 bg-green-100 p-1 rounded-full">
-                    <svg className="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                    </svg>
-                  </div>
-                  <div>
-                    <h3 className="font-medium text-[#1B2845]">Shareable Insights</h3>
-                    <p className="text-gray-600">Create beautiful reports that tell the true story of your shipment's journey when you need them</p>
-                  </div>
-                </div>
-              </div>
-              <Link href="/vendor/login" 
-                 className="inline-flex items-center px-6 py-3 bg-[#1B2845] text-white rounded-lg font-medium hover:bg-[#34495e] transition-all duration-300 shadow-md hover:shadow-lg">
-                Access Portal
-                <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-                </svg>
-              </Link>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      
-
-      <section id="about" className="py-20 bg-[#102a43] text-white relative overflow-hidden">
-        {/* Background Elements */}
-        <div className="absolute inset-0">
-          <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_50%,rgba(255,255,255,0.03)_1px,transparent_1px)] bg-[length:16px_16px]"></div>
-          <div className="absolute top-0 right-0 w-96 h-96 bg-[#3b82f6]/5 rounded-full blur-3xl"></div>
-          <div className="absolute bottom-0 left-0 w-72 h-72 bg-[#0f172a]/50 rounded-full blur-3xl"></div>
-        </div>
-        
-        <div className="max-w-7xl mx-auto px-5 relative">
           <div className="text-center mb-12">
-            <div className="inline-block bg-white/5 backdrop-blur-sm text-white px-4 py-2 rounded-full text-sm mb-4 border border-white/10">
-              Our Story
-            </div>
-            <h2 className="text-4xl font-bold mb-4">About K&T Textiles</h2>
-            <p className="text-gray-300 max-w-2xl mx-auto">Your trusted partner in textile exports since 2020.</p>
+            <div className="w-12 h-1 bg-gradient-to-r from-[#1B2845] to-[#34495e] mx-auto mb-6"></div>
+            <h2 className="text-4xl font-bold text-[#1B2845] mb-6">Advanced Cargo Tracking Solutions</h2>
+            <p className="text-gray-600 max-w-3xl mx-auto mb-8 text-lg">
+              Gain complete visibility and control over your shipments with our proprietary tracking technology. From real-time GPS monitoring to environmental sensors, we provide the tools you need for confident logistics management.
+            </p>
           </div>
-          <div className="max-w-4xl mx-auto">
-            <div className="space-y-8 text-lg">
-              <div className="bg-white/5 backdrop-blur-sm p-8 rounded-2xl border border-white/10">
-                <p className="leading-relaxed">
-                  Founded in 2020, K&T Textiles has emerged as a trusted name in specialized textile exports. We bridge the gap between premium manufacturers and global markets.
-                  <br /><br />
-                  Our specialized sourcing capabilities allow us to identify and connect clients with suppliers based on precise fabric specifications and performance requirements. Our advanced logistics tracking technology ensures reliable delivery with real-time visibility across international markets.
-                  </p>
+          
+          <div className="grid md:grid-cols-3 gap-8 mb-12">
+            <div className="bg-white p-6 rounded-xl shadow-sm border border-gray-100">
+              <div className="w-12 h-12 bg-blue-100 rounded-lg flex items-center justify-center mb-4">
+                <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                </svg>
               </div>
+              <h3 className="font-semibold text-[#1B2845] mb-2">Real-Time Location Tracking</h3>
+              <p className="text-gray-600 text-sm">GPS precision monitoring with worldwide coverage for complete shipment visibility</p>
             </div>
+            
+            <div className="bg-white p-6 rounded-xl shadow-sm border border-gray-100">
+              <div className="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mb-4">
+                <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+                </svg>
+              </div>
+              <h3 className="font-semibold text-[#1B2845] mb-2">Environmental Monitoring</h3>
+              <p className="text-gray-600 text-sm">Temperature, humidity, and condition tracking for sensitive textile products</p>
+            </div>
+            
+            <div className="bg-white p-6 rounded-xl shadow-sm border border-gray-100">
+              <div className="w-12 h-12 bg-purple-100 rounded-lg flex items-center justify-center mb-4">
+                <svg className="w-6 h-6 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+                </svg>
+              </div>
+              <h3 className="font-semibold text-[#1B2845] mb-2">Vendor Portal Access</h3>
+              <p className="text-gray-600 text-sm">Secure, password-protected dashboard for comprehensive shipment management</p>
+            </div>
+          </div>
+
+          <div className="text-center">
+            <AnimatedButton href="/suppliers/logistics" textSize="text-lg">
+            Explore Our Logistics Technology
+            </AnimatedButton>
           </div>
         </div>
       </section>
 
-      <section id="contact" className="py-20 bg-gray-50 relative">
-        <div className="max-w-7xl mx-auto px-5">
-          <div className="relative bg-gradient-to-br from-[#1B2845] to-[#0f172a] rounded-2xl p-12 text-center overflow-hidden">
-            {/* Background Elements */}
-            <div className="absolute inset-0">
-              <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_50%,rgba(255,255,255,0.03)_1px,transparent_1px)] bg-[length:24px_24px]"></div>
-              <div className="absolute top-0 right-0 w-96 h-96 bg-[#3b82f6]/5 rounded-full blur-3xl"></div>
-              <div className="absolute bottom-0 left-0 w-72 h-72 bg-[#0f172a]/50 rounded-full blur-3xl"></div>
-            </div>
-            <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/20"></div>
-
-            {/* Content */}
-            <div className="relative z-10">
-              <div className="inline-block bg-white/5 backdrop-blur-sm text-white px-4 py-2 rounded-full text-sm mb-4 border border-white/10">
-                Get in Touch
-              </div>
-              <h2 className="text-4xl font-bold text-white mb-4">Ready to Partner With Us?</h2>
-              <p className="text-xl text-white/80 mb-8 max-w-2xl mx-auto">
-                Contact K&T Textiles today to discuss your textile export needs.
-              </p>
-              <a href={`mailto:${CONTACT.email}`} 
-                 className="inline-block bg-white text-[#1B2845] px-8 py-3 rounded-lg font-semibold 
-                          hover:bg-gray-100 transition-all duration-300 shadow-lg hover:shadow-xl">
-                Contact Us
-              </a>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <Footer />
+      <div id="contact">
+      {/* CTA Section */}
+      <CTA 
+        title="Need Custom Products?"
+        description="We specialize in custom sourcing and international shipping. Contact us for wholesale pricing and bulk orders."
+        buttons={[
+          <AnimatedButtonAccent 
+            href="mailto:info@kandttextiles.com?subject=Custom Product Inquiry&body=I'm interested in custom product sourcing and wholesale pricing. Please send me more information."
+            isExternal={true}
+            textSize="text-xl"
+          >
+            <span className="font-bold">Contact Sales</span>
+          </AnimatedButtonAccent>,
+          <AnimatedButtonOutline 
+            href="/suppliers"
+            textSize="text-xl"
+          >
+            <span className="font-bold">Browse Suppliers</span>
+          </AnimatedButtonOutline>
+        ]}
+      />
+      </div>
     </>
   );
 }

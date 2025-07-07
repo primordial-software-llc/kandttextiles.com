@@ -1,22 +1,15 @@
-import Link from "next/link";
-
-interface CTAButton {
-  text: string;
-  href: string;
-  variant: 'primary' | 'secondary';
-  isExternal?: boolean;
-}
+import React from "react";
 
 interface CTAProps {
   title: string;
   description: string;
-  buttons: CTAButton[];
+  buttons: React.ReactNode[];
 }
 
 export function CTA({ title, description, buttons }: CTAProps) {
   return (
     <section className="supplier-cta bg-gray-50">
-      <div className="max-w-7xl mx-auto px-5 py-12">
+      <div className="max-w-7xl mx-auto px-5 py-20">
         <div className="relative bg-[#1B2845] rounded-2xl p-12 text-center overflow-hidden">
           {/* Simpler, more subtle background */}
           <div className="absolute inset-0">
@@ -31,33 +24,11 @@ export function CTA({ title, description, buttons }: CTAProps) {
               {description}
             </p>
             <div className="flex gap-4 justify-center">
-              {buttons.map((button, index) => {
-                const className = `px-8 py-4 rounded-lg font-semibold transition-all duration-300 ${
-                  button.variant === 'primary' 
-                    ? 'bg-white text-[#1B2845] hover:bg-gray-100' 
-                    : 'bg-transparent text-white border-2 border-white hover:bg-white/10'
-                }`;
-
-                return button.isExternal ? (
-                  <a 
-                    key={index}
-                    href={button.href}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className={className}
-                  >
-                    {button.text}
-                  </a>
-                ) : (
-                  <Link 
-                    key={index}
-                    href={button.href}
-                    className={className}
-                  >
-                    {button.text}
-                  </Link>
-                );
-              })}
+              {buttons.map((button, index) => (
+                <React.Fragment key={index}>
+                  {button}
+                </React.Fragment>
+              ))}
             </div>
           </div>
         </div>

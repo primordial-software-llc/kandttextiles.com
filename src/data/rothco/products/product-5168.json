@@ -1,0 +1,95 @@
+{
+  "item_index": "5168",
+  "item_name": "Rothco Waveguard Waterproof Backpack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://youtu.be/3cZD95_oV70?si=syzLCkSxJVge4VyI",
+  "rating": "5.0000",
+  "item_short_desc": "<p>Gear up&nbsp;with the Waveguard Waterproof Backpack. Engineered with a heavy-duty three-layer waterproof vinyl tarpaulin shell, waterproof zippers, and tension pull tabs, the watertight backpack ensures your gear and essentials remain secure, organized, and dry. As part of Rothco&rsquo;s Waveguard collection, this waterproof bag is fully submersible and meets IPX7 waterproof standards, ideal for water sport enthusiasts, outdoor adventurers, and avid travelers.</p>",
+  "no_ratings": null,
+  "sort_order": null,
+  "description": "<p>Gear up with the Waveguard Waterproof Backpack. Engineered with a heavy-duty three-layer waterproof vinyl tarpaulin shell, waterproof zippers, and tension pull tabs, the watertight backpack ensures your gear and essentials remain secure, organized, and dry. As part of Rothco&rsquo;s Waveguard collection, this waterproof bag is fully submersible and meets IPX7 waterproof standards, ideal for water sport enthusiasts, outdoor adventurers, and avid travelers. Tension-Locked Waterproof Zippers: For optimal performance and protection, our Waveguard bags feature waterproof zippers that are designed with a secure zipper seal that increases tension. To ensure a full closure, always zip the waterproof dry bag completely to maintain waterproof performance; use the pull tabs for leverage when needed. All-in-One Storage: The dry bag features a main compartment and front pouch with waterproof zippers for keeping your possessions dry, along with an adjustable mesh bottle pouch on the side for additional storage. The waterproof rucksack has a 15.6L capacity and measures 16.5 inch x 11 inch x 5.25 inch overall. Utility at the Forefront: These kayak backpacks come equipped with adjustable padded shoulder straps and sternum strap for providing the perfect fit and feel while exploring the great outdoors. These waterproof hiking backpacks feature MOLLE loops for gear attachment and a molded top handle for quick and easy handling. Adventure Ready: Whether you&rsquo;re on a rafting trip or spending a day out on the beach, our Waveguard waterproof bags allow you to keep your outdoor gear protected and are perfect for kayaking, canoeing, boating, camping, and hiking.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "757",
+    "2",
+    "204"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "30779",
+      "item_index": "5168",
+      "rothco_item_no": "12420",
+      "upc": "613902054806",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "1.4000",
+      "image_filename": "12420-A.jpg",
+      "catalog_page_no": null,
+      "msrp": 98.99,
+      "ship_length": "18.0000",
+      "ship_width": "13.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 44.95,
+      "case_price": 44.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30782",
+      "item_index": "5168",
+      "rothco_item_no": "12421",
+      "upc": "613902054837",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "1.4000",
+      "image_filename": "12421-A.jpg",
+      "catalog_page_no": null,
+      "msrp": 98.99,
+      "ship_length": "18.0000",
+      "ship_width": "13.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 44.95,
+      "case_price": 44.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30783",
+      "item_index": "5168",
+      "rothco_item_no": "12422",
+      "upc": "613902054844",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "1.4000",
+      "image_filename": "12422-A.jpg",
+      "catalog_page_no": null,
+      "msrp": 98.99,
+      "ship_length": "18.0000",
+      "ship_width": "13.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Desert Sand"
+      },
+      "color": "Desert Sand",
+      "price": 44.95,
+      "case_price": 44.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

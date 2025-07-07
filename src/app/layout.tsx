@@ -2,7 +2,8 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Link from 'next/link';
-import Image from 'next/image';
+import { Footer } from "@/components/Footer";
+import { AnimatedButton } from "@/components/AnimatedButton";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -42,12 +43,42 @@ export default function RootLayout({
                 </Link>
                 
                 {/* Desktop Navigation */}
-                <ul className="hidden md:flex space-x-8">
-                  <li><Link href="/#suppliers" className="text-gray-600 font-medium hover:text-[#1B2845] transition-colors">Suppliers</Link></li>
-                  <li><Link href="/logistics" className="text-gray-600 font-medium hover:text-[#1B2845] transition-colors">Logistics</Link></li>
-                  <li><Link href="/#about" className="text-gray-600 font-medium hover:text-[#1B2845] transition-colors">About</Link></li>
-                  <li><Link href="/#contact" className="text-gray-600 font-medium hover:text-[#1B2845] transition-colors">Contact</Link></li>
-                  <li><Link href="/vendor/login" className="text-white font-medium bg-[#1B2845] px-4 py-2 rounded hover:bg-[#34495e] transition-colors">Vendor Portal</Link></li>
+                <ul className="hidden md:flex space-x-8 items-center">
+                  <li className="group">
+                    <Link href="/products" className="text-gray-600 font-medium hover:text-[#1B2845] transition-all duration-300 relative inline-block">
+                      <span className="relative z-10">Products</span>
+                      <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-full"></div>
+                    </Link>
+                  </li>
+                  <li className="group">
+                    <Link href="/suppliers" className="text-gray-600 font-medium hover:text-[#1B2845] transition-all duration-300 relative inline-block">
+                      <span className="relative z-10">Suppliers</span>
+                      <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-full"></div>
+                    </Link>
+                  </li>
+                  <li className="group">
+                    <Link href="/logistics" className="text-gray-600 font-medium hover:text-[#1B2845] transition-all duration-300 relative inline-block">
+                      <span className="relative z-10">Logistics</span>
+                      <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-full"></div>
+                    </Link>
+                  </li>
+                  <li className="group">
+                    <Link href="/about" className="text-gray-600 font-medium hover:text-[#1B2845] transition-all duration-300 relative inline-block">
+                      <span className="relative z-10">About</span>
+                      <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-full"></div>
+                    </Link>
+                  </li>
+                  <li className="group">
+                    <Link href="/#contact" className="text-gray-600 font-medium hover:text-[#1B2845] transition-all duration-300 relative inline-block">
+                      <span className="relative z-10">Contact</span>
+                      <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-full"></div>
+                    </Link>
+                  </li>
+                  <li>
+                    <AnimatedButton href="/vendor/login" textSize="text-sm">
+                      Vendor Portal
+                    </AnimatedButton>
+                  </li>
                 </ul>
 
                 {/* Mobile Menu Toggle */}
@@ -61,23 +92,40 @@ export default function RootLayout({
               {/* Mobile Navigation */}
               <div className="hidden peer-checked/nav:block md:hidden absolute left-0 right-0 top-full bg-white mt-2 shadow-lg z-50 w-full rounded-b-lg border-t">
                 <ul className="flex flex-col">
-                  <li className="border-b">
-                    <Link href="/#services" className="block w-full px-5 py-4 text-gray-600 font-medium hover:text-[#1B2845] hover:bg-gray-50 transition-colors">Services</Link>
+                  <li className="border-b group">
+                    <Link href="/products" className="block w-full px-5 py-4 text-gray-600 font-medium hover:text-[#1B2845] hover:bg-gray-50 transition-all duration-300 relative">
+                      <span className="relative z-10">Products</span>
+                      <div className="absolute bottom-0 left-5 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-[calc(100%-2.5rem)]"></div>
+                    </Link>
                   </li>
-                  <li className="border-b">
-                    <Link href="/#suppliers" className="block w-full px-5 py-4 text-gray-600 font-medium hover:text-[#1B2845] hover:bg-gray-50 transition-colors">Suppliers</Link>
+                  <li className="border-b group">
+                    <Link href="/suppliers" className="block w-full px-5 py-4 text-gray-600 font-medium hover:text-[#1B2845] hover:bg-gray-50 transition-all duration-300 relative">
+                      <span className="relative z-10">Suppliers</span>
+                      <div className="absolute bottom-0 left-5 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-[calc(100%-2.5rem)]"></div>
+                    </Link>
                   </li>
-                  <li className="border-b">
-                    <Link href="/logistics" className="block w-full px-5 py-4 text-gray-600 font-medium hover:text-[#1B2845] hover:bg-gray-50 transition-colors">Logistics</Link>
+                  <li className="border-b group">
+                    <Link href="/logistics" className="block w-full px-5 py-4 text-gray-600 font-medium hover:text-[#1B2845] hover:bg-gray-50 transition-all duration-300 relative">
+                      <span className="relative z-10">Logistics</span>
+                      <div className="absolute bottom-0 left-5 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-[calc(100%-2.5rem)]"></div>
+                    </Link>
                   </li>
-                  <li className="border-b">
-                    <Link href="/#about" className="block w-full px-5 py-4 text-gray-600 font-medium hover:text-[#1B2845] hover:bg-gray-50 transition-colors">About</Link>
+                  <li className="border-b group">
+                    <Link href="/about" className="block w-full px-5 py-4 text-gray-600 font-medium hover:text-[#1B2845] hover:bg-gray-50 transition-all duration-300 relative">
+                      <span className="relative z-10">About</span>
+                      <div className="absolute bottom-0 left-5 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-[calc(100%-2.5rem)]"></div>
+                    </Link>
                   </li>
-                  <li className="border-b">
-                    <Link href="/#contact" className="block w-full px-5 py-4 text-gray-600 font-medium hover:text-[#1B2845] hover:bg-gray-50 transition-colors">Contact</Link>
+                  <li className="border-b group">
+                    <Link href="/#contact" className="block w-full px-5 py-4 text-gray-600 font-medium hover:text-[#1B2845] hover:bg-gray-50 transition-all duration-300 relative">
+                      <span className="relative z-10">Contact</span>
+                      <div className="absolute bottom-0 left-5 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-[calc(100%-2.5rem)]"></div>
+                    </Link>
                   </li>
-                  <li>
-                    <Link href="/vendor/login" className="block w-full px-5 py-4 bg-[#1B2845] text-white font-medium hover:bg-[#34495e] transition-colors">Vendor Portal</Link>
+                  <li className="p-5">
+                    <AnimatedButton href="/vendor/login" textSize="text-sm" className="w-full">
+                      Vendor Portal
+                    </AnimatedButton>
                   </li>
                 </ul>
               </div>
@@ -85,6 +133,7 @@ export default function RootLayout({
           </div>
         </header>
         {children}
+        <Footer />
       </body>
     </html>
   );

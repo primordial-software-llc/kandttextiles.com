@@ -2,6 +2,8 @@ import Image from "next/image";
 import Link from "next/link";
 import { CTA } from "@/components/CTA";
 import { CONTACT } from "@/constants/contact";
+import { Footer } from "@/components/Footer";
+import { AnimatedButtonOutline } from "@/components/AnimatedButtonOutline";
 
 export default function LogisticsPage() {
   return (
@@ -27,17 +29,202 @@ export default function LogisticsPage() {
               Modern Logistics<br />Technology
             </h1>
             <p className="text-xl text-white/80 mb-8 leading-relaxed max-w-2xl">
-                Logistics is a business of trust and risk. Gain control with logistics technology that delivers real-time visibility and actionable intelligence.
+                Gain control with logistics technology that delivers real-time visibility, actionable intelligence and peace of mind.
             </p>
           </div>
         </div>
       </section>
 
+      {/* Vendor Portal Section */}
+      <section className="py-20 bg-white">
+        <div className="max-w-7xl mx-auto px-5">
+          <div className="grid md:grid-cols-2 gap-12 items-center">
+            <div>
+              <div className="inline-block bg-blue-50 text-[#1B2845] px-4 py-2 rounded-full text-sm mb-4 border border-blue-100">
+                Vendor Tracking Portal
+              </div>
+              <h3 className="text-4xl font-bold text-[#1B2845] mb-6">Custom Logistics Tracking Software</h3>
+              <p className="text-gray-600 mb-6">
+                K&T Textiles has developed a proprietary vendor tracking portal that provides real-time visibility into your shipments. Our custom logistics software gives you complete transparency and control over your textile exports.
+              </p>
+              <div className="space-y-4 mb-8">
+                <div className="flex items-start gap-3">
+                  <div className="mt-1 bg-green-100 p-1 rounded-full">
+                    <svg className="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                  </div>
+                  <div>
+                    <h3 className="font-medium text-[#1B2845]">Real-Time Tracking</h3>
+                    <p className="text-gray-600">Monitor your shipments with GPS precision across oceans and continents</p>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <div className="mt-1 bg-green-100 p-1 rounded-full">
+                    <svg className="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                  </div>
+                  <div>
+                    <h3 className="font-medium text-[#1B2845]">Environmental Monitoring</h3>
+                    <p className="text-gray-600">Track temperature, humidity, and conditions for sensitive textile products</p>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <div className="mt-1 bg-green-100 p-1 rounded-full">
+                    <svg className="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                  </div>
+                  <div>
+                    <h3 className="font-medium text-[#1B2845]">Secure Vendor Portal</h3>
+                    <p className="text-gray-600">Password-protected access to your company's specific tracking devices</p>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <div className="mt-1 bg-green-100 p-1 rounded-full">
+                    <svg className="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                  </div>
+                  <div>
+                    <h3 className="font-medium text-[#1B2845]">Supply Chain Visualization</h3>
+                    <p className="text-gray-600">End-to-end visibility of your entire supply chain in one intuitive dashboard</p>
+                  </div>
+                </div>
+              </div>
+              <Link href="/vendor/login" 
+                 className="inline-flex items-center px-6 py-3 bg-[#1B2845] text-white rounded-lg font-medium hover:bg-[#34495e] transition-all duration-300 shadow-md hover:shadow-lg">
+                Try Vendor Portal
+                <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                </svg>
+              </Link>
+            </div>
+            <div className="relative">
+              <div className="absolute -inset-4 bg-gradient-to-r from-blue-100 to-indigo-100 rounded-2xl transform -rotate-2"></div>
+              <div className="absolute inset-0 bg-white/40 backdrop-blur-sm rounded-2xl transform rotate-1"></div>
+              <div className="relative rounded-xl overflow-hidden shadow-2xl border border-gray-200">
+                <Image
+                  src="/images/vendor-portal-dashboard.png"
+                  alt="K&T Textiles Vendor Portal Dashboard"
+                  width={800}
+                  height={600}
+                  className="w-full"
+                  priority
+                />
+              </div>
+              <div className="absolute -bottom-4 -right-4 bg-white rounded-full shadow-lg p-3 border border-gray-100">
+                <div className="bg-[#1B2845] text-white rounded-full w-12 h-12 flex items-center justify-center">
+                  <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Device Management Section */}
+      <section className="py-20 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-5">
+          <div className="grid md:grid-cols-2 gap-12 items-center">
+            <div className="order-2 md:order-1 relative">
+              <div className="absolute -inset-4 bg-gradient-to-r from-indigo-100 to-blue-100 rounded-2xl transform rotate-2"></div>
+              <div className="absolute inset-0 bg-white/40 backdrop-blur-sm rounded-2xl transform -rotate-1"></div>
+              <div className="relative rounded-xl overflow-hidden shadow-2xl border border-gray-200">
+                <Image
+                  src="/images/vendor-portal-device-detail.jpg"
+                  alt="K&T Textiles Vendor Portal Device Detail"
+                  width={800}
+                  height={600}
+                  className="w-full"
+                  priority
+                />
+              </div>
+              <div className="absolute -bottom-4 -left-4 bg-white rounded-full shadow-lg p-3 border border-gray-100">
+                <div className="bg-[#1B2845] text-white rounded-full w-12 h-12 flex items-center justify-center">
+                  <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <div className="order-1 md:order-2">
+              <div className="inline-block bg-blue-50 text-[#1B2845] px-4 py-2 rounded-full text-sm mb-4 border border-blue-100">
+                Advanced Device Management
+              </div>
+              <h3 className="text-4xl font-bold text-[#1B2845] mb-6">Peace of Mind Through Visibility</h3>
+              <p className="text-gray-600 mb-6">
+                Our logistics tracking software creates a clear, detailed story of your cargo's path with precise timestamps and locations — giving you the confidence that comes with complete visibility.
+              </p>
+              <div className="space-y-4 mb-8">
+                <div className="flex items-start gap-3">
+                  <div className="mt-1 bg-green-100 p-1 rounded-full">
+                    <svg className="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                  </div>
+                  <div>
+                    <h3 className="font-medium text-[#1B2845]">The Complete Picture</h3>
+                    <p className="text-gray-600">See the full story of your shipment with detailed, time-stamped location tracking</p>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <div className="mt-1 bg-green-100 p-1 rounded-full">
+                    <svg className="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                  </div>
+                  <div>
+                    <h3 className="font-medium text-[#1B2845]">Spot the Unexpected</h3>
+                    <p className="text-gray-600">Quickly identify when shipments appear in unexpected locations or take unusual routes</p>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <div className="mt-1 bg-green-100 p-1 rounded-full">
+                    <svg className="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                  </div>
+                  <div>
+                    <h3 className="font-medium text-[#1B2845]">Your Digital Paper Trail</h3>
+                    <p className="text-gray-600">Access historical records from a trusted 3rd party that complement your documentation and strengthen your records</p>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <div className="mt-1 bg-green-100 p-1 rounded-full">
+                    <svg className="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                  </div>
+                  <div>
+                    <h3 className="font-medium text-[#1B2845]">Shareable Insights</h3>
+                    <p className="text-gray-600">Create beautiful reports that tell the true story of your shipment's journey when you need them</p>
+                  </div>
+                </div>
+              </div>
+              <Link href="/vendor/login" 
+                 className="inline-flex items-center px-6 py-3 bg-[#1B2845] text-white rounded-lg font-medium hover:bg-[#34495e] transition-all duration-300 shadow-md hover:shadow-lg">
+                Access Portal
+                <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                </svg>
+              </Link>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Technology Section */}
-      <section className="py-8 bg-gray-50">
+      <section className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-5">
           <div className="max-w-3xl mx-auto text-center mb-12">
-            <h2 className="text-3xl font-bold text-[#1B2845] mb-4">The State of Modern Logistics Technology</h2>
+            <div className="inline-block bg-blue-50 text-[#1B2845] px-4 py-2 rounded-full text-sm mb-4 border border-blue-100">
+              Technology Deep Dive
+            </div>
+            <h2 className="text-4xl font-bold text-[#1B2845] mb-4">The State of Modern Logistics Technology</h2>
             <p className="text-gray-600 text-lg leading-relaxed mb-4">
               Today's tracking solutions offer unprecedented capabilities that transform how businesses manage their supply chains.
             </p>
@@ -382,18 +569,17 @@ export default function LogisticsPage() {
           </div>
         </div>
       </section>
-
-      {/* CTA Section */}
       <CTA 
-        title="Ready to Enhance Your Logistics Security?"
+        title="Ready to Enhance Your Logistics?"
         description="Contact us to learn more about implementing advanced tracking solutions for your valuable cargo."
         buttons={[
-          {
-            text: "Contact Sales",
-            href: `mailto:${CONTACT.email}`,
-            variant: "secondary",
-            isExternal: true
-          }
+          <AnimatedButtonOutline
+            href={`mailto:${CONTACT.email}`}
+            isExternal={true}
+            textSize="text-xl"
+          >
+            <span className="font-bold">Contact Sales</span>
+          </AnimatedButtonOutline>
         ]}
       />
     </div>

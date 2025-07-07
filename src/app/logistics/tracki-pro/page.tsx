@@ -1,7 +1,7 @@
-import Image from "next/image";
 import Link from "next/link";
 import { CTA } from "@/components/CTA";
 import { CONTACT } from "@/constants/contact";
+import { AnimatedButtonOutline } from "@/components/AnimatedButtonOutline";
 
 export default function TrackiProPage() {
   return (
@@ -193,12 +193,13 @@ export default function TrackiProPage() {
         title="Ready to Transform Your Tracking?"
         description="Join thousands of businesses that trust Tracki Pro for their most valuable assets. Experience the perfect blend of durability, reliability, and intelligent tracking."
         buttons={[
-          {
-            text: "Contact Sales",
-            href: `mailto:${CONTACT.email}`,
-            variant: "secondary",
-            isExternal: true
-          }
+          <AnimatedButtonOutline
+            href={`mailto:${CONTACT.email}`}
+            isExternal={true}
+            textSize="text-xl"
+          >
+            <span className="font-bold">Contact Sales</span>
+          </AnimatedButtonOutline>
         ]}
       />
     </div>

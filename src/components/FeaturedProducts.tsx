@@ -1,23 +1,69 @@
-import Image from "next/image";
-import Link from "next/link";
+import { ProductCard } from "./ProductCard";
+
+// Function to strip HTML tags and decode HTML entities
+function stripHtml(html: string): string {
+  return html
+    .replace(/<[^>]*>/g, '') // Remove HTML tags
+    .replace(/&nbsp;/g, ' ') // Replace &nbsp; with space
+    .replace(/&rsquo;/g, "'") // Replace &rsquo; with apostrophe
+    .replace(/&amp;/g, '&') // Replace &amp; with &
+    .replace(/&lt;/g, '<') // Replace &lt; with <
+    .replace(/&gt;/g, '>') // Replace &gt; with >
+    .replace(/&quot;/g, '"') // Replace &quot; with "
+    .trim(); // Remove leading/trailing whitespace
+}
+
+interface ProductVariation {
+  item_variation_id: string;
+  item_index: string;
+  rothco_item_no: string;
+  upc: string;
+  inventory: string;
+  created_date: null;
+  weight: string;
+  image_filename: string;
+  catalog_page_no: null;
+  msrp: number;
+  ship_length: string;
+  ship_width: string;
+  ship_height: string;
+  eta_date: string;
+  specs: {
+    color: string;
+  };
+  color: string;
+  price: number;
+  case_price: number;
+  case_quantity: number;
+  statuses: string;
+}
 
 interface Product {
-  name: string;
-  image: string;
+  item_index: string;
+  item_name: string;
+  has_restrictions: string;
+  controlled_by_map: string;
+  video_link: string;
+  rating: string;
+  item_short_desc: string;
+  no_ratings: null;
+  sort_order: null;
   description: string;
-  features: string[];
-  price: number;
-  video?: string;
-  rank?: string;
+  selection_groups: string[];
+  statuses: string;
+  categories: string[];
+  variations: ProductVariation[];
+  selectedVariationItemNo?: string;
 }
 
 interface FeaturedProductsProps {
   title: string;
   products: Product[];
   sectionId: string;
+  supplier: string;
 }
 
-export function FeaturedProducts({ title, products, sectionId }: FeaturedProductsProps) {
+export function FeaturedProducts({ title, products, sectionId, supplier }: FeaturedProductsProps) {
   return (
     <section className="featured-products bg-white">
       <div className="max-w-7xl mx-auto px-5 py-12">
@@ -26,43 +72,25 @@ export function FeaturedProducts({ title, products, sectionId }: FeaturedProduct
             {title}
           </h3>
           <div className="grid md:grid-cols-3 gap-8">
-            {products.map((product, index) => (
-              <div key={index} className="bg-white rounded-lg border border-gray-100 overflow-hidden">
-                <div className="h-64 bg-gray-50 relative">
-                  <Image
-                    src={product.image}
-                    alt={product.name}
-                    fill
-                    className="object-contain"
-                    sizes="(max-width: 768px) 100vw, 33vw"
-                  />
-                  {product.video && (
-                    <Link 
-                      href={product.video}
-                      target="_blank"
-                      className="absolute bottom-4 right-4 bg-gray-800/80 text-white px-3 py-1.5 rounded text-sm hover:bg-gray-800 transition-colors"
-                    >
-                      Watch Video
-                    </Link>
-                  )}
-                </div>
-                <div className="p-6">
-                  <h4 className="text-xl font-semibold text-gray-900 mb-3">{product.name}</h4>
-                  <p className="text-gray-600 mb-4">{product.description}</p>
-                  <ul className="space-y-2 mb-4">
-                    {product.features.map((feature, i) => (
-                      <li key={i} className="flex items-center text-sm text-gray-600">
-                        <span className="text-gray-400 mr-2">•</span>
-                        {feature}
-                      </li>
-                    ))}
-                  </ul>
-                  <div className="text-right pt-2 border-t border-gray-100">
-                    <span className="text-lg font-medium text-gray-900">${product.price.toFixed(2)}</span>
-                  </div>
-                </div>
-              </div>
-            ))}
+            {products.map((product, index) => {
+              const selectedVariation = product.selectedVariationItemNo 
+                ? product.variations.find(v => v.rothco_item_no === product.selectedVariationItemNo) || product.variations[0]
+                : product.variations[0];
+              return (
+                <ProductCard
+                  key={product.item_index || index}
+                  id={product.item_index || `product-${index}`}
+                  name={product.item_name}
+                  itemNumber={selectedVariation.rothco_item_no}
+                  price={selectedVariation.price}
+                  image={`/${supplier}/images/${selectedVariation.image_filename}`}
+                  description={stripHtml(product.item_short_desc)}
+                  supplier={supplier}
+                  features={[]}
+                  layout="vertical"
+                />
+              );
+            })}
           </div>
         </div>
       </div>

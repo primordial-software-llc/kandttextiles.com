@@ -1,5 +1,6 @@
 import { CONTACT } from '@/constants/contact';
 
+// Products have category and variations joined from their respective API's.
 export const rothcoData = {
   hero: {
     title: "Rothco Tactical & Outdoor Gear",
@@ -76,6 +77,240 @@ Get authentic Rothco gear below MSRP, with bulk discounts and expert internation
       ]
     }
   },
+  products: [
+    {
+      "item_index": "5170",
+      "item_name": "Rothco Waveguard Waterproof Crossbody Bag",
+      "has_restrictions": "0",
+      "controlled_by_map": "0",
+      "video_link": "https://youtu.be/3cZD95_oV70?si=x1jTqrXEOSd9jAoj",
+      "rating": "5.0000",
+      "item_short_desc": "<p>Gear up with the Waveguard Waterproof Crossbody Bag. Engineered with a heavy-duty three-layer waterproof vinyl tarpaulin shell and waterproof zipper, the watertight waist pack ensures your essentials remain secure, organized, and dry. As part of Rothco&rsquo;s Waveguard collection, this waterproof bag is fully submersible and meets IPX7 waterproof standards, ideal for water sport enthusiasts, outdoor adventurers, and avid travelers.</p>",
+      "no_ratings": null,
+      "sort_order": null,
+      "description": "<p>Gear up&nbsp;with the Waveguard Waterproof Crossbody Bag. Engineered with a heavy-duty three-layer waterproof vinyl tarpaulin shell and waterproof zipper, the watertight waist pack ensures your essentials remain secure, organized, and dry. As part of Rothco&rsquo;s Waveguard collection, this waterproof bag is fully submersible and meets IPX7 waterproof standards, ideal for water sport enthusiasts, outdoor adventurers, and avid travelers. Tension-Locked Waterproof Zipper: For optimal performance and protection, our Waveguard bags feature waterproof zippers that are designed with a secure zipper seal that increases tension. To ensure a full closure, always zip the waterproof dry bag completely to maintain waterproof performance. Compact &amp; Lightweight: Built with practicality and comfort, the day bag keeps your possessions close to you, right where you need them. Compact and designed to fit comfortably between your shoulder blades, this crossbody organizer bag has a 2.2L capacity that is ideal for travel and measures 8.75 inch x 5.5 inch x 3 inch. Utility at the Forefront: These waterproof waist packs come equipped with an adjustable shoulder / waist strap for a comfortable carry while exploring the great outdoors. These compact travel bags feature MOLLE loops on the front for accessory attachment. Adventure Ready: Whether you&rsquo;re on a rafting trip or spending a day out on the beach, our Waveguard waterproof bags allow you to keep your everyday carry essentials protected and are perfect for kayaking, canoeing, boating, camping, and hiking.</p>",
+      "selection_groups": [
+          "color"
+      ],
+      "statuses": "",
+      "categories": [
+        {
+            "id": "757",
+            "category_name": "Waveguard Waterproof Bag Collection",
+            "sort_order": "0",
+            "parents": [
+                "1"
+            ]
+        },
+        {
+            "id": "2",
+            "category_name": "New Arrivals",
+            "sort_order": "2",
+            "parents": [
+                "0"
+            ]
+        },
+        {
+            "id": "650",
+            "category_name": "Cross Body Bags & Waist Packs",
+            "sort_order": "5",
+            "parents": [
+                "205"
+            ]
+        }
+    ],
+      variations: [
+        {
+            "item_variation_id": "30781",
+            "item_index": "5170",
+            "rothco_item_no": "12440",
+            "upc": "613902054820",
+            "inventory": "99",
+            "created_date": null,
+            "weight": "0.5000",
+            "image_filename": "12441-A2.jpg",
+            "catalog_page_no": null,
+            "msrp": 38.99,
+            "ship_length": "9.0000",
+            "ship_width": "6.0000",
+            "ship_height": "1.5000",
+            "eta_date": "In Stock",
+            "specs": {
+                "color": "Black"
+            },
+            "color": "Black",
+            "price": 17.5,
+            "case_price": 17.5,
+            "case_quantity": 1,
+            "statuses": ""
+        },
+        {
+            "item_variation_id": "30786",
+            "item_index": "5170",
+            "rothco_item_no": "12441",
+            "upc": "613902054882",
+            "inventory": "99",
+            "created_date": null,
+            "weight": "0.5000",
+            "image_filename": "12441-A.jpg",
+            "catalog_page_no": null,
+            "msrp": 38.99,
+            "ship_length": "9.0000",
+            "ship_width": "6.0000",
+            "ship_height": "1.5000",
+            "eta_date": "In Stock",
+            "specs": {
+                "color": "Olive Drab"
+            },
+            "color": "Olive Drab",
+            "price": 17.5,
+            "case_price": 17.5,
+            "case_quantity": 1,
+            "statuses": ""
+        },
+        {
+            "item_variation_id": "30787",
+            "item_index": "5170",
+            "rothco_item_no": "12442",
+            "upc": "613902054899",
+            "inventory": "99",
+            "created_date": null,
+            "weight": "0.5000",
+            "image_filename": "12441-A1.jpg",
+            "catalog_page_no": null,
+            "msrp": 38.99,
+            "ship_length": "9.0000",
+            "ship_width": "6.0000",
+            "ship_height": "1.5000",
+            "eta_date": "In Stock",
+            "specs": {
+                "color": "Desert Sand"
+            },
+            "color": "Desert Sand",
+            "price": 17.5,
+            "case_price": 17.5,
+            "case_quantity": 1,
+            "statuses": ""
+        }
+      ]
+    },
+    {
+      "item_index": "5168",
+      "item_name": "Rothco Waveguard Waterproof Backpack",
+      "has_restrictions": "0",
+      "controlled_by_map": "1",
+      "video_link": "https://youtu.be/3cZD95_oV70?si=syzLCkSxJVge4VyI",
+      "rating": "5.0000",
+      "item_short_desc": "<p>Gear up&nbsp;with the Waveguard Waterproof Backpack. Engineered with a heavy-duty three-layer waterproof vinyl tarpaulin shell, waterproof zippers, and tension pull tabs, the watertight backpack ensures your gear and essentials remain secure, organized, and dry. As part of Rothco&rsquo;s Waveguard collection, this waterproof bag is fully submersible and meets IPX7 waterproof standards, ideal for water sport enthusiasts, outdoor adventurers, and avid travelers.</p>",
+      "no_ratings": null,
+      "sort_order": null,
+      "description": "<p>Gear up with the Waveguard Waterproof Backpack. Engineered with a heavy-duty three-layer waterproof vinyl tarpaulin shell, waterproof zippers, and tension pull tabs, the watertight backpack ensures your gear and essentials remain secure, organized, and dry. As part of Rothco&rsquo;s Waveguard collection, this waterproof bag is fully submersible and meets IPX7 waterproof standards, ideal for water sport enthusiasts, outdoor adventurers, and avid travelers. Tension-Locked Waterproof Zippers: For optimal performance and protection, our Waveguard bags feature waterproof zippers that are designed with a secure zipper seal that increases tension. To ensure a full closure, always zip the waterproof dry bag completely to maintain waterproof performance; use the pull tabs for leverage when needed. All-in-One Storage: The dry bag features a main compartment and front pouch with waterproof zippers for keeping your possessions dry, along with an adjustable mesh bottle pouch on the side for additional storage. The waterproof rucksack has a 15.6L capacity and measures 16.5 inch x 11 inch x 5.25 inch overall. Utility at the Forefront: These kayak backpacks come equipped with adjustable padded shoulder straps and sternum strap for providing the perfect fit and feel while exploring the great outdoors. These waterproof hiking backpacks feature MOLLE loops for gear attachment and a molded top handle for quick and easy handling. Adventure Ready: Whether you&rsquo;re on a rafting trip or spending a day out on the beach, our Waveguard waterproof bags allow you to keep your outdoor gear protected and are perfect for kayaking, canoeing, boating, camping, and hiking.</p>",
+      "selection_groups": [
+          "color"
+      ],
+      "statuses": "",
+      "categories": [
+          {
+            "id": "757",
+            "category_name": "Waveguard Waterproof Bag Collection",
+            "sort_order": "0",
+            "parents": [
+                "1"
+            ]
+        },
+        {
+            "id": "2",
+            "category_name": "New Arrivals",
+            "sort_order": "2",
+            "parents": [
+                "0"
+            ]
+        },
+        {
+            "id": "204",
+            "category_name": "Backpacks ",
+            "sort_order": "2",
+            "parents": [
+                "200"
+            ]
+        }
+      ],
+      variations: [
+        {
+          "item_variation_id": "30779",
+          "item_index": "5168",
+          "rothco_item_no": "12420",
+          "upc": "613902054806",
+          "inventory": "99",
+          "created_date": null,
+          "weight": "1.4000",
+          "image_filename": "12420-A.jpg",
+          "catalog_page_no": null,
+          "msrp": 98.99,
+          "ship_length": "18.0000",
+          "ship_width": "13.0000",
+          "ship_height": "2.0000",
+          "eta_date": "In Stock",
+          "specs": {
+              "color": "Black"
+          },
+          "color": "Black",
+          "price": 44.95,
+          "case_price": 44.95,
+          "case_quantity": 1,
+          "statuses": ""
+      },
+      {
+          "item_variation_id": "30782",
+          "item_index": "5168",
+          "rothco_item_no": "12421",
+          "upc": "613902054837",
+          "inventory": "99",
+          "created_date": null,
+          "weight": "1.4000",
+          "image_filename": "12421-A.jpg",
+          "catalog_page_no": null,
+          "msrp": 98.99,
+          "ship_length": "18.0000",
+          "ship_width": "13.0000",
+          "ship_height": "2.0000",
+          "eta_date": "In Stock",
+          "specs": {
+              "color": "Olive Drab"
+          },
+          "color": "Olive Drab",
+          "price": 44.95,
+          "case_price": 44.95,
+          "case_quantity": 1,
+          "statuses": ""
+      },
+      {
+          "item_variation_id": "30783",
+          "item_index": "5168",
+          "rothco_item_no": "12422",
+          "upc": "613902054844",
+          "inventory": "99",
+          "created_date": null,
+          "weight": "1.4000",
+          "image_filename": "12422-A.jpg",
+          "catalog_page_no": null,
+          "msrp": 98.99,
+          "ship_length": "18.0000",
+          "ship_width": "13.0000",
+          "ship_height": "2.0000",
+          "eta_date": "In Stock",
+          "specs": {
+              "color": "Desert Sand"
+          },
+          "color": "Desert Sand",
+          "price": 44.95,
+          "case_price": 44.95,
+          "case_quantity": 1,
+          "statuses": ""
+      }]
+  }
+
+  ],
   featuredProducts: [
     {
         name: "Tactical Desert Shemagh",
@@ -149,61 +384,7 @@ Get authentic Rothco gear below MSRP, with bulk discounts and expert internation
       }
   ],
   featuredProductGroups: [
-    {
-      name: "IPX7 Military Waterproof Bags",
-      products: [
-        {
-          name: "Rothco Waveguard Waterproof Crossbody Bag",
-          image: "/rothco/12440-waterproof-bag/12441-A2.jpg",
-          description: "Engineered with heavy-duty three-layer waterproof vinyl tarpaulin shell and waterproof zipper. Fully submersible and meets IPX7 waterproof standards, ideal for water sports and outdoor adventures.",
-          features: [
-            "IPX7 Waterproof Standards",
-            "2.2L Capacity (8.75\" x 5.5\" x 3\")",
-            "Tension-Locked Waterproof Zipper",
-            "MOLLE Loops for Accessory Attachment",
-            "Adjustable Shoulder/Waist Strap",
-            "Available in 3 Colors"
-          ],
-          itemNumber: "12440",
-          price: 38.99
-        },
-        {
-          name: "Rothco Waveguard Waterproof Backpack",
-          image: "/rothco/12422-waterproof-bag/12422-A.jpg",
-          description: "Engineered with heavy-duty three-layer waterproof vinyl tarpaulin shell, waterproof zippers, and tension pull tabs. Fully submersible and meets IPX7 waterproof standards, perfect for water sports and outdoor adventures.",
-          features: [
-            "IPX7 Waterproof Standards",
-            "15.6L Capacity (16.5\" x 11\" x 5.25\")",
-            "Tension-Locked Waterproof Zippers",
-            "MOLLE Loops for Gear Attachment",
-            "Adjustable Padded Shoulder & Sternum Straps",
-            "Molded Top Handle",
-            "Main Compartment + Front Pouch",
-            "Side Mesh Bottle Pouch",
-            "Available in 3 Colors"
-          ],
-          itemNumber: "12422",
-          price: 98.99
-        },
-        {
-          name: "Rothco Waveguard Waterproof Duffle Bag",
-          image: "/rothco/12431-waterproof-bag/12431-A.jpg",
-          description: "Engineered with heavy-duty three-layer waterproof vinyl tarpaulin shell and waterproof zipper. Fully submersible and meets IPX7 waterproof standards, ideal for water sports and outdoor adventures.",
-          features: [
-            "IPX7 Waterproof Standards",
-            "20L Capacity (19\" x 9\")",
-            "Tension-Locked Waterproof Zipper",
-            "MOLLE Loops for Gear Attachment",
-            "Removable Adjustable Shoulder Strap",
-            "Dual Web Carry Handles with Handle Wrap",
-            "Inner Mesh Accessory Pouch",
-            "Available in 3 Colors"
-          ],
-          itemNumber: "12431",
-          price: 76.99
-        }
-      ]
-    },
+    
     {
       name: "Steel & Composite Toe + Shank Boots",
       products: [
@@ -256,59 +437,6 @@ Get authentic Rothco gear below MSRP, with bulk discounts and expert internation
           ],
           itemNumber: "5358",
           price: 103.99
-        }
-      ]
-    },
-    {
-      name: "Concealed Carry Knives",
-      products: [
-        {
-          name: "Rothco Black Raider II Boot Knife",
-          image: "/rothco/3139-knife/3139.jpg",
-          description: "Features a 3-inch matte black stainless steel blade designed in classic dagger style for precision and effectiveness. Comes with sturdy leather sheath that has clip and snap closure for secure storage and easy accessibility.",
-          features: [
-            "3-Inch Matte Black Stainless Steel Blade",
-            "Classic Dagger Style Design",
-            "Leather Sheath with Clip & Snap Closure",
-            "Versatile Attachment Options",
-            "6½ Inch Total Length",
-            "Compact & Portable Design",
-            "Corrosion Resistant Finish"
-          ],
-          itemNumber: "3139",
-          price: 21.99
-        },
-        {
-          name: "Ka-bar Dozier Folding Hunter Knife",
-          image: "/rothco/3290-knife/3290-hr1.jpg",
-          description: "Features a 3-inch blade ideal for precise cutting and easy handling. Made with AUS 8A stainless steel for excellent edge retention and corrosion resistance with reliable liner lock for safe and secure use.",
-          features: [
-            "3-Inch AUS 8A Stainless Steel Blade",
-            "Reliable Liner Lock Mechanism",
-            "Lightweight Non-Slip Grip Handle",
-            "Sturdy Belt Clip Included",
-            "Excellent Edge Retention",
-            "Corrosion Resistant",
-            "Compact Design for Easy Carry"
-          ],
-          itemNumber: "3290",
-          price: 49.99
-        },
-        {
-          name: "Rothco Neck Knife With Sheath",
-          image: "/rothco/3671-knife/3671-hr1.jpg",
-          description: "Ultra-compact neck knife designed for discrete carry and emergency use. Perfect for survival situations, outdoor activities, and as a backup blade for tactical applications.",
-          features: [
-            "Compact Fixed Blade Design",
-            "Lightweight Construction",
-            "Includes Secure Sheath",
-            "Discrete Carry Profile",
-            "Emergency Ready",
-            "Durable Build Quality",
-            "Easy Concealment"
-          ],
-          itemNumber: "3671",
-          price: 25.99
         }
       ]
     }

@@ -1,13 +1,11 @@
 import Image from "next/image";
 import Link from "next/link";
-import { CONTACT } from '@/constants/contact';
 import { harkenData } from '@/data/suppliers/harken';
 import { BaseStructuredData } from '@/components/BaseStructuredData';
 import { ProductStructuredData } from '@/components/ProductStructuredData';
 import ProductSlideshow from '@/components/ProductSlideshow';
 import { BrandHero } from '@/components/BrandHero';
 import { FeaturedProducts } from '@/components/FeaturedProducts';
-import { Footer } from '@/components/Footer';
 
 export const metadata = {
   title: "Harken Marine Hardware | Authorized Seller",
@@ -182,8 +180,6 @@ export default function Suppliers() {
           </div>
         </section>
       </main>
-
-      <Footer variant="dark" />
     </>
   );
 } 
