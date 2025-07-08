@@ -64,13 +64,13 @@ export default async function ProductPage({ params }: ProductPageProps) {
     return relatedProductsData.map(relatedProduct => {
       const firstVariation = relatedProduct.variations[0];
       return {
-        id: `rothco-product-${relatedProduct.item_index}`,
+        id: `${relatedProduct.item_index}`,
         name: relatedProduct.item_name,
         itemNumber: firstVariation.rothco_item_no,
         price: firstVariation.msrp,
         image: `/rothco/${firstVariation.image_filename}`,
         description: relatedProduct.item_short_desc.replace(/<[^>]*>/g, ''),
-        supplier: "Rothco",
+        supplier: "rothco",
         features: ["Premium Quality", "Military Grade", "Durable Construction"],
         specifications: {
           "Item Number": firstVariation.rothco_item_no,

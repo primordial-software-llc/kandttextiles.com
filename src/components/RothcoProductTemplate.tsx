@@ -10,6 +10,36 @@ import { ProductCard } from "@/components/ProductCard";
 import { CTA } from "@/components/CTA";
 import { CONTACT } from "@/constants/contact";
 
+// Custom CSS animations
+const buttonStyles = `
+  @keyframes pulse-glow {
+    0%, 100% { box-shadow: 0 0 5px rgba(45, 74, 45, 0.5), 0 0 10px rgba(45, 74, 45, 0.3), 0 0 15px rgba(45, 74, 45, 0.1); }
+    50% { box-shadow: 0 0 10px rgba(45, 74, 45, 0.8), 0 0 20px rgba(45, 74, 45, 0.6), 0 0 30px rgba(45, 74, 45, 0.4); }
+  }
+  
+  @keyframes rotate-border {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  
+  @keyframes click-ripple {
+    0% { transform: scale(0); opacity: 1; }
+    100% { transform: scale(4); opacity: 0; }
+  }
+  
+  .animate-pulse-glow {
+    animation: pulse-glow 2s ease-in-out infinite;
+  }
+  
+  .animate-rotate-border {
+    animation: rotate-border 3s linear infinite;
+  }
+  
+  .animate-click-ripple {
+    animation: click-ripple 0.6s ease-out;
+  }
+`;
+
 interface RothcoProductTemplateProps {
   productId: string;
   productData: any;
@@ -17,8 +47,20 @@ interface RothcoProductTemplateProps {
 }
 
 export function RothcoProductTemplate({ productId, productData, relatedProducts = [] }: RothcoProductTemplateProps) {
-  const [activeTab, setActiveTab] = useState<'specifications' | 'variations' | 'video'>('variations');
+  // Extract YouTube video ID from the URL
+  const getYouTubeVideoId = (url: string) => {
+    const regex = /(?:youtu\.be\/|youtube\.com\/(?:embed\/|v\/|watch\?v=|watch\?.+&v=))([^&\n?#]+)/;
+    const match = url.match(regex);
+    return match ? match[1] : null;
+  };
+  
+  const videoId = getYouTubeVideoId(productData.video_link || '');
+  
+  const [activeTab, setActiveTab] = useState<'specifications' | 'video'>(videoId ? 'video' : 'specifications');
   const [selectedVariation, setSelectedVariation] = useState(0);
+  const [selectedSpecs, setSelectedSpecs] = useState<Record<string, string>>({});
+  const [isClicked, setIsClicked] = useState(false);
+  const [clickPosition, setClickPosition] = useState({ x: 0, y: 0 });
 
   // Get the selected variation for pricing and image data
   const currentVariation = productData.variations[selectedVariation];
@@ -29,30 +71,64 @@ export function RothcoProductTemplate({ productId, productData, relatedProducts 
   // Get all categories for the product
   const productCategories = productData.categories.map((cat: any) => cat.category_name);
   
-  // Extract YouTube video ID from the URL
-  const getYouTubeVideoId = (url: string) => {
-    const regex = /(?:youtu\.be\/|youtube\.com\/(?:embed\/|v\/|watch\?v=|watch\?.+&v=))([^&\n?#]+)/;
-    const match = url.match(regex);
-    return match ? match[1] : null;
+  // Analyze what properties make variations different
+  const getVariationProperties = () => {
+    if (!productData.variations?.length) return [];
+    
+    // Get all unique spec keys across all variations
+    const allSpecKeys = new Set();
+    productData.variations.forEach((variation: any) => {
+      if (variation.specs) {
+        Object.keys(variation.specs).forEach(key => allSpecKeys.add(key));
+      }
+    });
+    
+    return Array.from(allSpecKeys) as string[];
   };
   
-  const videoId = getYouTubeVideoId(productData.video_link || '');
-
-  // Color mapping for visual representation
-  const getColorClass = (color: string) => {
-    switch ((color || '').toLowerCase()) {
-      case 'black': return 'bg-black';
-      case 'olive drab': return 'bg-green-700';
-      case 'desert sand': return 'bg-yellow-600';
-      default: return 'bg-gray-500';
-    }
+  // Get unique values for each variation property
+  const getVariationOptions = (property: string) => {
+    const values = new Set();
+    productData.variations.forEach((variation: any) => {
+      if (variation.specs?.[property]) {
+        values.add(variation.specs[property]);
+      }
+    });
+    return Array.from(values) as string[];
   };
+  
+  const variationProperties = getVariationProperties();
 
   // Generate product-specific email subject and body
   const getEmailSubject = () => `${productData.item_name} Quote Request`;
   const getEmailBody = () => `I'm interested in the ${productData.item_name} (Item #${currentVariation.rothco_item_no}). Please send me pricing and availability information.`;
   const getOrderEmailSubject = () => `${productData.item_name} Order`;
   const getOrderEmailBody = () => `I'd like to place an order for the ${productData.item_name} (Item #${currentVariation.rothco_item_no}). Please send me wholesale pricing and shipping information.`;
+  
+  // Handle button click animation
+  const handleButtonClick = (e: React.MouseEvent<HTMLAnchorElement>) => {
+    const rect = e.currentTarget.getBoundingClientRect();
+    const x = e.clientX - rect.left;
+    const y = e.clientY - rect.top;
+    setClickPosition({ x, y });
+    setIsClicked(true);
+    
+    // Reset animation after it completes
+    setTimeout(() => setIsClicked(false), 600);
+  };
+  
+  // Format variation specs for display
+  const getVariationDisplayName = () => {
+    if (!currentVariation.specs) return '';
+    
+    return Object.entries(currentVariation.specs)
+      .map(([key, value]) => {
+        // Convert snake_case to Title Case
+        const titleKey = key.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+        return `${titleKey} ${value}`;
+      })
+      .join(' - ');
+  };
   
   const product = {
     name: productData.item_name,
@@ -84,6 +160,8 @@ export function RothcoProductTemplate({ productId, productData, relatedProducts 
 
   return (
     <div className="min-h-screen bg-gray-50">
+      {/* Inject custom animations */}
+      <style jsx>{buttonStyles}</style>
       {/* Hero Section */}
       <section className="relative bg-gradient-to-br from-[#0f172a] via-[#1e293b] to-[#334155] text-white min-h-[60vh] flex items-center">
         {/* Background Pattern */}
@@ -115,57 +193,142 @@ export function RothcoProductTemplate({ productId, productData, relatedProducts 
                   {product.description}
                 </p>
 
-                {/* Color Variations */}
-                <div className="space-y-4">
-                  <div className="flex items-center space-x-4">
-                    <span className="text-gray-300 font-medium">Color:</span>
-                    <span className="text-white font-semibold">{product.selectedColor}</span>
-                  </div>
-                  
-                  <div className="flex space-x-3">
-                    {product.variations.map((variation: any, index: number) => (
-                      <button
-                        key={variation.item_variation_id}
-                        onClick={() => setSelectedVariation(index)}
-                        className={`relative w-12 h-12 rounded-lg border-2 transition-all duration-200 ${
-                          selectedVariation === index 
-                            ? 'border-white scale-110' 
-                            : 'border-gray-400 hover:border-gray-300'
-                        }`}
-                        title={variation.color}
-                      >
-                        <div className={`w-full h-full rounded-md ${getColorClass(variation.color)}`}></div>
-                        {selectedVariation === index && (
-                          <div className="absolute inset-0 flex items-center justify-center">
-                            <svg className="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
-                              <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
-                            </svg>
+                {/* Variation Selectors with Thumbnails */}
+                {product.variations.length > 0 && (
+                  <div className="space-y-4">
+                    <h3 className="text-white font-bold">Choose Your Option:</h3>
+                    <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
+                      {product.variations.map((variation: any, index: number) => {
+                        const isSelected = index === selectedVariation;
+                        const isAvailable = variation.inventory > 0;
+                        const isOutOfStock = variation.inventory === 0;
+                        
+                        return (
+                          <div
+                            key={variation.item_variation_id}
+                            onClick={() => {
+                              if (isAvailable) {
+                                setSelectedVariation(index);
+                              }
+                            }}
+                            className={`group relative bg-white rounded-lg p-3 transition-all duration-500 border-2 overflow-hidden ${
+                              isSelected 
+                                ? 'border-[#1B2845] shadow-lg transform scale-105 cursor-default' 
+                                : isAvailable
+                                  ? 'border-gray-200 hover:border-[#1B2845] hover:shadow-md cursor-pointer'
+                                  : 'border-gray-300 cursor-not-allowed opacity-60 grayscale'
+                            }`}
+                          >
+                            {/* Selected state borders */}
+                            {isSelected && (
+                              <>
+                                <div className="absolute top-0 left-0 w-full h-px bg-[#1B2845]"></div>
+                                <div className="absolute bottom-0 left-0 w-full h-px bg-[#1B2845]"></div>
+                                <div className="absolute left-0 top-0 w-px h-full bg-[#1B2845]"></div>
+                                <div className="absolute right-0 top-0 w-px h-full bg-[#1B2845]"></div>
+                              </>
+                            )}
+                            
+                            {/* Selection checkmark */}
+                            {isSelected && (
+                              <div className="absolute top-2 right-2 bg-[#1B2845] text-white rounded-full p-1 z-10">
+                                <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 20 20">
+                                  <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                                </svg>
+                              </div>
+                            )}
+                            
+                            {/* Image container */}
+                            <div className={`aspect-square rounded-md mb-2 flex items-center justify-center ${
+                              isSelected ? '' : 'group-hover:bg-gray-100'
+                            }`}>
+                              <Image 
+                                src={`/rothco/images/${variation.image_filename}`}
+                                alt={`${productData.item_name} variation`}
+                                width={200}
+                                height={200}
+                                className={`object-contain w-full h-full transition-transform duration-300 ${
+                                   isAvailable ? 'group-hover:scale-110' : ''
+                                }`}
+                              />
+                            </div>
+                            
+                            {/* Text content */}
+                            <div className="text-center space-y-1">
+                              <p className={`text-sm font-medium transition-colors duration-300 ${
+                                isSelected 
+                                  ? 'text-[#1B2845] font-bold' 
+                                  : isAvailable 
+                                    ? 'text-gray-900 group-hover:text-[#1B2845]' 
+                                    : 'text-gray-400'
+                              }`}>
+                                {variation.specs && Object.entries(variation.specs).map(([key, value]) => String(value)).join(' / ')}
+                              </p>
+                              <p className={`text-xs font-semibold transition-colors duration-300 ${
+                                isSelected 
+                                  ? 'text-[#1B2845]' 
+                                  : isAvailable 
+                                    ? 'text-gray-600 group-hover:text-[#1B2845]' 
+                                    : 'text-gray-400'
+                              }`}>
+                                ${variation.msrp}
+                              </p>
+                              {isOutOfStock && (
+                                <p className="text-xs text-red-500 font-medium">Out of Stock</p>
+                              )}
+                            </div>
                           </div>
-                        )}
-                      </button>
-                    ))}
+                        );
+                      })}
+                    </div>
                   </div>
-                </div>
+                )}
               </div>
 
               {/* CTA Buttons */}
               <div className="flex flex-wrap gap-4">
-                <div className="group inline-block">
+                <div className="group inline-block transform transition-transform duration-300 hover:scale-105">
                   <a href={`mailto:${CONTACT.email}?subject=${getEmailSubject()}&body=${getEmailBody()}`} 
-                     className="relative inline-flex items-center w-44 justify-center py-4 text-white font-semibold transition-all duration-500 bg-gradient-to-r from-[#2d4a2d] to-[#1f3a1f] hover:from-[#3a5a3a] hover:to-[#2d4a2d] shadow-lg hover:shadow-2xl hover:shadow-[#2d4a2d]/25 overflow-hidden">
+                     onClick={handleButtonClick}
+                     className={`relative inline-flex items-center w-44 justify-center py-4 px-6 text-white font-semibold transition-all duration-500 ease-out bg-gradient-to-r from-[#2d4a2d] to-[#1f3a1f] hover:from-[#3a5a3a] hover:to-[#2d4a2d] shadow-lg hover:shadow-2xl hover:shadow-[#2d4a2d]/40 rounded-lg border border-[#2d4a2d]/20 hover:border-[#3a5a3a]/40 overflow-hidden backdrop-blur-sm hover:animate-pulse-glow ${isClicked ? 'scale-95' : ''}`}>
+                    
+                    {/* Rotating border on hover */}
+                    <div className="absolute -inset-0.5 bg-gradient-to-r from-[#2d4a2d] via-[#4a6a4a] to-[#2d4a2d] rounded-lg opacity-0 group-hover:opacity-20 group-hover:animate-rotate-border transition-opacity duration-500"></div>
+                    
+                    {/* Background glow effect */}
+                    <div className="absolute inset-0 bg-gradient-to-r from-[#2d4a2d]/20 to-[#1f3a1f]/20 opacity-0 group-hover:opacity-100 transition-opacity duration-700 blur-sm"></div>
                     
                     {/* Shine effect overlay */}
-                    <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/30 to-transparent transform -skew-x-12 -translate-x-full group-hover:translate-x-full transition-transform duration-1000"></div>
+                    <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/40 to-transparent transform -skew-x-12 -translate-x-full group-hover:translate-x-full transition-transform duration-1200 ease-out"></div>
                     
-                    {/* Pulse animation overlay */}
-                    <div className="absolute inset-0 bg-gradient-to-r from-[#2d4a2d]/50 to-[#1f3a1f]/50 opacity-0 group-hover:opacity-100 animate-pulse transition-opacity duration-500"></div>
+                    {/* Subtle inner glow */}
+                    <div className="absolute inset-0 bg-gradient-to-r from-white/10 via-transparent to-white/10 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
                     
-                    <span className="relative z-20 flex items-center">
-                      Get Quote
-                      <svg className="w-4 h-4 ml-2 transition-transform duration-500 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                    {/* Ripple effect on hover */}
+                    <div className="absolute inset-0 bg-white/10 opacity-0 group-hover:opacity-100 transform scale-75 group-hover:scale-100 transition-all duration-500 ease-out rounded-lg"></div>
+                    
+                    {/* Click ripple animation */}
+                    {isClicked && (
+                      <div 
+                        className="absolute bg-white/30 rounded-full animate-click-ripple pointer-events-none"
+                        style={{
+                          left: clickPosition.x - 8,
+                          top: clickPosition.y - 8,
+                          width: 16,
+                          height: 16,
+                        }}
+                      />
+                    )}
+                    
+                    <span className="relative z-20 flex items-center transform transition-transform duration-300 group-hover:translate-y-[-1px]">
+                      <span className="mr-2 transition-all duration-300 group-hover:tracking-wide">Get Quote</span>
+                      <svg className="w-4 h-4 transition-all duration-500 ease-out group-hover:translate-x-2 group-hover:scale-110 group-hover:rotate-12" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M9 5l7 7-7 7" />
                       </svg>
                     </span>
+                    
+                    {/* Bottom border accent */}
+                    <div className="absolute bottom-0 left-0 right-0 h-0.5 bg-gradient-to-r from-transparent via-white/30 to-transparent transform scale-x-0 group-hover:scale-x-100 transition-transform duration-500"></div>
                   </a>
                 </div>
 
@@ -177,6 +340,15 @@ export function RothcoProductTemplate({ productId, productData, relatedProducts 
             
             {/* Right Content - Product Image */}
             <div className="relative">
+              {/* Variation Name Display */}
+              {getVariationDisplayName() && (
+                <div className="absolute -top-8 left-0 right-0 z-20 pb-4">
+                  <h2 className="text-2xl font-bold text-white text-center drop-shadow-lg">
+                    {getVariationDisplayName()}
+                  </h2>
+                </div>
+              )}
+              
               <div className="relative bg-white rounded-2xl p-8 border border-white/10 overflow-hidden">
                 <div className="relative z-10 flex items-center justify-center">
                   <Image 
@@ -200,19 +372,6 @@ export function RothcoProductTemplate({ productId, productData, relatedProducts 
           {/* Tab Headers */}
           <div className="flex justify-center border-b border-gray-200 mb-16">
             <div className="flex space-x-8" role="tablist" aria-label="Product information">
-              <button
-                onClick={() => setActiveTab('variations')}
-                role="tab"
-                aria-selected={activeTab === 'variations'}
-                aria-controls="variations-panel"
-                className={`px-6 py-4 text-lg font-semibold transition-colors border-b-2 ${
-                  activeTab === 'variations'
-                    ? 'text-[#1B2845] border-[#1B2845]'
-                    : 'text-gray-500 border-transparent hover:text-[#1B2845]'
-                }`}
-              >
-                Variations
-              </button>
               {videoId && (
                 <button
                   onClick={() => setActiveTab('video')}
@@ -269,98 +428,7 @@ export function RothcoProductTemplate({ productId, productData, relatedProducts 
             </div>
           </div>
 
-          {/* Variations Panel - Always visible to crawlers */}
-          <div 
-            id="variations-panel"
-            role="tabpanel"
-            aria-labelledby="variations-tab"
-            className={activeTab === 'variations' ? 'block' : 'sr-only'}
-          >
-            <div className="text-center mb-12">
-              <h2 className="text-4xl font-bold text-[#1B2845] mb-6">Available Variations</h2>
-              <p className="text-gray-600 max-w-3xl mx-auto text-lg">
-                Choose from multiple color options, each with unique item numbers and specifications.
-              </p>
-            </div>
-            
-            <div className="max-w-5xl mx-auto">
-              <div className="grid md:grid-cols-1 lg:grid-cols-3 gap-6">
-                {product.variations.map((variation: any, index: number) => (
-                  <button 
-                    key={variation.item_variation_id} 
-                    onClick={() => setSelectedVariation(index)}
-                    className={`bg-gray-50 p-6 rounded-xl border transition-all duration-200 cursor-pointer hover:scale-105 ${
-                      selectedVariation === index 
-                        ? 'border-[#1B2845] shadow-lg' 
-                        : 'border-gray-200 hover:border-gray-300'
-                    }`}
-                  >
-                    {/* Product Image */}
-                    <div className="mb-4 flex justify-center">
-                      <div className="relative bg-white rounded-lg p-4 border border-gray-200">
-                        <Image 
-                          src={`/rothco/images/${variation.image_filename}`}
-                          alt={`${productData.item_name} - ${variation.color}`}
-                          width={120}
-                          height={120}
-                          className="object-contain max-w-full max-h-[120px]"
-                        />
-                      </div>
-                    </div>
 
-                    <div className="flex items-center justify-between mb-4">
-                      <div className="flex items-center space-x-3">
-                        <div className={`w-8 h-8 rounded-full ${getColorClass(variation.color)} border border-gray-300`}></div>
-                        <h3 className="font-semibold text-[#1B2845]">{variation.color}</h3>
-                      </div>
-                      {selectedVariation === index && (
-                        <span className="bg-[#1B2845] text-white text-xs px-2 py-1 rounded">Selected</span>
-                      )}
-                    </div>
-                    
-                    <div className="space-y-2 text-sm">
-                      <div className="flex justify-between">
-                        <span className="text-gray-600">Item #:</span>
-                        <span className="font-medium">{variation.rothco_item_no}</span>
-                      </div>
-                      <div className="flex justify-between">
-                        <span className="text-gray-600">UPC:</span>
-                        <span className="font-medium">{variation.upc}</span>
-                      </div>
-                      <div className="flex justify-between">
-                        <span className="text-gray-600">Weight:</span>
-                        <span className="font-medium">{variation.weight} lbs</span>
-                      </div>
-                      <div className="flex justify-between">
-                        <span className="text-gray-600">Status:</span>
-                        <span className="text-green-600 font-medium">{variation.eta_date}</span>
-                      </div>
-                      <div className="flex justify-between">
-                        <span className="text-gray-600">MSRP:</span>
-                        <span className="font-semibold text-[#1B2845]">${variation.msrp}</span>
-                      </div>
-                      
-                      {/* Display variation specs if they exist */}
-                      {variation.specs && Object.entries(variation.specs).map(([key, value]) => (
-                        <div key={key} className="flex justify-between">
-                          <span className="text-gray-600">{key.replace(/_/g, ' ').replace(/\b\w/g, (l: string) => l.toUpperCase())}:</span>
-                          <span className="font-medium">{String(value)}</span>
-                        </div>
-                      ))}
-                    </div>
-                    
-                    <div className={`w-full mt-4 py-2 px-4 rounded-lg font-medium text-center ${
-                      selectedVariation === index
-                        ? 'bg-[#1B2845] text-white'
-                        : 'bg-white text-[#1B2845] border border-[#1B2845]'
-                    }`}>
-                      {selectedVariation === index ? 'Selected' : 'Select This Color'}
-                    </div>
-                  </button>
-                ))}
-              </div>
-            </div>
-          </div>
 
           {/* Video Panel - Always visible to crawlers */}
           {videoId && (
