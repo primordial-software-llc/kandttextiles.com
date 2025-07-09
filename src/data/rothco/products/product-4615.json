@@ -1,0 +1,47 @@
+{
+  "item_index": "4615",
+  "item_name": "Rothco F-Bomb Patch With Hook Back - Coyote Brown",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s collection of morale patches, including the F-Bomb Patch, are great for attaching on a variety of gear, including tactical caps, combat shirts, jackets, vests and more.</p>",
+  "no_ratings": null,
+  "sort_order": "132928",
+  "description": "<p>Rothco&rsquo;s collection of morale patches, including the F-Bomb Patch, are great for attaching on a variety of gear, including tactical caps, combat shirts, jackets, vests and more. Measuring approximately 3&rdquo; X 1.25&rdquo;, the military patch features a high-quality material construction and a brown background and &ldquo;F&rdquo; letter, and a coyote brown &ldquo;Bomb Dropping&rdquo;.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "420",
+    "423",
+    "424"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19260",
+      "item_index": "4615",
+      "rothco_item_no": "1868",
+      "upc": "613902018686",
+      "inventory": "99",
+      "created_date": "2019-11-06 17:00:18",
+      "weight": "0.0094",
+      "image_filename": "1868-A-amazon.jpg",
+      "catalog_page_no": "215",
+      "msrp": 3.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

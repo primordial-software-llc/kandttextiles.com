@@ -1,0 +1,100 @@
+{
+  "item_index": "2332",
+  "item_name": "Rothco Adjustable Elastic X-Back Pant Suspenders",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Gear up with Rothco's Adjustable Elastic X-Back Pant Suspenders. Designed to keep your pants securely in place all day long, these suspenders boast a durable elastic construction for lasting comfort. The adjustable pant suspenders feature metal alligator clips on each end, ensuring a secure hold without the need for a belt. This design not only provides reliable support but also eliminates the discomfort often associated with tight belts.</p>",
+  "no_ratings": "0",
+  "sort_order": "2543",
+  "description": "<p>Gear up with Rothco's Adjustable Elastic X-Back Pant Suspenders. Designed to keep your pants securely in place all day long, these suspenders boast a durable elastic construction for lasting comfort. The adjustable pant suspenders feature metal alligator clips on each end, ensuring a secure hold without the need for a belt. This design not only provides reliable support but also eliminates the discomfort often associated with tight belts. Crafted from elastic material, these X-shaped suspenders offer exceptional flexibility and stretch, accommodating various body types and movements with ease. With a generous size of 42 inches long and 2 inches wide, they provide ample coverage and support for most individuals. One size fits most, making these suspenders a versatile accessory suitable for almost any pant style. Whether you're wearing jeans, trousers, or work pants, these suspenders offer reliable pant support without compromising on comfort. Ideal for everyday wear, work, or tactical operations, Rothco's Adjustable Elastic X-Back Pant Suspenders combine functionality with style. Upgrade your wardrobe essentials and enjoy long-lasting comfort and security with these dependable suspenders.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "386"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2920",
+      "item_index": "2332",
+      "rothco_item_no": "4194",
+      "upc": "613902419407",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4188",
+      "image_filename": "4194-Woodland_Camo-A-amazon1.jpg",
+      "catalog_page_no": "195",
+      "msrp": 19.99,
+      "ship_length": "8.5000",
+      "ship_width": "4.7500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo",
+        "size": "One Size"
+      },
+      "color": "Woodland Camo",
+      "size": "One Size",
+      "price": 7.75,
+      "case_price": 7.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2921",
+      "item_index": "2332",
+      "rothco_item_no": "4196",
+      "upc": "613902419605",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "4196-Black-A-amazon.jpg",
+      "catalog_page_no": "195",
+      "msrp": 17.99,
+      "ship_length": "8.5000",
+      "ship_width": "4.7500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 6.75,
+      "case_price": 6.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2924",
+      "item_index": "2332",
+      "rothco_item_no": "4199",
+      "upc": "613902419902",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4188",
+      "image_filename": "4199-OD-A-amazon1.jpg",
+      "catalog_page_no": "195",
+      "msrp": 17.99,
+      "ship_length": "8.5000",
+      "ship_width": "4.7500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 6.75,
+      "case_price": 6.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

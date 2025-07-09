@@ -1,0 +1,141 @@
+{
+  "item_index": "569",
+  "item_name": "Rothco Hickory Stripe Engineer Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p class=\"MsoNormal\">Embrace the classic railroad engineer style with Rothco's Hickory Stripe Engineer Cap. This iconic hat is constructed with a well-structured, sturdy, and heavyweight 100% cotton material, ensuring durability and shape retention. The crown of the cap features a single piece of cotton fabric, loosely folded and pleated to the hatband, giving it the recognizable vintage look and feel. Designed with the traditional blue and white, heavy hickory striped print, this engineer cap captures the essence of historical conductors.</p>",
+  "no_ratings": "0",
+  "sort_order": "2676",
+  "description": "<p class=\"MsoNormal\">Embrace the classic railroad engineer style with Rothco's Hickory Stripe Engineer Cap. This iconic hat is constructed with a well-structured, sturdy, and heavyweight 100% cotton material, ensuring durability and shape retention. The crown of the cap features a single piece of cotton fabric, loosely folded and pleated to the hatband, giving it the recognizable vintage look and feel. Designed with the traditional blue and white, heavy hickory striped print, this engineer cap captures the essence of historical conductors. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from military personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "374"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "4956",
+      "item_index": "569",
+      "rothco_item_no": "5448",
+      "upc": "613902544819",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "5448-B.jpg",
+      "catalog_page_no": "153",
+      "msrp": 12.99,
+      "ship_length": "6.0000",
+      "ship_width": "7.0000",
+      "ship_height": "5.0000",
+      "eta_date": "08/10/2025",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 5.65,
+      "case_price": 5.65,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "4957",
+      "item_index": "569",
+      "rothco_item_no": "5448",
+      "upc": "613902544826",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "5448-B.jpg",
+      "catalog_page_no": "153",
+      "msrp": 12.99,
+      "ship_length": "6.0000",
+      "ship_width": "7.0000",
+      "ship_height": "5.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 5.65,
+      "case_price": 5.65,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "4958",
+      "item_index": "569",
+      "rothco_item_no": "5448",
+      "upc": "613902544833",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "5448-B.jpg",
+      "catalog_page_no": "153",
+      "msrp": 12.99,
+      "ship_length": "6.0000",
+      "ship_width": "7.0000",
+      "ship_height": "5.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 5.65,
+      "case_price": 5.65,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "4959",
+      "item_index": "569",
+      "rothco_item_no": "5448",
+      "upc": "613902544840",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "5448-B.jpg",
+      "catalog_page_no": "153",
+      "msrp": 12.99,
+      "ship_length": "6.0000",
+      "ship_width": "7.0000",
+      "ship_height": "5.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 5.65,
+      "case_price": 5.65,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15847",
+      "item_index": "569",
+      "rothco_item_no": "5448",
+      "upc": "613902544857",
+      "inventory": "0",
+      "created_date": "2015-10-22 18:10:01",
+      "weight": "0.2000",
+      "image_filename": "5448-B.jpg",
+      "catalog_page_no": "153",
+      "msrp": 12.99,
+      "ship_length": "6.0000",
+      "ship_width": "7.0000",
+      "ship_height": "5.0000",
+      "eta_date": null,
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 5.65,
+      "case_price": 5.65,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

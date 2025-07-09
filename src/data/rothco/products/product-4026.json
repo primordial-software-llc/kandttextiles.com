@@ -1,0 +1,151 @@
+{
+  "item_index": "4026",
+  "item_name": "Rothco 'This Is My Rifle' T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's \"This Is My Rifle\" T-Shirt is a bold and iconic piece that pays homage to the famous Rifleman's Creed. Made from a comfortable yet durable cotton / polyester fabric blend, this printed t-shirt is designed for everyday wear while showcasing your appreciation for the classic creed. The front of the shirt features a striking printed rifle design along with the powerful words, \"This Is My Rifle. There Are Many Others Like It But This One Is Mine.\"</p>",
+  "no_ratings": null,
+  "sort_order": "1381",
+  "description": "<p>Rothco's \"This Is My Rifle\" T-Shirt is a bold and iconic piece that pays homage to the famous Rifleman's Creed. Made from a comfortable yet durable cotton / polyester fabric blend, this printed t-shirt is designed for everyday wear while showcasing your appreciation for the classic creed. The front of the shirt features a striking printed rifle design along with the powerful words, \"This Is My Rifle. There Are Many Others Like It But This One Is Mine.\" Whether you're a history enthusiast or simply looking for a comfortable tee with a strong message, this short sleeve shirt delivers both style and substance. The high-quality fabric ensures long-lasting wear, making it a versatile addition to your wardrobe. Wear it with pride, whether you're out for a casual day or making a statement.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "42"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15703",
+      "item_index": "4026",
+      "rothco_item_no": "61590",
+      "upc": "613902119505",
+      "inventory": "99",
+      "created_date": "2015-09-23 11:10:01",
+      "weight": "0.4500",
+      "image_filename": "61590-A1.jpg",
+      "catalog_page_no": "117",
+      "msrp": 19.99,
+      "ship_length": "15.0000",
+      "ship_width": "21.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Coyote Brown"
+      },
+      "size": "S",
+      "color": "Coyote Brown",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15704",
+      "item_index": "4026",
+      "rothco_item_no": "61590",
+      "upc": "613902237889",
+      "inventory": "99",
+      "created_date": "2015-09-23 11:10:01",
+      "weight": "0.4500",
+      "image_filename": "61590-A1.jpg",
+      "catalog_page_no": "117",
+      "msrp": 19.99,
+      "ship_length": "15.0000",
+      "ship_width": "21.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Coyote Brown"
+      },
+      "size": "M",
+      "color": "Coyote Brown",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15705",
+      "item_index": "4026",
+      "rothco_item_no": "61590",
+      "upc": "613902319509",
+      "inventory": "99",
+      "created_date": "2015-09-23 11:10:01",
+      "weight": "0.4500",
+      "image_filename": "61590-A1.jpg",
+      "catalog_page_no": "117",
+      "msrp": 19.99,
+      "ship_length": "15.0000",
+      "ship_width": "21.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Coyote Brown"
+      },
+      "size": "L",
+      "color": "Coyote Brown",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15706",
+      "item_index": "4026",
+      "rothco_item_no": "61590",
+      "upc": "613902419506",
+      "inventory": "99",
+      "created_date": "2015-09-23 11:10:01",
+      "weight": "0.4500",
+      "image_filename": "61590-A1.jpg",
+      "catalog_page_no": "117",
+      "msrp": 19.99,
+      "ship_length": "15.0000",
+      "ship_width": "21.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Coyote Brown"
+      },
+      "size": "XL",
+      "color": "Coyote Brown",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15707",
+      "item_index": "4026",
+      "rothco_item_no": "61591",
+      "upc": "613902519503",
+      "inventory": "99",
+      "created_date": "2015-09-23 11:10:01",
+      "weight": "0.4500",
+      "image_filename": "61590-A1.jpg",
+      "catalog_page_no": "117",
+      "msrp": 20.99,
+      "ship_length": "15.0000",
+      "ship_width": "21.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL",
+        "color": "Coyote Brown"
+      },
+      "size": "2XL",
+      "color": "Coyote Brown",
+      "price": 8,
+      "case_price": 8,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

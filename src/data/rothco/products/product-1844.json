@@ -1,0 +1,74 @@
+{
+  "item_index": "1844",
+  "item_name": "Rothco Tactical Leg Holster",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Tactical Leg Holster is designed to provide law enforcement and tactical professionals with easy access to their pistols without taking up valuable space on their duty belts. Featuring adjustable height, this holster can be positioned exactly where your hand falls naturally for quick-draw efficiency. The leg strap securely fastens around your thigh, ensuring the holster remains stable even during rapid movement. A front-mounted single magazine pouch allows for quick reloading, keeping extra ammo within easy reach.</p>",
+  "no_ratings": "0",
+  "sort_order": "1351",
+  "description": "<p>Rothco&rsquo;s Tactical Leg Holster is designed to provide law enforcement and tactical professionals with easy access to their pistols without taking up valuable space on their duty belts. Featuring adjustable height, this holster can be positioned exactly where your hand falls naturally for quick-draw efficiency. The leg strap securely fastens around your thigh, ensuring the holster remains stable even during rapid movement. A front-mounted single magazine pouch allows for quick reloading, keeping extra ammo within easy reach. This holster is built with durable materials for long-lasting use, and it includes a convenient quick-release belt clip, allowing for rapid removal when necessary. Available in 2 sizes, the holster fits most standard-sized pistols, including popular models like Glock, Sig Sauer, Ruger LCP, and more. Whether for fieldwork or range use, Rothco&rsquo;s Tactical Leg Holster delivers reliable performance and secure sidearm accessibility.</p>",
+  "selection_groups": [
+    "length"
+  ],
+  "statuses": "",
+  "categories": [
+    "251",
+    "308"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "270",
+      "item_index": "1844",
+      "rothco_item_no": "10550",
+      "upc": "613902105508",
+      "inventory": "99",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "0.5938",
+      "image_filename": "10550-HR1.jpg",
+      "catalog_page_no": "233",
+      "msrp": 35.99,
+      "ship_length": "11.0000",
+      "ship_width": "6.5000",
+      "ship_height": "3.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "length": "4 Inches",
+        "color": "Black"
+      },
+      "length": "4 Inches",
+      "color": "Black",
+      "price": 15.9,
+      "case_price": 15.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "271",
+      "item_index": "1844",
+      "rothco_item_no": "10552",
+      "upc": "613902105522",
+      "inventory": "90",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "0.6000",
+      "image_filename": "10550-HR1.jpg",
+      "catalog_page_no": "233",
+      "msrp": 35.99,
+      "ship_length": "12.5000",
+      "ship_width": "6.5000",
+      "ship_height": "3.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "length": "5 Inches",
+        "color": "Black"
+      },
+      "length": "5 Inches",
+      "color": "Black",
+      "price": 15.9,
+      "case_price": 15.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

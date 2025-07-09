@@ -1,0 +1,70 @@
+{
+  "item_index": "2507",
+  "item_name": "Rothco G.I. Type M-9 Bayonet W/ Sheath",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s G.I. Type M-9 Bayonet with Sheath is an excellent copy of the classic GI utility knife, featuring a robust 7 3/4 inch stainless steel blade. The blade is designed with a blood groove and saw back, making it versatile for various outdoor tasks. The bayonet comes with a durable sheath equipped with a quick release belt clip for easy access and secure carrying. A front pouch on the sheath holds a sharpening stone, ensuring your blade stays sharp and ready for use.</p>",
+  "no_ratings": "0",
+  "sort_order": "516",
+  "description": "<p>Rothco&rsquo;s G.I. Type M-9 Bayonet with Sheath is an excellent copy of the classic GI utility knife, featuring a robust 7 3/4 inch stainless steel blade. The blade is designed with a blood groove and saw back, making it versatile for various outdoor tasks. The bayonet comes with a durable sheath equipped with a quick release belt clip for easy access and secure carrying. A front pouch on the sheath holds a sharpening stone, ensuring your blade stays sharp and ready for use. The sheath also features a wire cutter and T-lug for added functionality, making this bayonet a practical tool for outdoor enthusiasts. Please note, this item is restricted for export and cannot be sold for use in some countries outside the U.S. Contact Rothco for details.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "294",
+    "300"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1050",
+      "item_index": "2507",
+      "rothco_item_no": "2134",
+      "upc": "613902521346",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.9000",
+      "image_filename": "2134-hr1.jpg",
+      "catalog_page_no": "269",
+      "msrp": 103.99,
+      "ship_length": "14.5000",
+      "ship_width": "3.7500",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 46.95,
+      "case_price": 46.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1051",
+      "item_index": "2507",
+      "rothco_item_no": "2135",
+      "upc": "613902021358",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.9000",
+      "image_filename": "2135-hr2.jpg",
+      "catalog_page_no": "269",
+      "msrp": 103.99,
+      "ship_length": "14.5000",
+      "ship_width": "3.7500",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 46.95,
+      "case_price": 46.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

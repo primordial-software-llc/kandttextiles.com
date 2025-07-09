@@ -1,0 +1,45 @@
+{
+  "item_index": "5002",
+  "item_name": "Rothco Deluxe Navy Embroidered Watch Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Deluxe Navy Embroidered Watch Cap is designed with a double layer acrylic construction that provides powerful thermal insulation.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133315",
+  "description": "<p>Rothco&rsquo;s Deluxe Navy Embroidered Watch Cap is designed with a double layer acrylic construction that provides powerful thermal insulation.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "367"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15906",
+      "item_index": "5002",
+      "rothco_item_no": "55440",
+      "upc": "613902554405",
+      "inventory": "99",
+      "created_date": "2015-11-10 14:10:01",
+      "weight": "0.1813",
+      "image_filename": "55440-A2.jpg",
+      "catalog_page_no": "157",
+      "msrp": 13.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "emblem": "Navy",
+        "color": "Navy Blue"
+      },
+      "emblem": "Navy",
+      "color": "Navy Blue",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "item_index": "4796",
+  "item_name": "Sabre Red MK-9 Fogger",
+  "has_restrictions": "1",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>SABRE RED 1.33% MC, 18.5-ounce MK-9 Fogger deploys twelve full one-second bursts at a range of 25 to 30 feet. The MK-9 utilizes a pistol-grip handle with a safety tab and pin to prevent accidental discharge. All SABRE MK-9 pins are equipped with a safety lanyard for easy portability and quick access.</p>",
+  "no_ratings": null,
+  "sort_order": "133109",
+  "description": "<p>SABRE RED 1.33% MC, 18.5-ounce MK-9 Fogger deploys twelve full one-second bursts at a range of 25 to 30 feet. The MK-9 utilizes a pistol-grip handle with a safety tab and pin to prevent accidental discharge. All SABRE MK-9 pins are equipped with a safety lanyard for easy portability and quick access.<br />Each SABRE RED fogger has been thoroughly tested before it leaves the factory. That means you can count on SABRE RED fog to perform powerfully and reliably when you need it.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "238",
+    "244"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20294",
+      "item_index": "4796",
+      "rothco_item_no": "20017",
+      "upc": "023063373010",
+      "inventory": "20",
+      "created_date": "2021-01-21 16:00:15",
+      "weight": "0.1900",
+      "image_filename": "20017-A-no-logo1.jpg",
+      "catalog_page_no": "223",
+      "msrp": 167.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 66.95,
+      "case_price": 66.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

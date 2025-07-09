@@ -1,0 +1,43 @@
+{
+  "item_index": "1714",
+  "item_name": "Genuine Ka-Bar USMC Fighting Knife",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Crafted with precision, the Ka-Bar USMC Fighting Knife stands as a symbol of excellence. Its parkerized 7 inch blade, serrated leather grip, and overall length of 12 inches make it the epitome of combat readiness. This iconic tool is revered as the \"Finest USMC Combat Knife Ever Made.\" Please note, this item has export restrictions; contact Rothco for details.</p>",
+  "no_ratings": "0",
+  "sort_order": "620",
+  "description": "<p>Crafted with precision, the Ka-Bar USMC Fighting Knife stands as a symbol of excellence. Its parkerized 7 inch blade, serrated leather grip, and overall length of 12 inches make it the epitome of combat readiness. This iconic tool is revered as the \"Finest USMC Combat Knife Ever Made.\" Please note, this item has export restrictions; contact Rothco for details.</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "293",
+    "294"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1916",
+      "item_index": "1714",
+      "rothco_item_no": "3259",
+      "upc": "617717212178",
+      "inventory": "80",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2000",
+      "image_filename": "3259-G.jpg",
+      "catalog_page_no": "268",
+      "msrp": 185.99,
+      "ship_length": "13.7500",
+      "ship_width": "3.2500",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 92.95,
+      "case_price": 92.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

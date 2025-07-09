@@ -1,0 +1,153 @@
+{
+  "item_index": "2911",
+  "item_name": "Rothco Safety Green Gloves With Reflective Tape",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay safe and visible with Rothco&rsquo;s Safety Green Gloves featuring reflective tape. Crafted for high visibility during work, these hi-vis gloves are a must-have for safety-conscious individuals. The neon green color ensures maximum visibility in low-light conditions, while the reflective tape on the palm, knuckles, and entire index finger further enhances visibility, making you easily noticeable. Constructed with a durable 100% nylon Cordura outer shell, these work gloves are built to withstand tough conditions.</p>",
+  "no_ratings": null,
+  "sort_order": "959",
+  "description": "<p>Stay safe and visible with Rothco&rsquo;s Safety Green Gloves featuring reflective tape. Crafted for high visibility during work, these hi-vis gloves are a must-have for safety-conscious individuals. The neon green color ensures maximum visibility in low-light conditions, while the reflective tape on the palm, knuckles, and entire index finger further enhances visibility, making you easily noticeable. Constructed with a durable 100% nylon Cordura outer shell, these work gloves are built to withstand tough conditions, providing long-lasting performance. The interior is made of 100% polyester with a thermoblock lining, offering unbeatable warmth and comfort during cold weather. Additionally, the waterproof interior bladder keeps your hands dry, even in wet conditions, ensuring all-day comfort and protection. The visibility gloves feature rubber fingertips, enhancing grip and dexterity for improved performance. Whether you're working outdoors, directing traffic, or engaging in any activity where visibility is crucial, Rothco&rsquo;s Safety Green Gloves with Reflective Tape are the ideal choice. Stay safe and visible in any environment with these reliable and durable gloves.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "319",
+    "517",
+    "321"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5028",
+      "item_index": "2911",
+      "rothco_item_no": "5487",
+      "upc": "613902548718",
+      "inventory": "99",
+      "created_date": "2011-09-05 21:00:00",
+      "weight": "0.3750",
+      "image_filename": "5487-C.jpg",
+      "catalog_page_no": "189",
+      "msrp": 24.99,
+      "ship_length": "14.0000",
+      "ship_width": "8.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Neon Green"
+      },
+      "size": "S",
+      "color": "Neon Green",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5029",
+      "item_index": "2911",
+      "rothco_item_no": "5487",
+      "upc": "613902548725",
+      "inventory": "99",
+      "created_date": "2011-09-05 21:00:00",
+      "weight": "0.3750",
+      "image_filename": "5487-C.jpg",
+      "catalog_page_no": "189",
+      "msrp": 24.99,
+      "ship_length": "14.0000",
+      "ship_width": "8.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Neon Green"
+      },
+      "size": "M",
+      "color": "Neon Green",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5030",
+      "item_index": "2911",
+      "rothco_item_no": "5487",
+      "upc": "613902548732",
+      "inventory": "99",
+      "created_date": "2011-09-05 21:00:00",
+      "weight": "0.3750",
+      "image_filename": "5487-C.jpg",
+      "catalog_page_no": "189",
+      "msrp": 24.99,
+      "ship_length": "14.0000",
+      "ship_width": "8.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Neon Green"
+      },
+      "size": "L",
+      "color": "Neon Green",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5031",
+      "item_index": "2911",
+      "rothco_item_no": "5487",
+      "upc": "613902548749",
+      "inventory": "99",
+      "created_date": "2011-09-05 21:00:00",
+      "weight": "0.3750",
+      "image_filename": "5487-C.jpg",
+      "catalog_page_no": "189",
+      "msrp": 24.99,
+      "ship_length": "14.0000",
+      "ship_width": "8.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Neon Green"
+      },
+      "size": "XL",
+      "color": "Neon Green",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17042",
+      "item_index": "2911",
+      "rothco_item_no": "5487",
+      "upc": "613902548756",
+      "inventory": "99",
+      "created_date": "2017-04-05 17:10:02",
+      "weight": "0.3750",
+      "image_filename": "5487-C.jpg",
+      "catalog_page_no": "189",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL",
+        "color": "Neon Green"
+      },
+      "size": "2XL",
+      "color": "Neon Green",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

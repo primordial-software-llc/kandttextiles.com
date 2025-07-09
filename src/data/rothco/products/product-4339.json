@@ -1,0 +1,73 @@
+{
+  "item_index": "4339",
+  "item_name": "Women Thin Blue Line Flag Racerback Tank Top",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show your support and respect for the men and women in blue with Rothco Women's Thin Blue Line Flag Racerback Tank Top!&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "75",
+  "description": "<p>The Rothco Racerback Tank Top is made of a soft poly/cotton for comfort. A Thin Blue Line Flag is featured on the front, to show respect and support for Police and Law Enforcement Officials. This versatile tank top can be used as activewear or everyday wear and is pre-washed for a vintage look.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "102"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17454",
+      "item_index": "4339",
+      "rothco_item_no": "44770",
+      "upc": "613902994478",
+      "inventory": "20",
+      "created_date": "2017-06-22 15:54:13",
+      "weight": "0.1250",
+      "image_filename": "44770-B-amazon1.jpg",
+      "catalog_page_no": "0",
+      "msrp": 13.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XS",
+        "color": "Black"
+      },
+      "size": "XS",
+      "color": "Black",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17464",
+      "item_index": "4339",
+      "rothco_item_no": "44770",
+      "upc": "613902444775",
+      "inventory": "59",
+      "created_date": "2017-06-22 16:10:01",
+      "weight": "0.1250",
+      "image_filename": "44770-B-amazon1.jpg",
+      "catalog_page_no": "0",
+      "msrp": 13.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL",
+        "color": "Black"
+      },
+      "size": "2XL",
+      "color": "Black",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

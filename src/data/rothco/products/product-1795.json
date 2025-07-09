@@ -1,0 +1,40 @@
+{
+  "item_index": "1795",
+  "item_name": "Rothco Combination Lock",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Combination Lock offers a robust and reliable security solution, designed with high-quality stainless steel construction to ensure long-lasting durability in various demanding environments such as locker rooms and gyms. The lock's combination mechanism is easy to use, providing a dependable way to secure lockers, cabinets, and other storage units against unauthorized access. Its versatile design allows seamless compatibility with a wide range of storage units.</p>",
+  "no_ratings": "0",
+  "sort_order": "196",
+  "description": "<p>Rothco's Combination Lock offers a robust and reliable security solution, designed with high-quality stainless steel construction to ensure long-lasting durability in various demanding environments such as locker rooms and gyms. The lock's combination mechanism is easy to use, providing a dependable way to secure lockers, cabinets, and other storage units against unauthorized access. Its versatile design allows seamless compatibility with a wide range of storage units, making it an ideal choice for fitness centers, workplaces, travel destinations, and more. The user-friendly combination dial is suitable for individuals of all ages, offering a straightforward and effective way to safeguard personal belongings. With Rothco&rsquo;s Combination Lock, you can enjoy peace of mind knowing your items are securely protected.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "239"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "11",
+      "item_index": "1795",
+      "rothco_item_no": "10016",
+      "upc": "613902100169",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3100",
+      "image_filename": "10016-A.jpg",
+      "catalog_page_no": "219",
+      "msrp": 8.99,
+      "ship_length": "6.2500",
+      "ship_width": "3.5000",
+      "ship_height": "6.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 3.25,
+      "case_price": 3.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

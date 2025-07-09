@@ -1,0 +1,43 @@
+{
+  "item_index": "4787",
+  "item_name": "Rothco Thin Blue Line Mourning Arm Band",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Thin Blue Line Mourning Arm Band symbolizes the acknowledgement of a loss of a Police Officer's life.&nbsp; Wear this band over your arm or badge as a symbol of respect and support for Law Enforcement Officials.</p>",
+  "no_ratings": null,
+  "sort_order": "133100",
+  "description": "<p>Rothco&rsquo;s Thin Blue Line Mourning Arm Band symbolizes the acknowledgement of a loss of a Police Officer's life.&nbsp; Wear this band over your arm or badge as a symbol of respect and support for Law Enforcement Officials.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "239"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20117",
+      "item_index": "4787",
+      "rothco_item_no": "1009",
+      "upc": "613902910096",
+      "inventory": "99",
+      "created_date": "2021-01-06 18:00:03",
+      "weight": "0.0250",
+      "image_filename": "1009-TBL-A-amazon1.jpg",
+      "catalog_page_no": "219",
+      "msrp": 5.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black / Thin Blue LIne"
+      },
+      "color": "Black / Thin Blue LIne",
+      "price": 2.25,
+      "case_price": 2.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "item_index": "4823",
+  "item_name": "Rothco Waterproof Rubber Boots - Black - 14.5 Inch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Whether working outside, fishing, or camping, Rothco's Waterproof Rubber boots will keep your feet warm and dry.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133136",
+  "description": "<p>Whether working outside, fishing, or camping, Rothco's Waterproof Rubber boots will keep your feet warm and dry. The boots are designed with a lightweight and flexible Neoprene upper and single rubber shell shaft, shoe, and sole to protect the feet from extreme cold, wet weather.&nbsp;</p>",
+  "selection_groups": [
+    "shoe_size"
+  ],
+  "statuses": "",
+  "categories": [
+    "350",
+    "351"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20666",
+      "item_index": "4823",
+      "rothco_item_no": "3949",
+      "upc": "613902002159",
+      "inventory": "20",
+      "created_date": "2021-05-19 16:00:04",
+      "weight": "2.0000",
+      "image_filename": "3949-B.jpg",
+      "catalog_page_no": "182",
+      "msrp": 109.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "shoe_size": "7"
+      },
+      "shoe_size": "7",
+      "price": 49.95,
+      "case_price": 49.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20667",
+      "item_index": "4823",
+      "rothco_item_no": "3949",
+      "upc": "613902002166",
+      "inventory": "25",
+      "created_date": "2021-05-19 16:00:04",
+      "weight": "2.0000",
+      "image_filename": "3949-B.jpg",
+      "catalog_page_no": "182",
+      "msrp": 109.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "shoe_size": "8"
+      },
+      "shoe_size": "8",
+      "price": 49.95,
+      "case_price": 49.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20668",
+      "item_index": "4823",
+      "rothco_item_no": "3949",
+      "upc": "613902002227",
+      "inventory": "64",
+      "created_date": "2021-05-19 16:00:04",
+      "weight": "2.0000",
+      "image_filename": "3949-B.jpg",
+      "catalog_page_no": "182",
+      "msrp": 109.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "shoe_size": "9"
+      },
+      "shoe_size": "9",
+      "price": 49.95,
+      "case_price": 49.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20669",
+      "item_index": "4823",
+      "rothco_item_no": "3949",
+      "upc": "613902002241",
+      "inventory": "55",
+      "created_date": "2021-05-19 16:00:04",
+      "weight": "2.0000",
+      "image_filename": "3949-B.jpg",
+      "catalog_page_no": "182",
+      "msrp": 109.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "shoe_size": "10"
+      },
+      "shoe_size": "10",
+      "price": 49.95,
+      "case_price": 49.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20670",
+      "item_index": "4823",
+      "rothco_item_no": "3949",
+      "upc": "613902002265",
+      "inventory": "56",
+      "created_date": "2021-05-19 16:00:04",
+      "weight": "2.0000",
+      "image_filename": "3949-B.jpg",
+      "catalog_page_no": "182",
+      "msrp": 109.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "shoe_size": "11"
+      },
+      "shoe_size": "11",
+      "price": 49.95,
+      "case_price": 49.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20671",
+      "item_index": "4823",
+      "rothco_item_no": "3949",
+      "upc": "613902002272",
+      "inventory": "34",
+      "created_date": "2021-05-19 16:00:04",
+      "weight": "2.0000",
+      "image_filename": "3949-B.jpg",
+      "catalog_page_no": "182",
+      "msrp": 109.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "shoe_size": "12"
+      },
+      "shoe_size": "12",
+      "price": 49.95,
+      "case_price": 49.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20672",
+      "item_index": "4823",
+      "rothco_item_no": "3949",
+      "upc": "613902002289",
+      "inventory": "26",
+      "created_date": "2021-05-19 16:00:04",
+      "weight": "2.0000",
+      "image_filename": "3949-B.jpg",
+      "catalog_page_no": "182",
+      "msrp": 109.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "shoe_size": "13"
+      },
+      "shoe_size": "13",
+      "price": 49.95,
+      "case_price": 49.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "item_index": "4776",
+  "item_name": "Rothco Steel Belt Key Clip - Black",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Steel Belt Key Clip is the most secure way to hold your keys whether on the job or for day-to-day use.</p>",
+  "no_ratings": null,
+  "sort_order": "133089",
+  "description": "<p>Rothco&rsquo;s Steel Belt Key Clip is the most secure way to hold your keys whether on the job or for&nbsp;day-to-day&nbsp;use.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "382",
+    "490"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20096",
+      "item_index": "4776",
+      "rothco_item_no": "1843",
+      "upc": "613902006584",
+      "inventory": "99",
+      "created_date": "2021-01-04 12:00:29",
+      "weight": "0.1250",
+      "image_filename": "1843-C-amazon.jpg",
+      "catalog_page_no": "230",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 4.75,
+      "case_price": 4.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

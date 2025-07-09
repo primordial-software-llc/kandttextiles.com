@@ -1,0 +1,102 @@
+{
+  "item_index": "4068",
+  "item_name": "Rothco Stars and Stripes US Flag Shemagh Tactical Desert Keffiyeh Scarf",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Wear as a face mask, balaclava, or headwrap, Rothco&rsquo;s Stars and Stripes Desert Shemagh Scarves are adaptable to any environment. Ideally worn while traveling through a desert, snowstorm, and any other extreme weather condition you may encounter, these tactical scarves are a must-have for anyone!</p>",
+  "no_ratings": null,
+  "sort_order": "1347",
+  "description": "<p>Wear as a face mask, balaclava, or headwrap, Rothco&rsquo;s Stars and Stripes Desert Shemagh Scarves are adaptable to any environment. Ideally worn while traveling through a desert, snowstorm, and any other extreme weather condition you may encounter, these tactical scarves are a must-have for anyone! Made from a breathable cotton construction, the stars and stripes keffiyeh provides a perfect combination of comfort and resiliency while protecting your head and neck from the sun, dirt, sand, and other debris. Measuring approximately 42&rdquo; X 42&rdquo; and featuring a Stars and Stripe design inspired by the US Flag, the tactical scarf can be wrapped around your head and neck to make a face mask, half-mask, skullcap, and much more. The versatile keffiyeh is a must-have for your Bug Out Bag as it can be used as a survival tool as well as a protective face cover; use the patriotic shemagh to make a makeshift tourniquet, sling, pouch, and more. The tactical desert scarves are used by military personnel worldwide and make for a great fashion accessory as well.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "413",
+    "681",
+    "413",
+    "681"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15947",
+      "item_index": "4068",
+      "rothco_item_no": "88550",
+      "upc": "613902858589",
+      "inventory": "99",
+      "created_date": "2015-11-23 09:10:01",
+      "weight": "0.4500",
+      "image_filename": "88550-D-amazon.jpg",
+      "catalog_page_no": "163",
+      "msrp": 16.99,
+      "ship_length": "12.0000",
+      "ship_width": "12.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Red / White / Blue"
+      },
+      "size": "One Size",
+      "color": "Red / White / Blue",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16574",
+      "item_index": "4068",
+      "rothco_item_no": "8864",
+      "upc": "613902886407",
+      "inventory": "99",
+      "created_date": "2016-09-28 10:10:03",
+      "weight": "0.4500",
+      "image_filename": "8864-A-amazon1.jpg",
+      "catalog_page_no": "163",
+      "msrp": 16.99,
+      "ship_length": "12.0000",
+      "ship_width": "12.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19502",
+      "item_index": "4068",
+      "rothco_item_no": "8536",
+      "upc": "613902853607",
+      "inventory": "99",
+      "created_date": "2020-03-18 12:00:01",
+      "weight": "0.4500",
+      "image_filename": "8536-A-AMAZON.jpg",
+      "catalog_page_no": "163",
+      "msrp": 16.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Coyote Brown"
+      },
+      "size": "One Size",
+      "color": "Coyote Brown",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

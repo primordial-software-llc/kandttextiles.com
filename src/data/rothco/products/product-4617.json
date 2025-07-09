@@ -1,0 +1,47 @@
+{
+  "item_index": "4617",
+  "item_name": "Rothco Veteran US Flag Patch - Coyote Brown",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s US Flag Patch features &ldquo;Veteran&rdquo; lettering on the bottom right and can be attached to a variety of tactical gear and apparel with a hook field on the back.</p>",
+  "no_ratings": null,
+  "sort_order": "132930",
+  "description": "<p>Rothco&rsquo;s US Flag Patch features &ldquo;Veteran&rdquo; lettering on the bottom right and can be attached to a variety of tactical gear and apparel with a hook field on the back. Measuring 3.5&rdquo; X 2&rdquo;, the Veteran American Flag Patch displays brown embroidered stars, stripes and &ldquo;Veteran&rdquo; lettering, and a coyote brown background.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "420",
+    "423",
+    "424"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19262",
+      "item_index": "4617",
+      "rothco_item_no": "1873",
+      "upc": "613902018730",
+      "inventory": "99",
+      "created_date": "2019-11-06 17:00:18",
+      "weight": "0.0094",
+      "image_filename": "1873-A-amazon.jpg",
+      "catalog_page_no": "214",
+      "msrp": 3.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Coyote Brown"
+      },
+      "size": "One Size",
+      "color": "Coyote Brown",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "item_index": "2020",
+  "item_name": "McNett Z-Mask Sleep System",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The McNett Z-Mask Sleep System features a patented form-fitting design that allows for R.E.M sleep anywhere anytime.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "413",
+  "description": "<p>The McNett Z-Mask Sleep System features a patented form-fitting design that allows for R.E.M sleep anywhere, anytime.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "394"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10969",
+      "item_index": "2020",
+      "rothco_item_no": "9417",
+      "upc": "021563443004",
+      "inventory": "36",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1250",
+      "image_filename": "9417-hr2.jpg",
+      "catalog_page_no": "203",
+      "msrp": 23.99,
+      "ship_length": "8.0000",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 9.25,
+      "case_price": 9.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

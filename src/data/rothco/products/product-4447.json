@@ -1,0 +1,45 @@
+{
+  "item_index": "4447",
+  "item_name": "Rothco MOLLE Attachable Hydration Pack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay hydrated on the go with Rothco&rsquo;s MOLLE Attachable Hydration Pack. This versatile hydration pack can be worn as a standalone backpack or easily attached to your existing gear thanks to the MOLLE-compatible straps. It comes equipped with a 2-liter hydration bladder complete with a convenient mouthpiece and on/off valve for easy access to water during outdoor activities. The pack's main zippered compartment provides extra storage for small essentials, while an interior mesh pocket with a zipper closure keeps items organized.</p>",
+  "no_ratings": null,
+  "sort_order": "132760",
+  "description": "<p>Stay hydrated on the go with Rothco&rsquo;s MOLLE Attachable Hydration Pack. This versatile hydration pack can be worn as a standalone backpack or easily attached to your existing gear thanks to the MOLLE-compatible straps. It comes equipped with a 2-liter hydration bladder complete with a convenient mouthpiece and on/off valve for easy access to water during outdoor activities. The pack's main zippered compartment provides extra storage for small essentials, while an interior mesh pocket with a zipper closure keeps items organized. Adjustable and removable shoulder straps ensure a comfortable fit, and D-rings allow for added versatility. The hydration pack also features a top carry handle for easy transport and a loop field on the front panel for attaching patches or identification. Measuring 16.5 inch x 6.6 inch x 3 inch, this pack is perfect for hiking, biking, or any outdoor adventure.</p>",
+  "selection_groups": [
+    "hydration_bladder"
+  ],
+  "statuses": "",
+  "categories": [
+    "229"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18336",
+      "item_index": "4447",
+      "rothco_item_no": "2964",
+      "upc": "613902029644",
+      "inventory": "99",
+      "created_date": "2018-04-23 10:10:02",
+      "weight": "1.2000",
+      "image_filename": "2964-A-amazon.jpg",
+      "catalog_page_no": "289",
+      "msrp": 74.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "hydration_bladder": "Included"
+      },
+      "hydration_bladder": "Included",
+      "price": 33.95,
+      "case_price": 33.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

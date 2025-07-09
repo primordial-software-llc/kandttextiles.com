@@ -1,0 +1,41 @@
+{
+  "item_index": "1386",
+  "item_name": "Rothco U.S. Coast Guard Flag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s U.S. Coast Guard Flag features the iconic eagle insignia and &ldquo;Semper Paratus&rdquo; text on a high-quality polyester composition.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "727",
+  "description": "<p>Rothco&rsquo;s United States Coast Guard Flag measures 3&rsquo; x 5&rsquo; and is made a durable, non shiny polyester material. This military flag also features grommets for easy display.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "428",
+    "551"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "687",
+      "item_index": "1386",
+      "rothco_item_no": "1490",
+      "upc": "767720304152",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2200",
+      "image_filename": "1490--US-Coast-Guard-Flag.jpg",
+      "catalog_page_no": "210",
+      "msrp": 14.99,
+      "ship_length": "10.0000",
+      "ship_width": "8.2500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

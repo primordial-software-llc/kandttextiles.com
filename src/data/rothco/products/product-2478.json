@@ -1,0 +1,72 @@
+{
+  "item_index": "2478",
+  "item_name": "Rothco Canvas Utility Pouches",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Canvas Utility Pouch offers a reliable and versatile storage solution for your everyday essentials. Constructed from durable heavyweight cotton canvas, this utility pouch is built to last while providing ample space for storing work tools, camping gear, or travel accessories. The main compartment, measuring 7 inch x 6 inch x 2 inch, is spacious enough to fit larger items, while the front pocket is perfect for smaller essentials like keys, headphones, or a multi-tool.</p>",
+  "no_ratings": "0",
+  "sort_order": "4819",
+  "description": "<p>Rothco&rsquo;s Canvas Utility Pouch offers a reliable and versatile storage solution for your everyday essentials. Constructed from durable heavyweight cotton canvas, this utility pouch is built to last while providing ample space for storing work tools, camping gear, or travel accessories. The main compartment, measuring 7 inch x 6 inch x 2 inch, is spacious enough to fit larger items, while the front pocket is perfect for smaller essentials like keys, headphones, or a multi-tool. With dual belt loops on the back, this pouch securely attaches to your belt, making it convenient to carry wherever you go. The front flap features a metal snap button closure to keep your contents secure and easily accessible. Whether you're headed to work, the outdoors, or just need a reliable pouch for daily use, Rothco&rsquo;s Canvas Utility Pouch has you covered with its practical design and durable construction. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "505",
+    "255",
+    "239"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10461",
+      "item_index": "2478",
+      "rothco_item_no": "9001",
+      "upc": "613902900103",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "9001-HR1.jpg",
+      "catalog_page_no": "368",
+      "msrp": 6.99,
+      "ship_length": "8.7500",
+      "ship_width": "6.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 2.5,
+      "case_price": 2.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10497",
+      "item_index": "2478",
+      "rothco_item_no": "9008",
+      "upc": "613902900813",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "9008-A-amazon.jpg",
+      "catalog_page_no": "368",
+      "msrp": 6.99,
+      "ship_length": "8.7500",
+      "ship_width": "6.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 2.5,
+      "case_price": 2.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

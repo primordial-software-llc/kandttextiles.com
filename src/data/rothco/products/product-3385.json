@@ -1,0 +1,120 @@
+{
+  "item_index": "3385",
+  "item_name": "Rothco Nylon Paracord 550lb 300 Ft Tube",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s 550lb Nylon Paracord is an essential survival tool, ideal for camping, hunting, and emergency preparedness. This military-grade paracord boasts a tensile strength of 550lb, ensuring durability and reliability in tough tactical situations. With its versatile 7-strand construction, it can be disassembled for finer applications like fishing or sewing. Each tube contains 300 feet of paracord, compact for easy packing yet sufficient for various tasks. Proudly made in the USA.</p>",
+  "no_ratings": null,
+  "sort_order": "2814",
+  "description": "<p>Rothco&rsquo;s 550lb Nylon Paracord is an essential survival tool, ideal for camping, hunting, and emergency preparedness. This military-grade paracord boasts a tensile strength of 550lb, ensuring durability and reliability in tough tactical situations. With its versatile 7-strand construction, it can be disassembled for finer applications like fishing or sewing. Each tube contains 300 feet of paracord, compact for easy packing yet sufficient for various tasks. Proudly made in the USA, this paracord is approximately 5/32 inches in diameter, offering robust performance for a range of outdoor activities and DIY projects.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "136",
+    "137",
+    "443",
+    "444"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "639",
+      "item_index": "3385",
+      "rothco_item_no": "138",
+      "upc": "613902138001",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2600",
+      "image_filename": "138-HR1.jpg",
+      "catalog_page_no": "307",
+      "msrp": 32.99,
+      "ship_length": "6.0000",
+      "ship_width": "3.2500",
+      "ship_height": "3.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 12.9,
+      "case_price": 12.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "640",
+      "item_index": "3385",
+      "rothco_item_no": "139",
+      "upc": "613902139008",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2600",
+      "image_filename": "139-HR1.jpg",
+      "catalog_page_no": "307",
+      "msrp": 32.99,
+      "ship_length": "6.0000",
+      "ship_width": "3.2500",
+      "ship_height": "3.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 12.9,
+      "case_price": 12.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12613",
+      "item_index": "3385",
+      "rothco_item_no": "328",
+      "upc": "613902003286",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2600",
+      "image_filename": "328-A3.jpg",
+      "catalog_page_no": "307",
+      "msrp": 32.99,
+      "ship_length": "6.0000",
+      "ship_width": "3.2500",
+      "ship_height": "3.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 12.9,
+      "case_price": 12.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22219",
+      "item_index": "3385",
+      "rothco_item_no": "32820",
+      "upc": "613902020962",
+      "inventory": "85",
+      "created_date": "2022-10-14 12:00:04",
+      "weight": "0.0000",
+      "image_filename": "32820-A.jpg",
+      "catalog_page_no": "307",
+      "msrp": 32.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 12.9,
+      "case_price": 12.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

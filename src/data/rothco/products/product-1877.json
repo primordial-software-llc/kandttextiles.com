@@ -1,0 +1,69 @@
+{
+  "item_index": "1877",
+  "item_name": "Rothco Security Guard Badge",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Pin Back Security Guard badges in both gold and silver options.</p>",
+  "no_ratings": "0",
+  "sort_order": "1068",
+  "description": "<p>Pin Back Security Guard badges in both gold and silver options.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "233"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "871",
+      "item_index": "1877",
+      "rothco_item_no": "1900",
+      "upc": "613902419001",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "1900-A-amazon.jpg",
+      "catalog_page_no": "220",
+      "msrp": 9.99,
+      "ship_length": "4.2500",
+      "ship_width": "3.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Silver"
+      },
+      "color": "Silver",
+      "price": 3.75,
+      "case_price": 3.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "875",
+      "item_index": "1877",
+      "rothco_item_no": "1904",
+      "upc": "613902419049",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "1904-A-amazon.jpg",
+      "catalog_page_no": "220",
+      "msrp": 12.99,
+      "ship_length": "4.2500",
+      "ship_width": "3.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Gold"
+      },
+      "color": "Gold",
+      "price": 4.85,
+      "case_price": 4.85,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

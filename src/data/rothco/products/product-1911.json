@@ -1,0 +1,41 @@
+{
+  "item_index": "1911",
+  "item_name": "Rothco Police Whistle",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's plastic police whistle is constructed of a durable ABS plastic.</p>",
+  "no_ratings": "0",
+  "sort_order": "647",
+  "description": "<p>Rothco's plastic police whistle is constructed of a durable ABS plastic.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "243",
+    "232"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9633",
+      "item_index": "1911",
+      "rothco_item_no": "8407",
+      "upc": "613902084070",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0140",
+      "image_filename": "8407-A-amazon.jpg",
+      "catalog_page_no": "218",
+      "msrp": 1.99,
+      "ship_length": "1.5000",
+      "ship_width": "0.7500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 0.5,
+      "case_price": 0.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

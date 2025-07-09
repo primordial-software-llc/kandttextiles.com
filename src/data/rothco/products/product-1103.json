@@ -1,0 +1,42 @@
+{
+  "item_index": "1103",
+  "item_name": "Rothco Survival Kit",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Pocket Size Survival Kit is an essential companion for any outdoor adventure or emergency situation, packed with crucial tools in a compact and portable tin. The kit includes everything you need to handle a wide range of survival tasks, from starting a fire with the magnesium fire starter to navigating with the built-in compass. Additional tools like a fishing set, a stainless steel fingertip saw, and a copper line help you secure food or build shelters when needed.</p>",
+  "no_ratings": "0",
+  "sort_order": "768",
+  "description": "<p>Rothco&rsquo;s Pocket Size Survival Kit is an essential companion for any outdoor adventure or emergency situation, packed with crucial tools in a compact and portable tin. The kit includes everything you need to handle a wide range of survival tasks, from starting a fire with the magnesium fire starter to navigating with the built-in compass. Additional tools like a fishing set, a stainless steel fingertip saw, and a copper line help you secure food or build shelters when needed. The kit also features 2 stainless steel blades for cutting, a whistle for signaling, and first aid items like adhesive strips and a wound pad for minor injuries. Lightweight and easy to carry, this survival kit fits comfortably in your pocket or backpack, ensuring you're always prepared. Whether you're a beginner prepper or an experienced outdoor enthusiast, Rothco&rsquo;s survival kit provides peace of mind and readiness for any unexpected situation.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "542",
+    "499",
+    "271"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1535",
+      "item_index": "1103",
+      "rothco_item_no": "2720",
+      "upc": "613902927209",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4200",
+      "image_filename": "2720-C2.jpg",
+      "catalog_page_no": "284",
+      "msrp": 37.99,
+      "ship_length": "6.5000",
+      "ship_width": "6.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 16.9,
+      "case_price": 16.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

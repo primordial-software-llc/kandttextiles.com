@@ -1,0 +1,118 @@
+{
+  "item_index": "4763",
+  "item_name": "Rothco MOLLE Double Pistol Mag Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Equip yourself for the range or battlefield with Rothco&rsquo;s MOLLE Double Pistol Mag Pouches. These pouches offer reliable and quick access to your pistol magazines, ensuring you're always prepared for any situation. Featuring powerful hook &amp; loop closures and elastic straps, your magazines stay securely in place during movement. The mag pouches are versatile, easily mountable on MOLLE vests, duty belts, or any tactical gear with a MOLLE panel, providing flexibility in your loadout.</p>",
+  "no_ratings": null,
+  "sort_order": "133076",
+  "description": "<p>Equip yourself for the range or battlefield with Rothco&rsquo;s MOLLE Double Pistol Mag Pouches. These pouches offer reliable and quick access to your pistol magazines, ensuring you're always prepared for any situation. Featuring powerful hook &amp; loop closures and elastic straps, your magazines stay securely in place during movement. The mag pouches are versatile, easily mountable on MOLLE vests, duty belts, or any tactical gear with a MOLLE panel, providing flexibility in your loadout. Designed to accommodate most standard pistol magazines, the double mag pouch suits a wide range of firearms. Whether you're a soldier, public safety professional, or MilSim player, these pouches are an essential addition to your kit. Each mag pouch measures 4.25 inch x 5 inch, providing ample space for your firearm mags. Additionally, grommet drain holes at the bottom of each pouch ensure water or debris can easily escape, maintaining the integrity of your gear. Trust Rothco&rsquo;s MOLLE Double Pistol Mag Pouches for secure and convenient magazine storage in any tactical scenario.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "254",
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "4519",
+      "item_index": "4763",
+      "rothco_item_no": "51002",
+      "upc": "613902951020",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "51002-A-NOLOGO1.jpg",
+      "catalog_page_no": "245",
+      "msrp": 15.99,
+      "ship_length": "5.7500",
+      "ship_width": "5.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 6.1,
+      "case_price": 6.1,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "4520",
+      "item_index": "4763",
+      "rothco_item_no": "51002",
+      "upc": "613902051027",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "51002-Front-Coyote-NOLOGO.jpg",
+      "catalog_page_no": "245",
+      "msrp": 15.99,
+      "ship_length": "5.7500",
+      "ship_width": "5.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 6.1,
+      "case_price": 6.1,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19921",
+      "item_index": "4763",
+      "rothco_item_no": "51010",
+      "upc": "613902510104",
+      "inventory": "0",
+      "created_date": "2020-09-24 17:00:22",
+      "weight": "0.2500",
+      "image_filename": "51010-B-amazon.jpg",
+      "catalog_page_no": "245",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "07/17/2025",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 8.95,
+      "case_price": 8.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19952",
+      "item_index": "4763",
+      "rothco_item_no": "51002",
+      "upc": "613902851023",
+      "inventory": "99",
+      "created_date": "2020-10-19 16:00:11",
+      "weight": "0.2500",
+      "image_filename": "51002-OD-B-NOLOGO.jpg",
+      "catalog_page_no": "245",
+      "msrp": 15.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 6.1,
+      "case_price": 6.1,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

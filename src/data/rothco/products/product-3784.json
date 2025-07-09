@@ -1,0 +1,43 @@
+{
+  "item_index": "3784",
+  "item_name": "Rothco Universal Leather Badge & ID Holder",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Universal Leather Badge &amp; ID Holder is designed to provide secure and convenient access to your badge and ID, perfect for public safety and law enforcement professionals. Made from durable PU leather, this holder features a universal design to accommodate various badge styles. 1 side of the holder offers a clear window to display your ID card, while the other side securely holds your badge with a hook &amp; loop closure. The included 33 inch chain allows for versatile wear around the neck, keeping your credentials accessible.</p>",
+  "no_ratings": null,
+  "sort_order": "509",
+  "description": "<p>Rothco's Universal Leather Badge &amp; ID Holder is designed to provide secure and convenient access to your badge and ID, perfect for public safety and law enforcement professionals. Made from durable PU leather, this holder features a universal design to accommodate various badge styles. 1 side of the holder offers a clear window to display your ID card, while the other side securely holds your badge with a hook &amp; loop closure. The included 33 inch chain allows for versatile wear around the neck, keeping your credentials accessible and hands-free. An internal pocket provides a neat storage spot for the chain when not in use. This badge and ID holder combines functionality with professional style, making it an ideal choice for anyone needing reliable badge access in their daily work.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "233"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14832",
+      "item_index": "3784",
+      "rothco_item_no": "1136",
+      "upc": "613902113619",
+      "inventory": "99",
+      "created_date": "2014-09-25 16:10:02",
+      "weight": "0.1250",
+      "image_filename": "1136-A-amazon.jpg",
+      "catalog_page_no": "221",
+      "msrp": 23.99,
+      "ship_length": "9.5000",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "material": "Leather"
+      },
+      "material": "Leather",
+      "price": 9.25,
+      "case_price": 9.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

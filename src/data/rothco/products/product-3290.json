@@ -1,0 +1,40 @@
+{
+  "item_index": "3290",
+  "item_name": "Sabre Pepper Gel USA - Pink (HC-14-CPG-PK-US)",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Sabre Campus Safety Pepper Gel offers maximum stopping power with its gel formula.&nbsp;Legal for sale in 50 States. NY, MA and HI require FFL for purchase.</p>",
+  "no_ratings": null,
+  "sort_order": "235",
+  "description": "<p>Sabre Campus Safety Pepper Gel offers maximum stopping power with its gel formula. Complete with a pink hard case and quick release key ring for hands-free carry, the Sabre Pepper Gel is safe to use indoors, reduces wind blowback and has no effect on bystanders. With a range of 10 feet and containing approximately 25 shots, this is the ideal personal protection item. Made in the USA.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "244"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12197",
+      "item_index": "3290",
+      "rothco_item_no": "11020",
+      "upc": "023063153018",
+      "inventory": "82",
+      "created_date": "2013-06-13 15:47:56",
+      "weight": "0.2500",
+      "image_filename": "11020-A.jpg",
+      "catalog_page_no": "222",
+      "msrp": 18.99,
+      "ship_length": "9.5000",
+      "ship_width": "5.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 7.25,
+      "case_price": 7.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

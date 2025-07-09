@@ -1,0 +1,75 @@
+{
+  "item_index": "4251",
+  "item_name": "Rothco Vintage Camo M-51 Fishtail Parka",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Vintage Camo M-51 Fishtail Parka offers a stylish and functional twist on a timeless classic. Made from 100% washed cotton, this parka provides a soft, comfortable feel while maintaining durability. The sturdy brass zipper and snap closure storm front ensure secure and easy fastening, while the 2 front pockets with flap and snap closures keep your essentials safe. The drawstring hood and adjustable button cuffs provide a customizable fit, enhancing comfort and protection from the elements.</p>",
+  "no_ratings": null,
+  "sort_order": "196",
+  "description": "<p>Rothco&rsquo;s Vintage Camo M-51 Fishtail Parka offers a stylish and functional twist on a timeless classic. Made from 100% washed cotton, this parka provides a soft, comfortable feel while maintaining durability. The sturdy brass zipper and snap closure storm front ensure secure and easy fastening, while the 2 front pockets with flap and snap closures keep your essentials safe. The drawstring hood and adjustable button cuffs provide a customizable fit, enhancing comfort and protection from the elements. The unlined design makes this parka versatile for wear in fall or spring, offering a lightweight yet protective outer layer. Whether you're exploring the great outdoors or navigating city streets, Rothco&rsquo;s Vintage Camo M-51 Fishtail Parka combines practicality with vintage style.</p>",
+  "selection_groups": [
+    "size",
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "171",
+    "175"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16633",
+      "item_index": "4251",
+      "rothco_item_no": "8952",
+      "upc": "613902189522",
+      "inventory": "0",
+      "created_date": "2016-10-28 11:10:03",
+      "weight": "2.9000",
+      "image_filename": "8952-B-amazon1.jpg",
+      "catalog_page_no": "43",
+      "msrp": 104.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": null,
+      "specs": {
+        "size": "XS",
+        "color": "Woodland Camo"
+      },
+      "size": "XS",
+      "color": "Woodland Camo",
+      "price": 41.95,
+      "case_price": 41.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16634",
+      "item_index": "4251",
+      "rothco_item_no": "8952",
+      "upc": "613902289529",
+      "inventory": "82",
+      "created_date": "2016-10-28 11:10:03",
+      "weight": "2.9000",
+      "image_filename": "8952-B-amazon1.jpg",
+      "catalog_page_no": "43",
+      "msrp": 104.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Woodland Camo"
+      },
+      "size": "S",
+      "color": "Woodland Camo",
+      "price": 41.95,
+      "case_price": 41.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

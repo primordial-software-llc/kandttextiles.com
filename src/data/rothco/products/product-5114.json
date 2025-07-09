@@ -1,0 +1,118 @@
+{
+  "item_index": "5114",
+  "item_name": "Rothco Denim BDU Cargo Pants",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Conquer the great outdoors in our Denim BDU Cargo Pants. Constructed from durable 100% cotton denim, these BDU cargo pants are built for unparalleled performance and convenience while out hiking, camping, or walking through town. Withstanding rigorous outdoor conditions, the denim BDUs are not afraid to get to get down and dirty.</p>",
+  "no_ratings": null,
+  "sort_order": null,
+  "description": "<p>Conquer the great outdoors in our Denim BDU Cargo Pants. Constructed from durable 100% cotton denim, these BDU cargo pants are built for unparalleled performance and convenience while out hiking, camping, or walking through town. Withstanding rigorous outdoor conditions, the denim BDUs are not afraid to get to get down and dirty. Tried-and-True Reliability: These tactical BDU pants are reinforced in the knees for maximum durability that endures wear and tear while supporting a full range of motion. The double-stitched seams provide extra strength and years of reliable use. High-Capacity Storage: The denim cargo pants come equipped with 2 front slash pockets, 2 dual button cargo pockets, and 2 dual button rear pockets for storing outdoor gear and everyday essentials. Utility at the Forefront: These denim pants feature a zipper fly for an easy on and off. The adjustable waist tabs and drawstring ankles enable you to find the perfect fit. Action Ready: From outdoor adventures to everyday wear, the denim cargo jeans are great for camping, fishing, skating, jogging, running, and other outdoor activities.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "13",
+    "16"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "29855",
+      "item_index": "5114",
+      "rothco_item_no": "82005",
+      "upc": "613902047297",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "1.7500",
+      "image_filename": "82005-B1.jpg",
+      "catalog_page_no": "10",
+      "msrp": 60.99,
+      "ship_length": "17.5000",
+      "ship_width": "15.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 27.5,
+      "case_price": 27.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "29856",
+      "item_index": "5114",
+      "rothco_item_no": "82005",
+      "upc": "613902047303",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "1.7500",
+      "image_filename": "82005-B1.jpg",
+      "catalog_page_no": "10",
+      "msrp": 60.99,
+      "ship_length": "17.5000",
+      "ship_width": "15.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 27.5,
+      "case_price": 27.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "29857",
+      "item_index": "5114",
+      "rothco_item_no": "82005",
+      "upc": "613902047310",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "1.7500",
+      "image_filename": "82005-B1.jpg",
+      "catalog_page_no": "10",
+      "msrp": 60.99,
+      "ship_length": "17.5000",
+      "ship_width": "15.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 27.5,
+      "case_price": 27.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "29858",
+      "item_index": "5114",
+      "rothco_item_no": "82005",
+      "upc": "613902047327",
+      "inventory": "68",
+      "created_date": null,
+      "weight": "1.7500",
+      "image_filename": "82005-B1.jpg",
+      "catalog_page_no": "10",
+      "msrp": 60.99,
+      "ship_length": "17.5000",
+      "ship_width": "15.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 27.5,
+      "case_price": 27.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

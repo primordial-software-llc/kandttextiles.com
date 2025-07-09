@@ -1,0 +1,43 @@
+{
+  "item_index": "1160",
+  "item_name": "Cutter Unscented Backwoods Insect Repellent",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Cutter Unscented Backwoods Insect Repellent is a water resistant bug spray that provides up to 10 hours of protection against Mosquitoes (including the species that transmits the Zika Virus) and also protects against ticks as well as biting flies, stable flies, black flies, gnat, chiggers, and more. Cutter's insect repellent contains 23% DEET and is unscented. Made In The USA.</p>",
+  "no_ratings": "0",
+  "sort_order": "252",
+  "description": "<p>Cutter Unscented Backwoods Insect Repellent is a water resistant bug spray that provides up to 10 hours of protection against Mosquitoes (including the species that transmits the Zika Virus) and also protects against ticks as well as biting flies, stable flies, black flies, gnat, chiggers, and more. Cutter's insect repellent contains 23% DEET and is unscented. Made In The USA.</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "270",
+    "600"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8696",
+      "item_index": "1160",
+      "rothco_item_no": "7722",
+      "upc": "071121962805",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5700",
+      "image_filename": "7722-HR1.jpg",
+      "catalog_page_no": "299",
+      "msrp": 19.99,
+      "ship_length": "7.0000",
+      "ship_width": "2.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 7.75,
+      "case_price": 7.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

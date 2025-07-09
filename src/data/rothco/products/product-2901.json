@@ -1,0 +1,77 @@
+{
+  "item_index": "2901",
+  "item_name": "Rothco Vintage Camo Fatigue Caps",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Vintage Camouflage Fatigue Caps are inspired by the classic military uniform fatigue cap dating back to the 1960's. The vintage camo hat features a washed-out cotton/poly fabric.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "2802",
+  "description": "<p>Rothco's Vintage Camouflage Fatigue Caps are inspired by the classic military uniform fatigue cap dating back to the 1960's. The vintage camo hat features a washed-out cotton/poly fabric.&nbsp;</p>",
+  "selection_groups": [
+    "head_size"
+  ],
+  "statuses": "",
+  "categories": [
+    "83",
+    "137",
+    "143",
+    "154",
+    "370"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3363",
+      "item_index": "2901",
+      "rothco_item_no": "4509",
+      "upc": "613902450912",
+      "inventory": "46",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "4509.jpg",
+      "catalog_page_no": "148",
+      "msrp": 13.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.2500",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "head_size": "S",
+        "color": "Woodland Camo"
+      },
+      "head_size": "S",
+      "color": "Woodland Camo",
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3365",
+      "item_index": "2901",
+      "rothco_item_no": "4509",
+      "upc": "613902450936",
+      "inventory": "66",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "4509.jpg",
+      "catalog_page_no": "148",
+      "msrp": 13.99,
+      "ship_length": "8.5000",
+      "ship_width": "7.5000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "head_size": "L",
+        "color": "Woodland Camo"
+      },
+      "head_size": "L",
+      "color": "Woodland Camo",
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

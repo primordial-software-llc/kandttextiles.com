@@ -1,0 +1,69 @@
+{
+  "item_index": "4744",
+  "item_name": "ITW Nexus Plastic Grimloc MOLLE Locking D-Ring",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Easily mount gear onto your MOLLE vest, tactical backpack, or duffel bag at the push of a button with the Berry Compliant ITW Grimlock MOLLE Locking D-ring.</p>",
+  "no_ratings": null,
+  "sort_order": "133057",
+  "description": "<p>Easily mount gear onto your MOLLE vest, tactical backpack, or duffel bag at the push of a button with the Berry Compliant ITW Grimlock MOLLE Locking D-ring. This durable American-made accessory mounts onto any 1-inch webbing to add a place to secure light cargo like gloves, military helmets, first aid kits, and more. It is also great for adding a hydration pack to MOLLE tactical vests for convenient access to water for hikers, soldiers, and tactical professionals. The D-ring is made from reliable materials with a textured grip for stress-free use while wearing gloves or with wet hands. The tactical accessory is resistant to solar heat for use in the hot sun and has a breakaway feature to prevent potential snag hazards. Plus, this tactical essential is made with the cloaking benefits of GhilleTEX&trade; IR Signature Reduction Technology.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "230"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18820",
+      "item_index": "4744",
+      "rothco_item_no": "235",
+      "upc": "613902002357",
+      "inventory": "99",
+      "created_date": "2018-12-21 18:10:00",
+      "weight": "0.0625",
+      "image_filename": "235-A-amazon.jpg",
+      "catalog_page_no": "208",
+      "msrp": 5.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 2.1,
+      "case_price": 2.1,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19914",
+      "item_index": "4744",
+      "rothco_item_no": "235",
+      "upc": "613902222359",
+      "inventory": "99",
+      "created_date": "2020-08-21 12:00:01",
+      "weight": "0.0625",
+      "image_filename": "235-A-CYT-AMAZON.jpg",
+      "catalog_page_no": "208",
+      "msrp": 5.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 2.1,
+      "case_price": 2.1,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

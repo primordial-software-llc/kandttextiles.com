@@ -1,0 +1,48 @@
+{
+  "item_index": "1402",
+  "item_name": "Rothco Special Forces Crest Pin",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>This Item Is Manufactured By A U.S. Factory Certified By The Institute Of Heraldry 1st Special Forces</p>",
+  "no_ratings": "0",
+  "sort_order": "559",
+  "description": "<p>This Item Is Manufactured By A U.S. Factory Certified By The Institute Of Heraldry 1st Special Forces. &nbsp;WARNING: &nbsp;This product contains a chemical known to the State of California to cause cancer, birth defects and other reproductive harm.</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Legal Issues"
+  ],
+  "categories": [
+    "422",
+    "494"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "706",
+      "item_index": "1402",
+      "rothco_item_no": "1541",
+      "upc": "613902715417",
+      "inventory": "29",
+      "created_date": "2002-04-22 21:00:00",
+      "weight": "0.0256",
+      "image_filename": "1541-A.jpg",
+      "catalog_page_no": "212",
+      "msrp": 16.99,
+      "ship_length": "4.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black / Grey",
+        "size": "One Size"
+      },
+      "color": "Black / Grey",
+      "size": "One Size",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

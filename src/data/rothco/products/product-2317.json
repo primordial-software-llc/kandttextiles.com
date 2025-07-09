@@ -1,0 +1,51 @@
+{
+  "item_index": "2317",
+  "item_name": "Rothco P.S.T (Public Safety Tactical) Pants - Midnight Navy Blue",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s P.S.T. (Public Safety Tactical) Pants are meticulously designed for public safety professionals who demand performance, comfort, and durability in their uniform. These high-performance pants feature a stain-resistant fabric that repels bodily fluids, water, and dirt, ensuring a professional appearance throughout your shift. The expandable comfort waistband provides a tailored fit, while the non-roll inner waistband keeps your uniform shirt neatly in place during active duty.</p>",
+  "no_ratings": "0",
+  "sort_order": "812",
+  "description": "<p>Rothco&rsquo;s P.S.T. (Public Safety Tactical) Pants are meticulously designed for public safety professionals who demand performance, comfort, and durability in their uniform. These high-performance pants feature a stain-resistant fabric that repels bodily fluids, water, and dirt, ensuring a professional appearance throughout your shift. The expandable comfort waistband provides a tailored fit, while the non-roll inner waistband keeps your uniform shirt neatly in place during active duty. Equipped with multiple pockets, including right and left side cargo pockets with hook &amp; loop closures, front slash pockets, and rear bellow pockets with faux flaps, these uniform pants offer ample storage for all your essential gear. The utility pockets with snap closures add extra functionality, making it easy to carry smaller tools or accessories. Finished with a zipper fly, 32 inch inseam, and durable belt loops, our P.S.T. Pants deliver the ultimate combination of practicality and comfort for law enforcement, EMS, and other public safety personnel.</p>",
+  "selection_groups": [
+    "waist_size"
+  ],
+  "statuses": "",
+  "categories": [
+    "9",
+    "10",
+    "477"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "11394",
+      "item_index": "2317",
+      "rothco_item_no": "9861",
+      "upc": "613902986152",
+      "inventory": "30",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.4500",
+      "image_filename": "9861-A-amazon.jpg",
+      "catalog_page_no": "0",
+      "msrp": 73.99,
+      "ship_length": "15.0000",
+      "ship_width": "13.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "waist_size": "40",
+        "inseam": "32 Inches",
+        "color": "Midnight Navy Blue"
+      },
+      "waist_size": "40",
+      "inseam": "32 Inches",
+      "color": "Midnight Navy Blue",
+      "price": 29.5,
+      "case_price": 29.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

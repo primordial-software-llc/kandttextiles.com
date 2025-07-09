@@ -44,9 +44,6 @@ export default function About() {
         <div className="absolute inset-0 bg-gradient-to-t from-[#0f172a]/90 via-transparent to-transparent"></div>
         <div className="relative z-20 max-w-7xl mx-auto px-5">
           <div className="text-center">
-            <div className="inline-block bg-white/5 backdrop-blur-sm text-white px-4 py-2 rounded-full text-sm mb-4 border border-white/10">
-              Our Story
-            </div>
             <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 leading-tight">
               About K&T Textiles
             </h1>
@@ -271,8 +268,6 @@ export default function About() {
           </div>
         </section>
       </main>
-
-      <Footer />
     </>
   );
 } 

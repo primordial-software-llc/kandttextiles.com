@@ -1,0 +1,95 @@
+{
+  "item_index": "5151",
+  "item_name": "Rothco Lightweight Woobie Zipper Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Keep your travel essentials, tablet, phone, ear buds, electronic devices, and small accessories secure with our Lightweight Woobie Zipper Pouch. The portable military-styled travel bag features an internal zipper pocket for additional storage and measures 10.5 inch x 6.5 inch x 2.5 inch. Whether you are out exploring or heading out on a trip, the quilted woobie pouch ensures your possessions are safe and secure.</p>",
+  "no_ratings": null,
+  "sort_order": null,
+  "description": "<p>Keep your travel essentials, tablet, phone, ear buds, electronic devices, and small accessories secure with our Lightweight Woobie Zipper Pouch. The portable military-styled travel bag features an internal zipper pocket for additional storage and measures 10.5 inch x 6.5 inch x 2.5 inch. Whether you are out exploring or heading out on a trip, the quilted woobie pouch ensures your possessions are safe and secure. From Tactical Roots to Everyday Utility: Inspired by the dependable versatility of the iconic poncho liner, Rothco&rsquo;s Woobie collection embodies rugged style and practicality. Each item, from our durable outerwear to the premium Zipper Pouch, features a distinctive quilted pattern and lightweight filling, combining unique style with everyday functionality. Quick Access: The quilted travel pouch comes equipped with a durable main zipper, allowing you to easily open the woobie pouch while on the go. Convenient Carry: These small zipper pouches feature a 20 inch removable wrist strap, giving you the option to hand carry the cosmetic toiletry bag as you travel. Multifunctional Design: From weekend adventures and road trips to everyday use, the Lightweight Woobie Zipper Pouch is perfect for both men and women, serving as a small handbag, electronic bag, accessory bag, and more.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "756",
+    "3",
+    "650"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "30228",
+      "item_index": "5151",
+      "rothco_item_no": "13860",
+      "upc": "613902049536",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.3000",
+      "image_filename": "13860-G.jpg",
+      "catalog_page_no": "354",
+      "msrp": 19.99,
+      "ship_length": "8.0000",
+      "ship_width": "5.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 8.95,
+      "case_price": 8.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30366",
+      "item_index": "5151",
+      "rothco_item_no": "13861",
+      "upc": "613902049543",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.3000",
+      "image_filename": "13861-C.jpg",
+      "catalog_page_no": "354",
+      "msrp": 19.99,
+      "ship_length": "8.0000",
+      "ship_width": "5.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 8.95,
+      "case_price": 8.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30367",
+      "item_index": "5151",
+      "rothco_item_no": "13862",
+      "upc": "613902049550",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.3000",
+      "image_filename": "13862-G.jpg",
+      "catalog_page_no": "354",
+      "msrp": 19.99,
+      "ship_length": "8.0000",
+      "ship_width": "5.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Cream"
+      },
+      "color": "Cream",
+      "price": 8.95,
+      "case_price": 8.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

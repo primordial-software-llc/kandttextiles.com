@@ -1,0 +1,152 @@
+{
+  "item_index": "4053",
+  "item_name": "Rothco Mesh Back Tactical Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay cool and comfortable all day with Rothco's Mesh Back Tactical Cap. Featuring a moisture-wicking mesh back and durable cotton front panels, this mesh baseball cap is ideal for various activities.</p>",
+  "no_ratings": null,
+  "sort_order": "1234",
+  "description": "<p>Stay cool and comfortable all day with Rothco's Mesh Back Tactical Cap. Featuring a moisture-wicking mesh back and durable cotton front panels, this mesh baseball cap is ideal for various activities. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "674",
+    "521"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15877",
+      "item_index": "4053",
+      "rothco_item_no": "99551",
+      "upc": "613902995512",
+      "inventory": "99",
+      "created_date": "2015-10-28 14:10:01",
+      "weight": "0.1875",
+      "image_filename": "99551-A-amazon.jpg",
+      "catalog_page_no": "145",
+      "msrp": 11.99,
+      "ship_length": "6.5000",
+      "ship_width": "7.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki",
+        "size": "One Size"
+      },
+      "color": "Khaki",
+      "size": "One Size",
+      "price": 4.75,
+      "case_price": 4.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15878",
+      "item_index": "4053",
+      "rothco_item_no": "99552",
+      "upc": "613902995529",
+      "inventory": "99",
+      "created_date": "2015-10-28 14:10:01",
+      "weight": "0.1875",
+      "image_filename": "99552-A-amazon.jpg",
+      "catalog_page_no": "145",
+      "msrp": 11.99,
+      "ship_length": "6.5000",
+      "ship_width": "7.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 4.75,
+      "case_price": 4.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15879",
+      "item_index": "4053",
+      "rothco_item_no": "99553",
+      "upc": "613902953598",
+      "inventory": "99",
+      "created_date": "2015-10-28 14:10:01",
+      "weight": "0.1875",
+      "image_filename": "99553-B-amazon.jpg",
+      "catalog_page_no": "145",
+      "msrp": 11.99,
+      "ship_length": "6.5000",
+      "ship_width": "7.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 4.75,
+      "case_price": 4.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16018",
+      "item_index": "4053",
+      "rothco_item_no": "99554",
+      "upc": "613902995543",
+      "inventory": "99",
+      "created_date": "2015-12-07 13:10:03",
+      "weight": "0.1900",
+      "image_filename": "99554-B-amazon1.jpg",
+      "catalog_page_no": "145",
+      "msrp": 17.99,
+      "ship_length": "6.5000",
+      "ship_width": "7.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam",
+        "size": "One Size"
+      },
+      "color": "MultiCam",
+      "size": "One Size",
+      "price": 7,
+      "case_price": 7,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17012",
+      "item_index": "4053",
+      "rothco_item_no": "8532",
+      "upc": "613902085329",
+      "inventory": "99",
+      "created_date": "2017-04-03 11:10:02",
+      "weight": "0.1875",
+      "image_filename": "8532-A-amazon1.jpg",
+      "catalog_page_no": "145",
+      "msrp": 11.99,
+      "ship_length": "6.5000",
+      "ship_width": "7.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 4.75,
+      "case_price": 4.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

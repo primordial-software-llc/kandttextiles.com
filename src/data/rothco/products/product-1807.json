@@ -1,0 +1,63 @@
+{
+  "item_index": "1807",
+  "item_name": "Rothco Expandable Steel Baton With TPU Tip",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Expandable Steel Baton with TPU Tip offers a reliable and versatile tool for self-defense and security. Measuring 26 inches in length when fully extended, this duty baton is designed for easy handling and effective use. The tactical baton features a durable Thermoplastic Polyurethane (TPU) tip that enhances impact control and durability. Its vertical striped rubber handle provides an improved grip, ensuring that you maintain a secure hold even in high-pressure situations.</p>",
+  "no_ratings": "0",
+  "sort_order": "266",
+  "description": "<p>Rothco&rsquo;s Expandable Steel Baton with TPU Tip offers a reliable and versatile tool for self-defense and security. Measuring 26 inches in length when fully extended, this duty baton is designed for easy handling and effective use. The tactical baton features a durable Thermoplastic Polyurethane (TPU) tip that enhances impact control and durability. Its vertical striped rubber handle provides an improved grip, ensuring that you maintain a secure hold even in high-pressure situations. The police baton also comes with a convenient nylon sheath for easy carrying and storage, making it accessible when you need it most. Whether for personal protection or professional use, Rothco&rsquo;s Expandable Steel Baton is a trusted choice for safety and reliability. Please note that this item is restricted for export and cannot be sold for use in some countries outside the U.S.</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "235"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "31",
+      "item_index": "1807",
+      "rothco_item_no": "10069",
+      "upc": "613902100695",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3000",
+      "image_filename": "10069-HR1.jpg",
+      "catalog_page_no": "226",
+      "msrp": 30.99,
+      "ship_length": "9.7500",
+      "ship_width": "1.7500",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 13.75,
+      "case_price": 13.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12187",
+      "item_index": "1807",
+      "rothco_item_no": "10669",
+      "upc": "613902106697",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.8000",
+      "image_filename": "10669-A1.jpg",
+      "catalog_page_no": "226",
+      "msrp": 32.99,
+      "ship_length": "10.2500",
+      "ship_width": "1.7500",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 14.75,
+      "case_price": 14.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

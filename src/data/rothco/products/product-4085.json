@@ -1,0 +1,40 @@
+{
+  "item_index": "4085",
+  "item_name": "Grabber Hand Warmers - 10 Pack",
+  "has_restrictions": "1",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The protective forearm guards come with adjustable hook and loop closures for a personalized fit and a convenient nylon gear bag for storage. The Hard Shell Forearm Guards come in one size and are sold in pairs.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "94",
+  "description": "<p>The protective forearm guards come with adjustable hook and loop closures for a personalized fit and a convenient nylon gear bag for storage. The Hard Shell Forearm Guards come in one size and are sold in pairs.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "320"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16025",
+      "item_index": "4085",
+      "rothco_item_no": "4926",
+      "upc": "031626055891",
+      "inventory": "99",
+      "created_date": "2015-12-16 12:10:01",
+      "weight": "1.2500",
+      "image_filename": "4926-A-amazon.jpg",
+      "catalog_page_no": "192",
+      "msrp": 18.99,
+      "ship_length": "10.0000",
+      "ship_width": "5.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

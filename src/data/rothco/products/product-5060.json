@@ -1,0 +1,93 @@
+{
+  "item_index": "5060",
+  "item_name": "Rothco Renovator Tool Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=5JzWvBW3oPE",
+  "rating": "5",
+  "item_short_desc": "<p>Tackle any project head on with our Renovator Tool Bag. The two-way zipper and wide mouth offer quick, easy access to your gear. The internal hinge frame is designed to stay open when moving your tools around. It also folds easily into place after you load up your gear. Measuring 15 inch x 10 inch x 10 inch, there is plenty of space for your essential tools and equipment, such as screwdrivers, hammers, tape measures, levels, wrenches, pliers, jumper cables, and many more!</p>",
+  "no_ratings": null,
+  "sort_order": "133369",
+  "description": "<p>Tackle any project head on with our Renovator Tool Bag. The two-way zipper and wide mouth offer quick, easy access to your gear. The internal hinge frame is designed to stay open when moving your tools around. It also folds easily into place after you load up your gear. Measuring 15 inch x 10 inch x 10 inch, there is plenty of space for your essential tools and equipment, such as screwdrivers, hammers, tape measures, levels, wrenches, pliers, jumper cables, and many more! Multiple Utility Pockets: Keep your gear secure and organized in the 26 available tool pockets. The main compartment consists of 10 internal open-top pockets for tucking away essentials while keeping them upright. The front features 8 flap-closure outer pockets that are great for loose items like drill bits, hex keys, and sockets. The back side features 8 open-top pockets for frequently used tools and equipment that you need at a moment&rsquo;s notice. 4 of these side pockets feature a drain hole that empties out dirt and debris. Top Grade Canvas: Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. These tool tote bags are made of 100% Cotton Canvas (22 OZ) that is reinforced with doubled-stitched seams, ensuring that your tools stay protected. No one comes close to Rothco&rsquo;s collection of premium canvas bags and packs. Utility at the Forefront: The contractor bag comes equipped with top grab handles with a built-in handle wrap and an adjustable shoulder strap for comfortable and easy carry. The shoulder strap is also detachable and can be conveniently stored away when not in use. The hard insert bottom provides structure and stability while also supporting the weight of your tools. Additionally, the molded plastic feet ensures that canvas tool bag stays in place. Must-Have for Any Trade: Keep your tools clean and dry at all kinds of jobs sites with the Renovator Tool Bag! These wide mouth tool bags are ideal for mechanics, plumbers, electricians, carpenters, masons, technicians, and many more! They are also great for homeowners or any DIYer that likes to tinker or renovate!</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "2"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "23550",
+      "item_index": "5060",
+      "rothco_item_no": "91810",
+      "upc": "613902037953",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "3.1800",
+      "image_filename": "91810-A.jpg",
+      "catalog_page_no": "338",
+      "msrp": 38.99,
+      "ship_length": "18.0000",
+      "ship_width": "11.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 17.5,
+      "case_price": 17.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "23551",
+      "item_index": "5060",
+      "rothco_item_no": "91811",
+      "upc": "613902037960",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "3.1800",
+      "image_filename": "91811-A.jpg",
+      "catalog_page_no": "338",
+      "msrp": 38.99,
+      "ship_length": "18.0000",
+      "ship_width": "11.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 17.5,
+      "case_price": 17.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "23552",
+      "item_index": "5060",
+      "rothco_item_no": "91812",
+      "upc": "613902037977",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "3.1800",
+      "image_filename": "91812-A.jpg",
+      "catalog_page_no": "338",
+      "msrp": 38.99,
+      "ship_length": "18.0000",
+      "ship_width": "11.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Work Brown"
+      },
+      "color": "Work Brown",
+      "price": 17.5,
+      "case_price": 17.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

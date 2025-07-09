@@ -1,0 +1,73 @@
+{
+  "item_index": "1440",
+  "item_name": "Rothco Spec-4 Polished Insignia",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Spec-4 Polished Insignia set includes 2 brass insignias, perfect for pinning onto uniforms. These insignias come in a sleek black or polished gold finish, allowing for versatile styling. Crafted from durable, lightweight brass, the insignias offer a long-lasting shine while maintaining a professional appearance. Manufactured by a U.S. factory certified by the Institute of Heraldry, this insignia set meets high standards for authenticity and quality.</p>",
+  "no_ratings": "0",
+  "sort_order": "1358",
+  "description": "<p>Rothco&rsquo;s Spec-4 Polished Insignia set includes 2 brass insignias, perfect for pinning onto uniforms. These insignias come in a sleek black or polished gold finish, allowing for versatile styling. Crafted from durable, lightweight brass, the insignias offer a long-lasting shine while maintaining a professional appearance. Manufactured by a U.S. factory certified by the Institute of Heraldry, this insignia set meets high standards for authenticity and quality. The pin back closure provides a secure fit, ensuring that the insignias remain in place. Whether you're looking for a polished addition to your uniform or simply a well-crafted insignia set, Rothco&rsquo;s Spec-4 Polished Insignia delivers exceptional quality and craftsmanship.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "422"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "745",
+      "item_index": "1440",
+      "rothco_item_no": "1608",
+      "upc": "613902416086",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0250",
+      "image_filename": "1608-hr2.jpg",
+      "catalog_page_no": "212",
+      "msrp": 6.99,
+      "ship_length": "4.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Subdued",
+        "size": "One Size"
+      },
+      "color": "Subdued",
+      "size": "One Size",
+      "price": 3.5,
+      "case_price": 3.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "761",
+      "item_index": "1440",
+      "rothco_item_no": "1648",
+      "upc": "613902416482",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0306",
+      "image_filename": "1648_BIG-amazon.JPG",
+      "catalog_page_no": "212",
+      "msrp": 12.99,
+      "ship_length": "4.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Gold",
+        "size": "One Size"
+      },
+      "color": "Gold",
+      "size": "One Size",
+      "price": 6.2,
+      "case_price": 6.2,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

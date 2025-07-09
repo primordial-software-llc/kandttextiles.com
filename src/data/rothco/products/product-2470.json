@@ -1,0 +1,193 @@
+{
+  "item_index": "2470",
+  "item_name": "Rothco Large Transport Pack ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=j3pekTcAGOw&lc",
+  "rating": "5",
+  "item_short_desc": "<p>Meet your every storage need with Rothco&rsquo;s Large Transport Pack, a tactical marvel featuring MOLLE compatibility and hydration-ready design. This heavy-duty polyester pack, measuring approximately 19 inches x 15 inches x 8 inches, offers a range of features for the most demanding adventures. The large main compartment, equipped with heavy-duty zippers, extends the bag's length for easy access and storage. Stay hydrated on the go with the hydration bladder-compatible pouch.</p>",
+  "no_ratings": "0",
+  "sort_order": "3567",
+  "description": "<p>Meet your every storage need with Rothco&rsquo;s Large Transport Pack, a tactical marvel featuring MOLLE compatibility and hydration-ready design. This heavy-duty polyester pack, measuring approximately 19 inches x 15 inches x 8 inches, offers a range of features for the most demanding adventures. The large main compartment, equipped with heavy-duty zippers, extends the bag's length for easy access and storage. Stay hydrated on the go with the hydration bladder-compatible pouch, while the water-repellent coating on lining and pockets keeps your essentials dry. The adjustable padded shoulder straps with quick-release buckles ensure comfort and emergency readiness. A removable waist belt aids weight distribution and pack stabilization. The MOLLE compatibility allows you to attach additional pouches and accessories for personalized functionality. Designed for versatility, this transport pack includes a front zippered compartment with an exterior pouch, a padded mesh back for added comfort and ventilation, and a quick-release top and side adjustable web straps. The pack also features a drag handle and cinch straps for secure closure. Choose Rothco&rsquo;s Large Transport Pack for unparalleled storage options and reliable performance on your next adventure.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "201",
+    "204",
+    "223",
+    "305",
+    "542"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8233",
+      "item_index": "2470",
+      "rothco_item_no": "7282",
+      "upc": "613902728202",
+      "inventory": "93",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.5000",
+      "image_filename": "7282-hr21.jpg",
+      "catalog_page_no": "316",
+      "msrp": 84.99,
+      "ship_length": "21.0000",
+      "ship_width": "17.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Foliage Green"
+      },
+      "color": "Foliage Green",
+      "price": 41.95,
+      "case_price": 41.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8234",
+      "item_index": "2470",
+      "rothco_item_no": "7287",
+      "upc": "613902728707",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.5000",
+      "image_filename": "7287-A-amazon.jpg",
+      "catalog_page_no": "316",
+      "msrp": 84.99,
+      "ship_length": "21.0000",
+      "ship_width": "17.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 41.95,
+      "case_price": 41.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8235",
+      "item_index": "2470",
+      "rothco_item_no": "7289",
+      "upc": "613902728905",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.5000",
+      "image_filename": "7289-hr1.jpg",
+      "catalog_page_no": "316",
+      "msrp": 84.99,
+      "ship_length": "21.0000",
+      "ship_width": "17.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 41.95,
+      "case_price": 41.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14340",
+      "item_index": "2470",
+      "rothco_item_no": "72870",
+      "upc": "613902997288",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.5000",
+      "image_filename": "72870-C-amazon.jpg",
+      "catalog_page_no": "316",
+      "msrp": 84.99,
+      "ship_length": "21.0000",
+      "ship_width": "17.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 41.95,
+      "case_price": 41.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14341",
+      "item_index": "2470",
+      "rothco_item_no": "72977",
+      "upc": "613902729773",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.5000",
+      "image_filename": "72977-B-amazon.jpg",
+      "catalog_page_no": "316",
+      "msrp": 84.99,
+      "ship_length": "21.0000",
+      "ship_width": "17.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red"
+      },
+      "color": "Red",
+      "price": 41.95,
+      "case_price": 41.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16193",
+      "item_index": "2470",
+      "rothco_item_no": "7243",
+      "upc": "613902072435",
+      "inventory": "41",
+      "created_date": "2016-03-08 13:10:03",
+      "weight": "3.5000",
+      "image_filename": "7243-B-amazon1.jpg",
+      "catalog_page_no": "316",
+      "msrp": 84.99,
+      "ship_length": "21.0000",
+      "ship_width": "17.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black / Olive Drab"
+      },
+      "color": "Black / Olive Drab",
+      "price": 41.95,
+      "case_price": 41.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16293",
+      "item_index": "2470",
+      "rothco_item_no": "7233",
+      "upc": "613902072336",
+      "inventory": "36",
+      "created_date": "2016-04-08 17:10:02",
+      "weight": "3.5000",
+      "image_filename": "7233-B-amazon.jpg",
+      "catalog_page_no": "316",
+      "msrp": 84.99,
+      "ship_length": "21.0000",
+      "ship_width": "17.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Gunmetal Grey"
+      },
+      "color": "Gunmetal Grey",
+      "price": 41.95,
+      "case_price": 41.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

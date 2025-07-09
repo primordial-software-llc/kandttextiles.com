@@ -1,0 +1,49 @@
+{
+  "item_index": "4409",
+  "item_name": "Rothco Low Profile Navy Cap - Coyote",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Low Profile Cap is constructed of a comfortable yet durable 100% brushed cotton twill fabric with gold letter embroidery.</p>",
+  "no_ratings": null,
+  "sort_order": "132722",
+  "description": "<p>Rothco's Low Profile Cap is constructed of a comfortable yet durable 100% brushed cotton twill fabric with gold letter embroidery. The Navy hat has a buckram front panel and an adjustable hook &amp; loop closure for the perfect fit. Officially licensed by the US Navy.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "374",
+    "522",
+    "523",
+    "674",
+    "549"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17701",
+      "item_index": "4409",
+      "rothco_item_no": "3813",
+      "upc": "613902038134",
+      "inventory": "99",
+      "created_date": "2017-10-13 11:10:01",
+      "weight": "0.2500",
+      "image_filename": "3813-A-amazon2.jpg",
+      "catalog_page_no": "140",
+      "msrp": 16.99,
+      "ship_length": "9.0000",
+      "ship_width": "8.5000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

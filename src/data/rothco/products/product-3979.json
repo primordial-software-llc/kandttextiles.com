@@ -1,0 +1,77 @@
+{
+  "item_index": "3979",
+  "item_name": "Rothco Enhanced G.I. Type Rip-Stop Poncho Liner With Zipper",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Rip-Stop Poncho Liner, also known as the Woobie, offers versatile functionality and added warmth in extreme conditions. The military poncho liner can be used as a lightweight blanket, make-shift tent, sleeping bag, or liner for a variety of outdoor activities, such as camping, hiking, backpacking, fishing, hunting, and more. The Woobie measures 62 inch x 82 inch, providing ample coverage against harsh weather conditions while keeping you warm and dry.</p>",
+  "no_ratings": null,
+  "sort_order": "532",
+  "description": "<p>Rothco's Rip-Stop Poncho Liner, also known as the Woobie, offers versatile functionality and added warmth in extreme conditions. The military poncho liner can be used as a lightweight blanket, make-shift tent, sleeping bag, or liner for a variety of outdoor activities, such as camping, hiking, backpacking, fishing, hunting, and more. The Woobie measures 62 inch x 82 inch, providing ample coverage against harsh weather conditions while keeping you warm and dry. The Poncho Liner&rsquo;s zipper closure design ensures protection against outdoor elements, making it an essential addition to your outdoor gear collection.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "143",
+    "137",
+    "593",
+    "272",
+    "261"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15524",
+      "item_index": "3979",
+      "rothco_item_no": "88476",
+      "upc": "613902884762",
+      "inventory": "99",
+      "created_date": "2015-07-02 13:10:01",
+      "weight": "1.6000",
+      "image_filename": "88476-B-amazon.jpg",
+      "catalog_page_no": "306",
+      "msrp": 63.99,
+      "ship_length": "23.0000",
+      "ship_width": "12.0000",
+      "ship_height": "6.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo",
+        "size": "One Size"
+      },
+      "color": "Woodland Camo",
+      "size": "One Size",
+      "price": 28.95,
+      "case_price": 28.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19270",
+      "item_index": "3979",
+      "rothco_item_no": "88477",
+      "upc": "613902884779",
+      "inventory": "0",
+      "created_date": "2019-11-06 17:00:18",
+      "weight": "1.6000",
+      "image_filename": "88477-A-amazon.jpg",
+      "catalog_page_no": "306",
+      "msrp": 63.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "12/11/2025",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 28.95,
+      "case_price": 28.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

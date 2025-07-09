@@ -1,0 +1,152 @@
+{
+  "item_index": "4837",
+  "item_name": "Rothco Army Printed Pullover Hoodie - Black",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=YVk3kx0ATs8",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco has taken the classic Army PT hoodie and enhanced it with a super-soft lightweight material perfect for the gym or just lounging around.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133150",
+  "description": "<p>Rothco has taken the classic Army PT hoodie and enhanced it with a super-soft lightweight material perfect for the gym or just lounging around.&nbsp;</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "75",
+    "51"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20725",
+      "item_index": "4837",
+      "rothco_item_no": "10053",
+      "upc": "613902003071",
+      "inventory": "46",
+      "created_date": "2021-05-25 11:00:05",
+      "weight": "1.2000",
+      "image_filename": "10053-FRONT-A.jpg",
+      "catalog_page_no": "100",
+      "msrp": 41.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "S"
+      },
+      "color": "Black",
+      "size": "S",
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20726",
+      "item_index": "4837",
+      "rothco_item_no": "10053",
+      "upc": "613902003088",
+      "inventory": "45",
+      "created_date": "2021-05-25 11:00:05",
+      "weight": "1.2000",
+      "image_filename": "10053-FRONT-A.jpg",
+      "catalog_page_no": "100",
+      "msrp": 41.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "M"
+      },
+      "color": "Black",
+      "size": "M",
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20727",
+      "item_index": "4837",
+      "rothco_item_no": "10053",
+      "upc": "613902003149",
+      "inventory": "20",
+      "created_date": "2021-05-25 11:00:05",
+      "weight": "1.2000",
+      "image_filename": "10053-FRONT-A.jpg",
+      "catalog_page_no": "100",
+      "msrp": 41.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "L"
+      },
+      "color": "Black",
+      "size": "L",
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20728",
+      "item_index": "4837",
+      "rothco_item_no": "10053",
+      "upc": "613902003156",
+      "inventory": "70",
+      "created_date": "2021-05-25 11:00:05",
+      "weight": "1.2000",
+      "image_filename": "10053-FRONT-A.jpg",
+      "catalog_page_no": "100",
+      "msrp": 41.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "XL"
+      },
+      "color": "Black",
+      "size": "XL",
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20729",
+      "item_index": "4837",
+      "rothco_item_no": "10054",
+      "upc": "613902003163",
+      "inventory": "42",
+      "created_date": "2021-05-25 11:00:05",
+      "weight": "1.2000",
+      "image_filename": "10053-FRONT-A.jpg",
+      "catalog_page_no": "100",
+      "msrp": 43.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "2XL"
+      },
+      "color": "Black",
+      "size": "2XL",
+      "price": 19.95,
+      "case_price": 19.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

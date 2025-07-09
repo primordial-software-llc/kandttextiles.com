@@ -1,0 +1,42 @@
+{
+  "item_index": "4884",
+  "item_name": "Rothco US Space Force Patch Round With Hook Back",
+  "has_restrictions": "1",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p class=\"MsoNormal\">Show your support for the United States Space Force!</p>",
+  "no_ratings": null,
+  "sort_order": "133197",
+  "description": "<p class=\"MsoNormal\">Show your support for the United States Space Force! Rothco&rsquo;s US Space Force Patch Round with Hook Back is a circular patch, measuring 3.25&rdquo;. This patch features a black background, detailed with white text reading, &ldquo;United States Space Force&rdquo; and The Delta space force symbol. Hook backing means that this patch can be attached to any clothing or gear compatible with the hook and loop backing system.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "422",
+    "423",
+    "424"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20983",
+      "item_index": "4884",
+      "rothco_item_no": "42020",
+      "upc": "613902006478",
+      "inventory": "99",
+      "created_date": "2021-10-21 13:00:13",
+      "weight": "0.0100",
+      "image_filename": "42020-A1.jpg",
+      "catalog_page_no": "215",
+      "msrp": 3.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

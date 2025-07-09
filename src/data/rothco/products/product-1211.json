@@ -1,0 +1,73 @@
+{
+  "item_index": "1211",
+  "item_name": "Rothco EMS Trauma Backpack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s EMS Trauma Backpack is designed for first responders, providing a durable and highly functional solution for organizing and carrying essential medical supplies. The spacious main compartment, measuring 12 inch x 18.5 inch x 7.5 inch, offers ample storage space, while a variety of interior pockets and elastic loops ensure your tools are organized and easily accessible in critical moments. This trauma backpack includes mesh pockets on the front and both sides for additional storage, as well as an ID holder for quick identification.</p>",
+  "no_ratings": "0",
+  "sort_order": "917",
+  "description": "<p>Rothco&rsquo;s EMS Trauma Backpack is designed for first responders, providing a durable and highly functional solution for organizing and carrying essential medical supplies. The spacious main compartment, measuring 12 inch x 18.5 inch x 7.5 inch, offers ample storage space, while a variety of interior pockets and elastic loops ensure your tools are organized and easily accessible in critical moments. This trauma backpack includes mesh pockets on the front and both sides for additional storage, as well as an ID holder for quick identification. Reflective striping on the front enhances visibility in low-light conditions, ensuring safety during nighttime emergencies. The padded back and 3-inch wide adjustable shoulder straps, featuring a phone pouch with a hook &amp; loop closure, provide comfort and convenience during long shifts. 2 front straps with quick-release buckles secure the contents, while the top carry handle adds versatile portability. This backpack is an essential piece of gear for any medical professional.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "204",
+    "226",
+    "227",
+    "271",
+    "242"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1234",
+      "item_index": "1211",
+      "rothco_item_no": "2345",
+      "upc": "613902234550",
+      "inventory": "32",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.5000",
+      "image_filename": "2345-A.jpg",
+      "catalog_page_no": "251",
+      "msrp": 96.99,
+      "ship_length": "19.0000",
+      "ship_width": "13.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Orange"
+      },
+      "color": "Orange",
+      "price": 43.95,
+      "case_price": 43.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12770",
+      "item_index": "1211",
+      "rothco_item_no": "2445",
+      "upc": "613902244597",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.5000",
+      "image_filename": "2445-A-Red-Bag.jpg",
+      "catalog_page_no": "251",
+      "msrp": 96.99,
+      "ship_length": "19.0000",
+      "ship_width": "13.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red"
+      },
+      "color": "Red",
+      "price": 43.95,
+      "case_price": 43.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

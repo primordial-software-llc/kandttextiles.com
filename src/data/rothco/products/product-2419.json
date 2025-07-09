@@ -1,0 +1,70 @@
+{
+  "item_index": "2419",
+  "item_name": "Rothco Signal Mirrors",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Signal Mirrors are essential tools for enhancing safety and communication in outdoor and emergency situations. Designed for pinpoint accuracy, these mirrors feature a sighting hole with a reflectorized screen, ensuring you can signal for help or coordinate with others effectively. Built to withstand the rigors of the great outdoors, our signal mirrors are scratch-resistant, guaranteeing clear visibility when you need it most.</p>",
+  "no_ratings": "0",
+  "sort_order": "1076",
+  "description": "<p>Rothco's Signal Mirrors are essential tools for enhancing safety and communication in outdoor and emergency situations. Designed for pinpoint accuracy, these mirrors feature a sighting hole with a reflectorized screen, ensuring you can signal for help or coordinate with others effectively. Built to withstand the rigors of the great outdoors, our signal mirrors are scratch-resistant, guaranteeing clear visibility when you need it most. Available in 2 convenient sizes, 2 inches x 3 inches and 4 inches x 5 inches, you can choose the perfect fit for your needs. Whether you&rsquo;re hiking, camping, or in a survival scenario, Rothco Signal Mirrors are crafted to meet the highest standards of quality and performance, making them a reliable addition to your gear. Depend on Rothco to provide the precision and durability you need when every second counts.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "542",
+    "261"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9523",
+      "item_index": "2419",
+      "rothco_item_no": "8314",
+      "upc": "613902083141",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "8314-HR.jpg",
+      "catalog_page_no": "282",
+      "msrp": 20.99,
+      "ship_length": "5.5000",
+      "ship_width": "6.2500",
+      "ship_height": "5.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9524",
+      "item_index": "2419",
+      "rothco_item_no": "8315",
+      "upc": "613902283152",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "8314-HR.jpg",
+      "catalog_page_no": "282",
+      "msrp": 24.99,
+      "ship_length": "5.5000",
+      "ship_width": "6.2500",
+      "ship_height": "5.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

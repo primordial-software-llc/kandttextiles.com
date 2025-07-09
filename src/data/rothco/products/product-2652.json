@@ -1,0 +1,43 @@
+{
+  "item_index": "2652",
+  "item_name": "Rothco 18 Inch Canvas Machete Sheath",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's 18 Inch&nbsp;Canvas Machete Sheath provides full coverage of your blade in a durable canvas material.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "1562",
+  "description": "<p>Rothco's 18 Inch&nbsp;Canvas Machete Sheath provides full coverage of your blade in a durable canvas material.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "298"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10869",
+      "item_index": "2652",
+      "rothco_item_no": "935",
+      "upc": "613902093508",
+      "inventory": "99",
+      "created_date": "2002-04-17 21:00:00",
+      "weight": "0.1800",
+      "image_filename": "935--A.jpg",
+      "catalog_page_no": "274",
+      "msrp": 4.99,
+      "ship_length": "11.5000",
+      "ship_width": "4.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "length": "18 Inches"
+      },
+      "length": "18 Inches",
+      "price": 1.6,
+      "case_price": 1.6,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

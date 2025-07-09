@@ -1,0 +1,43 @@
+{
+  "item_index": "4514",
+  "item_name": "Rothco Morale Patch Book Page",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Let your patch collection expand with Rothco's Morale Patch Book Page!</p>",
+  "no_ratings": null,
+  "sort_order": "132827",
+  "description": "<p>Let your patch collection expand with Rothco's Morale Patch Book Page! These additional morale patch book pages can be added to your Rothco Morale Patch Book and measure 8.5 inches by 11.75 inches. Constructed of polyester loop material on the front and back to easily secure all of your favorite hook back morale patches.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "420"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18641",
+      "item_index": "4514",
+      "rothco_item_no": "2009",
+      "upc": "613902020092",
+      "inventory": "99",
+      "created_date": "2018-08-30 14:10:02",
+      "weight": "0.7500",
+      "image_filename": "2009-A-amazon.jpg",
+      "catalog_page_no": "216",
+      "msrp": 8.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

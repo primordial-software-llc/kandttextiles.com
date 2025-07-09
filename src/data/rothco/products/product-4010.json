@@ -1,0 +1,40 @@
+{
+  "item_index": "4010",
+  "item_name": "Rothco Gun Cleaning Pick & Brush Set",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Gun Cleaning Pick and Brush Set is a kit of 4 nylon picks and a polypropylene brush. Each pick is double ended with different shapes and grips. Each pick has a hexagon shape for grip.</p>",
+  "no_ratings": null,
+  "sort_order": "435",
+  "description": "<p>Rothco's Gun Cleaning Pick and Brush Set is a kit of 4 nylon picks and a polypropylene brush. Each pick is double ended with different shapes and grips. Each pick has a hexagon shape for grip.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "249"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15643",
+      "item_index": "4010",
+      "rothco_item_no": "3821",
+      "upc": "613902138216",
+      "inventory": "99",
+      "created_date": "2015-09-08 14:10:01",
+      "weight": "0.1875",
+      "image_filename": "3821-B-amazon.jpg",
+      "catalog_page_no": "262",
+      "msrp": 7.99,
+      "ship_length": "9.5000",
+      "ship_width": "3.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 2.9,
+      "case_price": 2.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "item_index": "2454",
+  "item_name": "Rothco G.I. Type Enhanced Double Strap Duffle Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Built tough, Rothco's Enhanced Double Strap Duffle Bag offers ample storage with its spacious main compartment and side pocket. Adjustable shoulder straps ensure a comfortable carry, while the side handle adds versatility. Ideal for camping, travel, and outdoor adventures.</p>",
+  "no_ratings": "0",
+  "sort_order": "1553",
+  "description": "<p>Built tough, Rothco's Enhanced Double Strap Duffle Bag offers ample storage with its spacious main compartment and side pocket. Adjustable shoulder straps ensure a comfortable carry, while the side handle adds versatility. Ideal for camping, travel, and outdoor adventures.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "143",
+    "144",
+    "199",
+    "214",
+    "216"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1314",
+      "item_index": "2454",
+      "rothco_item_no": "2484",
+      "upc": "613902248403",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.8000",
+      "image_filename": "2484-A1.jpg",
+      "catalog_page_no": "328",
+      "msrp": 63.99,
+      "ship_length": "14.0000",
+      "ship_width": "12.2500",
+      "ship_height": "3.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 28.5,
+      "case_price": 28.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2284",
+      "item_index": "2454",
+      "rothco_item_no": "3484",
+      "upc": "613902348400",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.8000",
+      "image_filename": "3484-A1.jpg",
+      "catalog_page_no": "328",
+      "msrp": 63.99,
+      "ship_length": "14.0000",
+      "ship_width": "12.2500",
+      "ship_height": "3.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 28.5,
+      "case_price": 28.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16185",
+      "item_index": "2454",
+      "rothco_item_no": "2684",
+      "upc": "613902026841",
+      "inventory": "99",
+      "created_date": "2016-03-04 15:10:01",
+      "weight": "1.8000",
+      "image_filename": "2684-A.jpg",
+      "catalog_page_no": "328",
+      "msrp": 63.99,
+      "ship_length": "14.0000",
+      "ship_width": "12.2500",
+      "ship_height": "3.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 28.5,
+      "case_price": 28.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

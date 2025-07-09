@@ -1,0 +1,41 @@
+{
+  "item_index": "4003",
+  "item_name": "Rothco 7 Color Camo Face Paint Compact",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's 7 Color Camo Face Paint Compact comes with light green, grey, olive drab, black, sand, foliage, and loam colors in a plastic case. Contains lanolin oil and mineral oil; no nut oils used.</p>",
+  "no_ratings": null,
+  "sort_order": "164",
+  "description": "<p>Rothco's 7 Color Camo Face Paint Compact comes with light green, grey, olive drab, black, sand, foliage, and loam colors in a plastic case. Contains lanolin oil and mineral oil; no nut oils used.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "341",
+    "342"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15628",
+      "item_index": "4003",
+      "rothco_item_no": "8219",
+      "upc": "613902821910",
+      "inventory": "99",
+      "created_date": "2015-09-03 13:10:01",
+      "weight": "0.1625",
+      "image_filename": "8219-A-amazon.jpg",
+      "catalog_page_no": "265",
+      "msrp": 8.99,
+      "ship_length": "3.0000",
+      "ship_width": "2.2500",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 3.5,
+      "case_price": 3.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "item_index": "1078",
+  "item_name": "Rothco GI Style Sewing Kit",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Sewing Kit is a compact and essential tool for any camping or survival kit. Perfect for those who need quick and reliable repairs on the go, this kit includes everything necessary to keep your outdoor gear in top condition. The kit is neatly stored in a robust pouch with a secure button flap, ensuring the contents stay organized and protected. Whether you&rsquo;re patching up a tent, mending clothes, or making minor repairs, our Sewing Kit is a must-have.</p>",
+  "no_ratings": "0",
+  "sort_order": "3462",
+  "description": "<p>Rothco&rsquo;s Sewing Kit is a compact and essential tool for any camping or survival kit. Perfect for those who need quick and reliable repairs on the go, this kit includes everything necessary to keep your outdoor gear in top condition. The kit is neatly stored in a robust pouch with a secure button flap, ensuring the contents stay organized and protected. Whether you&rsquo;re patching up a tent, mending clothes, or making minor repairs, our Sewing Kit is a must-have. With essential items such as scissors, thread, thimble, buttons, and snaps, it provides convenience and practicality, making it ideal for bug-out bags, travel, or emergency preparedness. The durable pouch keeps all items neatly contained, ready for quick access when needed. Whether you're camping, hiking, or preparing for the unexpected, this sewing kit ensures you're always equipped for minor repairs in the field.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "634",
+    "261"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "479",
+      "item_index": "1078",
+      "rothco_item_no": "1121",
+      "upc": "613902112100",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1250",
+      "image_filename": "1121-A-amazon.jpg",
+      "catalog_page_no": "204",
+      "msrp": 8.99,
+      "ship_length": "4.0000",
+      "ship_width": "4.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 3.25,
+      "case_price": 3.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

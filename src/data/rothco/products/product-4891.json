@@ -1,0 +1,40 @@
+{
+  "item_index": "4891",
+  "item_name": "Rothco Packable Laundry Bag Backpack ",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>A lightweight yet durable laundry bag makes carrying clothes easy with convenient backpack straps.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133204",
+  "description": "<p>A lightweight yet durable laundry bag makes carrying clothes easy with convenient backpack straps.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "213"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "21012",
+      "item_index": "4891",
+      "rothco_item_no": "29292",
+      "upc": "613902007147",
+      "inventory": "99",
+      "created_date": "2021-11-11 12:00:10",
+      "weight": "0.3750",
+      "image_filename": "29292-G-NOLOGO.jpg",
+      "catalog_page_no": "367",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

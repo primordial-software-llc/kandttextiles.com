@@ -1,0 +1,40 @@
+{
+  "item_index": "1156",
+  "item_name": "Rothco Pick Mattock",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Pick Mattock combines durability with functionality, making it an essential tool for both gardening and outdoor adventures. Featuring a forged pick and a sturdy hardwood handle, this mattock is designed for smaller digging tasks, whether you're loosening soil in your backyard garden or tackling tough roots in the wilderness. The 17-inch length offers a comfortable grip, ensuring you have the control needed to get the job done efficiently.</p>",
+  "no_ratings": "0",
+  "sort_order": "923",
+  "description": "<p>Rothco&rsquo;s Pick Mattock combines durability with functionality, making it an essential tool for both gardening and outdoor adventures. Featuring a forged pick and a sturdy hardwood handle, this mattock is designed for smaller digging tasks, whether you're loosening soil in your backyard garden or tackling tough roots in the wilderness. The 17-inch length offers a comfortable grip, ensuring you have the control needed to get the job done efficiently. The survival pickaxe&rsquo;s compact size makes it easy to carry, so you can bring it along on camping trips or other outdoor activities where a reliable digging tool is necessary. Built to last with heavy-duty materials, our Pick Mattock is an indispensable addition to your gardening, camping, and survival gear.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "275"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8536",
+      "item_index": "1156",
+      "rothco_item_no": "76",
+      "upc": "613902767614",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.2900",
+      "image_filename": "76-A2.jpg",
+      "catalog_page_no": "274",
+      "msrp": 28.99,
+      "ship_length": "12.0000",
+      "ship_width": "12.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

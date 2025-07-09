@@ -1,0 +1,120 @@
+{
+  "item_index": "1061",
+  "item_name": "Rothco Folding Camp Stool",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Experience comfort on the go with Rothco's Folding Camp Stool. This lightweight and easily transportable camping stool is perfect for backpacking, camping, or cheering on your favorite team. With a weight limit of 176 lbs. (80 kgs), it provides a sturdy and convenient seating solution. The stool folds effortlessly and fits into its matching carrying case, ensuring easy storage and portability.</p>",
+  "no_ratings": "0",
+  "sort_order": "4117",
+  "description": "<p>Experience comfort on the go with Rothco's Folding Camp Stool. This lightweight and easily transportable camping stool is perfect for backpacking, camping, or cheering on your favorite team. With a weight limit of 176 lbs. (80 kgs), it provides a sturdy and convenient seating solution. The stool folds effortlessly and fits into its matching carrying case, ensuring easy storage and portability. Compact with dimensions of 11 inch x 9 inch x 1.5 inch when closed, this camping stool is a must-have for those who value comfort and convenience in the great outdoors.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "143",
+    "144",
+    "273"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3275",
+      "item_index": "1061",
+      "rothco_item_no": "4474",
+      "upc": "613902447400",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.0000",
+      "image_filename": "4474-A-amazon1.jpg",
+      "catalog_page_no": "301",
+      "msrp": 24.99,
+      "ship_length": "11.0000",
+      "ship_width": "9.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3520",
+      "item_index": "1061",
+      "rothco_item_no": "4575",
+      "upc": "613902457508",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.0000",
+      "image_filename": "4575-A-amazon1.jpg",
+      "catalog_page_no": "301",
+      "msrp": 24.99,
+      "ship_length": "11.0000",
+      "ship_width": "9.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12992",
+      "item_index": "1061",
+      "rothco_item_no": "4543",
+      "upc": "613902045439",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.0000",
+      "image_filename": "4543-A-amazon.jpg",
+      "catalog_page_no": "301",
+      "msrp": 24.99,
+      "ship_length": "11.0000",
+      "ship_width": "9.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15922",
+      "item_index": "1061",
+      "rothco_item_no": "45450",
+      "upc": "613902045453",
+      "inventory": "99",
+      "created_date": "2015-11-13 16:10:03",
+      "weight": "2.0000",
+      "image_filename": "45450-A-amazon.jpg",
+      "catalog_page_no": "301",
+      "msrp": 24.99,
+      "ship_length": "11.0000",
+      "ship_width": "9.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "item_index": "4356",
+  "item_name": "Rothco Glacier Sunglasses with Wind Guard",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Glacier Tactical Wind Guard Sunglasses are engineered for those who face the elements head-on, providing superior protection and clarity in the harshest conditions. The 2.0 MM polycarbonate lenses are treated with an anti-fog and anti-scratch coating, ensuring clear vision even in challenging environments. With UV400 protection, these lenses help shield your eyes from harmful UV rays, making them ideal for bright, sunny days.</p>",
+  "no_ratings": null,
+  "sort_order": "3784",
+  "description": "<p>Rothco's Glacier Tactical Wind Guard Sunglasses are engineered for those who face the elements head-on, providing superior protection and clarity in the harshest conditions. The 2.0 MM polycarbonate lenses are treated with an anti-fog and anti-scratch coating, ensuring clear vision even in challenging environments. With UV400 protection, these lenses help shield your eyes from harmful UV rays, making them ideal for bright, sunny days. The tactical sunglasses come equipped with removable leather windshields and a nose piece, offering additional protection against wind, dust, and debris. For added convenience, an elastic neck lanyard keeps your sunglasses secure and within reach at all times. Built with a durable plastic frame, these sunglasses are designed to withstand the rigors of outdoor adventures, providing long-lasting wear and performance. Whether you're on the slopes, hiking, or simply enjoying the outdoors, Rothco&rsquo;s Glacier Sunglasses deliver comfort, style, and protection.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "393",
+    "489"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "206",
+      "item_index": "4356",
+      "rothco_item_no": "10380",
+      "upc": "613902103856",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3000",
+      "image_filename": "10380-A-amazon.jpg",
+      "catalog_page_no": "201",
+      "msrp": 18.99,
+      "ship_length": "7.0000",
+      "ship_width": "2.7500",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 7.25,
+      "case_price": 7.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

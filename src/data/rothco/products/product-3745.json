@@ -1,0 +1,126 @@
+{
+  "item_index": "3745",
+  "item_name": "Rothco Web Belts In 3 Pack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Gear up with Rothco&rsquo;s Web Belt 3-Pack. Crafted from rugged cotton canvas, these belts offer durability for outdoor adventures. With an adjustable fit and flip-top buckle, they're perfect for any activity. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "no_ratings": null,
+  "sort_order": "1109",
+  "description": "<p>Gear up with Rothco&rsquo;s Web Belt 3-Pack. Crafted from rugged cotton canvas, these belts offer durability for outdoor adventures. With an adjustable fit and flip-top buckle, they're perfect for any activity. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "size",
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "380"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14639",
+      "item_index": "3745",
+      "rothco_item_no": "44170",
+      "upc": "613902441705",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7500",
+      "image_filename": "3_Packs-02.jpg",
+      "catalog_page_no": "195",
+      "msrp": 18.99,
+      "ship_length": "9.5000",
+      "ship_width": "7.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "54 Inches",
+        "color": "Khaki / Navy Blue / Black"
+      },
+      "size": "54 Inches",
+      "color": "Khaki / Navy Blue / Black",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18392",
+      "item_index": "3745",
+      "rothco_item_no": "4709",
+      "upc": "613902147096",
+      "inventory": "99",
+      "created_date": "2018-04-30 11:10:02",
+      "weight": "0.7500",
+      "image_filename": "LE-Web_Belts_In_3_Pack_Item4709-08.jpg",
+      "catalog_page_no": "195",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "54 Inches"
+      },
+      "color": "Black",
+      "size": "54 Inches",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19476",
+      "item_index": "3745",
+      "rothco_item_no": "4912",
+      "upc": "613902049123",
+      "inventory": "99",
+      "created_date": "2020-02-11 17:00:47",
+      "weight": "0.7500",
+      "image_filename": "LE-Web_Belts_In_3_Pack_Item4709-13.jpg",
+      "catalog_page_no": "195",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "54 Inches",
+        "color": "Khaki / Black / Olive Drab"
+      },
+      "size": "54 Inches",
+      "color": "Khaki / Black / Olive Drab",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20758",
+      "item_index": "3745",
+      "rothco_item_no": "44171",
+      "upc": "613902003576",
+      "inventory": "99",
+      "created_date": "2021-06-10 16:00:26",
+      "weight": "0.7500",
+      "image_filename": "3_Packs-02.jpg",
+      "catalog_page_no": "195",
+      "msrp": 17.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki / Navy Blue / Black",
+        "size": "44 Inches"
+      },
+      "color": "Khaki / Navy Blue / Black",
+      "size": "44 Inches",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

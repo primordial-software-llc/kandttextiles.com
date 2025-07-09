@@ -1,0 +1,95 @@
+{
+  "item_index": "1117",
+  "item_name": "Rothco G.I. Type 2 QT. Bladder Canteen Cover",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's military-style bladder canteen cover is designed to fit 2 Quart bladder canteens.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "2285",
+  "description": "<p>Rothco's military-style bladder canteen cover is designed to fit 2 Quart bladder canteens. The canteen cover features a durable tactical polyester material with fleece lining.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "280",
+    "283"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "608",
+      "item_index": "1117",
+      "rothco_item_no": "1261",
+      "upc": "613902126107",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "1261-A-NOLOGO.jpg",
+      "catalog_page_no": "286",
+      "msrp": 17.99,
+      "ship_length": "9.5000",
+      "ship_width": "10.0000",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "609",
+      "item_index": "1117",
+      "rothco_item_no": "1262",
+      "upc": "613902126206",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "1262-A-NOLOGO.jpg",
+      "catalog_page_no": "286",
+      "msrp": 18.99,
+      "ship_length": "9.5000",
+      "ship_width": "10.0000",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 7.6,
+      "case_price": 7.6,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "610",
+      "item_index": "1117",
+      "rothco_item_no": "1263",
+      "upc": "613902126305",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5000",
+      "image_filename": "1263-A-NOLOGO.jpg",
+      "catalog_page_no": "286",
+      "msrp": 17.99,
+      "ship_length": "9.5000",
+      "ship_width": "10.0000",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

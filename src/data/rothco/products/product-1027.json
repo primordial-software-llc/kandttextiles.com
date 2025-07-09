@@ -1,0 +1,45 @@
+{
+  "item_index": "1027",
+  "item_name": "Rothco Zipper Boot Laces",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Zipper Boot Laces are designed for those who value both convenience and efficiency in their footwear. Specifically tailored to fit Rothco Combat Boots and Jungle Boots with a 9-hole lace-up design, these zipper boot laces transform your traditional lace-up boots into easy zip-on and zip-off footwear. Simply lace the zipper boot laces into your boots once, and you'll never have to struggle with tying and untying your laces again. The durable construction ensures long-lasting use, even in rugged conditions.</p>",
+  "no_ratings": "0",
+  "sort_order": "3169",
+  "description": "<p>Rothco's Zipper Boot Laces are designed for those who value both convenience and efficiency in their footwear. Specifically tailored to fit Rothco Combat Boots and Jungle Boots with a 9-hole lace-up design, these zipper boot laces transform your traditional lace-up boots into easy zip-on and zip-off footwear. Simply lace the zipper boot laces into your boots once, and you'll never have to struggle with tying and untying your laces again. The durable construction ensures long-lasting use, even in rugged conditions. These zipper boot laces are ideal for anyone looking to streamline their routine, whether you're heading to work, hitting the trails, or just running errands. Enjoy the perfect blend of functionality and ease with Rothco's Zipper Boot Laces, and make your everyday life a bit simpler.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "359"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "6222",
+      "item_index": "1027",
+      "rothco_item_no": "6195",
+      "upc": "613902619500",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "6195-A.jpg",
+      "catalog_page_no": "186",
+      "msrp": 12.99,
+      "ship_length": "9.5000",
+      "ship_width": "3.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 4.95,
+      "case_price": 4.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "item_index": "2885",
+  "item_name": "Rothco MOLLE 3 Liter Backstrap Hydration System",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay hydrated on the move with Rothco's 3 Liter MOLLE Backstrap Hydration System. Engineered for outdoor enthusiasts, this pack is perfect for extended activities like hiking and camping. Its durable design, innovative features, and MOLLE compatibility make it an essential companion for your adventures.</p>",
+  "no_ratings": null,
+  "sort_order": "2068",
+  "description": "<p>Stay hydrated on the move with Rothco's 3 Liter MOLLE Backstrap Hydration System. Engineered for outdoor enthusiasts, this pack is perfect for extended activities like hiking and camping. Its durable design, innovative features, and MOLLE compatibility make it an essential companion for your adventures.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "143",
+    "140",
+    "280",
+    "282",
+    "305",
+    "256",
+    "500"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1599",
+      "item_index": "2885",
+      "rothco_item_no": "2820",
+      "upc": "613902282001",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2500",
+      "image_filename": "2820-flat-hr2-amazon.jpg",
+      "catalog_page_no": "290",
+      "msrp": 79.99,
+      "ship_length": "21.0000",
+      "ship_width": "12.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "ACU Digital Camo"
+      },
+      "color": "ACU Digital Camo",
+      "price": 31.95,
+      "case_price": 31.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1602",
+      "item_index": "2885",
+      "rothco_item_no": "2825",
+      "upc": "613902282506",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2500",
+      "image_filename": "2825-A-amazon.jpg",
+      "catalog_page_no": "290",
+      "msrp": 61.99,
+      "ship_length": "21.0000",
+      "ship_width": "12.5000",
+      "ship_height": "1.5000",
+      "eta_date": "07/21/2025",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 27.9,
+      "case_price": 27.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1603",
+      "item_index": "2885",
+      "rothco_item_no": "2830",
+      "upc": "613902283008",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2000",
+      "image_filename": "2830-flat-hr2-amazon.jpg",
+      "catalog_page_no": "290",
+      "msrp": 61.99,
+      "ship_length": "21.0000",
+      "ship_width": "12.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 27.9,
+      "case_price": 27.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1604",
+      "item_index": "2885",
+      "rothco_item_no": "2840",
+      "upc": "613902284005",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2500",
+      "image_filename": "2840_big2-amazon.jpg",
+      "catalog_page_no": "290",
+      "msrp": 98.99,
+      "ship_length": "21.0000",
+      "ship_width": "12.5000",
+      "ship_height": "1.5000",
+      "eta_date": "07/17/2025",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 44.9,
+      "case_price": 44.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14757",
+      "item_index": "2885",
+      "rothco_item_no": "2831",
+      "upc": "613902028319",
+      "inventory": "99",
+      "created_date": "2014-09-12 15:10:01",
+      "weight": "1.2000",
+      "image_filename": "2831-A-amazon.jpg",
+      "catalog_page_no": "290",
+      "msrp": 61.99,
+      "ship_length": "21.0000",
+      "ship_width": "12.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 27.9,
+      "case_price": 27.9,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    }
+  ]
+}

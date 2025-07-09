@@ -1,0 +1,40 @@
+{
+  "item_index": "1677",
+  "item_name": "Smith & Wesson Assisted Opening Military & Police Knife",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "The Smith & Wesson Assisted Opening Military & Police Knife features a side safety M.A.G.I.C. assisted opening system that allows single-handed operation. Designed for military and law enforcement use, it's durable in the extreme, with an aluminum handle with rubber inserts and a titanium-coated stainless steel, half-serrated blade.",
+  "no_ratings": "0",
+  "sort_order": "241",
+  "description": "The Smith &amp; Wesson Assisted Opening Military &amp; Police Knife features a side safety M.A.G.I.C. assisted opening system that allows single-handed operation. Designed for military and law enforcement use, it's durable in the extreme, with an aluminum handle with rubber inserts and a titanium-coated stainless steel, half-serrated blade.\r\n",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "513"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1808",
+      "item_index": "1677",
+      "rothco_item_no": "3095",
+      "upc": "028634701070",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2563",
+      "image_filename": "3095_hr1.jpg",
+      "catalog_page_no": "270",
+      "msrp": 97.99,
+      "ship_length": "4.2500",
+      "ship_width": "1.2500",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 38.95,
+      "case_price": 38.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

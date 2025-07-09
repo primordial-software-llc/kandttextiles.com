@@ -1,0 +1,153 @@
+{
+  "item_index": "2847",
+  "item_name": "Rothco Marines Pullover Hooded Sweatshirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p class=\"MsoNormal\">Display your pride for the United States Marine Corps with Rothco&rsquo;s Marines Pullover Hooded Sweatshirt. Proudly featuring \"MARINES\" in bold black lettering across the front, this USMC hoodie is perfect for enthusiasts. Equipped with a front kangaroo pouch pocket for easy storage, the hoodie offers convenience on the go. The drawstring hood and elastic wrist cuffs ensure a snug fit, ideal for rugged workouts or casual wear, while shielding against the elements. This item is officially licensed by the United States Marine Corps.</p>",
+  "no_ratings": "0",
+  "sort_order": "1255",
+  "description": "<p>Display your pride for the United States Marine Corps with Rothco&rsquo;s Marines Pullover Hooded Sweatshirt. Proudly featuring \"MARINES\" in bold black lettering across the front, this USMC hoodie is perfect for enthusiasts. Equipped with a front kangaroo pouch pocket for easy storage, the hoodie offers convenience on the go. The drawstring hood and elastic wrist cuffs ensure a snug fit, ideal for rugged workouts or casual wear, while shielding against the elements. Made from a durable 60% cotton / 40% polyester blend, the sweatshirt offers long-lasting comfort while enduring harsh outdoor conditions. Officially licensed by the United States Marine Corps, this hooded sweatshirt is a must-have for Marines and supporters alike.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "75",
+    "51",
+    "547"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10641",
+      "item_index": "2847",
+      "rothco_item_no": "9176",
+      "upc": "613902917613",
+      "inventory": "29",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3500",
+      "image_filename": "9176-RIGHT-C.jpg",
+      "catalog_page_no": "100",
+      "msrp": 56.99,
+      "ship_length": "14.5000",
+      "ship_width": "12.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "S"
+      },
+      "color": "Olive Drab",
+      "size": "S",
+      "price": 25.25,
+      "case_price": 25.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10642",
+      "item_index": "2847",
+      "rothco_item_no": "9176",
+      "upc": "613902917620",
+      "inventory": "33",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3500",
+      "image_filename": "9176-RIGHT-C.jpg",
+      "catalog_page_no": "100",
+      "msrp": 56.99,
+      "ship_length": "16.0000",
+      "ship_width": "12.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "M"
+      },
+      "color": "Olive Drab",
+      "size": "M",
+      "price": 25.25,
+      "case_price": 25.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10643",
+      "item_index": "2847",
+      "rothco_item_no": "9176",
+      "upc": "613902917637",
+      "inventory": "36",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3500",
+      "image_filename": "9176-RIGHT-C.jpg",
+      "catalog_page_no": "100",
+      "msrp": 56.99,
+      "ship_length": "17.0000",
+      "ship_width": "12.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "L"
+      },
+      "color": "Olive Drab",
+      "size": "L",
+      "price": 25.25,
+      "case_price": 25.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10644",
+      "item_index": "2847",
+      "rothco_item_no": "9176",
+      "upc": "613902917644",
+      "inventory": "39",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3500",
+      "image_filename": "9176-RIGHT-C.jpg",
+      "catalog_page_no": "100",
+      "msrp": 56.99,
+      "ship_length": "17.5000",
+      "ship_width": "12.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "XL"
+      },
+      "color": "Olive Drab",
+      "size": "XL",
+      "price": 25.25,
+      "case_price": 25.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10645",
+      "item_index": "2847",
+      "rothco_item_no": "9177",
+      "upc": "613902917705",
+      "inventory": "29",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.4500",
+      "image_filename": "9176-RIGHT-C.jpg",
+      "catalog_page_no": "100",
+      "msrp": 62.99,
+      "ship_length": "18.0000",
+      "ship_width": "13.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "2XL"
+      },
+      "color": "Olive Drab",
+      "size": "2XL",
+      "price": 28.25,
+      "case_price": 28.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

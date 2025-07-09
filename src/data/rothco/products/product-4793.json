@@ -1,0 +1,74 @@
+{
+  "item_index": "4793",
+  "item_name": "Rothco Operator Cap With Mosquito Net",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay protected from pesky bugs while enjoying the great outdoors with Rothco&rsquo;s Operator Cap With Mosquito Net. This versatile cap is perfect for hunters, fishers, hikers, and anyone spending time outside. The reliable mosquito net is sewn around the brim and crown of the cap, providing full coverage for your head and neck. A drawstring closure at the bottom of the lightweight mesh ensures a secure fit, effectively keeping mosquitos, gnats, and other bugs out without the need for pesticides.</p>",
+  "no_ratings": null,
+  "sort_order": "133106",
+  "description": "<p>Stay protected from pesky bugs while enjoying the great outdoors with Rothco&rsquo;s Operator Cap With Mosquito Net. This versatile cap is perfect for hunters, fishers, hikers, and anyone spending time outside. The reliable mosquito net is sewn around the brim and crown of the cap, providing full coverage for your head and neck. A drawstring closure at the bottom of the lightweight mesh ensures a secure fit, effectively keeping mosquitos, gnats, and other bugs out without the need for pesticides. The cap itself features a hook and loop adjustment strap, allowing you to easily find the perfect fit, while four reinforced vent holes offer breathability, keeping you cool in warm weather. Designed with comfort and practicality in mind, this cap provides excellent protection from bug bites during outdoor activities. The front mesh measures 16 inches, and the back measures 15 &frac34; inches, offering ample coverage while maintaining visibility and ventilation.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "674",
+    "521"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19918",
+      "item_index": "4793",
+      "rothco_item_no": "3646",
+      "upc": "613902036468",
+      "inventory": "99",
+      "created_date": "2020-09-15 13:00:16",
+      "weight": "0.2500",
+      "image_filename": "3646-A-NO_HEAD-NOLOGO.jpg",
+      "catalog_page_no": "152",
+      "msrp": 16.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Khaki"
+      },
+      "size": "One Size",
+      "color": "Khaki",
+      "price": 7.8,
+      "case_price": 7.8,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19919",
+      "item_index": "4793",
+      "rothco_item_no": "3649",
+      "upc": "613902036499",
+      "inventory": "99",
+      "created_date": "2020-09-15 13:00:16",
+      "weight": "0.2500",
+      "image_filename": "3649-A-NO_HEAD-NOLOGO.jpg",
+      "catalog_page_no": "152",
+      "msrp": 16.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Olive Drab"
+      },
+      "size": "One Size",
+      "color": "Olive Drab",
+      "price": 7.8,
+      "case_price": 7.8,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

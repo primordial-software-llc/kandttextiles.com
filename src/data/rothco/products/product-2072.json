@@ -1,0 +1,171 @@
+{
+  "item_index": "2072",
+  "item_name": "Rothco G.I. Type Rip-Stop Poncho",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Prepare for any weather with our Rip-Stop Poncho. Engineered with durable polyester rip-stop fabric, the military poncho shields against wet weather while withstanding harsh terrain, ensuring long-lasting use while outdoors. The rain poncho is great for field use, bug-out bags, and emergency situations. Available in solid colors and camouflage patterns for varied preferences.</p>",
+  "no_ratings": "0",
+  "sort_order": "9105",
+  "description": "<p>Prepare for any weather with our Rip-Stop Poncho. Engineered with durable polyester rip-stop fabric, the military poncho shields against wet weather while withstanding harsh terrain, ensuring long-lasting use while outdoors. The rain poncho is great for field use, bug-out bags, and emergency situations. Available in solid colors and camouflage patterns for varied preferences. Waterproof Protection: The emergency poncho features an adjustable drawstring hood and dual 2-snap side closures for extra defense against the rain and wind. Multifunctional Design: The hooded poncho comes equipped with grommeted corners, allowing you to use the hunting poncho as an emergency shelter during survival situations. Measuring 56 inch x 90 inch, the rip-stop poncho can double as a tarp or ground cover, adding versatility to your outdoor gear. One Size Fits Most: These adult raincoats are for both men and women, ensuring a comfortable fit while also offering additional space for covering a backpack or crossbody bag. Adventure Ready: From weekend getaways to daily commutes, the rip-stop rain jacket offers a quick solution to sudden downpours, and is ideal for camping, hiking, fishing, hunting, traveling, and other outdoor activities.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "82",
+    "137",
+    "139",
+    "143",
+    "144",
+    "145",
+    "191"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3142",
+      "item_index": "2072",
+      "rothco_item_no": "4358",
+      "upc": "613902435803",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6500",
+      "image_filename": "4358-Woodland_Camo-A-amazon.jpg",
+      "catalog_page_no": "94",
+      "msrp": 43.99,
+      "ship_length": "13.0000",
+      "ship_width": "8.7500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Digital Camo"
+      },
+      "color": "Woodland Digital Camo",
+      "price": 19.95,
+      "case_price": 19.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3604",
+      "item_index": "2072",
+      "rothco_item_no": "4658",
+      "upc": "613902465800",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6500",
+      "image_filename": "4658-HR2.jpg",
+      "catalog_page_no": "94",
+      "msrp": 43.99,
+      "ship_length": "13.0000",
+      "ship_width": "8.7500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "ACU Digital Camo"
+      },
+      "color": "ACU Digital Camo",
+      "price": 19.95,
+      "case_price": 19.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3797",
+      "item_index": "2072",
+      "rothco_item_no": "4858",
+      "upc": "613902485808",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6500",
+      "image_filename": "4858-A-amazon.jpg",
+      "catalog_page_no": "94",
+      "msrp": 43.99,
+      "ship_length": "13.0000",
+      "ship_width": "8.7500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 19.95,
+      "case_price": 19.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3799",
+      "item_index": "2072",
+      "rothco_item_no": "4865",
+      "upc": "613902486508",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6500",
+      "image_filename": "4865-OD-A-amazon.jpg",
+      "catalog_page_no": "94",
+      "msrp": 43.99,
+      "ship_length": "13.0000",
+      "ship_width": "8.7500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 19.95,
+      "case_price": 19.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3925",
+      "item_index": "2072",
+      "rothco_item_no": "4938",
+      "upc": "613902949386",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6500",
+      "image_filename": "4938-Coyote-A-amazon1.jpg",
+      "catalog_page_no": "94",
+      "msrp": 43.99,
+      "ship_length": "13.0000",
+      "ship_width": "8.7500",
+      "ship_height": "0.5000",
+      "eta_date": "08/10/2025",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 19.95,
+      "case_price": 19.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3955",
+      "item_index": "2072",
+      "rothco_item_no": "4958",
+      "upc": "613902495807",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6500",
+      "image_filename": "4958-A_LI.jpg",
+      "catalog_page_no": "94",
+      "msrp": 43.99,
+      "ship_length": "13.0000",
+      "ship_width": "8.7500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 19.95,
+      "case_price": 19.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

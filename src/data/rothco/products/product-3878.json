@@ -1,0 +1,74 @@
+{
+  "item_index": "3878",
+  "item_name": "Rothco Grid Fleece Neck Gaiter Gen III Level 2",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Grid Fleece Neck Gaiter Gen III Level 2 is your go-to cold-weather accessory, designed to provide exceptional thermal insulation in the harshest conditions. Part of the Extended Cold Weather Clothing System (ECWCS), this tactical neck gaiter offers full coverage for your neck, mouth, and face, ensuring you stay warm and protected. Made from lightweight yet durable grid fleece, the neck wrap traps heat efficiently while remaining breathable and comfortable.</p>",
+  "no_ratings": null,
+  "sort_order": "461",
+  "description": "<p>Rothco&rsquo;s Grid Fleece Neck Gaiter Gen III Level 2 is your go-to cold-weather accessory, designed to provide exceptional thermal insulation in the harshest conditions. Part of the Extended Cold Weather Clothing System (ECWCS), this tactical neck gaiter offers full coverage for your neck, mouth, and face, ensuring you stay warm and protected. Made from lightweight yet durable grid fleece, the neck wrap traps heat efficiently while remaining breathable and comfortable. The versatile design allows you to adjust the gaiter for seamless coverage of your mouth, ears, and nose, making it perfect for various outdoor activities like hunting, fishing, and hiking. The smooth stretch spandex material ensures a snug fit that stays in place and maintains its shape after every use. Whether you&rsquo;re facing the cold on a daily commute or exploring the wilderness, this neck gaiter delivers the warmth and comfort you need.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "378",
+    "683"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15210",
+      "item_index": "3878",
+      "rothco_item_no": "55009",
+      "upc": "613902550094",
+      "inventory": "99",
+      "created_date": "2015-03-26 13:10:01",
+      "weight": "0.1250",
+      "image_filename": "55009-C.jpg",
+      "catalog_page_no": "160",
+      "msrp": 7.99,
+      "ship_length": "14.0000",
+      "ship_width": "9.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 2.9,
+      "case_price": 2.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19666",
+      "item_index": "3878",
+      "rothco_item_no": "55010",
+      "upc": "613902000551",
+      "inventory": "99",
+      "created_date": "2020-06-18 21:00:18",
+      "weight": "0.1250",
+      "image_filename": "55010-B-amazon.jpg",
+      "catalog_page_no": "160",
+      "msrp": 7.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 2.9,
+      "case_price": 2.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

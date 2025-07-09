@@ -1,0 +1,70 @@
+{
+  "item_index": "1405",
+  "item_name": "Deluxe Round U.S.M.C. Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Deluxe USMC Round Patch is available in two sizes. This iron on/sew on military patch is made of polyester material and embroidered with cotton thread. The front of the patch features &ldquo;United States Marine Corps&rdquo; in white and the Marines Globe and Anchor emblem, centered.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "491",
+  "description": "<p>Rothco&rsquo;s Deluxe USMC Round Patch is available in two sizes. This iron on/sew on military patch is made of polyester material and embroidered with cotton thread. The front of the patch features &ldquo;United States Marine Corps&rdquo; in white and the Marines Globe and Anchor emblem, centered.&nbsp;</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "423",
+    "547"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "710",
+      "item_index": "1405",
+      "rothco_item_no": "1549",
+      "upc": "613902154902",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0156",
+      "image_filename": "1549-A1.jpg",
+      "catalog_page_no": "215",
+      "msrp": 8.99,
+      "ship_length": "4.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "4 Inches"
+      },
+      "size": "4 Inches",
+      "price": 3.25,
+      "case_price": 3.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "762",
+      "item_index": "1405",
+      "rothco_item_no": "1649",
+      "upc": "613902164901",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0088",
+      "image_filename": "1549-A1.jpg",
+      "catalog_page_no": "215",
+      "msrp": 6.99,
+      "ship_length": "3.0000",
+      "ship_width": "3.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3 Inches"
+      },
+      "size": "3 Inches",
+      "price": 2.5,
+      "case_price": 2.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

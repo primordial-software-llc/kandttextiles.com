@@ -1,0 +1,74 @@
+{
+  "item_index": "2315",
+  "item_name": "Rothco EMT Shorts",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s EMT Shorts are the ultimate tactical cargo shorts designed specifically for first responders and medical service professionals. These uniform shorts feature 7 pockets, each with hook &amp; loop closures, ensuring secure and quick access to essential medical supplies such as scissors, flashlights, and other gear. The right-side pocket includes an additional slot pocket, providing even more accessible storage for your critical tools.</p>",
+  "no_ratings": "0",
+  "sort_order": "1214",
+  "description": "<p>Rothco&rsquo;s EMT Shorts are the ultimate tactical cargo shorts designed specifically for first responders and medical service professionals. These uniform shorts feature 7 pockets, each with hook &amp; loop closures, ensuring secure and quick access to essential medical supplies such as scissors, flashlights, and other gear. The right-side pocket includes an additional slot pocket, providing even more accessible storage for your critical tools. Constructed with durable and comfortable material, these EMT uniform shorts offer both form and functionality, perfect for the demanding needs of emergency medical service professionals. The adjustable waist tabs allow for a customized fit, ensuring comfort throughout your shift. The zipper fly adds convenience, making these shorts easy to wear. Whether you&rsquo;re on duty or off, Rothco&rsquo;s EMT Shorts provide the practicality and durability required by first responders, allowing you to perform your duties efficiently and effectively. Elevate your gear with these high-performance EMT shorts designed for those who save lives.</p>",
+  "selection_groups": [
+    "size",
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "455"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8820",
+      "item_index": "2315",
+      "rothco_item_no": "78231",
+      "upc": "613902082311",
+      "inventory": "33",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.1300",
+      "image_filename": "78231-QA_RIGHT-B.jpg",
+      "catalog_page_no": "0",
+      "msrp": 47.99,
+      "ship_length": "16.0000",
+      "ship_width": "16.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Black"
+      },
+      "size": "S",
+      "color": "Black",
+      "price": 18.9,
+      "case_price": 18.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8823",
+      "item_index": "2315",
+      "rothco_item_no": "78231",
+      "upc": "613902082342",
+      "inventory": "27",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.1300",
+      "image_filename": "78231-QA_RIGHT-B.jpg",
+      "catalog_page_no": "0",
+      "msrp": 47.99,
+      "ship_length": "12.0000",
+      "ship_width": "16.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Black"
+      },
+      "size": "XL",
+      "color": "Black",
+      "price": 18.9,
+      "case_price": 18.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

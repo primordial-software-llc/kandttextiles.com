@@ -1,0 +1,118 @@
+{
+  "item_index": "1270",
+  "item_name": "Rothco Canvas Small Parachute Cargo Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Embark on your next adventure with Rothco's Small Canvas Parachute Cargo Bag. Crafted from heavyweight cotton canvas, this bag is built to withstand rugged outdoor use. With dimensions of 19 inch x 12 inch x 11 inch, this canvas bag offers ample storage space for your essentials.</p>",
+  "no_ratings": "0",
+  "sort_order": "1874",
+  "description": "<p>Embark on your next adventure with Rothco's Small Canvas Parachute Cargo Bag. Crafted from heavyweight cotton canvas, this bag is built to withstand rugged outdoor use. With dimensions of 19 inch x 12 inch x 11 inch, this canvas bag offers ample storage space for your essentials. The snap-closure flap ensures your gear stay secure, while reinforced web carry handles with d-rings provide reliable transport. Whether it's camping or a weekend getaway, this sturdy bag is your trusted travel companion. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "215",
+    "211"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9313",
+      "item_index": "1270",
+      "rothco_item_no": "8107",
+      "upc": "613902810709",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.6000",
+      "image_filename": "8107-B-amazon.jpg",
+      "catalog_page_no": "327",
+      "msrp": 24.99,
+      "ship_length": "11.5000",
+      "ship_width": "10.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15111",
+      "item_index": "1270",
+      "rothco_item_no": "7028",
+      "upc": "613902070288",
+      "inventory": "99",
+      "created_date": "2015-03-10 16:10:02",
+      "weight": "1.6000",
+      "image_filename": "7028-B4.jpg",
+      "catalog_page_no": "327",
+      "msrp": 24.99,
+      "ship_length": "11.5000",
+      "ship_width": "10.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17277",
+      "item_index": "1270",
+      "rothco_item_no": "8103",
+      "upc": "613902810303",
+      "inventory": "99",
+      "created_date": "2017-05-19 14:10:01",
+      "weight": "1.6000",
+      "image_filename": "8103-A-amazon.jpg",
+      "catalog_page_no": "327",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue"
+      },
+      "color": "Navy Blue",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20549",
+      "item_index": "1270",
+      "rothco_item_no": "5374",
+      "upc": "613902000377",
+      "inventory": "99",
+      "created_date": "2021-04-13 15:00:12",
+      "weight": "1.6000",
+      "image_filename": "5374-C-NOLOGO.jpg",
+      "catalog_page_no": "327",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

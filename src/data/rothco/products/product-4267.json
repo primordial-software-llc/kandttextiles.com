@@ -1,0 +1,100 @@
+{
+  "item_index": "4267",
+  "item_name": "Rothco Thin Blue Line Shield T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show your respect and support for law enforcement with Rothco's Thin Blue Line Shield T-Shirt. This athletic cut t-shirt is designed with an updated fit, featuring an insert collar, wider chest, armholes, and sleeve openings for enhanced comfort and mobility. Crafted from a soft yet durable blend of 60% cotton and 40% polyester, this shirt offers the perfect balance of comfort and durability. The t-shirt proudly displays the Thin Blue Line Shield on both the front and back, a symbol of solidarity with police and law enforcement officials.</p>",
+  "no_ratings": null,
+  "sort_order": "19",
+  "description": "<p>Show your respect and support for law enforcement with Rothco's Thin Blue Line Shield T-Shirt. This athletic cut t-shirt is designed with an updated fit, featuring an insert collar, wider chest, armholes, and sleeve openings for enhanced comfort and mobility. Crafted from a soft yet durable blend of 60% cotton and 40% polyester, this shirt offers the perfect balance of comfort and durability. The t-shirt proudly displays the Thin Blue Line Shield on both the front and back, a powerful symbol of solidarity with police and law enforcement officials. With a tagless label, this shirt ensures an irritation-free wear experience, making it ideal for all-day use. Whether you're wearing it to show your support or simply enjoy a comfortable and stylish t-shirt, Rothco's Thin Blue Line Shield T-Shirt is a meaningful and practical addition to your wardrobe. Your purchase contributes to supporting the families of fallen first responders, making a meaningful impact.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "484",
+    "42"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17097",
+      "item_index": "4267",
+      "rothco_item_no": "2937",
+      "upc": "613902629370",
+      "inventory": "20",
+      "created_date": "2017-04-11 10:10:02",
+      "weight": "0.1800",
+      "image_filename": "2937-C-NO-LOGO.jpg",
+      "catalog_page_no": "112",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Black"
+      },
+      "size": "S",
+      "color": "Black",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17100",
+      "item_index": "4267",
+      "rothco_item_no": "2937",
+      "upc": "613902129375",
+      "inventory": "35",
+      "created_date": "2017-04-11 10:10:02",
+      "weight": "0.1800",
+      "image_filename": "2937-C-NO-LOGO.jpg",
+      "catalog_page_no": "112",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Black"
+      },
+      "size": "XL",
+      "color": "Black",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17101",
+      "item_index": "4267",
+      "rothco_item_no": "2938",
+      "upc": "613902829374",
+      "inventory": "38",
+      "created_date": "2017-04-11 10:10:02",
+      "weight": "0.4500",
+      "image_filename": "2937-C-NO-LOGO.jpg",
+      "catalog_page_no": "112",
+      "msrp": 22.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL",
+        "color": "Black"
+      },
+      "size": "2XL",
+      "color": "Black",
+      "price": 8,
+      "case_price": 8,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

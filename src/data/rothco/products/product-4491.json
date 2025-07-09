@@ -1,0 +1,42 @@
+{
+  "item_index": "4491",
+  "item_name": "Rothco Tactical Trauma First Aid Kit Contents",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Tactical Trauma First Aid Kit Contents feature over 40 essential first aid items.</p>",
+  "no_ratings": null,
+  "sort_order": "132804",
+  "description": "<p>Rothco's Tactical Trauma First Aid Kit Contents have the same items as our Rothco MOLLE Tactical Trauma Kit (item # 8766, 8774 and 2766). Featuring over 40 essential first aid items; including a variety of bandages, medical instruments, and a blood stopper kit. Rothco's First Aid Kit&nbsp;is a great way to replenish your emergency supplies when needed.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "227",
+    "271",
+    "241"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18570",
+      "item_index": "4491",
+      "rothco_item_no": "1708",
+      "upc": "613902170803",
+      "inventory": "0",
+      "created_date": "2018-07-26 13:10:03",
+      "weight": "0.5000",
+      "image_filename": "1708-A-amazon.jpg",
+      "catalog_page_no": "296",
+      "msrp": 48.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": null,
+      "specs": [],
+      "price": 19.5,
+      "case_price": 19.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

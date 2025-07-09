@@ -1,0 +1,43 @@
+{
+  "item_index": "1282",
+  "item_name": "Rothco G.I. Style Medical Kit Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Medical Kit Bag is designed to keep your first aid and medical supplies organized and accessible. Constructed from durable polyester, this bag is built for lasting use in various conditions. It features 3 zippered compartments, providing ample storage space to neatly organize your essentials. The adjustable shoulder strap ensures a comfortable and customizable carrying experience, whether you're on the move or need to keep your supplies close at hand.</p>",
+  "no_ratings": "0",
+  "sort_order": "725",
+  "description": "<p>Rothco's Medical Kit Bag is designed to keep your first aid and medical supplies organized and accessible. Constructed from durable polyester, this bag is built for lasting use in various conditions. It features 3 zippered compartments, providing ample storage space to neatly organize your essentials. The adjustable shoulder strap ensures a comfortable and customizable carrying experience, whether you're on the move or need to keep your supplies close at hand. With its classic design and functional layout, this medical kit bag is perfect for outdoor adventures, emergency preparedness, or keeping your supplies ready at home. Please note, the bag is sold empty, allowing you to customize the contents to suit your specific needs.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "208",
+    "225",
+    "227",
+    "271"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9356",
+      "item_index": "1282",
+      "rothco_item_no": "8166",
+      "upc": "613902081666",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5300",
+      "image_filename": "8166-E1.jpg",
+      "catalog_page_no": "251",
+      "msrp": 24.99,
+      "ship_length": "11.0000",
+      "ship_width": "7.0000",
+      "ship_height": "0.0500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

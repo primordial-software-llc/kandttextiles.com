@@ -1,0 +1,46 @@
+{
+  "item_index": "1907",
+  "item_name": "Rothco G.I. Style Police Whistle",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Ensure your safety and command attention with Rothco's Police Whistle. Designed to deliver a sharp, clear sound, this police-style whistle is ideal for emergency signaling, coaching, or any situation requiring immediate attention. The whistle features a cork pea ball inside, enhancing its sound and effectiveness. The survival whistle comes with a convenient lanyard, allowing you to wear it around your neck or attach it to your gear for easy access.</p>",
+  "no_ratings": "0",
+  "sort_order": "1779",
+  "description": "<p>Ensure your safety and command attention with Rothco's Police Whistle. Designed to deliver a sharp, clear sound, this police-style whistle is ideal for emergency signaling, coaching, or any situation requiring immediate attention. The whistle features a cork pea ball inside, enhancing its sound and effectiveness. The survival whistle comes with a convenient lanyard, allowing you to wear it around your neck or attach it to your gear for easy access. Lightweight and durable, this emergency whistle is a reliable tool for police officers, security personnel, outdoor enthusiasts, and anyone who values preparedness. Rothco's Police Whistle is not just a tool, but a crucial part of your safety and communication gear.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "232",
+    "243"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9518",
+      "item_index": "1907",
+      "rothco_item_no": "8300",
+      "upc": "613902083004",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0350",
+      "image_filename": "8300-A-amazon.jpg",
+      "catalog_page_no": "218",
+      "msrp": 1.99,
+      "ship_length": "3.7500",
+      "ship_width": "3.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 0.65,
+      "case_price": 0.65,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

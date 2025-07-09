@@ -1,0 +1,95 @@
+{
+  "item_index": "4084",
+  "item_name": "Rothco Surgical Kit",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Prepare for emergencies with Rothco's Surgical Kit, compact yet comprehensive for field triage. Packed in a durable nylon pouch, it includes scalpels, hemostats, scissors, tweezers, and more.</p>",
+  "no_ratings": null,
+  "sort_order": "583",
+  "description": "<p>Prepare for emergencies with Rothco's Surgical Kit, compact yet comprehensive for field triage. Packed in a durable nylon pouch, it includes scalpels, hemostats, scissors, tweezers, and more. Made of high-quality stainless steel, these tools ensure reliability. The MOLLE-compatible pouch features organizational loops for secure storage. Ideal for camping, first aid kits, and emergencies. Note: Not for export to certain countries.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "499",
+    "542",
+    "271"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16024",
+      "item_index": "4084",
+      "rothco_item_no": "8316",
+      "upc": "613902083165",
+      "inventory": "99",
+      "created_date": "2015-12-14 16:10:02",
+      "weight": "0.5700",
+      "image_filename": "8316-A-amazon.jpg",
+      "catalog_page_no": "297",
+      "msrp": 41.99,
+      "ship_length": "11.0000",
+      "ship_width": "6.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 18.9,
+      "case_price": 18.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19955",
+      "item_index": "4084",
+      "rothco_item_no": "8304",
+      "upc": "613902083042",
+      "inventory": "50",
+      "created_date": "2020-10-21 17:00:15",
+      "weight": "0.0000",
+      "image_filename": "8304-A-Black-amazon.jpg",
+      "catalog_page_no": "297",
+      "msrp": 41.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 18.9,
+      "case_price": 18.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19956",
+      "item_index": "4084",
+      "rothco_item_no": "8306",
+      "upc": "894302002776",
+      "inventory": "33",
+      "created_date": "2020-10-21 17:00:15",
+      "weight": "0.0000",
+      "image_filename": "8306-A-Tan-amazon.jpg",
+      "catalog_page_no": "297",
+      "msrp": 41.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Tan"
+      },
+      "color": "Tan",
+      "price": 18.9,
+      "case_price": 18.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

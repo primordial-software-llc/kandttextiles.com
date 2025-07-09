@@ -1,0 +1,93 @@
+{
+  "item_index": "4781",
+  "item_name": "Rothco MOLLE Knife Sheath",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s MOLLE Knife Sheath attaches directly to your MOLLE panel to safely secure your blade in the great outdoors.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133094",
+  "description": "<p>Rothco&rsquo;s MOLLE Knife Sheath is a lightweight and durable way to safely secure your blade while working, hiking, or hunting. The sheath features two webbing straps with snap closures that secure the knife inside of the seven-inch hard blade insert. Two MOLLE straps on the back of the belt knife sheath with snap closures enable convenient attachment to MOLLE belts, tactical vests, assault packs, or anything with a MOLLE panel (top MOLLE strap measures 7 inches long, bottom MOLLE strap measures 3.75 inches long). The drawstring at the bottom allows you to tie the tactical knife sheath to your leg while it is attached to your belt to keep it in place while on-the-go. A stone pocket on the front of the MOLLE knife sheath enables easy sharpening (stone not included). The fixed blade knife sheath measures 15 inches x 2.5 inches.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "300"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20113",
+      "item_index": "4781",
+      "rothco_item_no": "40063",
+      "upc": "613902400634",
+      "inventory": "81",
+      "created_date": "2021-01-06 17:00:21",
+      "weight": "0.3000",
+      "image_filename": "40063-D-amazon.jpg",
+      "catalog_page_no": "273",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20114",
+      "item_index": "4781",
+      "rothco_item_no": "40064",
+      "upc": "613902400641",
+      "inventory": "99",
+      "created_date": "2021-01-06 17:00:21",
+      "weight": "0.3000",
+      "image_filename": "40064-A-no-logo.jpg",
+      "catalog_page_no": "273",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22196",
+      "item_index": "4781",
+      "rothco_item_no": "40069",
+      "upc": "613902020689",
+      "inventory": "99",
+      "created_date": "2022-09-08 16:00:25",
+      "weight": "0.0000",
+      "image_filename": "40069-A.jpg",
+      "catalog_page_no": "273",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

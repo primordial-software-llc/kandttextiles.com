@@ -1,0 +1,120 @@
+{
+  "item_index": "1870",
+  "item_name": "Rothco Multi-purpose SWAT Elbow Pads",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Multi-Purpose SWAT Elbow Pads are designed to provide exceptional protection and comfort during intense activities. Constructed from tough 900 Denier polyester, these elbow pads feature a robust 1/2 inch foam padding that ensures reliable cushioning for your elbows, minimizing impact and reducing discomfort. The non-slip rubber caps offer excellent traction, keeping your elbows stable on various surfaces. A dual hook and loop fastening system allows you to securely adjust the pads for a comfortable and snug fit.</p>",
+  "no_ratings": "0",
+  "sort_order": "1490",
+  "description": "<p>Rothco&rsquo;s Multi-Purpose SWAT Elbow Pads are designed to provide exceptional protection and comfort during intense activities. Constructed from tough 900 Denier polyester, these elbow pads feature a robust 1/2 inch foam padding that ensures reliable cushioning for your elbows, minimizing impact and reducing discomfort. The non-slip rubber caps offer excellent traction, keeping your elbows stable on various surfaces. A dual hook and loop fastening system allows you to securely adjust the pads for a comfortable and snug fit, ensuring they stay in place during rigorous movements. Whether for tactical use, outdoor activities, or other demanding environments, these multi-purpose elbow pads deliver the durability and performance you need. Stay confident and protected with Rothco&rsquo;s expertly crafted SWAT elbow pads.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "143",
+    "245",
+    "335"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "460",
+      "item_index": "1870",
+      "rothco_item_no": "11057",
+      "upc": "613902105706",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5500",
+      "image_filename": "11057_O.D__.-A_-amazon_.jpg",
+      "catalog_page_no": "255",
+      "msrp": 26.99,
+      "ship_length": "12.5000",
+      "ship_width": "8.2500",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 11.95,
+      "case_price": 11.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "461",
+      "item_index": "1870",
+      "rothco_item_no": "11057",
+      "upc": "613902105713",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5500",
+      "image_filename": "11057_Black-A-amazon.jpg",
+      "catalog_page_no": "255",
+      "msrp": 26.99,
+      "ship_length": "12.5000",
+      "ship_width": "8.2500",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 11.95,
+      "case_price": 11.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "465",
+      "item_index": "1870",
+      "rothco_item_no": "11057",
+      "upc": "613902105799",
+      "inventory": "98",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5500",
+      "image_filename": "11057_Coyote-A-amazon.jpg",
+      "catalog_page_no": "255",
+      "msrp": 26.99,
+      "ship_length": "12.5000",
+      "ship_width": "8.2500",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 11.95,
+      "case_price": 11.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12198",
+      "item_index": "1870",
+      "rothco_item_no": "11067",
+      "upc": "613902110670",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5500",
+      "image_filename": "11067-HR2.jpg",
+      "catalog_page_no": "255",
+      "msrp": 28.99,
+      "ship_length": "12.5000",
+      "ship_width": "8.2500",
+      "ship_height": "4.0000",
+      "eta_date": "07/17/2025",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

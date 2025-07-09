@@ -1,0 +1,76 @@
+{
+  "item_index": "4575",
+  "item_name": "Rothco Hook & Loop U.S. Flag Low Profile Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Hook &amp; Loop US Flag Low Profile Cap offers a versatile and customizable option for any occasion. The cap features an embroidered US flag on a 3.5 inch x 2 inch loop field, allowing you to easily add and change your favorite morale patches. Made from 100% brushed cotton twill, this cap ensures all-day comfort and durability. The interior sweatband keeps your head dry and cool, even in hot weather. An adjustable hook &amp; loop back closure provides a secure fit for most adult head sizes.</p>",
+  "no_ratings": null,
+  "sort_order": "132888",
+  "description": "<p>Rothco's Hook &amp; Loop US Flag Low Profile Cap offers a versatile and customizable option for any occasion. The cap features an embroidered US flag on a 3.5 inch x 2 inch loop field, allowing you to easily add and change your favorite morale patches. Made from 100% brushed cotton twill, this cap ensures all-day comfort and durability. The interior sweatband keeps your head dry and cool, even in hot weather. An adjustable hook &amp; loop back closure provides a secure fit for most adult head sizes. This cap is perfect for showing your American spirit, adding personal flair, or simply staying comfortable during outdoor activities. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "674",
+    "374",
+    "674",
+    "374"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19063",
+      "item_index": "4575",
+      "rothco_item_no": "5289",
+      "upc": "613902052895",
+      "inventory": "99",
+      "created_date": "2019-05-23 13:10:00",
+      "weight": "0.2500",
+      "image_filename": "5289-D-amazon.jpg",
+      "catalog_page_no": "138",
+      "msrp": 15.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19064",
+      "item_index": "4575",
+      "rothco_item_no": "5228",
+      "upc": "613902052284",
+      "inventory": "99",
+      "created_date": "2019-05-23 14:10:00",
+      "weight": "0.2500",
+      "image_filename": "5228-B-amazon.jpg",
+      "catalog_page_no": "138",
+      "msrp": 15.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

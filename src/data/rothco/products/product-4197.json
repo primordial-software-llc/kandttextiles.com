@@ -1,0 +1,43 @@
+{
+  "item_index": "4197",
+  "item_name": "Rothco Military Style Armband ID Holder",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Military Style Armband ID Holder allows for a quick and easy display of identification held visibly on your arm.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "183",
+  "description": "<p>Rothco&rsquo;s Military Style Armband ID Holder allows for a quick and easy display of identification held visibly on your arm. The identification window is fasted by hook and loop closure, and measures 4.25 Inches x 3.25 Inches, securely holding your ID or license in place. The tactical arm band ID holder&rsquo;s pen holder provides easy access to a writing utensil, perfect for quickly jotting down notes. Dual adjustable elastic straps with hook and loop closures let you customize this military style ID holder to a snug fit on your arm. This hands-free ID holder is constructed with nylon and polyester for unparalleled durability.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "233"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16584",
+      "item_index": "4197",
+      "rothco_item_no": "1259",
+      "upc": "613902112599",
+      "inventory": "99",
+      "created_date": "2016-10-11 11:10:03",
+      "weight": "0.1875",
+      "image_filename": "1259-B-amazon.jpg",
+      "catalog_page_no": "219",
+      "msrp": 11.99,
+      "ship_length": "5.0000",
+      "ship_width": "4.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 4.65,
+      "case_price": 4.65,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

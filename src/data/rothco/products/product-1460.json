@@ -1,0 +1,43 @@
+{
+  "item_index": "1460",
+  "item_name": "Rothco Officer's Cavalry Pin",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Officer Cavalry Pin featues a polished design inspired by traditional cavalry insignia, this pin is perfect for adding a professional and ceremonial touch to uniforms, jackets, hats, or display cases. A durable, high-quality accessory, it stands as a tribute to the honor and history of cavalry officers.</p>",
+  "no_ratings": "0",
+  "sort_order": "358",
+  "description": "<p>Rothco's Officer Cavalry Pin features a polished design inspired by traditional cavalry insignia, this pin is perfect for adding a professional and ceremonial touch to uniforms, jackets, hats, or display cases. A durable, high-quality accessory, it stands as a tribute to the honor and history of cavalry officers.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "494"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "816",
+      "item_index": "1460",
+      "rothco_item_no": "1750",
+      "upc": "613902417502",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0250",
+      "image_filename": "1750-A2.jpg",
+      "catalog_page_no": "212",
+      "msrp": 16.99,
+      "ship_length": "3.5000",
+      "ship_width": "3.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size"
+      },
+      "size": "One Size",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

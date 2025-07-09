@@ -1,0 +1,119 @@
+{
+  "item_index": "4603",
+  "item_name": "Rothco Tactical Breakaway First Aid Kit",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Be prepared for emergencies with Rothco's Tactical Breakaway First Aid Kit. Designed for rapid access, the tri-fold pouch detaches easily from the main loop platform, giving you immediate reach to essential supplies. MOLLE-compatible straps allow seamless attachment to tactical vests, backpacks, or other gear. The kit features durable polyester construction and a versatile design with interior elastic loops, zippered pockets, and open compartments to organize over 20 bandages, cold packs, alcohol prep pads, and more.</p>",
+  "no_ratings": null,
+  "sort_order": "132916",
+  "description": "<p>Be prepared for emergencies with Rothco's Tactical Breakaway First Aid Kit. Designed for rapid access, the tri-fold pouch detaches easily from the main loop platform, giving you immediate reach to essential supplies. MOLLE-compatible straps allow seamless attachment to tactical vests, backpacks, or other gear. The kit features durable polyester construction and a versatile design with interior elastic loops, zippered pockets, and open compartments to organize over 20 bandages, cold packs, alcohol prep pads, and more. A double-zippered closure ensures secure storage, while the loop field on the front allows for easy name or patch attachment. Complete with a top carry handle and multiple pockets, this first aid kit is a must-have for first responders, outdoor enthusiasts, or anyone needing reliable emergency preparedness.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "504",
+    "227",
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19197",
+      "item_index": "4603",
+      "rothco_item_no": "8332",
+      "upc": "613902833203",
+      "inventory": "72",
+      "created_date": "2019-08-02 12:10:01",
+      "weight": "1.7500",
+      "image_filename": "8332-A-amazon.jpg",
+      "catalog_page_no": "296",
+      "msrp": 50.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 22.5,
+      "case_price": 22.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19198",
+      "item_index": "4603",
+      "rothco_item_no": "8333",
+      "upc": "613902833302",
+      "inventory": "64",
+      "created_date": "2019-08-02 12:10:01",
+      "weight": "1.7500",
+      "image_filename": "8333-B-amazon.jpg",
+      "catalog_page_no": "296",
+      "msrp": 50.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 22.5,
+      "case_price": 22.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21759",
+      "item_index": "4603",
+      "rothco_item_no": "83320",
+      "upc": "613902015333",
+      "inventory": "48",
+      "created_date": "2022-04-11 11:00:19",
+      "weight": "1.7500",
+      "image_filename": "83320-A.jpg",
+      "catalog_page_no": "296",
+      "msrp": 50.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 22.5,
+      "case_price": 22.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21760",
+      "item_index": "4603",
+      "rothco_item_no": "83321",
+      "upc": "613902015340",
+      "inventory": "20",
+      "created_date": "2022-04-11 11:00:19",
+      "weight": "1.7500",
+      "image_filename": "83321-B.jpg",
+      "catalog_page_no": "296",
+      "msrp": 50.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red"
+      },
+      "color": "Red",
+      "price": 22.5,
+      "case_price": 22.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

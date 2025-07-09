@@ -1,0 +1,70 @@
+{
+  "item_index": "2485",
+  "item_name": "Rothco Canvas Classic Bag with Medic Star",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Carry all of your essentials in Rothco&rsquo;s Canvas Classic Bag with Medic Star.</p>",
+  "no_ratings": "0",
+  "sort_order": "693",
+  "description": "<p>Carry all of your essentials in Rothco&rsquo;s Canvas Classic Bag with Medic Star. This durable stonewashed canvas bag measures 12 &frac12; inches x 11 inches x 3 inches.On top of its closing flap, the messenger bag features 2 buckle closures that secure your essentials. The medic star messenger bag&rsquo;s shoulder strap can extend to 40 inches long to accommodate all body types.&nbsp;&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "208",
+    "226"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10601",
+      "item_index": "2485",
+      "rothco_item_no": "9132",
+      "upc": "613902913202",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8000",
+      "image_filename": "9132-A.jpg",
+      "catalog_page_no": "360",
+      "msrp": 24.99,
+      "ship_length": "13.7500",
+      "ship_width": "13.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki"
+      },
+      "color": "Khaki",
+      "price": 10.5,
+      "case_price": 10.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10613",
+      "item_index": "2485",
+      "rothco_item_no": "9142",
+      "upc": "613902914209",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8500",
+      "image_filename": "9142-A.jpg",
+      "catalog_page_no": "360",
+      "msrp": 24.99,
+      "ship_length": "13.7500",
+      "ship_width": "13.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Vintage Olive Drab"
+      },
+      "color": "Vintage Olive Drab",
+      "price": 10.5,
+      "case_price": 10.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

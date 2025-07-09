@@ -1,0 +1,42 @@
+{
+  "item_index": "1811",
+  "item_name": "Rothco Expandable Spring Baton",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Expandable Spring Baton compacts down to just 9 inches for easy mounting on your duty belt.</p>",
+  "no_ratings": "0",
+  "sort_order": "395",
+  "description": "<p>Rothco&rsquo;s Expandable Spring Baton compacts down to just 9 inches for easy mounting on your duty belt. The police baton features a friction lock that opens with swift wrist action to extend to 23 inches long. The public safety baton also provides an easy-to-grip rubber handle with a wrist strap.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "235"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "35",
+      "item_index": "1811",
+      "rothco_item_no": "10074",
+      "upc": "613902100749",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.9500",
+      "image_filename": "10074-A.jpg",
+      "catalog_page_no": "226",
+      "msrp": 21.99,
+      "ship_length": "9.5000",
+      "ship_width": "1.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 8.95,
+      "case_price": 8.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

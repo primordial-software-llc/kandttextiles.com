@@ -1,0 +1,40 @@
+{
+  "item_index": "3932",
+  "item_name": "Rothco Guerrilla Warfare Morale Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Rothco Guerrilla Warfare Morale Patch features a hook backing which makes it ideal for attaching to our Special Ops Jackets, Transport Packs, Tactical Vest and more.</p>",
+  "no_ratings": null,
+  "sort_order": "494",
+  "description": "<p>The Rothco Guerrilla Warfare Morale Patch features a hook backing which makes it ideal for attaching to our Special Ops Jackets, Transport Packs, Tactical Vest and more.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "424"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15392",
+      "item_index": "3932",
+      "rothco_item_no": "73195",
+      "upc": "613902731950",
+      "inventory": "99",
+      "created_date": "2015-05-01 15:10:01",
+      "weight": "0.0094",
+      "image_filename": "73195-A1.jpg",
+      "catalog_page_no": "214",
+      "msrp": 3.99,
+      "ship_length": "2.5000",
+      "ship_width": "3.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

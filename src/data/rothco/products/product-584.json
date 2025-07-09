@@ -1,0 +1,45 @@
+{
+  "item_index": "584",
+  "item_name": "Rothco ECWCS Double Layer Headband",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s ECWCS Double Layer Headband will keep your ears warm and comfortable this winter with its double layer fleece composition.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "2007",
+  "description": "<p>Rothco&rsquo;s Extended Cold Weather Clothing System Double Layer Headband will keep your ears warm and comfortable this winter with its double-layer fleece composition. The Headband provides powerful warmth and comfort with the double-layer polyester material. The cold weather headband is designed with a curved shape to provide complete coverage of the ears.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "368"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5078",
+      "item_index": "584",
+      "rothco_item_no": "5523",
+      "upc": "613902552302",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "5523-B.jpg",
+      "catalog_page_no": "156",
+      "msrp": 7.99,
+      "ship_length": "10.5000",
+      "ship_width": "5.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 2.9,
+      "case_price": 2.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "item_index": "4503",
+  "item_name": "Rothco Camo V-Neck T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Camo V-Neck T-Shirt is soft, comfortable and great for everyday wear.</p>",
+  "no_ratings": null,
+  "sort_order": "132816",
+  "description": "<p>Rothco&rsquo;s Camo V-Neck T-Shirt is soft, comfortable and great for everyday wear. Made from a super soft and comfortable 60% cotton / 40% polyester fabric blend, Rothco&rsquo;s camo tees are perfect for military use, airsoft/paintball teams, and everyday fashion. Featuring a regular fit cut with a v-neck and tagless label, Rothco&rsquo;s camouflage v-neck shirt is designed to offer optimal comfort and a relaxed look. With screen printing capabilities, you can add your own logo, graphics or features to these military camo shirts.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "40",
+    "80",
+    "137"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18658",
+      "item_index": "4503",
+      "rothco_item_no": "3788",
+      "upc": "613902037885",
+      "inventory": "28",
+      "created_date": "2018-09-20 10:10:00",
+      "weight": "0.3500",
+      "image_filename": "3788-A-amazon.jpg",
+      "catalog_page_no": "0",
+      "msrp": 15.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Woodland Camo"
+      },
+      "size": "S",
+      "color": "Woodland Camo",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

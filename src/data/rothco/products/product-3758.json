@@ -1,0 +1,97 @@
+{
+  "item_index": "3758",
+  "item_name": "Rothco Adjustable Camo Fatigue Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Adjustable Camo Fatigue Cap is designed for durability and comfort, making it the perfect choice for outdoor activities and rugged use. Crafted from a robust cotton and polyester blend, this baseball-styled cap combines the breathability of cotton with the strength of polyester for long-lasting wear. The tactical cap features an adjustable hook and loop closure, ensuring a secure and comfortable fit for all head sizes. Its camo pattern adds a unique touch while providing practical concealment in various environments.</p>",
+  "no_ratings": null,
+  "sort_order": "4737",
+  "description": "<p>Rothco's Adjustable Camo Fatigue Cap is designed for durability and comfort, making it the perfect choice for outdoor activities and rugged use. Crafted from a robust cotton and polyester blend, this baseball-styled cap combines the breathability of cotton with the strength of polyester for long-lasting wear. The tactical cap features an adjustable hook and loop closure, ensuring a secure and comfortable fit for all head sizes. Its camo pattern adds a unique touch while providing practical concealment in various environments. Whether you're hiking, fishing, or working outdoors, Rothco's Adjustable Camo Fatigue Cap offers reliable performance and a comfortable fit. The cap meets high standards of quality, built to withstand tough conditions and maintain its shape and function over time. With its versatile design, this cap is suitable for a wide range of outdoor activities, making it an essential addition to your gear. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from military personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "83",
+    "137",
+    "143",
+    "144",
+    "370"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3459",
+      "item_index": "3758",
+      "rothco_item_no": "4540",
+      "upc": "613902454002",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1600",
+      "image_filename": "4540-B.jpg",
+      "catalog_page_no": "148",
+      "msrp": 11.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.5000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3465",
+      "item_index": "3758",
+      "rothco_item_no": "4542",
+      "upc": "613902454200",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1600",
+      "image_filename": "4542-B1.jpg",
+      "catalog_page_no": "148",
+      "msrp": 11.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.5000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "ACU Digital Camo"
+      },
+      "color": "ACU Digital Camo",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14345",
+      "item_index": "3758",
+      "rothco_item_no": "4544",
+      "upc": "613902045446",
+      "inventory": "43",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "4544-B.jpg",
+      "catalog_page_no": "148",
+      "msrp": 11.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.5000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Digital Camo"
+      },
+      "color": "Woodland Digital Camo",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

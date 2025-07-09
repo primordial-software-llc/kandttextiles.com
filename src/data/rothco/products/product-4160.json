@@ -1,0 +1,149 @@
+{
+  "item_index": "4160",
+  "item_name": "Rothco Every Day Work Shoulder Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=hWXXh0_9jzg",
+  "rating": "5",
+  "item_short_desc": "<p>Looking for a rugged and robust military-inspired bag to hold your EDC items and essentials? Look no further! Our Every Day Work Shoulder Bag has you covered! This compact side bag keeps your possessions close to you through a crossbody design. Additionally, this shoulder bag is great for daily commutes, travel, everyday use, and more.</p>",
+  "no_ratings": null,
+  "sort_order": "367",
+  "description": "<p>Looking for a rugged and robust military-inspired bag to hold your EDC items and essentials? Look no further! Our Every Day Work Shoulder Bag has you covered! This compact side bag keeps your possessions close to you through a crossbody design. Additionally, this shoulder bag is great for daily commutes, travel, everyday use, and more. Top Grade Canvas: Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. These crossbody bags are made of 100% cotton canvas that&rsquo;s reinforced with double-stitched seams, ensuring that your belongings stay protected as you travel. These commuter bags also feature genuine buffalo leather accents for a vintage look and feel. No one comes close to Rothco&rsquo;s collection of premium canvas bags and packs. Spacious Main Compartments: These canvas travel bags measure 8.75 inch x 5 inch x 11 inch, and are designed with 2 main compartments: a large capacity rear zipper compartment for carrying bulkier items like a tablet or a couple of books, and a front organizer zipper pocket that contains 8 card slots, a pen holder, a key ring holder, and an opening for wired headphones. The rear compartment also has hidden zipper pocket for keeping your possessions out of sight, and an interior mesh pocket for writing utensils and other loose items. Additional Storage Pockets: The zipper pockets on the front flap and back easily store additional gear. The larger back zipper pocket is great for holding notepads, water bottles, and electronic accessories, while the 2 side pockets are ideal for storing additional pens, reading glasses, and other thin items. Various Carrying Options: These heavy-duty canvas bags come equipped with an adjustable shoulder strap that extends up to 52 inches, giving you the option to wear as a crossbody bag, or either around your neck or shoulder. There&rsquo;s a leather accented grab handle for quick and easy handling, especially when you&rsquo;re on the go.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "208",
+    "577",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16503",
+      "item_index": "4160",
+      "rothco_item_no": "2359",
+      "upc": "613902235915",
+      "inventory": "99",
+      "created_date": "2016-06-09 11:10:01",
+      "weight": "1.7000",
+      "image_filename": "2359-A-amazon.jpg",
+      "catalog_page_no": "358",
+      "msrp": 26.99,
+      "ship_length": "11.0000",
+      "ship_width": "12.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 11.5,
+      "case_price": 11.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16505",
+      "item_index": "4160",
+      "rothco_item_no": "2360",
+      "upc": "613902123601",
+      "inventory": "99",
+      "created_date": "2016-06-09 12:10:02",
+      "weight": "1.7000",
+      "image_filename": "2360-B-amazon1.jpg",
+      "catalog_page_no": "358",
+      "msrp": 26.99,
+      "ship_length": "9.0000",
+      "ship_width": "12.0000",
+      "ship_height": "6.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Brown",
+        "size": "One Size"
+      },
+      "color": "Brown",
+      "size": "One Size",
+      "price": 11.5,
+      "case_price": 11.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18525",
+      "item_index": "4160",
+      "rothco_item_no": "2358",
+      "upc": "613902235809",
+      "inventory": "99",
+      "created_date": "2018-06-21 17:10:02",
+      "weight": "1.7000",
+      "image_filename": "2358-amazon.jpg",
+      "catalog_page_no": "358",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 11.5,
+      "case_price": 11.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22763",
+      "item_index": "4160",
+      "rothco_item_no": "23580",
+      "upc": "613902028760",
+      "inventory": "99",
+      "created_date": "2023-04-05 17:00:17",
+      "weight": "0.0000",
+      "image_filename": "23580-A.jpg",
+      "catalog_page_no": "358",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki"
+      },
+      "color": "Khaki",
+      "price": 11.5,
+      "case_price": 11.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22764",
+      "item_index": "4160",
+      "rothco_item_no": "23581",
+      "upc": "613902028777",
+      "inventory": "99",
+      "created_date": "2023-04-05 17:00:17",
+      "weight": "0.0000",
+      "image_filename": "23581-A.jpg",
+      "catalog_page_no": "358",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 11.5,
+      "case_price": 11.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

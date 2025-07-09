@@ -1,0 +1,93 @@
+{
+  "item_index": "2008",
+  "item_name": "Rothco G.I. Type Dog Tag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s G.I. Type Dog Tags are the perfect solution for those looking to personalize their tags. Made from durable stainless steel, these blank dog tags are ready for custom imprinting, allowing you to add your own unique touch. Available in a variety of colors, these tags cater to different preferences and styles. Whether you need them for identification, promotional items, or as a personalized gift, these dog tags are versatile and practical. Please note that the chain is not included.</p>",
+  "no_ratings": "0",
+  "sort_order": "2777",
+  "description": "<p>Rothco&rsquo;s G.I. Type Dog Tags are the perfect solution for those looking to personalize their tags. Made from durable stainless steel, these blank dog tags are ready for custom imprinting, allowing you to add your own unique touch. Available in a variety of colors, these tags cater to different preferences and styles. Whether you need them for identification, promotional items, or as a personalized gift, these dog tags are versatile and practical. Please note that the chain is not included, providing you the flexibility to pair the tags with your preferred chain or accessory. Rothco's G.I. Type Dog Tags are built to last, ensuring they remain a reliable and stylish option for any use.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "417"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9615",
+      "item_index": "2008",
+      "rothco_item_no": "8381",
+      "upc": "613902283817",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0100",
+      "image_filename": "dog_tagg.PNG",
+      "catalog_page_no": "207",
+      "msrp": 0.99,
+      "ship_length": "2.0000",
+      "ship_width": "1.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Silver"
+      },
+      "color": "Silver",
+      "price": 0.32,
+      "case_price": 0.32,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9616",
+      "item_index": "2008",
+      "rothco_item_no": "8383",
+      "upc": "613902838307",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0100",
+      "image_filename": "8383_BIG.JPG",
+      "catalog_page_no": "207",
+      "msrp": 0.99,
+      "ship_length": "2.0000",
+      "ship_width": "1.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Matte"
+      },
+      "color": "Matte",
+      "price": 0.32,
+      "case_price": 0.32,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9624",
+      "item_index": "2008",
+      "rothco_item_no": "8393",
+      "upc": "613902839304",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0100",
+      "image_filename": "8394-A-amazon1.jpg",
+      "catalog_page_no": "207",
+      "msrp": 0.99,
+      "ship_length": "2.0000",
+      "ship_width": "1.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 0.47,
+      "case_price": 0.47,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

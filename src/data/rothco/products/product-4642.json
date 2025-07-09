@@ -1,0 +1,77 @@
+{
+  "item_index": "4642",
+  "item_name": "Rothco ANSI Ballistic OTG Goggle System",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s ANSI OTG Goggle System offers superior eye protection with versatile functionality. Designed to fit over prescription glasses or sunglasses, these goggles feature 2mm thick polycarbonate lenses that meet ANSI-Z87-1 and MIL-DTL-43511D standards for impact protection. 3 interchangeable lenses&mdash;yellow for improved contrast, smoke for UV blocking, and clear for general protection&mdash;adapt to various environments. The goggles are equipped with anti-scratch coating, UV 400 protection, and top/bottom vents to prevent fogging.</p>",
+  "no_ratings": null,
+  "sort_order": "132955",
+  "description": "<p>Rothco&rsquo;s ANSI OTG Goggle System offers superior eye protection with versatile functionality. Designed to fit over prescription glasses or sunglasses, these goggles feature 2mm thick polycarbonate lenses that meet ANSI-Z87-1 and MIL-DTL-43511D standards for impact protection. 3 interchangeable lenses&mdash;yellow for improved contrast, smoke for UV blocking, and clear for general protection&mdash;adapt to various environments. The goggles are equipped with anti-scratch coating, UV 400 protection, and top/bottom vents to prevent fogging. Moveable hinges ensure a snug fit with helmets, while foam padding provides long-lasting comfort. Includes a cleaning cloth, protective cover, and a convenient hook-and-loop carry pouch.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "333",
+    "335",
+    "394",
+    "395",
+    "489"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19334",
+      "item_index": "4642",
+      "rothco_item_no": "1723",
+      "upc": "613902017238",
+      "inventory": "99",
+      "created_date": "2019-12-02 15:00:22",
+      "weight": "0.4000",
+      "image_filename": "1723-A-amazon.jpg",
+      "catalog_page_no": "199",
+      "msrp": 81.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 36.9,
+      "case_price": 36.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20835",
+      "item_index": "4642",
+      "rothco_item_no": "10738",
+      "upc": "613902004481",
+      "inventory": "99",
+      "created_date": "2021-06-29 12:00:00",
+      "weight": "0.4000",
+      "image_filename": "10738-C-no-logo.jpg",
+      "catalog_page_no": "199",
+      "msrp": 81.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Coyote Brown"
+      },
+      "size": "One Size",
+      "color": "Coyote Brown",
+      "price": 36.9,
+      "case_price": 36.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

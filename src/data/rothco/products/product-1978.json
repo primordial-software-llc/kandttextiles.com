@@ -1,0 +1,40 @@
+{
+  "item_index": "1978",
+  "item_name": "Aquaforce Combat Watch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Aquaforce Combat Watch is a rugged, versatile and comfortable military watch that will add style to your uniform.&nbsp; &nbsp;&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "464",
+  "description": "<p>The Aquaforce Combat Watch is a rugged, versatile and comfortable military watch that will add style to your uniform.&nbsp; &nbsp; . The combat watch features Quartz movement, luminous hands, and an hour maker all attached to a rubber adjustable wrist strap. &ldquo;AQUAFORCE QUARTZ&rdquo; is written in white in the center of the face. The Watch is water resistant up to 50m, making it perfect for underwater activities.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "418"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3158",
+      "item_index": "1978",
+      "rothco_item_no": "4379",
+      "upc": "815001011074",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2063",
+      "image_filename": "4379-A-NOLOGO1.jpg",
+      "catalog_page_no": "205",
+      "msrp": 43.99,
+      "ship_length": "4.0000",
+      "ship_width": "2.7500",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 17.5,
+      "case_price": 17.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

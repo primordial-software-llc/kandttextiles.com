@@ -1,0 +1,43 @@
+{
+  "item_index": "3675",
+  "item_name": "Rothco Compact Weekender Backpack With Cross",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Vintage Weekender Backpack is a must-have for anyone looking to bring their essentials away for the weekend. The Weekender Backpack allows you to fit everything you need between its roomy interior and multiple pockets.&nbsp; &nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "410",
+  "description": "<p>Rothco's Vintage Weekender Backpack is a must-have for anyone looking to bring their essentials away for the weekend. The Weekender Backpack allows you to fit everything you need between its roomy interior and multiple pockets.&nbsp; &nbsp;This backpack&nbsp; is made using washed-out canvas and features 2 front inside pockets with drawstring closure, an inner zipper pouch, 2 side pockets with flaps, and side pockets with strap closures with metal buckles. All of the bag&rsquo;s buckles, snaps, and grommets are antique brass, giving the bag its vintage washed-out look. The bag has a roomy interior with a drawstring closure and adjustable shoulder straps, making it comfortable and practical.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "204"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "13433",
+      "item_index": "3675",
+      "rothco_item_no": "9535",
+      "upc": "613902995352",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.8500",
+      "image_filename": "9535-D3.jpg",
+      "catalog_page_no": "343",
+      "msrp": 43.99,
+      "ship_length": "15.0000",
+      "ship_width": "13.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab w/ Black Cross"
+      },
+      "color": "Olive Drab w/ Black Cross",
+      "price": 19.5,
+      "case_price": 19.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

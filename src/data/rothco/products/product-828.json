@@ -1,0 +1,93 @@
+{
+  "item_index": "828",
+  "item_name": "Ultra-lite Camo Net",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Ultra-lite Camo Net is the perfect addition to your camping or hunting gear. This lightweight, durable camo netting is designed to withstand the toughest environments, making it ideal for hunters, airsoft players, MilSim players, and other outdoor enthusiasts. The net is made from 100% waterproof material, ensuring it won't rot or mold even in wet conditions. Its non-glare additive eliminates flashing and softens the material, providing a quiet, rustle-free camouflage screen.</p>",
+  "no_ratings": "0",
+  "sort_order": "1123",
+  "description": "<p>The Ultra-lite Camo Net is the perfect addition to your camping or hunting gear. This lightweight, durable camo netting is designed to withstand the toughest environments, making it ideal for hunters, airsoft players, MilSim players, and other outdoor enthusiasts. The net is made from 100% waterproof material, ensuring it won't rot or mold even in wet conditions. Its non-glare additive eliminates flashing and softens the material, providing a quiet, rustle-free camouflage screen. The netting is reversible, allowing you to blend seamlessly into any environment. Compact and lightweight, the camouflage net is easy to travel with and store. Whether you need a ground blind, duck blind, boat blind, or vehicle concealment, the Ultra-lite Camo Net offers reliable and versatile coverage.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "452"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "6701",
+      "item_index": "828",
+      "rothco_item_no": "6501",
+      "upc": "690104026039",
+      "inventory": "57",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.5000",
+      "image_filename": "6501-A1.jpg",
+      "catalog_page_no": "264",
+      "msrp": 114.99,
+      "ship_length": "14.0000",
+      "ship_width": "9.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "7'10\" x 19'8\""
+      },
+      "size": "7'10\" x 19'8\"",
+      "price": 45.95,
+      "case_price": 45.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6702",
+      "item_index": "828",
+      "rothco_item_no": "6502",
+      "upc": "690104026022",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2500",
+      "image_filename": "6501-A1.jpg",
+      "catalog_page_no": "264",
+      "msrp": 69.99,
+      "ship_length": "12.0000",
+      "ship_width": "10.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "7'10\" x 9'10\""
+      },
+      "size": "7'10\" x 9'10\"",
+      "price": 27.95,
+      "case_price": 27.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6711",
+      "item_index": "828",
+      "rothco_item_no": "6505",
+      "upc": "690104026015",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.0000",
+      "image_filename": "6501-A1.jpg",
+      "catalog_page_no": "264",
+      "msrp": 42.99,
+      "ship_length": "11.0000",
+      "ship_width": "11.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3'10\" x 9'10\""
+      },
+      "size": "3'10\" x 9'10\"",
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "item_index": "96",
+  "item_name": "Rothco Convertible Safari Jacket",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Convertible Safari Jacket is the ultimate travel companion, designed to adapt to your every need. Whether you're navigating through bustling city streets or exploring the great outdoors, this rugged jacket easily converts into a travel vest with its convenient zip-off sleeves, making it perfect for different climates and seasons. The convertible jacket features an impressive 19 pockets, including 16 front pockets, 2 interior pockets, and a large back pocket, offering ample storage space for all your outdoor essentials.</p>",
+  "no_ratings": "0",
+  "sort_order": "934",
+  "description": "<p>Rothco&rsquo;s Convertible Safari Jacket is the ultimate travel companion, designed to adapt to your every need. Whether you're navigating through bustling city streets or exploring the great outdoors, this rugged jacket easily converts into a travel vest with its convenient zip-off sleeves, making it perfect for different climates and seasons. The convertible jacket features an impressive 19 pockets, including 16 front pockets, 2 interior pockets, and a large back pocket, offering ample storage space for all your outdoor essentials. The left zippered security chest pocket includes a utility lanyard for clipping on keys, a compass, or other vital supplies, ensuring that you&rsquo;re always prepared. With hook &amp; loop chest pockets featuring D-rings and additional smaller pockets, you&rsquo;ll have organized space for pens, fishing gear, and more. Made from lightweight and resilient stone-washed cotton canvas, this safari jacket not only offers durability but also comfort, thanks to the vented mesh back that allows airflow to keep you cool.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "183"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8520",
+      "item_index": "96",
+      "rothco_item_no": "7590",
+      "upc": "613902759015",
+      "inventory": "27",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.2500",
+      "image_filename": "7590-RIGHT-B.jpg",
+      "catalog_page_no": "79",
+      "msrp": 122.99,
+      "ship_length": "16.0000",
+      "ship_width": "24.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Khaki"
+      },
+      "size": "S",
+      "color": "Khaki",
+      "price": 48.95,
+      "case_price": 48.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8521",
+      "item_index": "96",
+      "rothco_item_no": "7590",
+      "upc": "613902759022",
+      "inventory": "53",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.2500",
+      "image_filename": "7590-RIGHT-B.jpg",
+      "catalog_page_no": "79",
+      "msrp": 122.99,
+      "ship_length": "16.0000",
+      "ship_width": "24.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Khaki"
+      },
+      "size": "M",
+      "color": "Khaki",
+      "price": 48.95,
+      "case_price": 48.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8522",
+      "item_index": "96",
+      "rothco_item_no": "7590",
+      "upc": "613902759039",
+      "inventory": "77",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.2500",
+      "image_filename": "7590-RIGHT-B.jpg",
+      "catalog_page_no": "79",
+      "msrp": 122.99,
+      "ship_length": "26.0000",
+      "ship_width": "24.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Khaki"
+      },
+      "size": "L",
+      "color": "Khaki",
+      "price": 48.95,
+      "case_price": 48.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8523",
+      "item_index": "96",
+      "rothco_item_no": "7590",
+      "upc": "613902759046",
+      "inventory": "66",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.2500",
+      "image_filename": "7590-RIGHT-B.jpg",
+      "catalog_page_no": "79",
+      "msrp": 122.99,
+      "ship_length": "17.0000",
+      "ship_width": "25.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Khaki"
+      },
+      "size": "XL",
+      "color": "Khaki",
+      "price": 48.95,
+      "case_price": 48.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8524",
+      "item_index": "96",
+      "rothco_item_no": "7591",
+      "upc": "613902759107",
+      "inventory": "43",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.4500",
+      "image_filename": "7590-RIGHT-B.jpg",
+      "catalog_page_no": "79",
+      "msrp": 129.99,
+      "ship_length": "17.0000",
+      "ship_width": "25.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL",
+        "color": "Khaki"
+      },
+      "size": "2XL",
+      "color": "Khaki",
+      "price": 51.95,
+      "case_price": 51.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

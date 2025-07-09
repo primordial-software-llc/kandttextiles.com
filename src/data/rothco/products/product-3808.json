@@ -1,0 +1,40 @@
+{
+  "item_index": "3808",
+  "item_name": "Rothco Come And Take It Flag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's \"Come and Take It Flag\" is a representation of the classic American patriotic slogan used in battle during the American Revolution. Rothco's Flag features the famous saying and&nbsp;imagery.</p>",
+  "no_ratings": null,
+  "sort_order": "472",
+  "description": "<p>Rothco's \"Come and Take It Flag\" is a representation of the classic American patriotic slogan used in battle during the American Revolution. Rothco's Flag features the famous saying and&nbsp;imagery.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "428"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14805",
+      "item_index": "3808",
+      "rothco_item_no": "1537",
+      "upc": "613902015371",
+      "inventory": "99",
+      "created_date": "2014-09-18 17:10:02",
+      "weight": "0.2500",
+      "image_filename": "1537-A1.jpg",
+      "catalog_page_no": "210",
+      "msrp": 8.99,
+      "ship_length": "10.0000",
+      "ship_width": "8.2500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 3.75,
+      "case_price": 3.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

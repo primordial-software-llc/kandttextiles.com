@@ -1,0 +1,70 @@
+{
+  "item_index": "2864",
+  "item_name": "Rothco Women's Vintage Stripes & Stars Adjustable Fatigue Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show off your patriotic style with the Rothco Women's Vintage Stripes &amp; Stars Adjustable Fatigues Cap. Made from 100% washed cotton rip-stop, this cap combines durability with a comfortable, worn-in feel. The sergeant stripe emblem stamped on the front adds a unique touch, making this cap a standout accessory for any casual outfit.</p>",
+  "no_ratings": null,
+  "sort_order": "1739",
+  "description": "<p>Show off your patriotic style with the Rothco Women's Vintage Stripes &amp; Stars Adjustable Fatigues Cap. Made from 100% washed cotton rip-stop, this cap combines durability with a comfortable, worn-in feel. The sergeant stripe emblem stamped on the front adds a unique touch, making this cap a standout accessory for any casual outfit.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "370",
+    "537"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "493",
+      "item_index": "2864",
+      "rothco_item_no": "1149",
+      "upc": "613902114906",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1350",
+      "image_filename": "1149-Flat-HR1.jpg",
+      "catalog_page_no": "127",
+      "msrp": 14.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.5000",
+      "ship_height": "4.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "507",
+      "item_index": "2864",
+      "rothco_item_no": "1159",
+      "upc": "613902115903",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1350",
+      "image_filename": "1159-Flat-HR1.jpg",
+      "catalog_page_no": "127",
+      "msrp": 14.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.5000",
+      "ship_height": "4.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Pink"
+      },
+      "color": "Pink",
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "item_index": "4427",
+  "item_name": "Silva Explorer 2.0 Compass",
+  "has_restrictions": "1",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Silva Explorer 2.0 Compass is the perfect compass for your next outdoor adventure.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "132740",
+  "description": "<p>The Silva Explorer 2.0 Compass is the perfect compass for your next outdoor adventure. The Silva&nbsp;compass&nbsp;features DryFlex&trade; grip for easy handling and comes with a use-anywhere declination scale inside the capsule, a magnifying lens, and base plate map-measuring in inches and scales of 1:62.5k mile &amp; 1:24k USGS scale.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "269"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18092",
+      "item_index": "4427",
+      "rothco_item_no": "435",
+      "upc": "7318860198571",
+      "inventory": "58",
+      "created_date": "2017-12-29 14:10:02",
+      "weight": "0.0700",
+      "image_filename": "435-A-Flat.jpg",
+      "catalog_page_no": "281",
+      "msrp": 69.99,
+      "ship_length": "0.5000",
+      "ship_width": "4.2500",
+      "ship_height": "8.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 27.95,
+      "case_price": 27.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

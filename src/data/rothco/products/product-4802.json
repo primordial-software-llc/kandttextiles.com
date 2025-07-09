@@ -1,0 +1,69 @@
+{
+  "item_index": "4802",
+  "item_name": "Rothco Tactical MOLLE Bottle Carrier",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Tactical MOLLE Bottle Carrier is designed to provide you access to hydration during any mission or outdoor activity. This MOLLE pouch integrates with anything with a MOLLE panel, making it perfect for soldiers, public safety professionals, MilSim players, and more.</p>",
+  "no_ratings": null,
+  "sort_order": "133115",
+  "description": "<p>Rothco&rsquo;s Tactical MOLLE Bottle Carrier is designed to provide you access to hydration during any mission or outdoor activity. This MOLLE pouch integrates with anything with a MOLLE panel, making it perfect for soldiers, public safety professionals, MilSim players, and more. This water bottle carrier features four rows of MOLLE webbing plus two six-inch MOLLE straps with snap closures for mounting on assault packs, tactical belts, and plate carrier vests. A drawstring closure with a barrel lock adjuster at the top of the MOLLE water bottle pouch secures your water supply during intense activities. The bottle carrier measures 8.75 inches tall with a 3.5-inch diameter to accommodate most water bottles. An aerated mesh bottom helps drain excess water to keep the MOLLE attachment dry.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20310",
+      "item_index": "4802",
+      "rothco_item_no": "51020",
+      "upc": "613902510203",
+      "inventory": "99",
+      "created_date": "2021-02-02 10:00:25",
+      "weight": "0.2500",
+      "image_filename": "51020-C-no-logo.jpg",
+      "catalog_page_no": "288",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20311",
+      "item_index": "4802",
+      "rothco_item_no": "51021",
+      "upc": "613902550216",
+      "inventory": "99",
+      "created_date": "2021-02-02 10:00:25",
+      "weight": "0.2500",
+      "image_filename": "51021-A-no-logo2.jpg",
+      "catalog_page_no": "288",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

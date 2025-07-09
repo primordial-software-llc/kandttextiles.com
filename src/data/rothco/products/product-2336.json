@@ -1,0 +1,48 @@
+{
+  "item_index": "2336",
+  "item_name": "Rothco Black Genuine Cowhide Garrison Belt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Maintain a clean and professional look with Rothco&rsquo;s Black Genuine Cowhide Garrison Belt. This black leather dress belt is great for first responders, public safety, and civilians. Made from high-quality top-grain leather, this sturdy duty belt is designed to support a partial first responder loadout and withstand daily wear for years. The uniform belt features 2 snaps near the interchangeable nickel-plated belt buckle, allowing for easy customization.</p>",
+  "no_ratings": "0",
+  "sort_order": "1655",
+  "description": "<p>Maintain a clean and professional look with Rothco&rsquo;s Black Genuine Cowhide Garrison Belt. This black leather dress belt is great for first responders, public safety, and civilians. Made from high-quality top-grain leather, this sturdy duty belt is designed to support a partial first responder loadout and withstand daily wear for years. The uniform belt features 2 snaps near the interchangeable nickel-plated belt buckle, allowing for easy customization. Simply open the snaps, slide the buckle off, and replace it with a buckle of your choosing. With 5 holes spaced 1 inch apart, you can easily find the perfect fit. Available in 1.25 inch and 1.75 inch widths, this leather duty belt accommodates most belt loop sizes, making it a versatile addition to your wardrobe.</p>",
+  "selection_groups": [
+    "waist_size",
+    "width"
+  ],
+  "statuses": "",
+  "categories": [
+    "381"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2968",
+      "item_index": "2336",
+      "rothco_item_no": "4234",
+      "upc": "613902423466",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4063",
+      "image_filename": "4232-A2.jpg",
+      "catalog_page_no": "0",
+      "msrp": 44.99,
+      "ship_length": "7.2500",
+      "ship_width": "7.2500",
+      "ship_height": "2.5000",
+      "eta_date": null,
+      "specs": {
+        "waist_size": "38",
+        "width": "1 3/4\""
+      },
+      "waist_size": "38",
+      "width": "1 3/4\"",
+      "price": 17.9,
+      "case_price": 17.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

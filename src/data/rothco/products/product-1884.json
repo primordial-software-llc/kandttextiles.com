@@ -1,0 +1,69 @@
+{
+  "item_index": "1884",
+  "item_name": "Rothco Deluxe Special Police Badge",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Deluxe Special Police Badge is crafted to offer an authoritative and professional look, featuring &ldquo;Special Police&rdquo; displayed prominently in the center. Beneath it, the text &ldquo;Liberty &amp; Justice For All&rdquo; is beautifully etched, accompanied by the iconic Liberty Bell imagery, adding a sense of heritage and duty. Made from a sturdy zinc alloy shield with a nickel plating, this badge is built to last through daily use.</p>",
+  "no_ratings": "0",
+  "sort_order": "2082",
+  "description": "<p>Rothco&rsquo;s Deluxe Special Police Badge is crafted to offer an authoritative and professional look, featuring &ldquo;Special Police&rdquo; displayed prominently in the center. Beneath it, the text &ldquo;Liberty &amp; Justice For All&rdquo; is beautifully etched, accompanied by the iconic Liberty Bell imagery, adding a sense of heritage and duty. Made from a sturdy zinc alloy shield with a nickel plating, this badge is built to last through daily use. The pin back design allows for secure attachment to uniforms, jackets, or bags, and its easy removal makes it convenient for quick transitions. Measuring 3 1/8 inches x 2 1/4 inches, Rothco&rsquo;s Deluxe Special Police Badge is designed to be compact yet highly visible, adding both style and practicality to your gear. Whether you're in law enforcement or just need it for role-play or costume use, this badge ensures a professional and polished appearance.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "233"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "888",
+      "item_index": "1884",
+      "rothco_item_no": "1925",
+      "upc": "613902192508",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "1925-a.jpg",
+      "catalog_page_no": "220",
+      "msrp": 18.99,
+      "ship_length": "5.5000",
+      "ship_width": "3.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Silver"
+      },
+      "color": "Silver",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "889",
+      "item_index": "1884",
+      "rothco_item_no": "1926",
+      "upc": "613902192607",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "1926-a.jpg",
+      "catalog_page_no": "220",
+      "msrp": 18.99,
+      "ship_length": "5.5000",
+      "ship_width": "3.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Gold"
+      },
+      "color": "Gold",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

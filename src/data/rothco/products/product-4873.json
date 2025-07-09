@@ -1,0 +1,117 @@
+{
+  "item_index": "4873",
+  "item_name": "Rothco Fingerless Cut Resistant Carbon Hard Knuckle Gloves - Black ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=XAdm2KMDUDM",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Fingerless Hard Knuckle Gloves feature a cut and fire-resistant aramid fabric and molded polycarbonate knuckle shell.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133186",
+  "description": "<p>Rothco&rsquo;s Fingerless Hard Knuckle Gloves provide enhanced protection with a cut and fire-resistant aramid fabric and molded polycarbonate knuckle shell. The tactical gloves are designed to withstand impact without compromising dexterity.&nbsp;</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "318"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20798",
+      "item_index": "4873",
+      "rothco_item_no": "28081",
+      "upc": "613902003989",
+      "inventory": "99",
+      "created_date": "2021-06-18 18:00:05",
+      "weight": "0.3000",
+      "image_filename": "28081-C.jpg",
+      "catalog_page_no": "191",
+      "msrp": 30.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 13.75,
+      "case_price": 13.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20799",
+      "item_index": "4873",
+      "rothco_item_no": "28081",
+      "upc": "613902004016",
+      "inventory": "99",
+      "created_date": "2021-06-18 18:00:05",
+      "weight": "0.3000",
+      "image_filename": "28081-C.jpg",
+      "catalog_page_no": "191",
+      "msrp": 30.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 13.75,
+      "case_price": 13.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20800",
+      "item_index": "4873",
+      "rothco_item_no": "28081",
+      "upc": "613902004023",
+      "inventory": "99",
+      "created_date": "2021-06-18 18:00:05",
+      "weight": "0.3000",
+      "image_filename": "28081-C.jpg",
+      "catalog_page_no": "191",
+      "msrp": 30.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 13.75,
+      "case_price": 13.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20801",
+      "item_index": "4873",
+      "rothco_item_no": "28081",
+      "upc": "613902004030",
+      "inventory": "99",
+      "created_date": "2021-06-18 18:00:05",
+      "weight": "0.3000",
+      "image_filename": "28081-C.jpg",
+      "catalog_page_no": "191",
+      "msrp": 30.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 13.75,
+      "case_price": 13.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

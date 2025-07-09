@@ -1,0 +1,76 @@
+{
+  "item_index": "5100",
+  "item_name": "Rothco Midnight Camo Low Profile Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=mi96injXyFc",
+  "rating": "5",
+  "item_short_desc": "<p>Our Midnight Camo Supreme Low Profile Cap shields your eyes from the sun&rsquo;s rays. Whether you are out in the field, camping for the weekend, or strolling around town, this baseball hat offers superior comfort and a perfect fit for any activity.</p>",
+  "no_ratings": null,
+  "sort_order": "133389",
+  "description": "<p>Our Midnight Camo Supreme Low Profile Cap shields your eyes from the sun&rsquo;s rays. Whether you are out in the field, camping for the weekend, or strolling around town, this baseball hat offers superior comfort and a perfect fit for any activity. Ultimate Stealth Ops Camo: Inspired by stealth operations that require zero visibility to the opposition, Rothco has reinvented the classic Woodland Camouflage Pattern as well as our bestselling Black Camouflage Pattern to bring you the Midnight Camo Collection. The subdued color combinations offer a true stealth, sharp and sleek appearance whether on mission or off. Debuting in our top performing apparel, outerwear, and headwear; get ready to light up the darkness with the Rothco Midnight Camo Collection. Sturdy Design: Built with durable, rugged, and long-lasting materials, these camouflage hats are not afraid to get down and dirty. The buckram front panels provide the ultimate foundation of a strong and solid design. These baseball caps will hold their shape for years to come. Keep Cool, Stay Focused: This camo hat features a top-notch sweatband that keeps sweat away from your eyes for comfortable all-day wear. The 6 vents on the top help circulate airflow around your head, allowing you to focus on the task at hand. One Size Fits Most: Our hats use an adjustable hook &amp; loop closure for a snug fit that is perfect for most head sizes, ensuring that the cap stays in place when you are out in the wilderness.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "737",
+    "2",
+    "83",
+    "674"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "23254",
+      "item_index": "5100",
+      "rothco_item_no": "12004",
+      "upc": "613902034273",
+      "inventory": "99",
+      "created_date": "2023-08-03 16:59:54",
+      "weight": "0.2000",
+      "image_filename": "12004-C.jpg",
+      "catalog_page_no": "137",
+      "msrp": 15.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Midnight Black Camo"
+      },
+      "size": "One Size",
+      "color": "Midnight Black Camo",
+      "price": 5.9,
+      "case_price": 5.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "23294",
+      "item_index": "5100",
+      "rothco_item_no": "12104",
+      "upc": "613902034457",
+      "inventory": "99",
+      "created_date": "2023-08-03 16:59:54",
+      "weight": "0.0000",
+      "image_filename": "12104-C1.jpg",
+      "catalog_page_no": "137",
+      "msrp": 15.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Midnight Woodland Camo"
+      },
+      "size": "One Size",
+      "color": "Midnight Woodland Camo",
+      "price": 5.9,
+      "case_price": 5.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

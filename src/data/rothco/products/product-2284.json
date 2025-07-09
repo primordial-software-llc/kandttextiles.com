@@ -1,0 +1,69 @@
+{
+  "item_index": "2284",
+  "item_name": "Rothco GI Type Y Style LC-1 Suspenders",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Bear the weight of your equipment with exceptional comfort and in military style with Rothco GI Type Y Style LC-1 Suspenders.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "1546",
+  "description": "<p>Bear the weight of your equipment with exceptional comfort and in military style with Rothco GI Type Y Style LC-1 Suspenders. These LC-1 suspenders function as a rugged load bearing harness supporting your All-Purpose Lightweight Individual Carrying Equipment (ALICE). These GI type suspenders are designed with a Y-shaped back and adjustable length shoulder straps allowing for a comfortable and secure fit and metal clips to attach to an equipment belt and butt pack. Our Y LC-1 suspenders are made to integrate with any field equipment. These ALICE pack suspenders are constructed with strong and lightweight polyester for reliable use.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "386"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9265",
+      "item_index": "2284",
+      "rothco_item_no": "8045",
+      "upc": "613902804500",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5500",
+      "image_filename": "8045-A-NOLOGO.jpg",
+      "catalog_page_no": "311",
+      "msrp": 15.99,
+      "ship_length": "15.5000",
+      "ship_width": "5.0000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9266",
+      "item_index": "2284",
+      "rothco_item_no": "8046",
+      "upc": "613902804609",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5500",
+      "image_filename": "8046-A-NOLOGO].jpg",
+      "catalog_page_no": "311",
+      "msrp": 15.99,
+      "ship_length": "15.5000",
+      "ship_width": "5.0000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "item_index": "2472",
+  "item_name": "Rothco Jumbo Canvas Cargo Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Organize and transport your gear effortlessly with Rothco's Jumbo Canvas Cargo Bag. Crafted from water-resistant heavyweight canvas, this oversized bag boasts durability and functionality for all your storage needs.</p>",
+  "no_ratings": "0",
+  "sort_order": "1264",
+  "description": "<p>Organize and transport your gear effortlessly with Rothco's Jumbo Canvas Cargo Bag. Crafted from water-resistant heavyweight canvas, this oversized bag boasts durability and functionality for all your storage needs. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "215",
+    "211"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9331",
+      "item_index": "2472",
+      "rothco_item_no": "8134",
+      "upc": "613902813410",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "4.4000",
+      "image_filename": "8135-B.jpg",
+      "catalog_page_no": "327",
+      "msrp": 65.99,
+      "ship_length": "18.0000",
+      "ship_width": "14.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 29.95,
+      "case_price": 29.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9332",
+      "item_index": "2472",
+      "rothco_item_no": "8135",
+      "upc": "613902813502",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "4.6500",
+      "image_filename": "8135-B2.jpg",
+      "catalog_page_no": "327",
+      "msrp": 65.99,
+      "ship_length": "18.0000",
+      "ship_width": "14.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 29.95,
+      "case_price": 29.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17278",
+      "item_index": "2472",
+      "rothco_item_no": "8143",
+      "upc": "613902814301",
+      "inventory": "77",
+      "created_date": "2017-05-19 14:10:01",
+      "weight": "4.4000",
+      "image_filename": "8143-B1.jpg",
+      "catalog_page_no": "327",
+      "msrp": 65.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue"
+      },
+      "color": "Navy Blue",
+      "price": 29.95,
+      "case_price": 29.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

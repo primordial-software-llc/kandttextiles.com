@@ -1,0 +1,41 @@
+{
+  "item_index": "1897",
+  "item_name": "Rothco Neoprene Shin Guards",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": "0",
+  "sort_order": "395",
+  "description": "<p>Synthetic Shin Guards, Black 4mm Neoprene Covered From Top For More Protection , Close-Cell Foam Cold-Molded Padding In Shin &amp; Knee Area , One Size Fits All WARNING: This product contains a chemical known to the State of California to cause cancer, birth defects and other reproductive harm.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "245",
+    "335"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2334",
+      "item_index": "1897",
+      "rothco_item_no": "3568",
+      "upc": "613902356801",
+      "inventory": "59",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.8500",
+      "image_filename": "3568-A-amazon.jpg",
+      "catalog_page_no": "255",
+      "msrp": 47.99,
+      "ship_length": "20.0000",
+      "ship_width": "8.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 18.9,
+      "case_price": 18.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

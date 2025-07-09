@@ -1,0 +1,128 @@
+{
+  "item_index": "591",
+  "item_name": "Rothco Military ECWCS Gen III Level 2 Balaclava",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Part of the Extreme Cold Weather Clothing System (ECWCS), the Military Generation III Balaclava is a light yet warm head covering. Made of a Polyester/Spandex blend, this balaclava wicks away moisture and is one size fits most. It's designed to provide cold weather protection while keeping you dry and comfortable. The one-size-fits-most design ensures convenience for various users, while the soft and snug fabric offers comfort for prolonged wear. Built with durability in mind, this balaclava is made to withstand harsh environments.</p>",
+  "no_ratings": "0",
+  "sort_order": "3104",
+  "description": "<p>Part of the Extreme Cold Weather Clothing System (ECWCS), the Military Generation III Balaclava is a light yet warm head covering. Made of a Polyester/Spandex blend, this balaclava wicks away moisture and is one size fits most. It's designed to provide cold weather protection while keeping you dry and comfortable. The one-size-fits-most design ensures convenience for various users, while the soft and snug fabric offers comfort for prolonged wear. Built with durability in mind, this balaclava is made to withstand harsh environments, making it an essential accessory for extreme weather conditions. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "61",
+    "597",
+    "378",
+    "683"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5160",
+      "item_index": "591",
+      "rothco_item_no": "5569",
+      "upc": "613902955691",
+      "inventory": "99",
+      "created_date": "2012-05-03 21:00:00",
+      "weight": "0.0625",
+      "image_filename": "5569-Black-A-amazon.jpg",
+      "catalog_page_no": "160",
+      "msrp": 7.99,
+      "ship_length": "10.0000",
+      "ship_width": "8.2500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 3.15,
+      "case_price": 3.15,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5161",
+      "item_index": "591",
+      "rothco_item_no": "5569",
+      "upc": "613902055681",
+      "inventory": "99",
+      "created_date": "2012-05-03 21:00:00",
+      "weight": "0.0625",
+      "image_filename": "5569-Desert-A-amazon.jpg",
+      "catalog_page_no": "160",
+      "msrp": 7.99,
+      "ship_length": "10.0000",
+      "ship_width": "8.2500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Desert Sand",
+        "size": "One Size"
+      },
+      "color": "Desert Sand",
+      "size": "One Size",
+      "price": 3.15,
+      "case_price": 3.15,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15230",
+      "item_index": "591",
+      "rothco_item_no": "5569",
+      "upc": "613902556928",
+      "inventory": "99",
+      "created_date": "2015-04-01 17:10:01",
+      "weight": "0.0625",
+      "image_filename": "5569-A-amazon1.jpg",
+      "catalog_page_no": "160",
+      "msrp": 7.99,
+      "ship_length": "10.0000",
+      "ship_width": "8.2500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 3.15,
+      "case_price": 3.15,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15902",
+      "item_index": "591",
+      "rothco_item_no": "5569",
+      "upc": "613902556942",
+      "inventory": "99",
+      "created_date": "2015-11-10 13:10:02",
+      "weight": "0.0625",
+      "image_filename": "5569-OD-A-amazon.jpg",
+      "catalog_page_no": "160",
+      "msrp": 7.99,
+      "ship_length": "10.0000",
+      "ship_width": "8.2500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 3.15,
+      "case_price": 3.15,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

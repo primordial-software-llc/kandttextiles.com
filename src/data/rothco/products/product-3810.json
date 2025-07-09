@@ -1,0 +1,70 @@
+{
+  "item_index": "3810",
+  "item_name": "Rothco Tactical Key Clip",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Tactical Key Clip mounts onto your belt to offer you rapid access to your keys in any situation.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "895",
+  "description": "<p>The Rothco Tactical Key Clip is a 1\" wide polypropylene key clip that firs belts up to 2\".</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "544",
+    "239"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14812",
+      "item_index": "3810",
+      "rothco_item_no": "2750",
+      "upc": "613902275027",
+      "inventory": "99",
+      "created_date": "2014-09-19 16:10:02",
+      "weight": "0.0625",
+      "image_filename": "2750-Coyote-A1.jpg",
+      "catalog_page_no": "237",
+      "msrp": 5.99,
+      "ship_length": "2.7500",
+      "ship_width": "2.2500",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 2.2,
+      "case_price": 2.2,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14813",
+      "item_index": "3810",
+      "rothco_item_no": "2750",
+      "upc": "613902275034",
+      "inventory": "99",
+      "created_date": "2014-09-19 16:10:02",
+      "weight": "0.0625",
+      "image_filename": "2750-Black-A1.jpg",
+      "catalog_page_no": "237",
+      "msrp": 5.99,
+      "ship_length": "2.7500",
+      "ship_width": "2.2500",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 2.2,
+      "case_price": 2.2,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "item_index": "4398",
+  "item_name": "Rothco MOLLE Folding Solar Panel",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's MOLLE Folding Solar Panel is the perfect portable charger for your outdoor adventures, whether you're camping, hunting, or hiking. Equipped with 2 MOLLE straps, this solar panel easily attaches to your tactical gear for on-the-go charging. Designed with high-efficiency monocrystalline cells, it ensures maximum sun absorption to keep your devices powered. Compatible with Rothco&rsquo;s Waterproof Solar Power Bank, it offers a USB 5V output (1.5A) for charging various gadgets.</p>",
+  "no_ratings": null,
+  "sort_order": "132711",
+  "description": "<p>Rothco's MOLLE Folding Solar Panel is the perfect portable charger for your outdoor adventures, whether you're camping, hunting, or hiking. Equipped with 2 MOLLE straps, this solar panel easily attaches to your tactical gear for on-the-go charging. Designed with high-efficiency monocrystalline cells, it ensures maximum sun absorption to keep your devices powered. Compatible with Rothco&rsquo;s Waterproof Solar Power Bank, it offers a USB 5V output (1.5A) for charging various gadgets. Constructed from durable materials like PET, EVA, and nylon, this emergency solar panel is built to withstand the rigors of outdoor use. Its compact, foldable design makes it easy to carry and store in your bug out bag or backpack. Stay connected and powered up with Rothco's MOLLE Folding Solar Panel, your reliable companion for any outdoor activity.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "265",
+    "476"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17900",
+      "item_index": "4398",
+      "rothco_item_no": "2116",
+      "upc": "613902021167",
+      "inventory": "99",
+      "created_date": "2017-11-27 11:10:02",
+      "weight": "0.8000",
+      "image_filename": "2116-B-amazon.jpg",
+      "catalog_page_no": "279",
+      "msrp": 104.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 51.9,
+      "case_price": 51.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

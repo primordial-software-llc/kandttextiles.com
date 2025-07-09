@@ -1,0 +1,70 @@
+{
+  "item_index": "2958",
+  "item_name": "GI .30 & .50 Caliber Ammo Cans - Surplus",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p class=\"MsoNormal\">Rothco's GI .30 &amp; .50 Caliber Ammo Cans are the perfect storage solution for firearm enthusiasts. These rugged containers are not only ideal for organizing and transporting ammunition but also essential survival supplies. Featuring a collapsible handle, they offer efficient on-the-go carry and easy storage. The hinged lid with tension clamp closure ensures that your gear or ammo remains securely in place, providing peace of mind during transport.</p>",
+  "no_ratings": null,
+  "sort_order": "1196",
+  "description": "<p>Rothco's GI .30 &amp; .50 Caliber Ammo Cans are the perfect storage solution for firearm enthusiasts. These rugged containers are not only ideal for organizing and transporting ammunition but also essential survival supplies. Featuring a collapsible handle, they offer efficient on-the-go carry and easy storage. The hinged lid with tension clamp closure ensures that your gear or ammo remains securely in place, providing peace of mind during transport. Available in varied conditions, these active-duty surplus cans carry a sense of history and authenticity, making them a classic addition to any collection. Whether you're a seasoned collector or a practical shooter, these ammo cans are a versatile and essential tool for organizing and protecting your valuable supplies.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "262",
+    "254"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10557",
+      "item_index": "2958",
+      "rothco_item_no": "9095",
+      "upc": "613902090958",
+      "inventory": "99",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "4.0000",
+      "image_filename": "9095-A-amazon.jpg",
+      "catalog_page_no": "263",
+      "msrp": 34.99,
+      "ship_length": "11.0000",
+      "ship_width": "4.0000",
+      "ship_height": "7.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": ".30 Caliber"
+      },
+      "size": ".30 Caliber",
+      "price": 13.9,
+      "case_price": 13.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10559",
+      "item_index": "2958",
+      "rothco_item_no": "9102",
+      "upc": "613902091023",
+      "inventory": "99",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "6.0000",
+      "image_filename": "9102-A-amazon.jpg",
+      "catalog_page_no": "263",
+      "msrp": 41.99,
+      "ship_length": "11.5000",
+      "ship_width": "6.0000",
+      "ship_height": "7.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": ".50 Caliber"
+      },
+      "size": ".50 Caliber",
+      "price": 16.5,
+      "case_price": 16.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

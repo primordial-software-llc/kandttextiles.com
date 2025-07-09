@@ -1,0 +1,94 @@
+{
+  "item_index": "537",
+  "item_name": "Rothco Solid Color Headwrap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Solid Color Headwrap offers versatile protection and comfort, making it an essential accessory for various outdoor activities. Designed to help shade your head from the sun, this headwrap is crafted from lightweight woven cotton material that strikes the perfect balance between comfort and durability. Whether you&rsquo;re working outdoors, biking, or just need a reliable way to keep sweat at bay, Rothco&rsquo;s headwrap has you covered. It&rsquo;s easy to wear alone or under other outdoor headgear.</p>",
+  "no_ratings": "0",
+  "sort_order": "2784",
+  "description": "<p>Rothco&rsquo;s Solid Color Headwrap offers versatile protection and comfort, making it an essential accessory for various outdoor activities. Designed to help shade your head from the sun, this headwrap is crafted from lightweight woven cotton material that strikes the perfect balance between comfort and durability. Whether you&rsquo;re working outdoors, biking, or just need a reliable way to keep sweat at bay, Rothco&rsquo;s headwrap has you covered. It&rsquo;s easy to wear alone or under other outdoor headgear, including tactical helmets, making it a practical choice for anyone who spends time outdoors. The headwrap is also ideal for use as a scrub cap, adding to its multifunctional appeal. With its 1-size-fits-most design, Rothco&rsquo;s Solid Color Headwrap is a must-have for anyone looking for dependable head protection and comfort. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from military to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "369",
+    "683"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "4560",
+      "item_index": "537",
+      "rothco_item_no": "5133",
+      "upc": "613902513303",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "5133_big_LI.jpg",
+      "catalog_page_no": "167",
+      "msrp": 6.99,
+      "ship_length": "6.5000",
+      "ship_width": "6.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 2.65,
+      "case_price": 2.65,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "4564",
+      "item_index": "537",
+      "rothco_item_no": "5137",
+      "upc": "613902513709",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "5137-hr11_LI.jpg",
+      "catalog_page_no": "167",
+      "msrp": 6.99,
+      "ship_length": "6.5000",
+      "ship_width": "6.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 2.65,
+      "case_price": 2.65,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "4565",
+      "item_index": "537",
+      "rothco_item_no": "5138",
+      "upc": "613902513808",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "5138-hr11_LI.jpg",
+      "catalog_page_no": "167",
+      "msrp": 6.99,
+      "ship_length": "6.5000",
+      "ship_width": "6.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki"
+      },
+      "color": "Khaki",
+      "price": 2.65,
+      "case_price": 2.65,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

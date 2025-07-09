@@ -1,0 +1,47 @@
+{
+  "item_index": "1274",
+  "item_name": "Rothco Fanny Pack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Lightweight, large and durable, Rothco&rsquo;s Fanny Pack is designed to conveniently carry all your essential everyday gear.</p>",
+  "no_ratings": "0",
+  "sort_order": "604",
+  "description": "<p class=\"MsoNormal\"><span style=\"mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;\">Lightweight, large and durable, Rothco&rsquo;s Fanny Pack is designed to conveniently carry all your essential everyday gear. Made of a lightweight denier oxford polyester material, the fanny pouch offers multiple pockets to carry your everyday essentials, which include two large zippered pockets and two triangular zippered pockets. The two large zippered pockets offer plenty of room to store a phone, wallet, small camera, notepad and/or other items. Featuring an adjustable quick release buckle waist strap, the waist fanny pack can fit up to a 46&rdquo; waist. On the road or in the field, the travel fanny pack is the ideal choice to easily carry all your supplies for your next trip.</span></p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "201",
+    "650",
+    "212"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9329",
+      "item_index": "1274",
+      "rothco_item_no": "8131",
+      "upc": "613902813106",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "8131-A-amazon.jpg",
+      "catalog_page_no": "346",
+      "msrp": 14.99,
+      "ship_length": "9.2500",
+      "ship_width": "9.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 5.4,
+      "case_price": 5.4,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

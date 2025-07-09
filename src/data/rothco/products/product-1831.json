@@ -1,0 +1,70 @@
+{
+  "item_index": "1831",
+  "item_name": "U.S. Navy Storm All Weather Whistle",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The U.S. Navy Storm All Weather Whistle is engineered to be the loudest, most reliable whistle available, making it an essential tool for emergency situations, outdoor activities, and daily use. Designed to perform in any environment, this whistle operates flawlessly even when wet, ensuring your signal is heard when it matters most. Made with durable, high-impact plastic, it can withstand the toughest conditions. The compact size allows it to be easily carried in your pocket, on a lanyard, or attached to your gear.</p>",
+  "no_ratings": "0",
+  "sort_order": "809",
+  "description": "<p>The U.S. Navy Storm All Weather Whistle is engineered to be the loudest, most reliable whistle available, making it an essential tool for emergency situations, outdoor activities, and daily use. Designed to perform in any environment, this whistle operates flawlessly even when wet, ensuring your signal is heard when it matters most. Made with durable, high-impact plastic, it can withstand the toughest conditions. The compact size allows it to be easily carried in your pocket, on a lanyard, or attached to your gear. Whether you're hiking, camping, boating, or needing a reliable safety tool, the U.S. Navy Storm Whistle has you covered.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "243",
+    "232"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "187",
+      "item_index": "1831",
+      "rothco_item_no": "10358",
+      "upc": "742272000028",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "10358-B-Black.jpg",
+      "catalog_page_no": "218",
+      "msrp": 15.99,
+      "ship_length": "6.0000",
+      "ship_width": "4.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "188",
+      "item_index": "1831",
+      "rothco_item_no": "10359",
+      "upc": "742272000011",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0625",
+      "image_filename": "10359-B1.jpg",
+      "catalog_page_no": "218",
+      "msrp": 15.99,
+      "ship_length": "6.0000",
+      "ship_width": "4.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Orange"
+      },
+      "color": "Orange",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

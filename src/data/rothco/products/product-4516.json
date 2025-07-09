@@ -1,0 +1,74 @@
+{
+  "item_index": "4516",
+  "item_name": "Rothco Thin Blue Line America Map T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Thin Blue Line is a symbol of respect and support for Police and Law Enforcement Officials; show your support with the Rothco&rsquo;s Thin Blue Line America Map T-Shirt.&nbsp;&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "132829",
+  "description": "<p>The Thin Blue Line is a symbol of respect and support for Police and Law Enforcement Officials; show your support with the Rothco&rsquo;s Thin Blue Line America T-Shirt. This police line shirt features an American map shaped Thin Blue Line flag print on the centered chest, and it made of a super soft and lightweight 60% cotton / 40% polyester blend material. The tagless label allows you to wear this USA map Thin Blue Line shirt with the utmost comfort.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "42",
+    "640"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18688",
+      "item_index": "4516",
+      "rothco_item_no": "1853",
+      "upc": "613902518513",
+      "inventory": "20",
+      "created_date": "2018-11-07 12:10:00",
+      "weight": "0.5500",
+      "image_filename": "1851-F-no-logo.jpg",
+      "catalog_page_no": "0",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3XL",
+        "color": "Black"
+      },
+      "size": "3XL",
+      "color": "Black",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18697",
+      "item_index": "4516",
+      "rothco_item_no": "1851",
+      "upc": "613902018518",
+      "inventory": "20",
+      "created_date": "2018-11-07 12:10:00",
+      "weight": "0.3500",
+      "image_filename": "1851-F-no-logo.jpg",
+      "catalog_page_no": "0",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Black"
+      },
+      "size": "S",
+      "color": "Black",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

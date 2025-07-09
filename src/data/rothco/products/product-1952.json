@@ -1,0 +1,121 @@
+{
+  "item_index": "1952",
+  "item_name": "Rothco Ventec Tactical Goggles",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Ventec Tactical Goggles are crafted for durability and performance in demanding environments. With a lightweight design and resilient polycarbonate lens, these military goggles provide reliable eye protection without compromising on comfort or functionality. The lightweight and low-profile design of these tactical goggles offer excellent eye protection without the bulkiness often associated with larger eyewear. This makes them suitable for a wide range of activities, including outdoor sports and tactical operations.</p>",
+  "no_ratings": "0",
+  "sort_order": "8448",
+  "description": "<p>Rothco's Ventec Tactical Goggles are crafted for durability and performance in demanding environments. With a lightweight design and resilient polycarbonate lens, these military goggles provide reliable eye protection without compromising on comfort or functionality. The lightweight and low-profile design of these tactical goggles offer excellent eye protection without the bulkiness often associated with larger eyewear. This makes them suitable for a wide range of activities, including outdoor sports and tactical operations. Whether you're on the field or at the range, these goggles will keep your eyes safe without hindering your movement. Featuring a foam-padded frame, these goggles conform to the contours of your head for a comfortable and secure fit. The foam padding not only enhances comfort but also helps to seal out dust, debris, and wind, providing additional protection for your eyes in challenging conditions. Equipped with smoke lenses, these tactical goggles offer UV400 protection, guarding your eyes from the sun. Designed to withstand rigorous use, these goggles are constructed with shatterproof polycarbonate lenses and feature an anti-scratch coating for long-lasting durability. This ensures that your goggles remain clear and functional even after repeated use in harsh conditions. The adjustable 1 inch elastic strap ensures a secure and comfortable fit for most head sizes, allowing you to focus on your activities without worrying about the goggles slipping or shifting. Whether you're engaging in intense physical activity or navigating challenging terrain, these goggles will stay firmly in place, providing reliable eye protection throughout.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "143",
+    "253",
+    "335",
+    "394",
+    "395"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "197",
+      "item_index": "1952",
+      "rothco_item_no": "10376",
+      "upc": "613902103764",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2300",
+      "image_filename": "10376-A-amazon1.jpg",
+      "catalog_page_no": "198",
+      "msrp": 15.99,
+      "ship_length": "7.0000",
+      "ship_width": "2.2500",
+      "ship_height": "2.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "198",
+      "item_index": "1952",
+      "rothco_item_no": "10377",
+      "upc": "613902103771",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2300",
+      "image_filename": "10377-A-amazon.jpg",
+      "catalog_page_no": "198",
+      "msrp": 15.99,
+      "ship_length": "7.0000",
+      "ship_width": "2.2500",
+      "ship_height": "2.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "199",
+      "item_index": "1952",
+      "rothco_item_no": "10378",
+      "upc": "613902103788",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2300",
+      "image_filename": "10378-HR.jpg",
+      "catalog_page_no": "198",
+      "msrp": 17.99,
+      "ship_length": "7.0000",
+      "ship_width": "2.2500",
+      "ship_height": "2.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "ACU Digital Camo"
+      },
+      "color": "ACU Digital Camo",
+      "price": 6.8,
+      "case_price": 6.8,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14599",
+      "item_index": "1952",
+      "rothco_item_no": "11378",
+      "upc": "613902113787",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2300",
+      "image_filename": "11378-A_LI.jpg",
+      "catalog_page_no": "198",
+      "msrp": 15.99,
+      "ship_length": "7.0000",
+      "ship_width": "2.2500",
+      "ship_height": "2.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

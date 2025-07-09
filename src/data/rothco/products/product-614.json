@@ -1,0 +1,100 @@
+{
+  "item_index": "614",
+  "item_name": "Rothco Pith Helmet",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Pith Helmet delivers optimal sun protection for outdoor enthusiasts. Crafted from waterproof high-density polyethylene, this helmet shields your head and face from the sun's harsh rays. The one-size-fits-most design, with an adjustable hook and loop strap inside, ensures a secure and comfortable fit for head sizes 6 1/2 - 7 3/4. The removable terry cloth sweatband, secured with hook and loop, adds an extra layer of comfort.</p>",
+  "no_ratings": "0",
+  "sort_order": "2175",
+  "description": "<p>Rothco's Pith Helmet delivers optimal sun protection for outdoor enthusiasts. Crafted from waterproof high-density polyethylene, this helmet shields your head and face from the sun's harsh rays. The one-size-fits-most design, with an adjustable hook and loop strap inside, ensures a secure and comfortable fit for head sizes 6 1/2 - 7 3/4. The removable terry cloth sweatband, secured with hook and loop, adds an extra layer of comfort. Made in the USA, this tactical-style pith helmet is not just practical but also a fantastic addition to safari costumes, making your outdoor experience both safe and stylish. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "324",
+    "523"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5334",
+      "item_index": "614",
+      "rothco_item_no": "5670",
+      "upc": "613902567009",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6500",
+      "image_filename": "5670-AA.jpg",
+      "catalog_page_no": "153",
+      "msrp": 34.99,
+      "ship_length": "13.5000",
+      "ship_width": "12.0000",
+      "ship_height": "6.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "amazon_color_map": "Green"
+      },
+      "color": "Olive Drab",
+      "amazon_color_map": "Green",
+      "price": 17.25,
+      "case_price": 17.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5335",
+      "item_index": "614",
+      "rothco_item_no": "5670",
+      "upc": "613902567016",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6500",
+      "image_filename": "5670-White-AA.jpg",
+      "catalog_page_no": "153",
+      "msrp": 34.99,
+      "ship_length": "13.5000",
+      "ship_width": "12.0000",
+      "ship_height": "6.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "White",
+        "amazon_color_map": "White"
+      },
+      "color": "White",
+      "amazon_color_map": "White",
+      "price": 17.25,
+      "case_price": 17.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5336",
+      "item_index": "614",
+      "rothco_item_no": "5670",
+      "upc": "613902567023",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6500",
+      "image_filename": "5670-Khaki-AA.jpg",
+      "catalog_page_no": "153",
+      "msrp": 34.99,
+      "ship_length": "13.5000",
+      "ship_width": "12.0000",
+      "ship_height": "6.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki",
+        "amazon_color_map": "Beige"
+      },
+      "color": "Khaki",
+      "amazon_color_map": "Beige",
+      "price": 17.25,
+      "case_price": 17.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

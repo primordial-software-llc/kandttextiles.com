@@ -1,0 +1,133 @@
+{
+  "item_index": "4434",
+  "item_name": "Rothco USMC Eagle, Globe and Anchor / US Flag Low Pro Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show your pride with Rothco's USMC Eagle, Globe and Anchor / US Flag Low Pro Cap. This patriotic hat features iconic Marine insignia and the American flag, ideal for veterans, active-duty individuals, or those supporting American troops. The low-profile design, adjustable hook and loop closure, and inner sweatband offer comfort and a customized fit. Stay cool with six ventilation holes, while the 100% brushed cotton ensures durability. Officially licensed by the United States Marine Corps, this cap is a symbol of honor and American spirit.</p>",
+  "no_ratings": null,
+  "sort_order": "132747",
+  "description": "<p>Show your pride with Rothco's USMC Eagle, Globe and Anchor / US Flag Low Pro Cap. This patriotic hat features iconic Marine insignia and the American flag, ideal for veterans, active-duty individuals, or those supporting American troops. The low-profile design, adjustable hook and loop closure, and inner sweatband offer comfort and a customized fit. Stay cool with six ventilation holes, while the 100% brushed cotton ensures durability. Officially licensed by the United States Marine Corps, this cap is a symbol of honor and American spirit.</p>",
+  "selection_groups": [
+    "color",
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "674",
+    "522",
+    "374",
+    "547",
+    "674",
+    "522",
+    "374",
+    "547"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18263",
+      "item_index": "4434",
+      "rothco_item_no": "7185",
+      "upc": "613902171855",
+      "inventory": "99",
+      "created_date": "2018-04-16 11:10:05",
+      "weight": "0.2500",
+      "image_filename": "7185-Coyote-A-amazon.jpg",
+      "catalog_page_no": "140",
+      "msrp": 24.99,
+      "ship_length": "9.0000",
+      "ship_width": "8.5000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Coyote Brown"
+      },
+      "size": "One Size",
+      "color": "Coyote Brown",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19097",
+      "item_index": "4434",
+      "rothco_item_no": "4373",
+      "upc": "613902043732",
+      "inventory": "99",
+      "created_date": "2019-05-31 10:10:01",
+      "weight": "0.2500",
+      "image_filename": "4373-D-amazon.jpg",
+      "catalog_page_no": "140",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20275",
+      "item_index": "4434",
+      "rothco_item_no": "3859",
+      "upc": "613902038592",
+      "inventory": "99",
+      "created_date": "2021-01-19 16:00:28",
+      "weight": "0.2500",
+      "image_filename": "3859-C-no-logo.jpg",
+      "catalog_page_no": "140",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Olive Drab"
+      },
+      "size": "One Size",
+      "color": "Olive Drab",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22034",
+      "item_index": "4434",
+      "rothco_item_no": "71850",
+      "upc": "613902018396",
+      "inventory": "99",
+      "created_date": "2022-07-20 12:00:13",
+      "weight": "0.0000",
+      "image_filename": "71850-B.jpg",
+      "catalog_page_no": "140",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red",
+        "size": "One Size"
+      },
+      "color": "Red",
+      "size": "One Size",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

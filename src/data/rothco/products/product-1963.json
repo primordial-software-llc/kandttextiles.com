@@ -1,0 +1,43 @@
+{
+  "item_index": "1963",
+  "item_name": "Rothco Military Watchbands",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Military Watchbands are made with a durable and strong nylon material. The watchband fits all military watches, measured at &frac34;&rdquo; x 9&rdquo; and features a buckle closure. The military watchband is designed with comfort in mind for those who spend a lot of time in the field.</p>",
+  "no_ratings": "0",
+  "sort_order": "930",
+  "description": "<p>Rothco&rsquo;s Military Watchbands are made with a durable and strong nylon material. The watchband fits all military watches, measured at &frac34;&rdquo; x 9&rdquo; and features a buckle closure. The military watchband is designed with comfort in mind for those who spend a lot of time in the field.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "418"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2820",
+      "item_index": "1963",
+      "rothco_item_no": "4103",
+      "upc": "613902410367",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0188",
+      "image_filename": "4103-A.jpg",
+      "catalog_page_no": "205",
+      "msrp": 3.99,
+      "ship_length": "10.2500",
+      "ship_width": "1.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

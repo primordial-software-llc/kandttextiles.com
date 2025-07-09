@@ -1,0 +1,41 @@
+{
+  "item_index": "1832",
+  "item_name": "Rothco Scout Guide Whistle",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Scout Guide Whistle is made of cold-rolled steel and features a maximum dB level of 90.</p>",
+  "no_ratings": "0",
+  "sort_order": "1012",
+  "description": "<p>Rothco's Scout Guide Whistle is made of cold-rolled steel and features a maximum dB level of 90.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "243",
+    "232"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "190",
+      "item_index": "1832",
+      "rothco_item_no": "10364",
+      "upc": "613902103641",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0450",
+      "image_filename": "10364-A.jpg",
+      "catalog_page_no": "218",
+      "msrp": 3.99,
+      "ship_length": "2.5000",
+      "ship_width": "1.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

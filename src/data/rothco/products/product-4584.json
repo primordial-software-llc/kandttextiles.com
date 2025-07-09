@@ -1,0 +1,44 @@
+{
+  "item_index": "4584",
+  "item_name": "Rothco Printed Flyers Helmet Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Inspired by our classic flyers bag, Rothco&rsquo;s Printed Flyers Helmet Bag is enhanced with a military-style stamp on the left outside pocket.</p>",
+  "no_ratings": null,
+  "sort_order": "132897",
+  "description": "<p>Inspired by our classic flyers bag, Rothco&rsquo;s Printed Flyers Helmet Bag is enhanced with a military-style orange stamp on the left outside pocket. Built with denier polyester material, the pilot helmet bag contains a padded interior to protect your helmet and other supplies while you travel. Measuring 19&rdquo; X 19&rdquo;, the military helmet bag can store your helmet and helmet accessories with the nylon zipper main compartment. You can store any additional gear in the two hook and loop and snap closure outside pockets. Carry your motorcycle helmet bag with either the dual carry handles, or attach your own shoulder strap with the D-rings on either side (shoulder strap not included). The pilot bag is perfect for military personnel, motorcyclists, skaters, and bicyclists.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "222",
+    "325"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19054",
+      "item_index": "4584",
+      "rothco_item_no": "8105",
+      "upc": "613902081055",
+      "inventory": "99",
+      "created_date": "2019-05-22 17:10:00",
+      "weight": "0.7400",
+      "image_filename": "8105-A-amazon.jpg",
+      "catalog_page_no": "366",
+      "msrp": 41.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

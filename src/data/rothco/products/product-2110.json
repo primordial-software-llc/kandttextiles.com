@@ -1,0 +1,144 @@
+{
+  "item_index": "2110",
+  "item_name": "Rothco Vintage U.S. Marine Bulldog T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Wear your support for the United States Marine Corps (and Chesty) in classic style with Rothco&rsquo;s Vintage U.S. Marine Bulldog T-Shirt.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "4210",
+  "description": "<p>Wear your support for the United States Marine Corps (and Chesty) in classic style with Rothco&rsquo;s Vintage U.S. Marine Bulldog T-Shirt. This military t-shirt showcases the US Marine Corps name and bulldog mascot printed in yellow ink. The Marine Corps bulldog t-shirt is constructed with 100% soft and breathable cotton, perfect for working out or lounging in. Rothco&rsquo;s marine corps bulldog graphic tee features a tag-less label. This U.S. Marine Corps t-shirt is officially licensed by the United States Marine Corps.&nbsp;</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "42",
+    "49",
+    "69",
+    "547"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "6111",
+      "item_index": "2110",
+      "rothco_item_no": "61163",
+      "upc": "613902611634",
+      "inventory": "57",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "61163-FRONT-A1.jpg",
+      "catalog_page_no": "116",
+      "msrp": 21.99,
+      "ship_length": "14.0000",
+      "ship_width": "18.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6112",
+      "item_index": "2110",
+      "rothco_item_no": "61163",
+      "upc": "613902611665",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "61163-FRONT-A1.jpg",
+      "catalog_page_no": "116",
+      "msrp": 21.99,
+      "ship_length": "15.2500",
+      "ship_width": "19.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6113",
+      "item_index": "2110",
+      "rothco_item_no": "61163",
+      "upc": "613902611672",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "61163-FRONT-A1.jpg",
+      "catalog_page_no": "116",
+      "msrp": 21.99,
+      "ship_length": "15.2500",
+      "ship_width": "20.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6114",
+      "item_index": "2110",
+      "rothco_item_no": "61163",
+      "upc": "613902611689",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "61163-FRONT-A1.jpg",
+      "catalog_page_no": "116",
+      "msrp": 21.99,
+      "ship_length": "15.5000",
+      "ship_width": "22.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6115",
+      "item_index": "2110",
+      "rothco_item_no": "61164",
+      "upc": "613902661646",
+      "inventory": "55",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6000",
+      "image_filename": "61163-FRONT-A1.jpg",
+      "catalog_page_no": "116",
+      "msrp": 25.99,
+      "ship_length": "16.5000",
+      "ship_width": "17.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 8.9,
+      "case_price": 8.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

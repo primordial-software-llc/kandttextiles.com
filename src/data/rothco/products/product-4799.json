@@ -1,0 +1,167 @@
+{
+  "item_index": "4799",
+  "item_name": "Rothco Crossbody Canvas Sling Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Get ready to rock your next adventure with our Vintage Canvas Crossbody Sling Bag. Built with an ergonomic design that naturally contours with your body, the travel sling bag keeps your EDC essentials close to you, and can be worn as a shoulder bag, backpack, or chest pack. Whether you are out traveling or strolling around town, this sling backpack ensures that your gear is safe and secure.</p>",
+  "no_ratings": null,
+  "sort_order": "133112",
+  "description": "<p>Get ready to rock your next adventure with our Vintage Canvas Crossbody Sling Bag. Built with an ergonomic design that naturally contours with your body, the travel sling bag keeps your EDC essentials close to you, and can be worn as a shoulder bag, backpack, or chest pack. Whether you are out traveling or strolling around town, this sling backpack ensures that your gear is safe and secure. Everyday Carry: These crossbody travel bags feature a spacious main compartment with 2 internal zipper pockets, 1 zippered and the other open top, allowing you to tuck away your phone or wallet. The rear zipper pocket is ideal for flat items like important documents and extra cash. The 5 exterior zipper pockets provide additional storage for small accessories. Top Grade Canvas: Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul, allowing the leather-accented crossbody sling bag to withstand outdoor adventures or frequent trips. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs. Carry Options: The sling crossbody bag comes equipped with an adjustable quick-release shoulder strap that extends up to 47 inches. With a built-in padded air mesh pad, the shoulder strap sits comfortably across your back and chest. The compact travel bag has a 2L storage capacity and measures 17 inch x 8 inch x 2 inch. Vintage Style: The rugged sling bag features high-quality metal zippers and leather pull tabs for a classic look. The compact design makes it ideal for hiking, camping, climbing, cycling, walking, traveling, and more.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "2",
+    "138",
+    "650"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20288",
+      "item_index": "4799",
+      "rothco_item_no": "2498",
+      "upc": "613902024984",
+      "inventory": "99",
+      "created_date": "2021-01-20 12:00:08",
+      "weight": "0.0000",
+      "image_filename": "2498-A-no-logo.jpg",
+      "catalog_page_no": "346",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Vintage Olive Drab"
+      },
+      "color": "Vintage Olive Drab",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21044",
+      "item_index": "4799",
+      "rothco_item_no": "24980",
+      "upc": "613902007574",
+      "inventory": "99",
+      "created_date": "2021-12-01 11:00:28",
+      "weight": "1.1000",
+      "image_filename": "24980-A1.jpg",
+      "catalog_page_no": "346",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21045",
+      "item_index": "4799",
+      "rothco_item_no": "24981",
+      "upc": "613902007680",
+      "inventory": "99",
+      "created_date": "2021-12-01 11:00:29",
+      "weight": "1.1000",
+      "image_filename": "24981-A.jpg",
+      "catalog_page_no": "346",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22498",
+      "item_index": "4799",
+      "rothco_item_no": "24982",
+      "upc": "613902024144",
+      "inventory": "99",
+      "created_date": "2022-12-06 16:00:29",
+      "weight": "0.0000",
+      "image_filename": "24982-A.jpg",
+      "catalog_page_no": "346",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki"
+      },
+      "color": "Khaki",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22499",
+      "item_index": "4799",
+      "rothco_item_no": "24983",
+      "upc": "613902024151",
+      "inventory": "99",
+      "created_date": "2022-12-06 16:00:29",
+      "weight": "0.0000",
+      "image_filename": "24983-A.jpg",
+      "catalog_page_no": "346",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30234",
+      "item_index": "4799",
+      "rothco_item_no": "24984",
+      "upc": "613902049598",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.0000",
+      "image_filename": "24984-A.jpg",
+      "catalog_page_no": "346",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Tiger Stripe Camo"
+      },
+      "color": "Tiger Stripe Camo",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

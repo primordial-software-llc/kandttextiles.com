@@ -1,0 +1,46 @@
+{
+  "item_index": "337",
+  "item_name": "Rothco Shirt Stays",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Keep your shirt looking sharp and professional all day with Rothco&rsquo;s Shirt Stays. This 4-pack of shirt stays is designed with a durable polyester / cotton blend, providing comfort and long-lasting wear. The elastic tension keeps your shirt neatly tucked, ensuring a clean and tailored appearance throughout the day. Metal clips securely attach to the shirt tail and socks, preventing any slipping or loosening as you move. These shirt stays are adjustable, offering a custom fit for any size.</p>",
+  "no_ratings": "0",
+  "sort_order": "4165",
+  "description": "<p>Keep your shirt looking sharp and professional all day with Rothco&rsquo;s Shirt Stays. This 4-pack of shirt stays is designed with a durable polyester / cotton blend, providing comfort and long-lasting wear. The elastic tension keeps your shirt neatly tucked, ensuring a clean and tailored appearance throughout the day. Metal clips securely attach to the shirt tail and socks, preventing any slipping or loosening as you move. These shirt stays are adjustable, offering a custom fit for any size, and are ideal for those who require a polished, professional look at all times. Whether you're in public safety or other industries demanding a neat uniform, Rothco's Shirt Stays are a reliable and convenient solution to keep your shirt perfectly in place.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "382",
+    "386"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8083",
+      "item_index": "337",
+      "rothco_item_no": "7197",
+      "upc": "613902719705",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1200",
+      "image_filename": "7197-A-amazon.jpg",
+      "catalog_page_no": "197",
+      "msrp": 18.99,
+      "ship_length": "8.0000",
+      "ship_width": "3.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 7.25,
+      "case_price": 7.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

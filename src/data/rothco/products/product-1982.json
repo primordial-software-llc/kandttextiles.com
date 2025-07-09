@@ -1,0 +1,69 @@
+{
+  "item_index": "1982",
+  "item_name": "Rothco Military Style Quartz Watch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Battle the harshest of elements with Rothco's water-resistant military style quartz watch. Designed for durability and functionality, this watch is your perfect companion for any outdoor adventure. The watch face features both standard and military time, ensuring you always have the time format you need. Powered by a reliable quartz battery (fits battery size Sr626sw), it guarantees precise timekeeping. The luminous markings on the hands provide easy viewing in dark conditions, making it practical for nighttime use.</p>",
+  "no_ratings": "0",
+  "sort_order": "894",
+  "description": "<p>Battle the harshest of elements with Rothco's water-resistant military style quartz watch. Designed for durability and functionality, this watch is your perfect companion for any outdoor adventure. The watch face features both standard and military time, ensuring you always have the time format you need. Powered by a reliable quartz battery (fits battery size Sr626sw), it guarantees precise timekeeping. The luminous markings on the hands provide easy viewing in dark conditions, making it practical for nighttime use. The durable nylon strap fits wrist sizes between 6 1/2 inches to 8 1/2 inches, ensuring a comfortable and secure fit. With hour, minute, and seconds hands, this watch offers precise timing for any situation. Whether you're hiking, camping, or just need a reliable everyday watch, Rothco's military style quartz watch delivers exceptional performance and rugged style.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "418"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2824",
+      "item_index": "1982",
+      "rothco_item_no": "4127",
+      "upc": "613902412705",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0750",
+      "image_filename": "4127-E.jpg",
+      "catalog_page_no": "205",
+      "msrp": 70.99,
+      "ship_length": "11.7500",
+      "ship_width": "2.7500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 31.9,
+      "case_price": 31.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3214",
+      "item_index": "1982",
+      "rothco_item_no": "4427",
+      "upc": "613902442702",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0650",
+      "image_filename": "4427-E.jpg",
+      "catalog_page_no": "205",
+      "msrp": 70.99,
+      "ship_length": "11.7500",
+      "ship_width": "2.7500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 31.9,
+      "case_price": 31.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

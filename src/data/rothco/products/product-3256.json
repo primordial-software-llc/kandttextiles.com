@@ -1,0 +1,72 @@
+{
+  "item_index": "3256",
+  "item_name": "Rothco’s Kids Lightweight All Purpose Ghillie Suit",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Kids Lightweight All Purpose Ghillie Suit is designed to give your child effective camouflage for outdoor adventures, including hunting, birdwatching, and even Halloween costumes. This ghillie suit package includes a hooded jacket, pants, and a rifle rag cover, ensuring full-body concealment. Made with lightweight and breathable materials, this suit offers comfort during extended wear while allowing your child to blend seamlessly into wooded environments.</p>",
+  "no_ratings": null,
+  "sort_order": "407",
+  "description": "<p>Rothco&rsquo;s Kids Lightweight All Purpose Ghillie Suit is designed to give your child effective camouflage for outdoor adventures, including hunting, birdwatching, and even Halloween costumes. This ghillie suit package includes a hooded jacket, pants, and a rifle rag cover, ensuring full-body concealment. Made with lightweight and breathable materials, this suit offers comfort during extended wear while allowing your child to blend seamlessly into wooded environments. The hooded jacket features front pass-through pockets for warming hands and storing small gear, while elastic cuffs help keep the sleeves in place for better concealment. The reinforced collar enhances durability, and the pants are equipped with an elastic waist and drawstring to fit various body types. With multiple snap closures, the pants are easy to put on and take off, making this ghillie suit both functional and user-friendly.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "333",
+    "339",
+    "340"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12383",
+      "item_index": "3256",
+      "rothco_item_no": "64128",
+      "upc": "613902041288",
+      "inventory": "51",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.0000",
+      "image_filename": "64128-HR1.jpg",
+      "catalog_page_no": "264",
+      "msrp": 96.99,
+      "ship_length": "15.5000",
+      "ship_width": "10.0000",
+      "ship_height": "6.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S / M"
+      },
+      "size": "S / M",
+      "price": 43.9,
+      "case_price": 43.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12384",
+      "item_index": "3256",
+      "rothco_item_no": "64128",
+      "upc": "613902941281",
+      "inventory": "60",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.0000",
+      "image_filename": "64128-HR1.jpg",
+      "catalog_page_no": "264",
+      "msrp": 96.99,
+      "ship_length": "15.5000",
+      "ship_width": "10.0000",
+      "ship_height": "6.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L / XL"
+      },
+      "size": "L / XL",
+      "price": 43.9,
+      "case_price": 43.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

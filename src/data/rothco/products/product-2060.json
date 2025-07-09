@@ -1,0 +1,70 @@
+{
+  "item_index": "2060",
+  "item_name": "Rothco Peacoat Buttons",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>These high-quality plastic peacoat buttons, available in classic black or navy blue. Each pack contains 25 buttons, perfect for multiple garment updates or bulk replacements. Made from durable, lightweight plastic, these buttons are designed to last and retain their sleek look over time. Easy to install, they&rsquo;re an ideal choice for DIY clothing repairs or customization projects.</p>",
+  "no_ratings": "0",
+  "sort_order": "1063",
+  "description": "<p>These high-quality plastic peacoat buttons, available in classic black or navy blue. Each pack contains 25 buttons, perfect for multiple garment updates or bulk replacements. Made from durable, lightweight plastic, these buttons are designed to last and retain their sleek look over time. Easy to install, they&rsquo;re an ideal choice for DIY clothing repairs or customization projects.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "176",
+    "427"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "998",
+      "item_index": "2060",
+      "rothco_item_no": "206",
+      "upc": "613902092068",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "206-Flat_HR1.jpg",
+      "catalog_page_no": "42",
+      "msrp": 9.99,
+      "ship_length": "6.0000",
+      "ship_width": "3.0000",
+      "ship_height": "0.2500",
+      "eta_date": "08/21/2025",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 3.95,
+      "case_price": 3.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "999",
+      "item_index": "2060",
+      "rothco_item_no": "206",
+      "upc": "613902902060",
+      "inventory": "65",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "206-Flat_HR1.jpg",
+      "catalog_page_no": "42",
+      "msrp": 9.99,
+      "ship_length": "6.0000",
+      "ship_width": "3.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue"
+      },
+      "color": "Navy Blue",
+      "price": 3.95,
+      "case_price": 3.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

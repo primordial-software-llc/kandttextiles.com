@@ -1,0 +1,49 @@
+{
+  "item_index": "4390",
+  "item_name": "Rothco Thin Red Line Wristband",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Thin Red Line Wristband is perfect for the person looking to show respect and support for Fire Fighters.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "3818",
+  "description": "<p>Rothco's Thin Red Line Wristband is perfect for the person looking to show respect and support for Fire Fighters. This thin red line bracelet comes in different sizes to fit almost any size wrist. Proceeds from these purchase benefit families of fallen first responders.</p>",
+  "selection_groups": [
+    "wrist_size"
+  ],
+  "statuses": "",
+  "categories": [
+    "490",
+    "417",
+    "418"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17618",
+      "item_index": "4390",
+      "rothco_item_no": "1181",
+      "upc": "613902511811",
+      "inventory": "99",
+      "created_date": "2017-10-02 10:10:01",
+      "weight": "0.0625",
+      "image_filename": "1181-A-amazon.jpg",
+      "catalog_page_no": "207",
+      "msrp": 3.99,
+      "ship_length": "4.0000",
+      "ship_width": "0.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "wrist_size": "8 Inch",
+        "color": "Red"
+      },
+      "wrist_size": "8 Inch",
+      "color": "Red",
+      "price": 1.55,
+      "case_price": 1.55,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

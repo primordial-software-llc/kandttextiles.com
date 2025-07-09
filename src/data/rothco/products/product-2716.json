@@ -1,0 +1,71 @@
+{
+  "item_index": "2716",
+  "item_name": "Rothco Military Neck Strap Key Rings",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Keep your keys, Wallet, ID Badge, or other Items secure with Rothco's Neck Strap Key Ring, measuring 32&rdquo; with a quick release key chain. The Lanyard is available in three styles including Marines, Navy, and security. Officially Licensed by the United States Marine Corps and the United States Navy.</p>",
+  "no_ratings": "0",
+  "sort_order": "3248",
+  "description": "<p>Keep your keys, Wallet, ID Badge, or other Items secure with Rothco's Neck Strap Key Ring, measuring 32&rdquo; with a quick release key chain. The Lanyard is available in three styles including Marines, Navy, and security. Officially Licensed by the United States Marine Corps and the United States Navy.</p>",
+  "selection_groups": [
+    "emblem"
+  ],
+  "statuses": "",
+  "categories": [
+    "490",
+    "547",
+    "549"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1521",
+      "item_index": "2716",
+      "rothco_item_no": "2700",
+      "upc": "613902270008",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0625",
+      "image_filename": "2700-A.jpg",
+      "catalog_page_no": "208",
+      "msrp": 4.99,
+      "ship_length": "5.0000",
+      "ship_width": "1.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "emblem": "Marines"
+      },
+      "emblem": "Marines",
+      "price": 1.75,
+      "case_price": 1.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1523",
+      "item_index": "2716",
+      "rothco_item_no": "2702",
+      "upc": "767720611441",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0625",
+      "image_filename": "2702-A-amazon.jpg",
+      "catalog_page_no": null,
+      "msrp": 4.99,
+      "ship_length": "5.0000",
+      "ship_width": "1.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "emblem": "Navy"
+      },
+      "emblem": "Navy",
+      "price": 1.75,
+      "case_price": 1.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

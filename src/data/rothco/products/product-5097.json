@@ -1,0 +1,50 @@
+{
+  "item_index": "5097",
+  "item_name": "Rothco X Bear Archery Fred Bear Camo Low Profile Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=-WS0355Q-hw",
+  "rating": "5",
+  "item_short_desc": "<p>In collaboration with Bear Archery, the revered Fred Bear camouflage pattern comes to life through Rothco&rsquo;s legendary outdoor apparel and gear, including our Low Profile Cap. Each item in the Fred Bear Camouflage collection has been crafted using the iconic Fred Bear camo pattern.</p>",
+  "no_ratings": null,
+  "sort_order": "133386",
+  "description": "<p>In collaboration with Bear Archery, the revered Fred Bear camouflage pattern comes to life through Rothco&rsquo;s legendary outdoor apparel and gear, including our Low Profile Cap. Each item in the Fred Bear Camouflage collection has been crafted using the iconic Fred Bear camo pattern. Everyday Essential: In addition to shielding your eyes from the sun&rsquo;s rays, the Fred Bear Camo Low Profile Cap is a great compliment to any outfit. From an evening at the archery range to a weekend trip in the mountains, this baseball hat offers superior comfort and a perfect fit for any activity. As Strong as an Ox: These camouflage hats are built with a 55% cotton / 45% polyester twill blend for unmatched resiliency and easy-to-care-for maintenance. The buckram front panels provide the ultimate foundation of a strong and solid design. These baseball caps will hold their shape for years to come. Keep Cool, Stay Focused: This camo hat features a top-notch sweatband that keeps sweat away from your eyes for comfortable all-day wear. The 6 vents on the top help circulate airflow around your head, allowing you to focus on the task at hand. One Size Fits Most: Our hats use an adjustable hook and loop closure for a snug fit that is perfect for most head sizes, ensuring that the cap stays in place when you are out in the wilderness.</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Active"
+  ],
+  "categories": [
+    "736",
+    "2",
+    "83",
+    "674"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "23396",
+      "item_index": "5097",
+      "rothco_item_no": "19050",
+      "upc": "613902036093",
+      "inventory": "99",
+      "created_date": "2023-08-11 13:59:48",
+      "weight": "0.0000",
+      "image_filename": "19050-4.jpg",
+      "catalog_page_no": "137",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Fred Bear Camo"
+      },
+      "color": "Fred Bear Camo",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    }
+  ]
+}

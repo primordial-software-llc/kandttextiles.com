@@ -1,0 +1,71 @@
+{
+  "item_index": "1954",
+  "item_name": "Rothco Deluxe Tri-Fold ID Wallet",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Rothco Tri-Fold ID Wallet features multiple compartments ideal for storing your ID, credit cards, documents, money, and more. The hook &amp; loop closure and internal straps will keep your wallet fastened and keep your cards in place.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "1797",
+  "description": "<p>The Rothco Tri-Fold ID Wallet features multiple compartments ideal for storing your ID, credit cards, documents, money, and more. The interior has 2 hook &amp; loop straps to keep your cards secure and in place. The wallet has an exterior flap with a hook &amp; loop closure, rear mesh panels, and 9 total compartments. Measures 5 1/4\" X 9 1/4\" when open - 5 1/4\" X 3 3/4\" when closed.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "143",
+    "415"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "521",
+      "item_index": "1954",
+      "rothco_item_no": "11629",
+      "upc": "613902116290",
+      "inventory": "92",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1875",
+      "image_filename": "11629-A.jpg",
+      "catalog_page_no": "204",
+      "msrp": 15.99,
+      "ship_length": "5.5000",
+      "ship_width": "3.7500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "522",
+      "item_index": "1954",
+      "rothco_item_no": "11630",
+      "upc": "613902116306",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1188",
+      "image_filename": "11630-A.jpg",
+      "catalog_page_no": "204",
+      "msrp": 15.99,
+      "ship_length": "5.5000",
+      "ship_width": "3.7500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "item_index": "4825",
+  "item_name": "Rothco Inflatable Camping Pillow - Black",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Inflatable Camping Pillow is a low-profile sleeping solution that takes up minimal space in your travel pack.</p>",
+  "no_ratings": null,
+  "sort_order": "133138",
+  "description": "<p>Rothco&rsquo;s Inflatable Camping Pillow is a low-profile sleeping solution that takes up minimal space in your travel pack. The non-slip grip dots on the back hold the inflatable camping pillow in place while you sleep. The pillow is constructed with lightweight yet durable materials for years of reliable use. The high-intensity air valve prevents leaking, while the adjustable strap on the back enables you to customize the level of elevation for an optimal head or lumbar pillow. The pillow comes with a convenient carrying case for easy packing.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "272"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20682",
+      "item_index": "4825",
+      "rothco_item_no": "10293",
+      "upc": "613902002456",
+      "inventory": "99",
+      "created_date": "2021-05-24 12:00:04",
+      "weight": "0.2500",
+      "image_filename": "10293-A-no-logo.jpg",
+      "catalog_page_no": "304",
+      "msrp": 23.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

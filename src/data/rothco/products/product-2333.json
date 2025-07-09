@@ -1,0 +1,94 @@
+{
+  "item_index": "2333",
+  "item_name": "Rothco Military Style Pistol Belts",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Dominate the range with Rothco&rsquo;s Military Style Pistol Belt, a versatile and durable accessory for all your tactical needs. This gun belt features over 15 rows of grommets, providing ample space for mounting holsters, magazines, knives, and other tactical gear. The top row of grommets allows for easy attachment to uniform suspenders, ensuring a secure and comfortable fit. Designed for long-lasting use, the duty belt is made from tough cotton materials, making it ideal for a variety of activities.</p>",
+  "no_ratings": "0",
+  "sort_order": "3864",
+  "description": "<p class=\"MsoNormal\">Dominate the range with Rothco&rsquo;s Military Style Pistol Belt, a versatile and durable accessory for all your tactical needs. This gun belt features over 15 rows of grommets, providing ample space for mounting holsters, magazines, knives, and other tactical gear. The top row of grommets allows for easy attachment to uniform suspenders, ensuring a secure and comfortable fit. Designed for long-lasting use, the duty belt is made from tough cotton materials, making it ideal for a variety of activities, including range practice, field operations, and tactical MilSim events. The iron fitting and buckle offer simple size adjustments, allowing you to customize the fit to your preference. Measuring 42 inches long, 2 &frac14; inches wide, and 3/32 inches thick, this pistol belt accommodates most tactical setups, making it a reliable choice for professionals and enthusiasts alike.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "384"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2928",
+      "item_index": "2333",
+      "rothco_item_no": "4218",
+      "upc": "613902421806",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2900",
+      "image_filename": "4218-OD-AMAZON.jpg",
+      "catalog_page_no": "310",
+      "msrp": 14.99,
+      "ship_length": "14.0000",
+      "ship_width": "2.2500",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2929",
+      "item_index": "2333",
+      "rothco_item_no": "4219",
+      "upc": "613902421905",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2850",
+      "image_filename": "4219-Black-AMAZON.jpg",
+      "catalog_page_no": "310",
+      "msrp": 14.99,
+      "ship_length": "14.0000",
+      "ship_width": "2.2500",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2938",
+      "item_index": "2333",
+      "rothco_item_no": "4226",
+      "upc": "613902422605",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2850",
+      "image_filename": "4226-White-AMAZON.jpg",
+      "catalog_page_no": "310",
+      "msrp": 14.99,
+      "ship_length": "14.0000",
+      "ship_width": "2.2500",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "White"
+      },
+      "color": "White",
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

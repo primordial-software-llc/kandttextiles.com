@@ -1,0 +1,83 @@
+{
+  "item_index": "4726",
+  "item_name": "Rothco 3-Button Sweater with Suede Accents",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's 3-Button Sweater with Suede Accents is the perfect blend of timeless style and modern functionality. Inspired by a classic design, this uniform sweater features a 3-button top closure that adds a touch of luxury, whether worn open or closed. The collar and elbows are accented with suede velvet patches, giving the tactical sweater a sophisticated, polished look. Made from a comfortable material, this 3-button sweater provides exceptional warmth during the cooler fall and winter months.</p>",
+  "no_ratings": null,
+  "sort_order": "133039",
+  "description": "<p>Rothco's 3-Button Sweater with Suede Accents is the perfect blend of timeless style and modern functionality. Inspired by a classic design, this uniform sweater features a 3-button top closure that adds a touch of luxury, whether worn open or closed. The collar and elbows are accented with suede velvet patches, giving the tactical sweater a sophisticated, polished look. Made from a comfortable material, this 3-button sweater provides exceptional warmth during the cooler fall and winter months. It&rsquo;s versatile enough to be worn over an undershirt or as a standalone piece, making it a perfect addition to your wardrobe. Whether you're heading out for a casual day, layering up for an outdoor adventure, or dressing up for an evening out, this sweater offers a sharp and refined appearance that never goes out of style. The durable construction ensures it will remain a staple in your wardrobe for years to come.</p>",
+  "selection_groups": [
+    "color",
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "33",
+    "51"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18638",
+      "item_index": "4726",
+      "rothco_item_no": "3805",
+      "upc": "613902380509",
+      "inventory": "21",
+      "created_date": "2018-08-30 13:10:03",
+      "weight": "1.1000",
+      "image_filename": "3804-OD-RIGHT-C.jpg",
+      "catalog_page_no": "0",
+      "msrp": 62.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "2XL",
+        "amazon_color_map": "Olive Drab",
+        "amazon_size_map": "2X"
+      },
+      "color": "Olive Drab",
+      "size": "2XL",
+      "amazon_color_map": "Olive Drab",
+      "amazon_size_map": "2X",
+      "price": 24.9,
+      "case_price": 24.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19856",
+      "item_index": "4726",
+      "rothco_item_no": "3805",
+      "upc": "613902380516",
+      "inventory": "86",
+      "created_date": "2020-07-17 14:00:00",
+      "weight": "1.1000",
+      "image_filename": "3804-KHAKI-RIGHT-C.jpg",
+      "catalog_page_no": "0",
+      "msrp": 62.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki",
+        "size": "2XL",
+        "amazon_color_map": "Khaki",
+        "amazon_size_map": "2X"
+      },
+      "color": "Khaki",
+      "size": "2XL",
+      "amazon_color_map": "Khaki",
+      "amazon_size_map": "2X",
+      "price": 24.9,
+      "case_price": 24.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

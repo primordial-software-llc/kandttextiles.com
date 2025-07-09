@@ -1,0 +1,125 @@
+{
+  "item_index": "589",
+  "item_name": "Rothco Deluxe Acrylic Skull Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Deluxe Acrylic Skull Cap is the perfect cold-weather hat, designed to keep you warm and comfortable in extreme conditions. Constructed from lightweight acrylic knit material, this cap provides long-lasting warmth without weighing you down. The high-performance material retains its shape and color, ensuring durability and a great look even after repeated use. The double-layer construction offers added warmth, making it ideal for extreme cold weather climates.</p>",
+  "no_ratings": "0",
+  "sort_order": "2991",
+  "description": "<p>Rothco&rsquo;s Deluxe Acrylic Skull Cap is the perfect cold-weather hat, designed to keep you warm and comfortable in extreme conditions. Constructed from lightweight acrylic knit material, this cap provides long-lasting warmth without weighing you down. The high-performance material retains its shape and color, ensuring durability and a great look even after repeated use. The double-layer construction offers added warmth, making it ideal for extreme cold weather climates. With a size of 8 inches high x 7 &frac14; inches wide, this one-size-fits-most skull cap provides a snug and comfortable fit for a variety of head sizes. Whether you&rsquo;re performing outdoor tasks or just need extra warmth during cold days, Rothco&rsquo;s Deluxe Acrylic Skull Cap is a versatile and reliable choice. Available in various colors, this skull cap not only keeps you warm but also allows you to choose a style that suits your preference. Experience the perfect blend of warmth, comfort, and durability with Rothco&rsquo;s Deluxe Acrylic Skull Cap. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from military personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "367"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5154",
+      "item_index": "589",
+      "rothco_item_no": "5566",
+      "upc": "613902556607",
+      "inventory": "99",
+      "created_date": "2005-01-16 21:00:00",
+      "weight": "0.1500",
+      "image_filename": "5566-OD-A-amazon.jpg",
+      "catalog_page_no": "154",
+      "msrp": 6.99,
+      "ship_length": "7.7500",
+      "ship_width": "7.7500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 2.75,
+      "case_price": 2.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5155",
+      "item_index": "589",
+      "rothco_item_no": "5566",
+      "upc": "613902556614",
+      "inventory": "99",
+      "created_date": "2005-01-16 21:00:00",
+      "weight": "0.1500",
+      "image_filename": "5566-Black-A-amazon.jpg",
+      "catalog_page_no": "154",
+      "msrp": 6.99,
+      "ship_length": "7.7500",
+      "ship_width": "7.7500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 2.75,
+      "case_price": 2.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5156",
+      "item_index": "589",
+      "rothco_item_no": "5566",
+      "upc": "613902556621",
+      "inventory": "99",
+      "created_date": "2005-01-16 21:00:00",
+      "weight": "0.1500",
+      "image_filename": "5566-Navy-A1.jpg",
+      "catalog_page_no": "154",
+      "msrp": 6.99,
+      "ship_length": "7.7500",
+      "ship_width": "7.7500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue",
+        "size": "One Size"
+      },
+      "color": "Navy Blue",
+      "size": "One Size",
+      "price": 2.75,
+      "case_price": 2.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5157",
+      "item_index": "589",
+      "rothco_item_no": "5566",
+      "upc": "613902556638",
+      "inventory": "89",
+      "created_date": "2005-01-16 21:00:00",
+      "weight": "0.1500",
+      "image_filename": "5566-Charcoal-A1.jpg",
+      "catalog_page_no": "154",
+      "msrp": 6.99,
+      "ship_length": "7.7500",
+      "ship_width": "7.7500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Charcoal Grey",
+        "size": "One Size"
+      },
+      "color": "Charcoal Grey",
+      "size": "One Size",
+      "price": 2.75,
+      "case_price": 2.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

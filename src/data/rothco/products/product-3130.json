@@ -1,0 +1,45 @@
+{
+  "item_index": "3130",
+  "item_name": "Rothco Canvas Axe Sheath",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Canvas Axe Sheath with snap closure is constructed of durable canvas material. The convenient belt loop on the back allows you to hang it at your side when not in use and is ideal for keeping you and your axe protected. From the seam to end the axe sheath is measured at 6&rdquo; and from top to bottom it is 4&rdquo;.</p>",
+  "no_ratings": null,
+  "sort_order": "1715",
+  "description": "<p>Rothco&rsquo;s Canvas Axe Sheath with snap closure is constructed of durable canvas material. The convenient belt loop on the back allows you to hang it at your side when not in use and is ideal for keeping you and your axe protected. From the seam to end the axe sheath is measured at 6&rdquo; and from top to bottom it is 4&rdquo;.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "300"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8757",
+      "item_index": "3130",
+      "rothco_item_no": "779",
+      "upc": "613902077904",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "779-A-amazon1.jpg",
+      "catalog_page_no": "275",
+      "msrp": 4.99,
+      "ship_length": "5.0000",
+      "ship_width": "6.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "null",
+        "size": "One Size"
+      },
+      "color": "null",
+      "size": "One Size",
+      "price": 1.95,
+      "case_price": 1.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

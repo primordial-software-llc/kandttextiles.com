@@ -1,0 +1,44 @@
+{
+  "item_index": "4535",
+  "item_name": "Rothco Crossbody Fanny Pack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay hands-free and organized with Rothco's Crossbody Fanny Pack. Crafted from durable Oxford polyester, this versatile pack offers 3 zippered compartments to securely store your essentials. The adjustable 53-inch quick-release strap allows you to wear it around your waist or across your body for added convenience and style. Ideal for outdoor adventures, travel, or daily errands, the lightweight design makes it an excellent companion wherever you go.</p>",
+  "no_ratings": null,
+  "sort_order": "132848",
+  "description": "<p>Stay hands-free and organized with Rothco's Crossbody Fanny Pack. Crafted from durable Oxford polyester, this versatile pack offers 3 zippered compartments to securely store your essentials. The adjustable 53-inch quick-release strap allows you to wear it around your waist or across your body for added convenience and style. Ideal for outdoor adventures, travel, or daily errands, the lightweight design makes it an excellent companion wherever you go. Plus, its durable material is perfect for customization through screen printing or embroidery, allowing you to personalize it to your taste. Designed with functionality and comfort in mind, this fanny pack combines practicality and style for any occasion.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "208",
+    "650"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18771",
+      "item_index": "4535",
+      "rothco_item_no": "5431",
+      "upc": "613902543102",
+      "inventory": "99",
+      "created_date": "2018-12-07 12:10:00",
+      "weight": "0.2900",
+      "image_filename": "5431-A-amazon.jpg",
+      "catalog_page_no": "346",
+      "msrp": 14.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 5.75,
+      "case_price": 5.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

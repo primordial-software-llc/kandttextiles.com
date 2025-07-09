@@ -1,0 +1,41 @@
+{
+  "item_index": "1658",
+  "item_name": "Rothco Raider I Boot Knife",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Raider I Boot Knife features a stainless steel blade knife with a sheath and measures 9\" overall. Rothco carries a large selection of military tactical knives.</p>",
+  "no_ratings": "0",
+  "sort_order": "520",
+  "description": "<p>Rothco's Raider I Boot Knife features a stainless steel blade knife with a sheath and measures 9\" overall. Rothco carries a large selection of military tactical knives.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "294",
+    "297"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1764",
+      "item_index": "1658",
+      "rothco_item_no": "3037",
+      "upc": "613902530379",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4900",
+      "image_filename": "3037-A-amazon.jpg",
+      "catalog_page_no": "271",
+      "msrp": 28.99,
+      "ship_length": "10.2500",
+      "ship_width": "2.2500",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

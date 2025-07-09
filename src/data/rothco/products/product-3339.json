@@ -1,0 +1,40 @@
+{
+  "item_index": "3339",
+  "item_name": "Lansky Blademedic",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Lanksy Blademedic is a compact knife sharpener that is specially designed for use in the field. This versatile tactical knife sharpener can accommodate both regular and serrated blades.</p>",
+  "no_ratings": null,
+  "sort_order": "612",
+  "description": "<p>Four Different Sharpeners , Tungsten Carbide For Setting An , Edge To A Dull Blade Ceramic For Polishing And Finishing An Edge , Ceramic Edge For Serrated Blades , Diamond-Tapered Rod , For Fast Reconditioning And Maintenance And For Sharpening Gut Hooks</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "299"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12273",
+      "item_index": "3339",
+      "rothco_item_no": "3143",
+      "upc": "080999097601",
+      "inventory": "37",
+      "created_date": "2013-06-13 15:48:24",
+      "weight": "0.2500",
+      "image_filename": "3143-HR1.jpg",
+      "catalog_page_no": "273",
+      "msrp": 34.99,
+      "ship_length": "8.7500",
+      "ship_width": "3.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 13.95,
+      "case_price": 13.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

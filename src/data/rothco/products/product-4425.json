@@ -1,0 +1,99 @@
+{
+  "item_index": "4425",
+  "item_name": "Rothco Hooded MA-1 Flight Jacket",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Hooded MA-1 Flight Jacket updates the traditional MA-1 look with the addition of an easily removable hood. This versatile bomber jacket features a fully reversible orange polyester lining for an authentic bomber style, while poly fiberfill adds warmth for cold climates. The 100% nylon water-repellent outer shell ensures you stay dry in wet weather. Designed for comfort, the hood flight jacket has an extra full cut and includes ribbed knit collar, cuffs, and waistband for a secure fit.</p>",
+  "no_ratings": null,
+  "sort_order": "132738",
+  "description": "<p>Rothco&rsquo;s Hooded MA-1 Flight Jacket updates the traditional MA-1 look with the addition of an easily removable hood. This versatile bomber jacket features a fully reversible orange polyester lining for an authentic bomber style, while poly fiberfill adds warmth for cold climates. The 100% nylon water-repellent outer shell ensures you stay dry in wet weather. Designed for comfort, the hood flight jacket has an extra full cut and includes ribbed knit collar, cuffs, and waistband for a secure fit. Multiple storage options are available with 2 front slash pockets, 2 inside slash pockets, and a zippered utility pocket with an outside pencil pocket. The zippered front closure features double &lsquo;MA-1&rsquo; pull tabs and a storm flap for added protection. Brass zippers and leather pull tabs complete the classic look.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "169"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18116",
+      "item_index": "4425",
+      "rothco_item_no": "7400",
+      "upc": "613902740013",
+      "inventory": "20",
+      "created_date": "2018-01-10 11:10:02",
+      "weight": "2.2000",
+      "image_filename": "7400-LEFT-B.jpg",
+      "catalog_page_no": "38",
+      "msrp": 82.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "XS"
+      },
+      "color": "Black",
+      "size": "XS",
+      "price": 32.9,
+      "case_price": 32.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18117",
+      "item_index": "4425",
+      "rothco_item_no": "7400",
+      "upc": "613902740020",
+      "inventory": "21",
+      "created_date": "2018-01-10 11:10:02",
+      "weight": "2.2000",
+      "image_filename": "7400-LEFT-B.jpg",
+      "catalog_page_no": "38",
+      "msrp": 82.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "S"
+      },
+      "color": "Black",
+      "size": "S",
+      "price": 32.9,
+      "case_price": 32.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18120",
+      "item_index": "4425",
+      "rothco_item_no": "7400",
+      "upc": "613902740051",
+      "inventory": "20",
+      "created_date": "2018-01-10 11:10:02",
+      "weight": "2.2000",
+      "image_filename": "7400-LEFT-B.jpg",
+      "catalog_page_no": "38",
+      "msrp": 82.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "XL"
+      },
+      "color": "Black",
+      "size": "XL",
+      "price": 32.9,
+      "case_price": 32.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

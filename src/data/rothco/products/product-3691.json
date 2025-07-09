@@ -1,0 +1,165 @@
+{
+  "item_index": "3691",
+  "item_name": "Rothco Molon Labe T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Showcase your bold spirit with Rothco's Molon Labe T-Shirt, featuring the iconic phrase \"Molon Labe\" and powerful imagery on the front. This t-shirt is crafted from a comfortable and durable cotton blend, ensuring a soft feel and long-lasting wear. The classic fit provides a relaxed and casual style, perfect for everyday wear. The bold design not only makes a statement but also shows your pride and resilience. Whether you're out and about or lounging at home, this t-shirt offers both comfort and style.</p>",
+  "no_ratings": null,
+  "sort_order": "4035",
+  "description": "<p>Showcase your bold spirit with Rothco's Molon Labe T-Shirt, featuring the iconic phrase \"Molon Labe\" and powerful imagery on the front. This t-shirt is crafted from a comfortable and durable cotton blend, ensuring a soft feel and long-lasting wear. The classic fit provides a relaxed and casual style, perfect for everyday wear. The bold design not only makes a statement but also shows your pride and resilience. Whether you're out and about or lounging at home, this t-shirt offers both comfort and style. Please note, this item is restricted for export and cannot be sold for use in some countries outside the U.S. For further details, please contact Rothco. Elevate your wardrobe with this standout piece that embodies strength and determination.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "42"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14404",
+      "item_index": "3691",
+      "rothco_item_no": "61160",
+      "upc": "613902061163",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "61160-A1.jpg",
+      "catalog_page_no": "117",
+      "msrp": 18.99,
+      "ship_length": "15.5000",
+      "ship_width": "21.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14405",
+      "item_index": "3691",
+      "rothco_item_no": "61160",
+      "upc": "613902161160",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "61160-A1.jpg",
+      "catalog_page_no": "117",
+      "msrp": 18.99,
+      "ship_length": "15.5000",
+      "ship_width": "22.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14406",
+      "item_index": "3691",
+      "rothco_item_no": "61160",
+      "upc": "613902611603",
+      "inventory": "97",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "61160-A1.jpg",
+      "catalog_page_no": "117",
+      "msrp": 18.99,
+      "ship_length": "14.0000",
+      "ship_width": "17.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14407",
+      "item_index": "3691",
+      "rothco_item_no": "61160",
+      "upc": "613902961166",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "61160-A1.jpg",
+      "catalog_page_no": "117",
+      "msrp": 18.99,
+      "ship_length": "14.7500",
+      "ship_width": "12.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14408",
+      "item_index": "3691",
+      "rothco_item_no": "61161",
+      "upc": "613902611610",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "61160-A1.jpg",
+      "catalog_page_no": "117",
+      "msrp": 19.99,
+      "ship_length": "17.0000",
+      "ship_width": "24.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 8,
+      "case_price": 8,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14409",
+      "item_index": "3691",
+      "rothco_item_no": "61162",
+      "upc": "613902611627",
+      "inventory": "76",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "61160-A1.jpg",
+      "catalog_page_no": "117",
+      "msrp": 21.99,
+      "ship_length": "17.2500",
+      "ship_width": "25.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3XL"
+      },
+      "size": "3XL",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "item_index": "4924",
+  "item_name": "Rothco US Navy Anchor / Flag Low Profile Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Proudly display your support for the United States Navy with Rothco&rsquo;s US Navy Anchor / Flag Low Profile Cap. This military hat features a diagonally-split US Navy Anchor Insignia and American Flag.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133237",
+  "description": "<p>Showcase your support for the United States Navy with Rothco&rsquo;s US Navy Anchor / Flag Low Profile Cap. This military hat features a diagonally-split US Navy Anchor insignia and American flag. The lightweight and durable composition of the military cap makes it reliable for years of wear. The military insignia cap features a soft brushed cotton sweatband and adjustable hook and loop back closure. This patriotic hat is perfect for soldiers, veterans, and anybody who supports the US Navy.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "674",
+    "374"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "21544",
+      "item_index": "4924",
+      "rothco_item_no": "10157",
+      "upc": "613902012837",
+      "inventory": "99",
+      "created_date": "2022-02-24 15:00:30",
+      "weight": "0.2500",
+      "image_filename": "10157-A1.jpg",
+      "catalog_page_no": "140",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 7.25,
+      "case_price": 7.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21545",
+      "item_index": "4924",
+      "rothco_item_no": "10169",
+      "upc": "613902012844",
+      "inventory": "99",
+      "created_date": "2022-02-24 16:00:10",
+      "weight": "0.2500",
+      "image_filename": "10169-A.jpg",
+      "catalog_page_no": "140",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue"
+      },
+      "color": "Navy Blue",
+      "price": 7.25,
+      "case_price": 7.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "item_index": "4939",
+  "item_name": "Rothco Long Sleeve Two-Sided Security T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Clearly establish your security presence with Rothco&rsquo;s Long Sleeve Two-Sided Security T-Shirt.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133252",
+  "description": "<p>Clearly establish your security presence with Rothco&rsquo;s Long Sleeve Two-Sided Security T-Shirt. The text &ldquo;SECURITY&rdquo; is printed down both sleeves, the front and back of this long sleeve security guard shirt making your title visible. Poly cotton construction makes this security t-shirt comfortable, breathable and durable, all necessities for a work shirt. This security guard shirt features a tagless label.&nbsp;</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "484",
+    "39"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "21741",
+      "item_index": "4939",
+      "rothco_item_no": "60230",
+      "upc": "613902015050",
+      "inventory": "99",
+      "created_date": "2022-04-06 13:00:25",
+      "weight": "0.6000",
+      "image_filename": "60230-A.jpg",
+      "catalog_page_no": "111",
+      "msrp": 23.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21742",
+      "item_index": "4939",
+      "rothco_item_no": "60230",
+      "upc": "613902015067",
+      "inventory": "99",
+      "created_date": "2022-04-06 13:00:25",
+      "weight": "0.6000",
+      "image_filename": "60230-A.jpg",
+      "catalog_page_no": "111",
+      "msrp": 23.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21743",
+      "item_index": "4939",
+      "rothco_item_no": "60230",
+      "upc": "613902015074",
+      "inventory": "99",
+      "created_date": "2022-04-06 13:00:25",
+      "weight": "0.6000",
+      "image_filename": "60230-A.jpg",
+      "catalog_page_no": "111",
+      "msrp": 23.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21744",
+      "item_index": "4939",
+      "rothco_item_no": "60230",
+      "upc": "613902015081",
+      "inventory": "99",
+      "created_date": "2022-04-06 13:00:25",
+      "weight": "0.6000",
+      "image_filename": "60230-A.jpg",
+      "catalog_page_no": "111",
+      "msrp": 23.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21745",
+      "item_index": "4939",
+      "rothco_item_no": "60231",
+      "upc": "613902015098",
+      "inventory": "99",
+      "created_date": "2022-04-06 13:00:25",
+      "weight": "0.7000",
+      "image_filename": "60230-A.jpg",
+      "catalog_page_no": "111",
+      "msrp": 25.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 9.25,
+      "case_price": 9.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21746",
+      "item_index": "4939",
+      "rothco_item_no": "60232",
+      "upc": "613902015111",
+      "inventory": "94",
+      "created_date": "2022-04-06 13:00:25",
+      "weight": "0.7500",
+      "image_filename": "60230-A.jpg",
+      "catalog_page_no": "111",
+      "msrp": 28.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3XL"
+      },
+      "size": "3XL",
+      "price": 10.25,
+      "case_price": 10.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

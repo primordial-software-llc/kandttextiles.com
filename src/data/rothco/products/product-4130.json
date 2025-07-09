@@ -1,0 +1,70 @@
+{
+  "item_index": "4130",
+  "item_name": "Rothco Reflective Physical Training Belt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Ensure safety during nighttime workouts with Rothco&rsquo;s Reflective Physical Training Belt. Constructed with hi-visibility reflective material and a durable polyester lining, this belt enhances visibility in low-light conditions, keeping you safe during evening runs or exercises. Originally designed for active-duty personel, this belt is ideal for joggers and anyone who exercises after dark. The fully adjustable design features a slide adjustment buckle and secure closure, accommodating waist sizes up to 45 inches.</p>",
+  "no_ratings": null,
+  "sort_order": "570",
+  "description": "<p>Ensure safety during nighttime workouts with Rothco&rsquo;s Reflective Physical Training Belt. Constructed with hi-visibility reflective material and a durable polyester lining, this belt enhances visibility in low-light conditions, keeping you safe during evening runs or exercises. Originally designed for active-duty personel, this belt is ideal for joggers and anyone who exercises after dark. The fully adjustable design features a slide adjustment buckle and secure closure, accommodating waist sizes up to 45 inches. With a width of two inches, it provides ample visibility without feeling bulky or restrictive. Stay visible and safe during nighttime exercise routines with Rothco&rsquo;s Reflective PT Belt, a must-have accessory for outdoor fitness enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "74",
+    "382"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16355",
+      "item_index": "4130",
+      "rothco_item_no": "60390",
+      "upc": "613902603905",
+      "inventory": "99",
+      "created_date": "2016-05-17 13:10:02",
+      "weight": "0.2600",
+      "image_filename": "60390-A-amazon.jpg",
+      "catalog_page_no": "102",
+      "msrp": 8.99,
+      "ship_length": "6.0000",
+      "ship_width": "2.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Safety Green"
+      },
+      "color": "Safety Green",
+      "price": 3.5,
+      "case_price": 3.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21770",
+      "item_index": "4130",
+      "rothco_item_no": "60391",
+      "upc": "613902016927",
+      "inventory": "99",
+      "created_date": "2022-04-15 10:00:16",
+      "weight": "0.2600",
+      "image_filename": "60391-A.jpg",
+      "catalog_page_no": "102",
+      "msrp": 8.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Blue"
+      },
+      "color": "Blue",
+      "price": 3.5,
+      "case_price": 3.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

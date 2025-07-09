@@ -1,0 +1,84 @@
+{
+  "item_index": "20",
+  "item_name": "Rothco 6-Pocket BDU 3/4 Pants",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s 6-Pocket BDU 3/4 Pants are the ideal choice for those seeking functionality, durability, and comfort. Designed with reinforced seat and knees, these cargo pants are built to withstand the rigors of any outdoor activity, offering enhanced longevity. The adjustable waist tabs provide a custom fit, ensuring that the pants stay securely in place, no matter your movements. The double-stitched seams add an extra layer of durability, making these 3/4 length pants a reliable choice for both work and play.</p>",
+  "no_ratings": "0",
+  "sort_order": "6341",
+  "description": "<p>Rothco&rsquo;s 6-Pocket BDU 3/4 Pants are the ideal choice for those seeking functionality, durability, and comfort. Designed with reinforced seat and knees, these cargo pants are built to withstand the rigors of any outdoor activity, offering enhanced longevity. The adjustable waist tabs provide a custom fit, ensuring that the pants stay securely in place, no matter your movements. The double-stitched seams add an extra layer of durability, making these 3/4 length pants a reliable choice for both work and play. With 6 spacious pockets, you&rsquo;ll have plenty of room to carry your essentials, keeping everything you need within easy reach. Whether you&rsquo;re hiking, camping, or just enjoying the great outdoors, these 3/4 pants offer a perfect blend of style and practicality. Crafted with attention to detail, Rothco&rsquo;s 6-Pocket BDU 3/4 Pants are designed to meet the demands of your active lifestyle.</p>",
+  "selection_groups": [
+    "color",
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "13",
+    "16",
+    "21",
+    "79",
+    "137"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9592",
+      "item_index": "20",
+      "rothco_item_no": "8361",
+      "upc": "613902836105",
+      "inventory": "99",
+      "created_date": "2007-05-23 21:00:00",
+      "weight": "1.1000",
+      "image_filename": "8361-HR21.jpg",
+      "catalog_page_no": "31",
+      "msrp": 34.99,
+      "ship_length": "17.0000",
+      "ship_width": "13.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo",
+        "size": "XS"
+      },
+      "color": "Woodland Camo",
+      "size": "XS",
+      "price": 13.9,
+      "case_price": 13.9,
+      "case_quantity": 1,
+      "statuses": [
+        "Inactive",
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "9597",
+      "item_index": "20",
+      "rothco_item_no": "8362",
+      "upc": "613902836204",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2500",
+      "image_filename": "8361-HR21.jpg",
+      "catalog_page_no": "31",
+      "msrp": 37.99,
+      "ship_length": "17.5000",
+      "ship_width": "14.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo",
+        "size": "2XL"
+      },
+      "color": "Woodland Camo",
+      "size": "2XL",
+      "price": 14.9,
+      "case_price": 14.9,
+      "case_quantity": 1,
+      "statuses": [
+        "Inactive",
+        "Active"
+      ]
+    }
+  ]
+}

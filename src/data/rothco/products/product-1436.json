@@ -1,0 +1,47 @@
+{
+  "item_index": "1436",
+  "item_name": "Rothco Staff Sergeant Polished Insignia",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>This Item Is Manufactured By A US Factory Certified By The Institute Of Heraldry Army Staff Sergeant (e-6)</p>",
+  "no_ratings": "0",
+  "sort_order": "1222",
+  "description": "<p>This Item Is Manufactured By A US Factory Certified By The Institute Of Heraldry Army Staff Sergeant (e-6)&nbsp;WARNING: &nbsp;This product contains a chemical known to the State of California to cause cancer, birth defects and other reproductive harm.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "422"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "757",
+      "item_index": "1436",
+      "rothco_item_no": "1644",
+      "upc": "613902416444",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0256",
+      "image_filename": "1644-hr1-amazon.jpg",
+      "catalog_page_no": "212",
+      "msrp": 8.99,
+      "ship_length": "4.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Gold",
+        "size": "One Size"
+      },
+      "color": "Gold",
+      "size": "One Size",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

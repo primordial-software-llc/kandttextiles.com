@@ -1,0 +1,93 @@
+{
+  "item_index": "3882",
+  "item_name": "Rothco MOLLE Strobe/GPS/Compass Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Carry essential survival and navigation gear with Rothco&rsquo;s MOLLE Strobe, GPS, and Compass Pouch.</p>",
+  "no_ratings": null,
+  "sort_order": "288",
+  "description": "<p>Carry essential survival and navigation gear with Rothco&rsquo;s MOLLE Strobe, GPS, and Compass Pouch. This tactical pouch accommodates small handheld GPS devices, strobes, lensatic compasses, and more. Hook and loop closure on this survival pouch is reinforced by side release buckle and two inside tie-down loops secure your GPS reliably. Our strobe pouch features three rows of MOLLE webbing making the pouch perfect for mounting on tactical belts, plate carrier vests, or anything with a M.O.L.L.E. panel. The cover flap of this compass pouch folds back to stay open for quick access with inner loop field. This MOLLE attachment is built with a grommet drain hole on the bottom to drain out water, keeping gear. The Modular Lightweight Load-carrying Equipment pouch measures 2.25 inches x 1.25 inches x 4-5 inches (adjustable height). Our Military MOLLE pouches are perfect for soldiers, survivalists, tactical professionals, and more.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "11262",
+      "item_index": "3882",
+      "rothco_item_no": "9754",
+      "upc": "613902975408",
+      "inventory": "82",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "9754-A.jpg",
+      "catalog_page_no": "368",
+      "msrp": 13.99,
+      "ship_length": "5.0000",
+      "ship_width": "3.0000",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Foliage Green"
+      },
+      "color": "Foliage Green",
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15170",
+      "item_index": "3882",
+      "rothco_item_no": "9854",
+      "upc": "613902098541",
+      "inventory": "99",
+      "created_date": "2015-03-23 16:10:02",
+      "weight": "0.1000",
+      "image_filename": "9854-A-NOLOGO.jpg",
+      "catalog_page_no": "368",
+      "msrp": 14.99,
+      "ship_length": "5.2500",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20945",
+      "item_index": "3882",
+      "rothco_item_no": "98540",
+      "upc": "613902005853",
+      "inventory": "99",
+      "created_date": "2021-09-13 15:00:09",
+      "weight": "0.1000",
+      "image_filename": "98540-A-NOLOGO.jpg",
+      "catalog_page_no": "368",
+      "msrp": 14.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

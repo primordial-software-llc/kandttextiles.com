@@ -1,0 +1,153 @@
+{
+  "item_index": "3088",
+  "item_name": "Rothco Kids Uncle Milty Travel Vest",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Kids Uncle Milty Travel Vest is designed for young explorers, offering practicality and comfort for outdoor adventures, such as camping, fishing, and hiking. The travel vest features over a dozen pockets, including 13 front pockets and 3 inside pockets, providing ample space to carry all the essentials your child needs on their adventures. The large cargo pocket on the back with a side zipper closure offers additional storage for larger items.</p>",
+  "no_ratings": null,
+  "sort_order": "1482",
+  "description": "<p>Rothco&rsquo;s Kids Uncle Milty Travel Vest is designed for young explorers, offering practicality and comfort for outdoor adventures, such as camping, fishing, and hiking. The travel vest features over a dozen pockets, including 13 front pockets and 3 inside pockets, providing ample space to carry all the essentials your child needs on their adventures. The large cargo pocket on the back with a side zipper closure offers additional storage for larger items. Made from a durable and comfortable 55% cotton and 45% polyester blend, this fishing vest ensures long-lasting wear and comfort. Equipped with 3 D-rings (2 under the front pockets and 1 on the back of the neck collar), the kids hunting vest offers versatile attachment points for outdoor gear. The front zipper with a single snap closure and a belt loop add to the outdoor vest&rsquo;s functionality and ease of use.</p>",
+  "selection_groups": [
+    "size",
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "124",
+    "183"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9855",
+      "item_index": "3088",
+      "rothco_item_no": "8546",
+      "upc": "613902854611",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.9500",
+      "image_filename": "8546-A-amazon.jpg",
+      "catalog_page_no": "132",
+      "msrp": 46.99,
+      "ship_length": "15.5000",
+      "ship_width": "11.7500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Khaki"
+      },
+      "size": "S",
+      "color": "Khaki",
+      "price": 20.95,
+      "case_price": 20.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9856",
+      "item_index": "3088",
+      "rothco_item_no": "8546",
+      "upc": "613902854628",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.9500",
+      "image_filename": "8546-A-amazon.jpg",
+      "catalog_page_no": "132",
+      "msrp": 46.99,
+      "ship_length": "17.0000",
+      "ship_width": "12.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Khaki"
+      },
+      "size": "M",
+      "color": "Khaki",
+      "price": 20.95,
+      "case_price": 20.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9857",
+      "item_index": "3088",
+      "rothco_item_no": "8546",
+      "upc": "613902854635",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.9500",
+      "image_filename": "8546-A-amazon.jpg",
+      "catalog_page_no": "132",
+      "msrp": 46.99,
+      "ship_length": "20.0000",
+      "ship_width": "13.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Khaki"
+      },
+      "size": "L",
+      "color": "Khaki",
+      "price": 20.95,
+      "case_price": 20.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9858",
+      "item_index": "3088",
+      "rothco_item_no": "8546",
+      "upc": "613902854642",
+      "inventory": "47",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.9500",
+      "image_filename": "8546-A-amazon.jpg",
+      "catalog_page_no": "132",
+      "msrp": 46.99,
+      "ship_length": "21.2500",
+      "ship_width": "13.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Khaki"
+      },
+      "size": "XL",
+      "color": "Khaki",
+      "price": 20.95,
+      "case_price": 20.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15982",
+      "item_index": "3088",
+      "rothco_item_no": "8546",
+      "upc": "613902854659",
+      "inventory": "0",
+      "created_date": "2015-12-01 13:10:03",
+      "weight": "0.9500",
+      "image_filename": "8546-A-amazon.jpg",
+      "catalog_page_no": "132",
+      "msrp": 46.99,
+      "ship_length": "15.0000",
+      "ship_width": "11.0000",
+      "ship_height": "0.5000",
+      "eta_date": null,
+      "specs": {
+        "size": "XS",
+        "color": "Khaki"
+      },
+      "size": "XS",
+      "color": "Khaki",
+      "price": 20.95,
+      "case_price": 20.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

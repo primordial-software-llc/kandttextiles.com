@@ -1,0 +1,47 @@
+{
+  "item_index": "4129",
+  "item_name": "Rothco Women's Lace Trimmed Camo Camisole",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Womens Lace Trimmed Camisole features a soft fabric printed with our popular woodland camo pattern. The V-neck style camisole is trimmed with black lace that continues all the way around to meet in the back; the straps are easily adjusted for a custom fit.</p>",
+  "no_ratings": null,
+  "sort_order": "352",
+  "description": "<p>Rothco&rsquo;s Womens Lace Trimmed Camisole features a soft fabric printed with our popular woodland camo pattern. The V-neck style camisole is trimmed with black lace that continues all the way around to meet in the back; the straps are easily adjusted for a custom fit.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "102"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16349",
+      "item_index": "4129",
+      "rothco_item_no": "5490",
+      "upc": "613902549012",
+      "inventory": "32",
+      "created_date": "2016-05-17 13:10:02",
+      "weight": "0.1500",
+      "image_filename": "5490-B-amazon.jpg",
+      "catalog_page_no": "0",
+      "msrp": 14.99,
+      "ship_length": "11.5000",
+      "ship_width": "3.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XS",
+        "color": "Woodland Camo"
+      },
+      "size": "XS",
+      "color": "Woodland Camo",
+      "price": 6.55,
+      "case_price": 6.55,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

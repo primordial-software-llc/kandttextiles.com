@@ -1,0 +1,42 @@
+{
+  "item_index": "3703",
+  "item_name": "Rothco Brown Leather Military Tech Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Brown Leather Tech Bag is part of Rothco's premium collection of rugged military style leather bags. The tech bag features a padded interior that is the perfect fit for an iPad or tablet, with antique brass hardware, top zipper closure, and front pocket with snap front closure.</p>",
+  "no_ratings": null,
+  "sort_order": "262",
+  "description": "<p>Rothco's Brown Leather Tech Bag is part of Rothco's premium collection of rugged military style leather bags. The tech bag features a padded interior that is the perfect fit for an iPad or tablet, with antique brass hardware, top zipper closure, and front pocket with snap front closure.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "208",
+    "507",
+    "577"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14544",
+      "item_index": "3703",
+      "rothco_item_no": "57950",
+      "upc": "613902557956",
+      "inventory": "84",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3500",
+      "image_filename": "57950-A1.jpg",
+      "catalog_page_no": "357",
+      "msrp": 112.99,
+      "ship_length": "15.0000",
+      "ship_width": "12.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 55.95,
+      "case_price": 55.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

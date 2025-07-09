@@ -1,0 +1,44 @@
+{
+  "item_index": "1774",
+  "item_name": "Rothco MOLLE Compatible Knife / Flashlight Sheath",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Knife &amp; Flashlight Sheath fits standard duty belts and is MOLLE compatible. The adjustable height allows the sheath to fit a variety of knives &amp; flashlights, up to 7\".</p>",
+  "no_ratings": "0",
+  "sort_order": "1074",
+  "description": "<p>Rothco's Knife &amp; Flashlight Sheath fits standard duty belts and is MOLLE compatible. The adjustable height allows the sheath to fit a variety of knives &amp; flashlights, up to 7\".</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "143",
+    "300"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2719",
+      "item_index": "1774",
+      "rothco_item_no": "40066",
+      "upc": "613902400665",
+      "inventory": "99",
+      "created_date": "2009-08-03 21:00:00",
+      "weight": "0.1200",
+      "image_filename": "40066-black-Flat-HR1.jpg",
+      "catalog_page_no": "273",
+      "msrp": 25.99,
+      "ship_length": "6.0000",
+      "ship_width": "1.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

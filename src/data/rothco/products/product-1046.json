@@ -1,0 +1,47 @@
+{
+  "item_index": "1046",
+  "item_name": "Rothco Polarshield Survival Blanket",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Polarshield Survival Blanket is designed to provide essential protection in emergency situations. The dual-sided blanket offers versatile functionality with one side reflecting 90% of body heat to retain warmth, and the other side providing high visibility for rescue signaling. Whether you're out hiking, camping, or preparing for the unexpected, this survival blanket is compact, lightweight, and easy to carry, making it a crucial addition to any bug out bag or emergency kit.</p>",
+  "no_ratings": "0",
+  "sort_order": "1013",
+  "description": "<p>Rothco&rsquo;s Polarshield Survival Blanket is designed to provide essential protection in emergency situations. The dual-sided blanket offers versatile functionality with one side reflecting 90% of body heat to retain warmth, and the other side providing high visibility for rescue signaling. Whether you're out hiking, camping, or preparing for the unexpected, this survival blanket is compact, lightweight, and easy to carry, making it a crucial addition to any bug out bag or emergency kit. Measuring 82 inches x 51 inches and weighing less than 3 ounces, the Polarshield blanket is engineered to fit into tight spaces without adding unnecessary bulk to your gear. Perfect for outdoor activities or emergency preparedness, this blanket offers peace of mind in survival situations.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "542",
+    "272",
+    "257"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "245",
+      "item_index": "1046",
+      "rothco_item_no": "1043",
+      "upc": "613902010437",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2313",
+      "image_filename": "1043-A-amazon.jpg",
+      "catalog_page_no": "306",
+      "msrp": 6.99,
+      "ship_length": "4.5000",
+      "ship_width": "3.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Safety Orange"
+      },
+      "color": "Safety Orange",
+      "price": 3.15,
+      "case_price": 3.15,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "item_index": "1121",
+  "item_name": "Rothco Plastic Tent Stakes",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Plastic Tent Stakes are a camping essential.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "619",
+  "description": "<p>Rothco&rsquo;s Plastic Tent Stakes are a camping essential. These versatile stakes have several uses, including: anchoring gardening netting, camping tents, rain tarps, canopies, gazebos and more! Plastic tent stakes are reusable and will not rust. This camping tent equipment includes 6 stakes per package.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "256",
+    "261",
+    "257"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3294",
+      "item_index": "1121",
+      "rothco_item_no": "448",
+      "upc": "613902044807",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0563",
+      "image_filename": "448-A-amazon.jpg",
+      "catalog_page_no": "304",
+      "msrp": 1.99,
+      "ship_length": "12.0000",
+      "ship_width": "4.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 0.45,
+      "case_price": 0.45,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

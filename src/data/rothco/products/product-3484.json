@@ -1,0 +1,94 @@
+{
+  "item_index": "3484",
+  "item_name": "Rothco Wide Mouth Mechanics Tool Bag ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Inspired by the classic service mechanic's tool bag, this wide mouth version is a great alternative to a traditional metal toolbox. Crafted with rugged heavyweight canvas, it offers durability for storing all your tools. With a U-shaped zipper design, it provides easy access to the interior, while 8 organizer pockets help keep your tools organized. 2 outside snap pockets offer additional storage for small items, and a hard plastic bottom insert ensures stability when the bag is open.</p>",
+  "no_ratings": null,
+  "sort_order": "1643",
+  "description": "<p>Inspired by the classic service mechanic's tool bag, this wide mouth version is a great alternative to a traditional metal toolbox. Crafted with rugged heavyweight canvas, it offers durability for storing all your tools. With a U-shaped zipper design, it provides easy access to the interior, while 8 organizer pockets help keep your tools organized. 2 outside snap pockets offer additional storage for small items, and a hard plastic bottom insert ensures stability when the bag is open. The sturdy reinforced top carry handles make it easy to transport your tools wherever you need them. Perfect for mechanics, DIY enthusiasts, and anyone in need of reliable tool storage on the go. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "503",
+    "221"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12603",
+      "item_index": "3484",
+      "rothco_item_no": "9261",
+      "upc": "613902926196",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.1500",
+      "image_filename": "9261-A2.jpg",
+      "catalog_page_no": "337",
+      "msrp": 21.99,
+      "ship_length": "13.0000",
+      "ship_width": "7.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red"
+      },
+      "color": "Red",
+      "price": 8.95,
+      "case_price": 8.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15115",
+      "item_index": "3484",
+      "rothco_item_no": "92440",
+      "upc": "613902924406",
+      "inventory": "99",
+      "created_date": "2015-03-10 16:10:02",
+      "weight": "1.1500",
+      "image_filename": "92440-A-amazon1.jpg",
+      "catalog_page_no": "337",
+      "msrp": 21.99,
+      "ship_length": "13.0000",
+      "ship_width": "7.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 8.95,
+      "case_price": 8.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18989",
+      "item_index": "3484",
+      "rothco_item_no": "9255",
+      "upc": "613902925526",
+      "inventory": "99",
+      "created_date": "2019-04-30 15:10:00",
+      "weight": "1.1500",
+      "image_filename": "9255-A-amazon.jpg",
+      "catalog_page_no": "337",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 8.95,
+      "case_price": 8.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

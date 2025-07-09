@@ -1,0 +1,151 @@
+{
+  "item_index": "1234",
+  "item_name": "Rothco G.I. Style Canvas Double Strap Duffle Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>With a convenient capacity of 89.6L, our Canvas Double Strap Duffle Bag provides ample storage for a variety of needs. These heavy-duty military bags keep your gear, clothing, and accessories tucked away, with the utmost durability to last long adventures. The tactical duffle is great for trekking, camping, traveling, overlanding, hiking, and other outdoor adventures.</p>",
+  "no_ratings": "0",
+  "sort_order": "5652",
+  "description": "<p>With a convenient capacity of 89.6L, our Canvas Double Strap Duffle Bag provides ample storage for a variety of needs. These heavy-duty military bags keep your gear, clothing, and accessories tucked away, with the utmost durability to last long adventures. The tactical duffle is great for trekking, camping, traveling, overlanding, hiking, and other outdoor adventures. Rugged Canvas Design: The Canvas Duffle Bags feature a top loading layout that makes it easy to pack and store large amounts of clothing and gear. After packing, secure your belongings inside with the metal hook-and-eyelet clip closure. There&rsquo;s also a snap-button closure side pocket for quick access to small items. Practical &amp; Portable Duffle Bag: These robust canvas bags also feature 2 adjustable shoulder straps that can extend up to 48.5 inches. The straps allow you to wear the duffle bag as a backpack, and when carrying heavy items, this provides an even weight distribution. On the other hand, if you&rsquo;re quickly taking it out of the car to head towards your campsite, workplace, or gym, there&rsquo;s a built-in carry handle to the side. Durable Material Construction: Consisting of 22 oz. heavyweight cotton canvas material, these tactical bags are built to withstand the test of time and the demand from the field. The shoulder straps and carry handle are reinforced onto the bag with the dependable box x stitch pattern. The canvas material will keep your items safe and covered during transit. Additional Information: Overall Measurements = 22 inch x 38 inch / Side Pocket = 4.75 inch x 7.5 inch / Vertical Storage Capacity = 89.6L / Material = 22 oz. Cotton Canvas.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "215"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1315",
+      "item_index": "1234",
+      "rothco_item_no": "2485",
+      "upc": "613902248519",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.9500",
+      "image_filename": "2485-Black-A-no-logo.jpg",
+      "catalog_page_no": "328",
+      "msrp": 45.99,
+      "ship_length": "15.0000",
+      "ship_width": "10.5000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 20.35,
+      "case_price": 20.35,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2083",
+      "item_index": "1234",
+      "rothco_item_no": "3426",
+      "upc": "613902934269",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.0500",
+      "image_filename": "3426-A-amazon.jpg",
+      "catalog_page_no": "328",
+      "msrp": 45.99,
+      "ship_length": "15.0000",
+      "ship_width": "10.5000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 20.35,
+      "case_price": 20.35,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2291",
+      "item_index": "1234",
+      "rothco_item_no": "3486",
+      "upc": "613902348608",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.0500",
+      "image_filename": "3486-A-amazon.jpg",
+      "catalog_page_no": "328",
+      "msrp": 45.99,
+      "ship_length": "15.0000",
+      "ship_width": "10.5000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 20.35,
+      "case_price": 20.35,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20552",
+      "item_index": "1234",
+      "rothco_item_no": "3641",
+      "upc": "613902000391",
+      "inventory": "99",
+      "created_date": "2021-04-14 12:00:30",
+      "weight": "3.0500",
+      "image_filename": "3641-B-no-logo1.jpg",
+      "catalog_page_no": "328",
+      "msrp": 45.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Navy Blue"
+      },
+      "size": "One Size",
+      "color": "Navy Blue",
+      "price": 20.35,
+      "case_price": 20.35,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22758",
+      "item_index": "1234",
+      "rothco_item_no": "36410",
+      "upc": "613902028821",
+      "inventory": "99",
+      "created_date": "2023-04-05 16:00:10",
+      "weight": "0.0000",
+      "image_filename": "36410-E.jpg",
+      "catalog_page_no": "328",
+      "msrp": 45.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Earth Brown",
+        "size": "One Size"
+      },
+      "color": "Earth Brown",
+      "size": "One Size",
+      "price": 20.35,
+      "case_price": 20.35,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

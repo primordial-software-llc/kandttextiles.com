@@ -1,0 +1,42 @@
+{
+  "item_index": "415",
+  "item_name": "Rothco 4-Pack 6'' Chemicals Lightsticks",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s 4-Pack of Chemical Lightsticks includes 4 different colors, green, red, blue and yellow, each 6&rdquo; long. These lightsticks are perfect for camping, back packing, fishing, hunting, hiking or emergency situations. The glow in the dark chemical lightsticks emits a steady glow for 12 hours.</p>",
+  "no_ratings": "0",
+  "sort_order": "639",
+  "description": "<p>Rothco&rsquo;s 4-Pack of Chemical Lightsticks includes 4 different colors, green, red, blue and yellow, each 6&rdquo; long. These lightsticks are perfect for camping, back packing, fishing, hunting, hiking or emergency situations. The glow in the dark chemical lightsticks emits a steady glow for 12 hours.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "542",
+    "274",
+    "398"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10545",
+      "item_index": "415",
+      "rothco_item_no": "907",
+      "upc": "613902907003",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3000",
+      "image_filename": "907-HR2.jpg",
+      "catalog_page_no": "209",
+      "msrp": 9.99,
+      "ship_length": "12.5000",
+      "ship_width": "5.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 3.75,
+      "case_price": 3.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

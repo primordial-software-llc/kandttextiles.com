@@ -16,15 +16,6 @@ export default function LogisticsPage() {
         </div>
         <div className="max-w-7xl mx-auto px-5 relative z-10">
           <div className="max-w-3xl">
-            <Link 
-              href="/"
-              className="inline-flex items-center text-white/80 hover:text-white mb-8 group"
-            >
-              <svg className="w-5 h-5 mr-2 transform group-hover:-translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
-              </svg>
-              Back to Home
-            </Link>
             <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 leading-tight">
               Modern Logistics<br />Technology
             </h1>

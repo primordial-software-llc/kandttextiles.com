@@ -1,0 +1,45 @@
+{
+  "item_index": "4832",
+  "item_name": "Rothco Veteran With US Flag Fine Knit Watch Cap - Black",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Proudly display your veteran status with our embroidered watch cap featuring the US Flag.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133145",
+  "description": "<p>Proudly display your veteran status with our embroidered watch cap featuring the US Flag. The knit cap watch cap offers superior warmth and protection from the elements. One size fits most.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "367"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20724",
+      "item_index": "4832",
+      "rothco_item_no": "57878",
+      "upc": "613902003064",
+      "inventory": "99",
+      "created_date": "2021-05-25 10:00:16",
+      "weight": "0.1500",
+      "image_filename": "57878-B.jpg",
+      "catalog_page_no": "157",
+      "msrp": 13.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Black"
+      },
+      "size": "One Size",
+      "color": "Black",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "item_index": "281",
+  "item_name": "Rothco Union Suit",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay warm and cozy in style with Rothco's classic one-piece Union Suit. Perfect for those long winter nights, this thermal underwear is made of a warm and comfortable knit fabric that ensures you stay snug. The suit features a full cut design for added comfort, making it an excellent choice for lounging at home or layering under your winter clothing. The 8-button placket closure allows for easy dressing and undressing, while the front vertical seat flap with a button provides convenience without compromising on warmth.</p>",
+  "no_ratings": "0",
+  "sort_order": "2878",
+  "description": "<p>Stay warm and cozy in style with Rothco's classic one-piece Union Suit. Perfect for those long winter nights, this thermal underwear is made of a warm and comfortable knit fabric that ensures you stay snug. The suit features a full cut design for added comfort, making it an excellent choice for lounging at home or layering under your winter clothing. The 8-button placket closure allows for easy dressing and undressing, while the front vertical seat flap with a button provides convenience without compromising on warmth. This timeless Union Suit combines practicality with classic style, making it a must-have addition to your cold-weather wardrobe.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "56"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "6639",
+      "item_index": "281",
+      "rothco_item_no": "6453",
+      "upc": "613902645318",
+      "inventory": "77",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.0000",
+      "image_filename": "6453-RIGHT-B.jpg",
+      "catalog_page_no": "96",
+      "msrp": 45.99,
+      "ship_length": "14.2500",
+      "ship_width": "9.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Red"
+      },
+      "size": "S",
+      "color": "Red",
+      "price": 20.5,
+      "case_price": 20.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6640",
+      "item_index": "281",
+      "rothco_item_no": "6453",
+      "upc": "613902645325",
+      "inventory": "75",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.0000",
+      "image_filename": "6453-RIGHT-B.jpg",
+      "catalog_page_no": "96",
+      "msrp": 45.99,
+      "ship_length": "14.2500",
+      "ship_width": "9.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 20.5,
+      "case_price": 20.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6641",
+      "item_index": "281",
+      "rothco_item_no": "6453",
+      "upc": "613902645332",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.0000",
+      "image_filename": "6453-RIGHT-B.jpg",
+      "catalog_page_no": "96",
+      "msrp": 45.99,
+      "ship_length": "14.2500",
+      "ship_width": "9.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 20.5,
+      "case_price": 20.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6642",
+      "item_index": "281",
+      "rothco_item_no": "6453",
+      "upc": "613902645349",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.0000",
+      "image_filename": "6453-RIGHT-B.jpg",
+      "catalog_page_no": "96",
+      "msrp": 45.99,
+      "ship_length": "14.2500",
+      "ship_width": "9.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 20.5,
+      "case_price": 20.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6661",
+      "item_index": "281",
+      "rothco_item_no": "6463",
+      "upc": "613902646308",
+      "inventory": "49",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.1500",
+      "image_filename": "6453-RIGHT-B.jpg",
+      "catalog_page_no": "96",
+      "msrp": 49.99,
+      "ship_length": "14.2500",
+      "ship_width": "9.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 22.5,
+      "case_price": 22.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

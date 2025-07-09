@@ -1,0 +1,145 @@
+{
+  "item_index": "2144",
+  "item_name": "Rothco Kids Woodland Camo Heavyweight T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Kids Woodland Camo Heavyweight T-Shirt is a perfect blend of style and durability, designed to keep up with your child&rsquo;s active lifestyle. Crafted from a rugged 6 oz cotton blend, this camo shirt offers long-lasting comfort for school, sports, or outdoor play. The taped neck and shoulders provide a soft feel and a polished look, while the seamless set-in collar ensures a snug fit without irritation. With double-needle stitching throughout, this t-shirt is built to withstand wear and tear.</p>",
+  "no_ratings": "0",
+  "sort_order": "2281",
+  "description": "<p>Rothco&rsquo;s Kids Woodland Camo Heavyweight T-Shirt is a perfect blend of style and durability, designed to keep up with your child&rsquo;s active lifestyle. Crafted from a rugged 6 oz cotton blend, this camo shirt offers long-lasting comfort for school, sports, or outdoor play. The taped neck and shoulders provide a soft feel and a polished look, while the seamless set-in collar ensures a snug fit without irritation. With double-needle stitching throughout, this t-shirt is built to withstand wear and tear, making it an essential addition to any young adventurer's wardrobe. Whether for casual outings or active pursuits, this camo tee delivers both comfort and toughness.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "40",
+    "44",
+    "80",
+    "121",
+    "137"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8678",
+      "item_index": "2144",
+      "rothco_item_no": "7703",
+      "upc": "613902770300",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3000",
+      "image_filename": "7703-A-NOLOGO.jpg",
+      "catalog_page_no": "134",
+      "msrp": 12.99,
+      "ship_length": "9.2500",
+      "ship_width": "13.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XS"
+      },
+      "size": "XS",
+      "price": 4.95,
+      "case_price": 4.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8679",
+      "item_index": "2144",
+      "rothco_item_no": "7703",
+      "upc": "613902770317",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3000",
+      "image_filename": "7703-A-NOLOGO.jpg",
+      "catalog_page_no": "134",
+      "msrp": 12.99,
+      "ship_length": "10.7500",
+      "ship_width": "13.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 4.95,
+      "case_price": 4.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8680",
+      "item_index": "2144",
+      "rothco_item_no": "7703",
+      "upc": "613902770324",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3000",
+      "image_filename": "7703-A-NOLOGO.jpg",
+      "catalog_page_no": "134",
+      "msrp": 12.99,
+      "ship_length": "11.5000",
+      "ship_width": "14.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 4.95,
+      "case_price": 4.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8681",
+      "item_index": "2144",
+      "rothco_item_no": "7703",
+      "upc": "613902770331",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3000",
+      "image_filename": "7703-A-NOLOGO.jpg",
+      "catalog_page_no": "134",
+      "msrp": 12.99,
+      "ship_length": "12.7500",
+      "ship_width": "16.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 4.95,
+      "case_price": 4.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8682",
+      "item_index": "2144",
+      "rothco_item_no": "7703",
+      "upc": "613902770348",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3000",
+      "image_filename": "7703-A-NOLOGO.jpg",
+      "catalog_page_no": "134",
+      "msrp": 12.99,
+      "ship_length": "13.2500",
+      "ship_width": "18.7500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 4.95,
+      "case_price": 4.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "item_index": "1138",
+  "item_name": "Rothco Solar Camping Shower",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Another great camping and survival item! Rothco's Solar Camp Shower includes a hose and shower head, On/Off Control, and holds approximately 5 Gallons of water for use.</p>",
+  "no_ratings": "0",
+  "sort_order": "660",
+  "description": "<p>Another great camping and survival item! Rothco's Solar Camp Shower includes a hose and shower head, On/Off Control, and holds approximately 5 Gallons of water for use.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "261",
+    "476"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "4917",
+      "item_index": "1138",
+      "rothco_item_no": "540",
+      "upc": "613902054004",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.9000",
+      "image_filename": "540-hr1.jpg",
+      "catalog_page_no": "303",
+      "msrp": 14.99,
+      "ship_length": "14.0000",
+      "ship_width": "6.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

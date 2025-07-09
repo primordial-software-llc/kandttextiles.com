@@ -1,0 +1,72 @@
+{
+  "item_index": "4803",
+  "item_name": "Rothco MOLLE Handcuff Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s MOLLE Handcuff Pouch is the perfect duty belt accessory for law enforcement officials who need quick and efficient access to their handcuffs.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133116",
+  "description": "<p>Rothco&rsquo;s MOLLE Handcuff Pouch is the perfect duty belt accessory for law enforcement officials who need quick and efficient access to their handcuffs. Two 4.5-inch MOLLE straps on the back of the MOLLE pouch for securing to duty belts, tactical vests, assault packs, or anything with a MOLLE panel. The MOLLE handcuff case safely secures your handcuffs and enables rapid access with a reliable hook and loop flap closure. A divider inside the MOLLE attachment keeps your handcuffs separate for easy, hassle free removal at a moment&rsquo;s notice. The handcuff pouch measures 5.75 inches X 5.5 inches X 1.25 inches to fit most chained or hinged handcuffs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "306",
+    "234",
+    "238",
+    "239"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20313",
+      "item_index": "4803",
+      "rothco_item_no": "51015",
+      "upc": "613902510159",
+      "inventory": "99",
+      "created_date": "2021-02-02 11:00:21",
+      "weight": "0.0156",
+      "image_filename": "51015-A-no-logo.jpg",
+      "catalog_page_no": "241",
+      "msrp": 15.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20314",
+      "item_index": "4803",
+      "rothco_item_no": "51016",
+      "upc": "613902510166",
+      "inventory": "99",
+      "created_date": "2021-02-02 11:00:21",
+      "weight": "0.2500",
+      "image_filename": "51016-A-no-logo.jpg",
+      "catalog_page_no": "241",
+      "msrp": 15.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

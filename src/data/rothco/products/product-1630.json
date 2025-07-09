@@ -1,0 +1,40 @@
+{
+  "item_index": "1630",
+  "item_name": "Rothco Sniper Morale Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show your expertise with Rothco's Sniper Morale Patch. Featuring a bold sniper design and durable hook backing, this patch is perfect for tactical professionals. Easily attach it to Rothco's Operator Caps, Combat Shirts, or any hook-and-loop gear for a customized and mission-ready look.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "1440",
+  "description": "<p>Show your expertise with Rothco's Sniper Morale Patch. Featuring a bold sniper design and durable hook backing, this patch is perfect for tactical professionals. Easily attach it to Rothco's Operator Caps, Combat Shirts, or any hook-and-loop gear for a customized and mission-ready look.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "424"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8187",
+      "item_index": "1630",
+      "rothco_item_no": "72187",
+      "upc": "613902972179",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0094",
+      "image_filename": "72187-HR1.jpg",
+      "catalog_page_no": "215",
+      "msrp": 3.99,
+      "ship_length": "3.5000",
+      "ship_width": "2.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

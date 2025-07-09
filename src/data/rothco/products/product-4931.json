@@ -1,0 +1,69 @@
+{
+  "item_index": "4931",
+  "item_name": "Rothco Deluxe Fine Knit Fleece-Lined Watch Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Designed for durability and functionality, our Deluxe Fine Knit Fleece-Lined Watch Cap takes headwear to the next level.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133244",
+  "description": "<p>Designed for durability and functionality, our Deluxe Fine Knit Fleece-Lined Watch Cap takes headwear to the next level. The acrylic outer material on this knit watch cap is lightweight and great for retaining shape, color and warmth, a must for cold weather wear, while the military caps strong polyester fleece liner aims to retain natural body heat with a supremely comfortable feel. One size fits most, and the adjustable cuff lets you style this fleece beanie your way. This winter hat is great for cold weather activities such as skiing, hiking and hunting and overall outdoor work.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "367"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "21693",
+      "item_index": "4931",
+      "rothco_item_no": "57870",
+      "upc": "613902014503",
+      "inventory": "20",
+      "created_date": "2022-04-05 09:00:23",
+      "weight": "0.1500",
+      "image_filename": "57870-B1.jpg",
+      "catalog_page_no": "158",
+      "msrp": 9.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 3.95,
+      "case_price": 3.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21695",
+      "item_index": "4931",
+      "rothco_item_no": "57871",
+      "upc": "613902014527",
+      "inventory": "99",
+      "created_date": "2022-04-05 10:00:07",
+      "weight": "0.1500",
+      "image_filename": "57871-B.jpg",
+      "catalog_page_no": "158",
+      "msrp": 9.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 3.95,
+      "case_price": 3.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

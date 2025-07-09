@@ -1,0 +1,46 @@
+{
+  "item_index": "122",
+  "item_name": "Rothco Tactical Assault Vest",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": "0",
+  "sort_order": "621",
+  "description": "<p>Adjustable Padded Shoulder Straps Quick-release Buckles 4 Magazine Pockets 2 Utility Pockets Snap Loops For Hookup To Pistol Belt Various ''Alice'' Gear Attaches To Vest</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "82",
+    "137",
+    "183",
+    "544"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "6883",
+      "item_index": "122",
+      "rothco_item_no": "6580",
+      "upc": "613902658004",
+      "inventory": "99",
+      "created_date": "2002-05-09 21:00:00",
+      "weight": "1.5000",
+      "image_filename": "6580-RIGHT-b.jpg",
+      "catalog_page_no": "237",
+      "msrp": 54.99,
+      "ship_length": "17.5000",
+      "ship_width": "16.2500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 24.95,
+      "case_price": 24.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

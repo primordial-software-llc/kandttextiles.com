@@ -1,0 +1,69 @@
+{
+  "item_index": "4240",
+  "item_name": "Rothco Security 5-Point Breakaway Safety Vest ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay safe and visible with Rothco's Security 5-Point Breakaway Safety Vest, designed for optimal protection in any environment. Crafted from durable polyester fabric, this uniform vest features 2-inch wide reflective tape strategically placed across the chest, waist, and shoulders, ensuring maximum visibility in low-light conditions. The innovative 5-point breakaway design is equipped with hook &amp; loop closures along the front, sides, and shoulders, providing an extra layer of safety.</p>",
+  "no_ratings": null,
+  "sort_order": "62",
+  "description": "<p>Stay safe and visible with Rothco's Security 5-Point Breakaway Safety Vest, designed for optimal protection in any environment. Crafted from durable polyester fabric, this uniform vest features 2-inch wide reflective tape strategically placed across the chest, waist, and shoulders, ensuring maximum visibility in low-light conditions. The innovative 5-point breakaway design is equipped with hook &amp; loop closures along the front, sides, and shoulders, providing an extra layer of safety by allowing the vest to tear away in case of emergencies. Whether you&rsquo;re working in security, construction, or any other high-risk job, this safety vest is an essential part of your gear. Lightweight and durable, Rothco&rsquo;s Security 5-Point Breakaway Safety Vest is built to last and ensures that you are always seen and protected.Standard fits S to XL, 2XL / 3XL size available.&nbsp;</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "183"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16857",
+      "item_index": "4240",
+      "rothco_item_no": "8457",
+      "upc": "613902084575",
+      "inventory": "99",
+      "created_date": "2017-01-03 16:10:03",
+      "weight": "0.3813",
+      "image_filename": "8457-A-amazon.jpg",
+      "catalog_page_no": "76",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "Regular"
+      },
+      "size": "Regular",
+      "price": 11.5,
+      "case_price": 11.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16859",
+      "item_index": "4240",
+      "rothco_item_no": "8757",
+      "upc": "613902087576",
+      "inventory": "99",
+      "created_date": "2017-01-04 11:10:01",
+      "weight": "0.3813",
+      "image_filename": "8457-A-amazon.jpg",
+      "catalog_page_no": "76",
+      "msrp": 28.99,
+      "ship_length": "8.0000",
+      "ship_width": "10.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL / 3XL"
+      },
+      "size": "2XL / 3XL",
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

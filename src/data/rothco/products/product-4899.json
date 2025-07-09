@@ -1,0 +1,40 @@
+{
+  "item_index": "4899",
+  "item_name": "Rothco Tactical Defender Duffle Bag - Black",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=rFzb70LCaBs",
+  "rating": "5",
+  "item_short_desc": "<p>The Tactical Defender Duffle Bag was designed for the mission-minded individual. This bag offers an unbelievable amount of storage with multiple compartments designed to organize and store your gear. The Tactical Defender Duffle Bag is the ultimate companion for any adventure with its adaptable design. Unlike your standard duffel, this tactical bag can transform into a backpack, perfect for extended travel.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133212",
+  "description": "<p>The Tactical Defender Duffle Bag was designed for the mission-minded individual. This bag offers an unbelievable amount of storage with multiple compartments designed to organize and store your gear. The Tactical Defender Duffle Bag is the ultimate companion for any adventure with its adaptable design. Unlike your standard duffel, this tactical bag can transform into a backpack, perfect for extended travel.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "223"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "21039",
+      "item_index": "4899",
+      "rothco_item_no": "23600",
+      "upc": "613902007567",
+      "inventory": "99",
+      "created_date": "2021-11-29 15:00:22",
+      "weight": "4.8125",
+      "image_filename": "23600-A1.jpg",
+      "catalog_page_no": "325",
+      "msrp": 129.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 58.9,
+      "case_price": 58.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

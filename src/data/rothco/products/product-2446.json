@@ -1,0 +1,144 @@
+{
+  "item_index": "2446",
+  "item_name": "Rothco Canvas European Style Rucksack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=-2JICoMdZlI",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Canvas European Style Rucksack is your go-to backpack for versatile storage needs. With its multi-pocket design, this rucksack offers plenty of space, measuring approximately 20 inches x 13 inches x 7.5 inches. Whether you're heading out for a hike, a day trip, or just need a reliable everyday bag, this rucksack has you covered. It features a front bottom zipper pocket and 2 strap-down side pockets, providing convenient storage for additional gear and essentials.</p>",
+  "no_ratings": "0",
+  "sort_order": "3667",
+  "description": "<p>Rothco's Canvas European Style Rucksack is your go-to backpack for versatile storage needs. With its multi-pocket design, this rucksack offers plenty of space, measuring approximately 20 inches x 13 inches x 7.5 inches. Whether you're heading out for a hike, a day trip, or just need a reliable everyday bag, this rucksack has you covered. It features a front bottom zipper pocket and 2 strap-down side pockets, providing convenient storage for additional gear and essentials. The adjustable shoulder straps ensure a comfortable fit, while the top carry handle offers alternative carrying options. For added stability and security, it also includes a waist strap with a quick-release buckle. Crafted from unwashed heavyweight canvas, this rucksack is built to withstand the rigors of everyday use and outdoor adventures. Whether you're exploring the urban jungle or venturing into the great outdoors, rely on Rothco's Canvas European Style Rucksack to keep your essentials organized and accessible. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "200",
+    "204",
+    "574",
+    "542"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1218",
+      "item_index": "2446",
+      "rothco_item_no": "2304",
+      "upc": "613902230408",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.4500",
+      "image_filename": "2304-OD-C.jpg",
+      "catalog_page_no": "340",
+      "msrp": 39.99,
+      "ship_length": "16.0000",
+      "ship_width": "12.7500",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 17.5,
+      "case_price": 17.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1219",
+      "item_index": "2446",
+      "rothco_item_no": "2304",
+      "upc": "613902230415",
+      "inventory": "34",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.4500",
+      "image_filename": "2304-Navy-C-amazon.jpg",
+      "catalog_page_no": "340",
+      "msrp": 39.99,
+      "ship_length": "16.0000",
+      "ship_width": "12.7500",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue"
+      },
+      "color": "Navy Blue",
+      "price": 17.5,
+      "case_price": 17.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1220",
+      "item_index": "2446",
+      "rothco_item_no": "2305",
+      "upc": "613902230514",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.4500",
+      "image_filename": "2305-Black-C-amazon.jpg",
+      "catalog_page_no": "340",
+      "msrp": 39.99,
+      "ship_length": "16.0000",
+      "ship_width": "12.7500",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 17.5,
+      "case_price": 17.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1267",
+      "item_index": "2446",
+      "rothco_item_no": "2384",
+      "upc": "613902238404",
+      "inventory": "82",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.4500",
+      "image_filename": "2384-Brown-C-amazon.jpg",
+      "catalog_page_no": "340",
+      "msrp": 39.99,
+      "ship_length": "16.0000",
+      "ship_width": "12.7500",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Earth Brown"
+      },
+      "color": "Earth Brown",
+      "price": 17.5,
+      "case_price": 17.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15144",
+      "item_index": "2446",
+      "rothco_item_no": "2383",
+      "upc": "613902023833",
+      "inventory": "99",
+      "created_date": "2015-03-19 16:10:02",
+      "weight": "2.4500",
+      "image_filename": "2383-A-amazon.jpg",
+      "catalog_page_no": "340",
+      "msrp": 39.99,
+      "ship_length": "16.0000",
+      "ship_width": "12.7500",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 17.5,
+      "case_price": 17.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

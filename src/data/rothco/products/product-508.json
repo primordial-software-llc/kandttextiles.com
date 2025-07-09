@@ -1,0 +1,74 @@
+{
+  "item_index": "508",
+  "item_name": "Rothco Large Digital Camo Bandana",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Large Digital Camo Bandanas are extremely versatile and can be used as a facemask, scarf, skull cap, and much more.</p>",
+  "no_ratings": "0",
+  "sort_order": "5031",
+  "description": "<p>Rothco&rsquo;s Large Digital Camo Bandanas are extremely versatile and can be used as a facemask, scarf, skull cap, and much more. These extra-large bandanas are available in a variety of digital camo patterns including the classic military-style woodland digital camo pattern. The camouflage bandana measures 27&rdquo; X 27&rdquo; and is constructed of 100% cotton material for the perfect blend of comfort and durability.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "83",
+    "143",
+    "144",
+    "145",
+    "369",
+    "679"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3111",
+      "item_index": "508",
+      "rothco_item_no": "4341",
+      "upc": "613902434103",
+      "inventory": "99",
+      "created_date": "2010-11-28 21:00:00",
+      "weight": "0.0900",
+      "image_filename": "4341-A.jpg",
+      "catalog_page_no": "166",
+      "msrp": 4.99,
+      "ship_length": "13.5000",
+      "ship_width": "13.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Desert Digital Camo"
+      },
+      "color": "Desert Digital Camo",
+      "price": 1.8,
+      "case_price": 1.8,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3112",
+      "item_index": "508",
+      "rothco_item_no": "4342",
+      "upc": "613902434202",
+      "inventory": "99",
+      "created_date": "2009-02-11 21:00:00",
+      "weight": "0.0900",
+      "image_filename": "4342-A1.jpg",
+      "catalog_page_no": "166",
+      "msrp": 4.99,
+      "ship_length": "13.5000",
+      "ship_width": "13.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Digital Camo"
+      },
+      "color": "Woodland Digital Camo",
+      "price": 1.8,
+      "case_price": 1.8,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

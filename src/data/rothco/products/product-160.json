@@ -1,0 +1,165 @@
+{
+  "item_index": "160",
+  "item_name": "Rothco Reversible Hi-visibility Uniform Jacket",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Gear up with Rothco&rsquo;s Reversible Hi-Visibility Uniform Jacket. This reversible jacket offers waterproof protection and hi-vis functionality with reflective striping, featuring badge tabs and large pockets for public safety personnel. Convenient utility features include side zippers that allow quick access to inside pockets, while large lower pockets on the black side offer ample storage space for essential gear and equipment. Maintain your professional appearance with epaulets on the black side to add an extra touch of professionalism.</p>",
+  "no_ratings": "0",
+  "sort_order": "1413",
+  "description": "<p>Gear up with Rothco&rsquo;s Reversible Hi-Visibility Uniform Jacket. This reversible jacket offers waterproof protection and hi-vis functionality with reflective striping, featuring badge tabs and large pockets for public safety personnel. Convenient utility features include side zippers that allow quick access to inside pockets, while large lower pockets on the black side offer ample storage space for essential gear and equipment. Maintain your professional appearance with epaulets on the black side to add an extra touch of professionalism, making this uniform jacket suitable for various public safety roles. This reversible rain jacket is ideal for law enforcement officers, security guards, emergency responders, and other public safety personnel who require reliable, high-visibility outerwear. Stay visible and protected whether you're directing traffic, patrolling the streets, or responding to emergencies, this jacket provides the visibility and protection you need to perform your duties effectively. Stay dry and comfortable with waterproof construction and breathable fabric, this uniform jacket ensures you stay dry and comfortable even during prolonged exposure to inclement weather. Built to last, constructed from durable materials and designed for long-lasting performance, this hi-vis jacket is built to withstand the rigors of daily use in demanding environments. Trusted brand - Rothco is a trusted brand known for its high-quality tactical gear and apparel, making the Reversible Hi-Visibility Uniform Jacket a reliable choice for public safety professionals.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "173"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10135",
+      "item_index": "160",
+      "rothco_item_no": "8720",
+      "upc": "613902872004",
+      "inventory": "61",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.8500",
+      "image_filename": "8720-RIGHT-E.jpg",
+      "catalog_page_no": "75",
+      "msrp": 153.99,
+      "ship_length": "21.5000",
+      "ship_width": "13.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 72.5,
+      "case_price": 72.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10136",
+      "item_index": "160",
+      "rothco_item_no": "8720",
+      "upc": "613902872011",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.8500",
+      "image_filename": "8720-RIGHT-E.jpg",
+      "catalog_page_no": "75",
+      "msrp": 153.99,
+      "ship_length": "21.5000",
+      "ship_width": "13.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 72.5,
+      "case_price": 72.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10137",
+      "item_index": "160",
+      "rothco_item_no": "8720",
+      "upc": "613902872028",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.8500",
+      "image_filename": "8720-RIGHT-E.jpg",
+      "catalog_page_no": "75",
+      "msrp": 153.99,
+      "ship_length": "21.5000",
+      "ship_width": "13.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 72.5,
+      "case_price": 72.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10138",
+      "item_index": "160",
+      "rothco_item_no": "8720",
+      "upc": "613902872035",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.8500",
+      "image_filename": "8720-RIGHT-E.jpg",
+      "catalog_page_no": "75",
+      "msrp": 153.99,
+      "ship_length": "21.5000",
+      "ship_width": "13.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 72.5,
+      "case_price": 72.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10139",
+      "item_index": "160",
+      "rothco_item_no": "8721",
+      "upc": "613902872103",
+      "inventory": "57",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.8500",
+      "image_filename": "8720-RIGHT-E.jpg",
+      "catalog_page_no": "75",
+      "msrp": 160.99,
+      "ship_length": "26.5000",
+      "ship_width": "15.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 75.5,
+      "case_price": 75.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10140",
+      "item_index": "160",
+      "rothco_item_no": "8722",
+      "upc": "613902872202",
+      "inventory": "41",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.8500",
+      "image_filename": "8720-RIGHT-E.jpg",
+      "catalog_page_no": "75",
+      "msrp": 167.99,
+      "ship_length": "27.0000",
+      "ship_width": "15.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3XL"
+      },
+      "size": "3XL",
+      "price": 78.5,
+      "case_price": 78.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

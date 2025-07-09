@@ -1,0 +1,126 @@
+{
+  "item_index": "4577",
+  "item_name": "Rothco Reversible Airport Friendly Riggers Belt - Black / Coyote ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Reversible Airport Friendly Riggers Belt offers the perfect combination of durability, versatility, and ease for everyday and tactical use. Designed with a different color on each side, this reversible belt provides you with multiple styling options in a single belt. The fully adjustable belt features double-layered nylon with 6 rows of stitching, providing superior strength and durability to support your gear.</p>",
+  "no_ratings": null,
+  "sort_order": "132890",
+  "description": "<p>Rothco&rsquo;s Reversible Airport Friendly Riggers Belt offers the perfect combination of durability, versatility, and ease for everyday and tactical use. Designed with a different color on each side, this reversible belt provides you with multiple styling options in a single belt. The fully adjustable belt features double-layered nylon with 6 rows of stitching, providing superior strength and durability to support your gear. The belt&rsquo;s plastic matte-finished buckle is airport-friendly, allowing for quick and easy access through metal detectors without the hassle of removing it. Measuring 1.5 inches wide, this belt offers a secure fit and comes in various sizes to accommodate different waist sizes. Whether you're dressing for work, travel, or outdoor activities, Rothco's reversible belt is a dependable, functional, and stylish accessory that you can rely on.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "238",
+    "385"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19109",
+      "item_index": "4577",
+      "rothco_item_no": "3963",
+      "upc": "613902039636",
+      "inventory": "48",
+      "created_date": "2019-06-13 16:10:00",
+      "weight": "0.5000",
+      "image_filename": "3963-A-amazon.jpg",
+      "catalog_page_no": "240",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Black / Coyote Brown"
+      },
+      "size": "S",
+      "color": "Black / Coyote Brown",
+      "price": 7.95,
+      "case_price": 7.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19110",
+      "item_index": "4577",
+      "rothco_item_no": "3963",
+      "upc": "613902139633",
+      "inventory": "82",
+      "created_date": "2019-06-13 16:10:00",
+      "weight": "0.5000",
+      "image_filename": "3963-A-amazon.jpg",
+      "catalog_page_no": "240",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Black / Coyote Brown"
+      },
+      "size": "M",
+      "color": "Black / Coyote Brown",
+      "price": 7.95,
+      "case_price": 7.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19113",
+      "item_index": "4577",
+      "rothco_item_no": "3963",
+      "upc": "613902229631",
+      "inventory": "99",
+      "created_date": "2019-06-13 16:10:00",
+      "weight": "0.5000",
+      "image_filename": "3963-A-amazon.jpg",
+      "catalog_page_no": "240",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Black / Coyote Brown"
+      },
+      "size": "L",
+      "color": "Black / Coyote Brown",
+      "price": 7.95,
+      "case_price": 7.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19114",
+      "item_index": "4577",
+      "rothco_item_no": "3963",
+      "upc": "613902539631",
+      "inventory": "99",
+      "created_date": "2019-06-13 16:10:00",
+      "weight": "0.5000",
+      "image_filename": "3963-A-amazon.jpg",
+      "catalog_page_no": "240",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Black / Coyote Brown"
+      },
+      "size": "XL",
+      "color": "Black / Coyote Brown",
+      "price": 7.95,
+      "case_price": 7.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

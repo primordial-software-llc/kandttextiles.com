@@ -1,0 +1,93 @@
+{
+  "item_index": "3605",
+  "item_name": "Rothco 58mm Polarized Sunglasses",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's 58mm Polarized Sunglasses combine style, durability, and functionality in a classic chrome aviator design. These polarized sunglasses feature UV400 protection, shielding your eyes from harmful UV rays while reducing glare and enhancing visibility in bright conditions. Built with impact-resistant lenses, these shades are made to last, meeting stringent MIL-STD 105 standards for durability. The sleek metal frame and spatula temples ensure a comfortable fit, even during extended wear.</p>",
+  "no_ratings": null,
+  "sort_order": "1546",
+  "description": "<p>Rothco's 58mm Polarized Sunglasses combine style, durability, and functionality in a classic chrome aviator design. These polarized sunglasses feature UV400 protection, shielding your eyes from harmful UV rays while reducing glare and enhancing visibility in bright conditions. Built with impact-resistant lenses, these shades are made to last, meeting stringent MIL-STD 105 standards for durability. The sleek metal frame and spatula temples ensure a comfortable fit, even during extended wear. Whether you're driving, hiking, or enjoying outdoor activities, Rothco&rsquo;s 58mm Polarized Sunglasses offer a perfect blend of fashion and functionality. For added convenience, these sunglasses come with a secure black case with a snap closure to keep them safe when not in use. Stay protected and stylish with Rothco's rugged yet fashionable polarized sunglasses.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "393"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "13337",
+      "item_index": "3605",
+      "rothco_item_no": "22009",
+      "upc": "613902220096",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2688",
+      "image_filename": "22009-A-amazon.jpg",
+      "catalog_page_no": "202",
+      "msrp": 20.99,
+      "ship_length": "6.7500",
+      "ship_width": "3.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Chrome / Smoke"
+      },
+      "color": "Chrome / Smoke",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "13340",
+      "item_index": "3605",
+      "rothco_item_no": "22109",
+      "upc": "613902922105",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2688",
+      "image_filename": "22009-D-amazon.jpg",
+      "catalog_page_no": "202",
+      "msrp": 20.99,
+      "ship_length": "6.7500",
+      "ship_width": "3.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Chrome / Mirror"
+      },
+      "color": "Chrome / Mirror",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "13342",
+      "item_index": "3605",
+      "rothco_item_no": "22309",
+      "upc": "613902223097",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2688",
+      "image_filename": "22009-D-amazon1.jpg",
+      "catalog_page_no": "202",
+      "msrp": 20.99,
+      "ship_length": "6.7500",
+      "ship_width": "3.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Gold / Smoke"
+      },
+      "color": "Gold / Smoke",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

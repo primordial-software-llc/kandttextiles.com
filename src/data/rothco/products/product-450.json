@@ -1,0 +1,153 @@
+{
+  "item_index": "450",
+  "item_name": "Rothco Cold Weather Insulated Gloves",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>&nbsp;</p>\n<p>Designed to withstand extreme cold weather conditions, Rothco&rsquo;s Insulated Gloves provide unparalleled warmth and protection from the elements. The high-denier nylon outer shell, combined with leather palms and fingers, ensures maximum durability and defense against harsh weather. An interior waterproof bladder and soft tricot lining enhance breathability, effectively wicking away perspiration to keep your hands dry.</p>",
+  "no_ratings": "0",
+  "sort_order": "1165",
+  "description": "<p>Designed to withstand extreme cold weather conditions, Rothco&rsquo;s Insulated Gloves provide unparalleled warmth and protection from the elements. The high-denier nylon outer shell, combined with leather palms and fingers, ensures maximum durability and defense against harsh weather. An interior waterproof bladder and soft tricot lining enhance breathability, effectively wicking away perspiration to keep your hands dry. Thermoblock&trade; insulation offers exceptional warmth and comfort, allowing you to tackle outdoor tasks with ease. Adjustable wrist straps ensure a snug fit, keeping snow and cold air out, while a convenient hook clip keeps the gloves together, preventing loss when not in use. Perfect for outdoor enthusiasts, these gloves are designed to keep your hands warm, dry, and comfortable in the most challenging conditions.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "size",
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "319",
+    "321"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2327",
+      "item_index": "450",
+      "rothco_item_no": "3559",
+      "upc": "613902355910",
+      "inventory": "99",
+      "created_date": "2011-09-05 21:00:00",
+      "weight": "0.3150",
+      "image_filename": "3559_Grouped-HR.jpg",
+      "catalog_page_no": "188",
+      "msrp": 41.99,
+      "ship_length": "12.0000",
+      "ship_width": "4.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Black"
+      },
+      "size": "S",
+      "color": "Black",
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2328",
+      "item_index": "450",
+      "rothco_item_no": "3559",
+      "upc": "613902355927",
+      "inventory": "99",
+      "created_date": "2011-09-05 21:00:00",
+      "weight": "0.3150",
+      "image_filename": "3559_Grouped-HR.jpg",
+      "catalog_page_no": "188",
+      "msrp": 41.99,
+      "ship_length": "12.0000",
+      "ship_width": "4.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Black"
+      },
+      "size": "M",
+      "color": "Black",
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2329",
+      "item_index": "450",
+      "rothco_item_no": "3559",
+      "upc": "613902355934",
+      "inventory": "99",
+      "created_date": "2011-09-05 21:00:00",
+      "weight": "0.3150",
+      "image_filename": "3559_Grouped-HR.jpg",
+      "catalog_page_no": "188",
+      "msrp": 41.99,
+      "ship_length": "12.0000",
+      "ship_width": "4.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Black"
+      },
+      "size": "L",
+      "color": "Black",
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2330",
+      "item_index": "450",
+      "rothco_item_no": "3559",
+      "upc": "613902355941",
+      "inventory": "99",
+      "created_date": "2011-09-05 21:00:00",
+      "weight": "0.3150",
+      "image_filename": "3559_Grouped-HR.jpg",
+      "catalog_page_no": "188",
+      "msrp": 41.99,
+      "ship_length": "12.0000",
+      "ship_width": "4.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Black"
+      },
+      "size": "XL",
+      "color": "Black",
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20962",
+      "item_index": "450",
+      "rothco_item_no": "3846",
+      "upc": "613902006256",
+      "inventory": "36",
+      "created_date": "2021-10-04 09:00:25",
+      "weight": "0.3150",
+      "image_filename": "3846-C.jpg",
+      "catalog_page_no": "0",
+      "msrp": 47.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "AR 670-1 Coyote Brown",
+        "size": "XL"
+      },
+      "color": "AR 670-1 Coyote Brown",
+      "size": "XL",
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

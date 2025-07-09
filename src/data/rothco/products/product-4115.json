@@ -1,0 +1,166 @@
+{
+  "item_index": "4115",
+  "item_name": "Rothco Security Rain Jacket",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay cool and dry with Rothco&rsquo;s Security Rain Jacket. Features &ldquo;SECURITY&rdquo; text, ventilation slots, and a detachable hood. Ideal for security professionals in any weather condition. Rothco&rsquo;s Security Rain Jacket ensures security professionals stay dry and comfortable during outdoor duty in inclement weather. Constructed from lightweight and water-resistant material, this jacket provides reliable protection against rain while offering enhanced breathability for all-day wear.</p>",
+  "no_ratings": null,
+  "sort_order": "605",
+  "description": "<p>Stay cool and dry with Rothco&rsquo;s Security Rain Jacket. Features &ldquo;SECURITY&rdquo; text, ventilation slots, and a detachable hood. Ideal for security professionals in any weather condition. Rothco&rsquo;s Security Rain Jacket ensures security professionals stay dry and comfortable during outdoor duty in inclement weather. Constructed from lightweight and water-resistant material, this jacket provides reliable protection against rain while offering enhanced breathability for all-day wear. Featuring the bold \"SECURITY\" text printed on the front left chest and center back, this jacket ensures clear identification and professional appearance. The ventilation slots strategically placed under the arms and on the back allow air circulation to prevent overheating, keeping you cool and dry even during prolonged wear. The jacket comes equipped with a detachable hood, providing versatility to adapt to changing weather conditions. The hood can be easily removed using snap closures when not needed, offering convenience and customization. For added convenience, the jacket features a 4-snap front closure, allowing for quick and effortless wear and removal. Additionally, the snap sleeve closure enables you to adjust the cuffs for increased ventilation or a snug fit, depending on your preference. Whether you're patrolling outdoor venues, monitoring events, or performing security duties in adverse weather conditions, Rothco&rsquo;s Security Rain Jacket offers the durability, functionality, and comfort essential for security professionals. Stay protected and maintain a professional appearance with this essential outerwear piece.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "192",
+    "173"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16264",
+      "item_index": "4115",
+      "rothco_item_no": "36651",
+      "upc": "613902366510",
+      "inventory": "88",
+      "created_date": "2016-03-28 10:10:01",
+      "weight": "2.4000",
+      "image_filename": "36651-LEFT-A.jpg",
+      "catalog_page_no": "92",
+      "msrp": 37.99,
+      "ship_length": "13.5000",
+      "ship_width": "10.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 16.5,
+      "case_price": 16.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16265",
+      "item_index": "4115",
+      "rothco_item_no": "36651",
+      "upc": "613902366527",
+      "inventory": "99",
+      "created_date": "2016-03-28 10:10:01",
+      "weight": "2.4000",
+      "image_filename": "36651-LEFT-A.jpg",
+      "catalog_page_no": "92",
+      "msrp": 37.99,
+      "ship_length": "13.5000",
+      "ship_width": "10.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 16.5,
+      "case_price": 16.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16266",
+      "item_index": "4115",
+      "rothco_item_no": "36651",
+      "upc": "613902366534",
+      "inventory": "99",
+      "created_date": "2016-03-28 10:10:01",
+      "weight": "2.4000",
+      "image_filename": "36651-LEFT-A.jpg",
+      "catalog_page_no": "92",
+      "msrp": 37.99,
+      "ship_length": "13.5000",
+      "ship_width": "10.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 16.5,
+      "case_price": 16.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16267",
+      "item_index": "4115",
+      "rothco_item_no": "36651",
+      "upc": "613902366541",
+      "inventory": "99",
+      "created_date": "2016-03-28 10:10:01",
+      "weight": "2.4000",
+      "image_filename": "36651-LEFT-A.jpg",
+      "catalog_page_no": "92",
+      "msrp": 37.99,
+      "ship_length": "13.5000",
+      "ship_width": "10.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 16.5,
+      "case_price": 16.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16268",
+      "item_index": "4115",
+      "rothco_item_no": "36652",
+      "upc": "613902366558",
+      "inventory": "99",
+      "created_date": "2016-03-28 10:10:01",
+      "weight": "2.5500",
+      "image_filename": "36651-LEFT-A.jpg",
+      "catalog_page_no": "92",
+      "msrp": 39.99,
+      "ship_length": "14.0000",
+      "ship_width": "11.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 17.5,
+      "case_price": 17.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16269",
+      "item_index": "4115",
+      "rothco_item_no": "36652",
+      "upc": "613902366565",
+      "inventory": "99",
+      "created_date": "2016-03-28 10:10:01",
+      "weight": "2.5500",
+      "image_filename": "36651-LEFT-A.jpg",
+      "catalog_page_no": "92",
+      "msrp": 39.99,
+      "ship_length": "14.0000",
+      "ship_width": "11.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3XL"
+      },
+      "size": "3XL",
+      "price": 17.5,
+      "case_price": 17.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

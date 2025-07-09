@@ -1,0 +1,93 @@
+{
+  "item_index": "3696",
+  "item_name": "Rothco Tactical Watch Cap ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Tactical Watch Cap is constructed with extra warm polar fleece material, designed to keep you warm in the harshest environments. Whether you are tackling the great outdoors or in the middle of a tactical operation, this watch cap provides the insulation and comfort you need. The tactical cap features a loop field on the front, allowing you to attach flag or morale patches for a personalized touch (patches sold separately). Its low-profile design ensures it can fit comfortably under a helmet, making it versatile for various activities.</p>",
+  "no_ratings": null,
+  "sort_order": "3314",
+  "description": "<p>Rothco's Tactical Watch Cap is constructed with extra warm polar fleece material, designed to keep you warm in the harshest environments. Whether you are tackling the great outdoors or in the middle of a tactical operation, this watch cap provides the insulation and comfort you need. The tactical cap features a loop field on the front, allowing you to attach flag or morale patches for a personalized touch (patches sold separately). Its low-profile design ensures it can fit comfortably under a helmet, making it versatile for various activities. With a 1-size-fits-most construction, this beanie hat is suitable for a wide range of head sizes. The durable and soft polar fleece material not only provides warmth but also wicks away moisture, keeping you dry and comfortable. Ideal for outdoor enthusiasts, military perssonel, and anyone in need of reliable headgear for cold weather. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from military personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "367"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14554",
+      "item_index": "3696",
+      "rothco_item_no": "8760",
+      "upc": "613902087606",
+      "inventory": "99",
+      "created_date": "2014-04-09 17:10:09",
+      "weight": "0.0625",
+      "image_filename": "8760-Coyote1.jpg",
+      "catalog_page_no": "156",
+      "msrp": 11.99,
+      "ship_length": "10.5000",
+      "ship_width": "7.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14555",
+      "item_index": "3696",
+      "rothco_item_no": "8760",
+      "upc": "613902187603",
+      "inventory": "99",
+      "created_date": "2014-04-09 17:10:09",
+      "weight": "0.0625",
+      "image_filename": "8760-Black-A1.jpg",
+      "catalog_page_no": "156",
+      "msrp": 11.99,
+      "ship_length": "10.5000",
+      "ship_width": "7.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15234",
+      "item_index": "3696",
+      "rothco_item_no": "8760",
+      "upc": "613902876002",
+      "inventory": "20",
+      "created_date": "2015-04-06 17:10:02",
+      "weight": "0.0625",
+      "image_filename": "8760-Foliage-A1.jpg",
+      "catalog_page_no": "156",
+      "msrp": 11.99,
+      "ship_length": "10.5000",
+      "ship_width": "7.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Foliage Green"
+      },
+      "color": "Foliage Green",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

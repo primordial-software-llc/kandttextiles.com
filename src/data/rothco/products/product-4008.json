@@ -1,0 +1,94 @@
+{
+  "item_index": "4008",
+  "item_name": "Rothco Convertible Medium Transport Pack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Our Convertible Medium Transport Pack easily transforms from a traditional backpack to an ambidextrous single sling bag, and vice versa. This tactical military bag can be readily worn over your shoulder or as a crossbody bag, keeping your possessions close to you. Converting to sling mode is easy: zipper the 2 inch shoulder straps together while unbuckling one side. Conveniently store the extra webbing slack in one of the zippered pockets. Sling mode allows for quick and easy access to your items without the need to put the crossbody bag down.</p>",
+  "no_ratings": null,
+  "sort_order": "264",
+  "description": "<p>Our Convertible Medium Transport Pack easily transforms from a traditional backpack to an ambidextrous single sling bag, and vice versa. This tactical military bag can be readily worn over your shoulder or as a crossbody bag, keeping your possessions close to you. Converting to sling mode is easy: zipper the 2 inch shoulder straps together while unbuckling one side. Conveniently store the extra webbing slack in one of the zippered pockets. Sling mode allows for quick and easy access to your items without the need to put the crossbody bag down. Sling mode is also helpful when you&rsquo;re on the move, like when on a hike, biking, and commuting through public transportation. Additionally, the top grab handle allows for quick and easy handling. Spacious Storage Capacity: These tactical sling backpacks provide ample storage space for a variety of needs. These convertible transport bags have a 25L capacity, and measure 17 inch x 10 inch x 9 inch overall. The main rear compartment features a zippered pouch and mesh pocket, and is great for carrying clothing, emergency supplies, outdoor gear, everyday carry items, and more. Utility at the Forefront: These MOLLE compatible backpacks include PALS webbing on the outside for mounting and securing additional items. The convertible backpack features a rear hook &amp; loop compartment designed for storing a hydration system (not included). The tactical bag comes with 3 additional zippered storage compartments with internal pockets, perfect for storing small survival essentials and electronic accessories. Durable Material Construction: Consisting of polypropylene webbing and 600D polyester, these utility sling bags are built tough and will withstand rigorous outdoor use. In addition, the storage compartments feature heavy-duty zippers and water-repellent lining. Comfortable Padding: The convertible backpack also features breathable mesh padding on the back and shoulder straps for a more comfortable carry. The shoulder straps are also adjustable, allowing you to adjust the backpack when needed.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "201",
+    "204"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15641",
+      "item_index": "4008",
+      "rothco_item_no": "22987",
+      "upc": "613902229877",
+      "inventory": "99",
+      "created_date": "2015-09-08 13:10:01",
+      "weight": "2.9000",
+      "image_filename": "22987-A-amazon.jpg",
+      "catalog_page_no": "317",
+      "msrp": 68.99,
+      "ship_length": "19.0000",
+      "ship_width": "13.0000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 33.95,
+      "case_price": 33.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17000",
+      "item_index": "4008",
+      "rothco_item_no": "2953",
+      "upc": "613902295308",
+      "inventory": "54",
+      "created_date": "2017-04-03 11:10:01",
+      "weight": "2.9000",
+      "image_filename": "2953-A-amazon.jpg",
+      "catalog_page_no": "317",
+      "msrp": 68.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 33.95,
+      "case_price": 33.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22707",
+      "item_index": "4008",
+      "rothco_item_no": "29530",
+      "upc": "613902027688",
+      "inventory": "99",
+      "created_date": "2023-03-20 17:00:04",
+      "weight": "2.9000",
+      "image_filename": "29530-A.jpg",
+      "catalog_page_no": "317",
+      "msrp": 68.99,
+      "ship_length": "17.0000",
+      "ship_width": "10.0000",
+      "ship_height": "9.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 33.95,
+      "case_price": 33.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

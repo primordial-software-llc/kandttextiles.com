@@ -1,0 +1,45 @@
+{
+  "item_index": "433",
+  "item_name": "Rothco Fingerless Stretch Fabric  Duty Gloves",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Fingerless Stretch Fabric Duty Gloves provide the perfect balance of comfort, protection, and functionality. The fingerless design enhances dexterity, allowing you to handle gear, tools, or your phone with ease. Crafted with a thin yet durable neoprene shell, these gloves offer a full range of motion without sacrificing protection. Synthetic leather palms add abrasion resistance, ensuring durability during rigorous tasks.</p>",
+  "no_ratings": "0",
+  "sort_order": "2588",
+  "description": "<p>Rothco&rsquo;s Fingerless Stretch Fabric Duty Gloves provide the perfect balance of comfort, protection, and functionality. The fingerless design enhances dexterity, allowing you to handle gear, tools, or your phone with ease. Crafted with a thin yet durable neoprene shell, these gloves offer a full range of motion without sacrificing protection. Synthetic leather palms add abrasion resistance, ensuring durability during rigorous tasks. A soft nylon lining enhances comfort, while the elastic cuff with a hook and loop closure provides a secure, adjustable fit. Ideal for public safety personnel, shooting enthusiasts, and outdoor adventurers seeking high-performance gear.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "318"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2160",
+      "item_index": "433",
+      "rothco_item_no": "3460",
+      "upc": "613902346017",
+      "inventory": "31",
+      "created_date": "2002-08-11 21:00:00",
+      "weight": "0.1000",
+      "image_filename": "3460_group-hr-amazon.jpg",
+      "catalog_page_no": "189",
+      "msrp": 21.99,
+      "ship_length": "9.0000",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

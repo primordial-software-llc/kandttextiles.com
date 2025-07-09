@@ -1,0 +1,144 @@
+{
+  "item_index": "3725",
+  "item_name": "Rothco Tactical Operator Cap With US Flag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Elevate your mission-ready wardrobe with Rothco's Tactical Operator Cap with Embroidered US Flag, combining classic style with functional features. Crafted from durable, lightweight, and breathable material, this service-style hat offers comfort and resilience. The top loop patch is designed for an IR marker while the back loop field allows for branch or name tape attachment. 4 reinforced air holes provide optimal cooling airflow. With an adjustable hook and loop strap, this cap is one-size-fits-most.</p>",
+  "no_ratings": null,
+  "sort_order": "3243",
+  "description": "<p>Elevate your mission-ready wardrobe with Rothco's Tactical Operator Cap with Embroidered US Flag, combining classic style with functional features. Crafted from durable, lightweight, and breathable material, this service-style hat offers comfort and resilience. The top loop patch is designed for an IR marker while the back loop field allows for branch or name tape attachment. 4 reinforced air holes provide optimal cooling airflow. With an adjustable hook and loop strap, this one-size-fits-most cap is perfect for tactical operators, security officials, active-duty personnel, and beyond. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "140",
+    "521",
+    "140",
+    "521"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14539",
+      "item_index": "3725",
+      "rothco_item_no": "4363",
+      "upc": "613902436305",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "4363-B-amazon.jpg",
+      "catalog_page_no": "145",
+      "msrp": 20.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15183",
+      "item_index": "3725",
+      "rothco_item_no": "4364",
+      "upc": "613902043640",
+      "inventory": "99",
+      "created_date": "2015-03-24 14:10:01",
+      "weight": "0.2000",
+      "image_filename": "4364-A-amazon1.jpg",
+      "catalog_page_no": "145",
+      "msrp": 13.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16785",
+      "item_index": "3725",
+      "rothco_item_no": "4633",
+      "upc": "613902046337",
+      "inventory": "99",
+      "created_date": "2016-12-16 11:10:03",
+      "weight": "0.2000",
+      "image_filename": "4633-A-amazon.jpg",
+      "catalog_page_no": "145",
+      "msrp": 13.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16786",
+      "item_index": "3725",
+      "rothco_item_no": "4639",
+      "upc": "613902046399",
+      "inventory": "99",
+      "created_date": "2016-12-16 11:10:03",
+      "weight": "0.2000",
+      "image_filename": "4639-A-amazon.jpg",
+      "catalog_page_no": "145",
+      "msrp": 13.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18261",
+      "item_index": "3725",
+      "rothco_item_no": "4629",
+      "upc": "613902146297",
+      "inventory": "99",
+      "created_date": "2018-04-16 11:10:05",
+      "weight": "0.2000",
+      "image_filename": "4629-A-amazon.jpg",
+      "catalog_page_no": "145",
+      "msrp": 13.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki"
+      },
+      "color": "Khaki",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

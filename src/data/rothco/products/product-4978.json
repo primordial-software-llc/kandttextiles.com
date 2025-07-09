@@ -1,0 +1,40 @@
+{
+  "item_index": "4978",
+  "item_name": "Rothco Branded Cube",
+  "has_restrictions": "1",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's branded cube is perfect for your retail space.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133291",
+  "description": "<p>Rothco's branded cube is perfect for your retail space.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "430"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "22221",
+      "item_index": "4978",
+      "rothco_item_no": "11604",
+      "upc": "613902020979",
+      "inventory": "99",
+      "created_date": "2022-10-20 15:00:07",
+      "weight": "0.0000",
+      "image_filename": "11604-A.jpg",
+      "catalog_page_no": "369",
+      "msrp": 33.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 0,
+      "case_price": null,
+      "case_quantity": null,
+      "statuses": ""
+    }
+  ]
+}

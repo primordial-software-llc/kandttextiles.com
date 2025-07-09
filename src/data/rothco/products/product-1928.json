@@ -1,0 +1,71 @@
+{
+  "item_index": "1928",
+  "item_name": "Rothco G.I. Type Sun, Wind & Dust Goggles",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Sun, Wind &amp; Dust Goggles are designed to shield your eyes from the harsh elements of the outdoors. These goggles feature breathable frames with holes and dust covers to ensure comfort and functionality. The goggles come with clear and grey interchangeable lenses, allowing you to adapt to varying light conditions. Equipped with cap, socket, post, and stud snap fasteners, changing the lenses is quick and easy. The padded foam ensures comfort during extended wear, making these sport goggles ideal for any outdoor activity.</p>",
+  "no_ratings": "0",
+  "sort_order": "1795",
+  "description": "<p>Rothco's Sun, Wind &amp; Dust Goggles are designed to shield your eyes from the harsh elements of the outdoors. These goggles feature breathable frames with holes and dust covers to ensure comfort and functionality. The goggles come with clear and grey interchangeable lenses, allowing you to adapt to varying light conditions. Equipped with cap, socket, post, and stud snap fasteners, changing the lenses is quick and easy. The padded foam ensures comfort during extended wear, making these sport goggles ideal for any outdoor activity. Additionally, these tactical goggles are ISO 9001 certified, guaranteeing high-quality construction and performance.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "335",
+    "394",
+    "395"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "179",
+      "item_index": "1928",
+      "rothco_item_no": "10346",
+      "upc": "613902103467",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5000",
+      "image_filename": "10346-C-amazon.jpg",
+      "catalog_page_no": "200",
+      "msrp": 24.99,
+      "ship_length": "8.2500",
+      "ship_width": "3.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "181",
+      "item_index": "1928",
+      "rothco_item_no": "10347",
+      "upc": "613902743014",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "Black-B2.jpg",
+      "catalog_page_no": "200",
+      "msrp": 25.99,
+      "ship_length": "8.2500",
+      "ship_width": "3.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

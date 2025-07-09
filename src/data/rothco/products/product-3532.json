@@ -1,0 +1,73 @@
+{
+  "item_index": "3532",
+  "item_name": "Rothco Molon Labe Spartan Morale Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show off your inner Spartan with the Rothco Molon Labe Patch; featuring an embroidered \"Molon Labe\" text and helmet and sword image.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "3029",
+  "description": "<p>Show off your inner Spartan with the Rothco Molon Labe Patch; featuring an embroidered \"Molon Labe\" text and helmet and sword image. Molon labe&nbsp;is the classical expression of defiance meaning \"coming and take it\". &nbsp;The nylon hook back allows the morale patch to easily attach to your favorite hat or tactical jacket.&nbsp;Patches With The Item #&rsquo;S Starting With &lsquo;P&rsquo; Are Individually Packaged With A Header Card.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "424"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17195",
+      "item_index": "3532",
+      "rothco_item_no": "1889",
+      "upc": "613902018891",
+      "inventory": "99",
+      "created_date": "2017-05-15 10:10:02",
+      "weight": "0.0094",
+      "image_filename": "1889-A-amazon1.jpg",
+      "catalog_page_no": "214",
+      "msrp": 3.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "packaging": "Bulk Packaging",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "packaging": "Bulk Packaging",
+      "size": "One Size",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "28581",
+      "item_index": "3532",
+      "rothco_item_no": "72198",
+      "upc": "613902721982",
+      "inventory": "99",
+      "created_date": "2023-11-07 03:00:15",
+      "weight": "0.0094",
+      "image_filename": "72198-A-amazon1.jpg",
+      "catalog_page_no": "214",
+      "msrp": 3.99,
+      "ship_length": "3.5000",
+      "ship_width": "2.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

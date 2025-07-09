@@ -1,0 +1,50 @@
+{
+  "item_index": "4966",
+  "item_name": "Rothco Vintage Low Profile Cap - Army Veteran",
+  "has_restrictions": "1",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Vintage Army Veteran Low Profile Cap is designed for comfort and durability while proudly displaying your veteran status. The military cap is constructed from long-lasting brushed cotton twill, providing a comfortable fit that&rsquo;s perfect for daily wear. The front panel features raised embroidered \"Veteran\" text, which is also showcased on the adjustable hook &amp; loop strap at the back. A woven American flag label on the front panel adds a patriotic touch to your everyday wear.</p>",
+  "no_ratings": null,
+  "sort_order": "133279",
+  "description": "<p>Rothco&rsquo;s Vintage Army Veteran Low Profile Cap is designed for comfort and durability while proudly displaying your veteran status. The military cap is constructed from long-lasting brushed cotton twill, providing a comfortable fit that&rsquo;s perfect for daily wear. The front panel features raised embroidered \"Veteran\" text, which is also showcased on the adjustable hook &amp; loop strap at the back. A woven American flag label on the front panel adds a patriotic touch to your everyday wear. With vent holes strategically placed, this cap ensures breathability, keeping you cool even on warmer days. Whether you're attending a veterans' event or simply enjoying a day out, this Army baseball cap is a meaningful way to honor your service.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "674",
+    "374",
+    "674",
+    "374"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19248",
+      "item_index": "4966",
+      "rothco_item_no": "3521",
+      "upc": "613902035218",
+      "inventory": "0",
+      "created_date": "2019-11-05 19:00:19",
+      "weight": "0.2500",
+      "image_filename": "3521-C.jpg",
+      "catalog_page_no": "143",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "08/10/2025",
+      "specs": {
+        "color": "Vintage Olive Drab",
+        "emblem": "Army",
+        "size": "One Size"
+      },
+      "color": "Vintage Olive Drab",
+      "emblem": "Army",
+      "size": "One Size",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "item_index": "809",
+  "item_name": "Rothco Assault Rifle Cover",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Assault Rifle Cover is designed for versatility and functionality, making it perfect for hunting, training, or camping trips. This soft, durable rifle case measures 43 inches in length, accommodating most standard rifles and shotguns. The double-zippered main compartment allows for quick and easy access to your firearm, while 3 external pouches measuring 3 inches x 8 inches provide convenient storage for additional supplies, such as magazines or cleaning kits.</p>",
+  "no_ratings": "0",
+  "sort_order": "384",
+  "description": "<p>Rothco&rsquo;s Assault Rifle Cover is designed for versatility and functionality, making it perfect for hunting, training, or camping trips. This soft, durable rifle case measures 43 inches in length, accommodating most standard rifles and shotguns. The double-zippered main compartment allows for quick and easy access to your firearm, while 3 external pouches measuring 3 inches x 8 inches provide convenient storage for additional supplies, such as magazines or cleaning kits. For effortless transport, the case features both a single adjustable shoulder strap and twin carry handles, offering flexibility in how you carry your gear. Crafted for durability and convenience, Rothco&rsquo;s Assault Rifle Cover ensures your equipment is securely stored and easy to access wherever your adventures take you.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "248",
+    "255"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3770",
+      "item_index": "809",
+      "rothco_item_no": "4807",
+      "upc": "613902648074",
+      "inventory": "99",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "1.1000",
+      "image_filename": "4807-A1.jpg",
+      "catalog_page_no": "261",
+      "msrp": 41.99,
+      "ship_length": "14.0000",
+      "ship_width": "15.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 18.5,
+      "case_price": 18.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

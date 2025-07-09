@@ -1,0 +1,42 @@
+{
+  "item_index": "4493",
+  "item_name": "Rothco Military Trauma Kit Contents",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Military Trauma Kit Contents feature over 200 essential first aid items.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "132806",
+  "description": "<p>Rothco&rsquo;s Military Trauma Kit Contents have the same items as our Military Trauma Kit and EMT Medical Trauma Kit (item #1105 and 1145). Featuring over 200 essential first aid items; including a variety of bandages, medical instruments, and a blood pressure cuff kit. The trauma kit is a great way to replenish&nbsp;your emergency supplies when needed.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "227",
+    "271",
+    "241"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18573",
+      "item_index": "4493",
+      "rothco_item_no": "1711",
+      "upc": "894302003308",
+      "inventory": "20",
+      "created_date": "2018-07-26 14:10:03",
+      "weight": "6.5000",
+      "image_filename": "1711-A-amazon.jpg",
+      "catalog_page_no": "298",
+      "msrp": 249.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 99.95,
+      "case_price": 99.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

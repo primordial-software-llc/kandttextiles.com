@@ -1,0 +1,42 @@
+{
+  "item_index": "3451",
+  "item_name": "Rothco Tactical Pen",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Tactical Pen is the ultimate everyday carry (EDC) tool, combining practicality and durability. Constructed from high-quality aluminum, this lightweight pen features an emergency glass breaker tip, making it a reliable tool for survival situations. Hidden within the pen is a discreet handcuff key, adding an extra layer of utility. Its refillable ink cartridge ensures long-lasting use, making it as functional for writing as it is for emergencies.</p>",
+  "no_ratings": null,
+  "sort_order": "930",
+  "description": "<p>Rothco&rsquo;s Tactical Pen is the ultimate everyday carry (EDC) tool, combining practicality and durability. Constructed from high-quality aluminum, this lightweight pen features an emergency glass breaker tip, making it a reliable tool for survival situations. Hidden within the pen is a discreet handcuff key, adding an extra layer of utility. Its refillable ink cartridge ensures long-lasting use, making it as functional for writing as it is for emergencies. Compact at 6 inches in length, this tactical pen fits seamlessly into pockets, bags, or EDC kits. Whether you need a reliable writing instrument, a survival tool, or an innovative emergency solution, Rothco&rsquo;s Tactical Pen delivers unmatched versatility and performance.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "302",
+    "239",
+    "586"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12691",
+      "item_index": "3451",
+      "rothco_item_no": "5478",
+      "upc": "613902054783",
+      "inventory": "99",
+      "created_date": "2013-07-26 10:22:16",
+      "weight": "0.1875",
+      "image_filename": "5478-B-nologo.jpg",
+      "catalog_page_no": "219",
+      "msrp": 32.99,
+      "ship_length": "7.5000",
+      "ship_width": "2.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 14.95,
+      "case_price": 14.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

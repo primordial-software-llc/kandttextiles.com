@@ -1,0 +1,43 @@
+{
+  "item_index": "1482",
+  "item_name": "Rothco Sew-On Insignia Attachment Kit For ECWCS Liner",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Designed to work with our ECWCS Polar Fleece Jacket Liner, the attachment kit includes one 11.5-inch loop branch tap and 2 inch by 2 inch loop rank attachment.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "152",
+  "description": "<p>Designed to work with our ECWCS Polar Fleece Jacket Liner, the attachment kit includes one 11.5-inch loop branch tap and 2 inches by 2-inches loop rank attachment.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "178"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "854",
+      "item_index": "1482",
+      "rothco_item_no": "1799",
+      "upc": "613902179912",
+      "inventory": "99",
+      "created_date": "2007-07-19 21:00:00",
+      "weight": "0.0125",
+      "image_filename": "1799-A-amazon.jpg",
+      "catalog_page_no": "217",
+      "msrp": 2.99,
+      "ship_length": "5.5000",
+      "ship_width": "2.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 0.95,
+      "case_price": 0.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

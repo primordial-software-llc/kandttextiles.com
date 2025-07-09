@@ -1,0 +1,40 @@
+{
+  "item_index": "2865",
+  "item_name": "Rothco Generic Catalog",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": null,
+  "sort_order": "690",
+  "description": "<p>Rothco's&nbsp; Generic Military, Tactical, Outdoor, Public Safety Gear Catalog.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "429"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "518",
+      "item_index": "2865",
+      "rothco_item_no": "11600",
+      "upc": "613902011601",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.5000",
+      "image_filename": "2021_Generic_Catalog_2021_Cover.jpg",
+      "catalog_page_no": "326",
+      "msrp": "6.99",
+      "ship_length": "11.0000",
+      "ship_width": "8.5000",
+      "ship_height": "1.0000",
+      "eta_date": null,
+      "specs": [],
+      "price": 2.5,
+      "case_price": 2.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

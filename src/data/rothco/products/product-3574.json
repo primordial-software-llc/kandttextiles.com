@@ -1,0 +1,41 @@
+{
+  "item_index": "3574",
+  "item_name": "Rothco Ankle Holster",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Ankle Holster is the ideal holster for concealed carry. The holster features a thumb snap, adjustable hook and loop closure and fits most compact and sub compact pistols.</p>",
+  "no_ratings": null,
+  "sort_order": "2047",
+  "description": "<p>Rothco's Ankle Holster is the ideal holster for concealed carry. The holster features a thumb snap, adjustable hook and loop closure and fits most compact and sub compact pistols.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "251",
+    "555"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12186",
+      "item_index": "3574",
+      "rothco_item_no": "10599",
+      "upc": "613902905993",
+      "inventory": "99",
+      "created_date": "2013-06-13 15:47:53",
+      "weight": "0.1500",
+      "image_filename": "10599-HR2.jpg",
+      "catalog_page_no": "231",
+      "msrp": 18.99,
+      "ship_length": "10.0000",
+      "ship_width": "6.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 7.25,
+      "case_price": 7.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

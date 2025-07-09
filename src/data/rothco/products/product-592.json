@@ -1,0 +1,97 @@
+{
+  "item_index": "592",
+  "item_name": "Rothco Polar Fleece Neck Warmer",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Shield yourself from extreme cold weather, wind, and debris with Rothco&rsquo;s Polar Fleece Neck Warmer. Crafted from lightweight and breathable 100% polyester fleece material, this neck warmer provides superior warmth and comfort during outdoor activities. The versatile design allows the neck tube to adjust to cover the neck, mouth, and ears, offering customizable protection. Wear it as a neck gaiter, open balaclava, or half face covering, depending on your needs and preferences.</p>",
+  "no_ratings": "0",
+  "sort_order": "5583",
+  "description": "<p>Shield yourself from extreme cold weather, wind, and debris with Rothco&rsquo;s Polar Fleece Neck Warmer. Crafted from lightweight and breathable 100% polyester fleece material, this neck warmer provides superior warmth and comfort during outdoor activities. The versatile design allows the neck tube to adjust to cover the neck, mouth, and ears, offering customizable protection. Wear it as a neck gaiter, open balaclava, or half face covering, depending on your needs and preferences. Measuring 11 inches x 15 inches, it offers ample coverage for optimal protection. Whether you're a active-duty personal, a runner, or a snowboarder, Rothco&rsquo;s Polar Fleece Neck Warmer is perfect for various outdoor activities where protection from the elements is crucial. Stay warm and comfortable in harsh weather conditions with this essential accessory.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "83",
+    "143",
+    "378",
+    "368",
+    "683"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5162",
+      "item_index": "592",
+      "rothco_item_no": "5570",
+      "upc": "613902557000",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0750",
+      "image_filename": "5570-B-amazon.jpg",
+      "catalog_page_no": "156",
+      "msrp": 7.99,
+      "ship_length": "11.0000",
+      "ship_width": "7.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 3.1,
+      "case_price": 3.1,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5164",
+      "item_index": "592",
+      "rothco_item_no": "5570",
+      "upc": "613902557024",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0750",
+      "image_filename": "5570-B-Coyote-amazon.jpg",
+      "catalog_page_no": "156",
+      "msrp": 7.99,
+      "ship_length": "11.0000",
+      "ship_width": "7.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 3.1,
+      "case_price": 3.1,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18954",
+      "item_index": "592",
+      "rothco_item_no": "5570",
+      "upc": "613902557031",
+      "inventory": "99",
+      "created_date": "2019-04-08 10:10:00",
+      "weight": "0.0750",
+      "image_filename": "5570-A-amazon1.jpg",
+      "catalog_page_no": "156",
+      "msrp": 7.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 3.1,
+      "case_price": 3.1,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

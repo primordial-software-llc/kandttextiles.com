@@ -1,0 +1,71 @@
+{
+  "item_index": "2273",
+  "item_name": "Rothco G.I. Type Medium Alice Pack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Medium Alice Pack offers a versatile solution for carrying your outdoor, tactical, or everyday essentials. Crafted with classic style in mind, this pack is constructed from durable denier polyester, ensuring long-lasting performance in various environments. With dimensions measuring 20 inches x 19 inches x 11 inches, it provides high-capacity space to store all your gear.</p>",
+  "no_ratings": "0",
+  "sort_order": "725",
+  "description": "<p>Rothco&rsquo;s Medium Alice Pack offers a versatile solution for carrying your outdoor, tactical, or everyday essentials. Crafted with classic style in mind, this pack is constructed from durable denier polyester, ensuring long-lasting performance in various environments. With dimensions measuring 20 inches x 19 inches x 11 inches, it provides high-capacity space to store all your gear. The large main compartment is perfect for storing essential items, while the 3 large vented outside pockets offer additional storage for extra gear or quick-access items. Whether you're hiking, camping, or traveling, this pack keeps your belongings organized and easily accessible. For added comfort and versatility, the adjustable shoulder straps ensure a personalized fit, allowing you to carry your pack comfortably for extended periods. The waterproof lining provides protection against the elements, keeping your gear dry in adverse weather conditions. Equipped with accessory loops, this pack allows you to attach additional gear or accessories for easy access on the go. Plus, the heavy-duty aluminum frame is built to fit all G.I. LC-1 packs, providing structural support and stability during use. For enhanced comfort during extended wear, the polyester padded kidney pad and shoulder straps on the frame provide cushioning and support where you need it most. Whether you're on a hiking trail or navigating through urban environments, the Rothco Medium Alice Pack offers durability, functionality, and versatility to meet your needs.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "frame"
+  ],
+  "statuses": "",
+  "categories": [
+    "201",
+    "202",
+    "204"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1173",
+      "item_index": "2273",
+      "rothco_item_no": "2251",
+      "upc": "613902225107",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.2500",
+      "image_filename": "2251-A-amazon.jpg",
+      "catalog_page_no": "312",
+      "msrp": 83.99,
+      "ship_length": "19.5000",
+      "ship_width": "17.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "frame": "Without Frame"
+      },
+      "frame": "Without Frame",
+      "price": 37.95,
+      "case_price": 37.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16160",
+      "item_index": "2273",
+      "rothco_item_no": "2250",
+      "upc": "613902225008",
+      "inventory": "62",
+      "created_date": "2016-02-19 11:10:01",
+      "weight": "5.2800",
+      "image_filename": "2251-A-amazon.jpg",
+      "catalog_page_no": "312",
+      "msrp": 147.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "frame": "With Frame"
+      },
+      "frame": "With Frame",
+      "price": 66.95,
+      "case_price": 66.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

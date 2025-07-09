@@ -1,0 +1,72 @@
+{
+  "item_index": "4731",
+  "item_name": "Rothco Kids Reusable 3-Layer Face Mask",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's&nbsp;Kids Reusable 3-Layer Face Mask features a 3-layer polyester construction and designed to fit a child's face. The kid's face coverings are washable, reusable, and great to wear as you go about your daily life.</p>",
+  "no_ratings": null,
+  "sort_order": "133044",
+  "description": "<p>Rothco's&nbsp;Kids Reusable 3-Layer Face Mask features a 3-layer polyester construction and designed to fit a child's face. The kid's face coverings are washable, reusable, and great to wear as you go about your daily life.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "132",
+    "680"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19860",
+      "item_index": "4731",
+      "rothco_item_no": "11278",
+      "upc": "613902027985",
+      "inventory": "99",
+      "created_date": "2020-07-30 16:00:22",
+      "weight": "0.0313",
+      "image_filename": "11278-A-AMAZON.jpg",
+      "catalog_page_no": "169",
+      "msrp": 4.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 1.85,
+      "case_price": 1.85,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19904",
+      "item_index": "4731",
+      "rothco_item_no": "11277",
+      "upc": "613902112773",
+      "inventory": "99",
+      "created_date": "2020-08-18 12:00:11",
+      "weight": "0.0313",
+      "image_filename": "11277-A-AMAZON.jpg",
+      "catalog_page_no": "169",
+      "msrp": 4.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 1.85,
+      "case_price": 1.85,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

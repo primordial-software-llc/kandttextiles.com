@@ -1,0 +1,46 @@
+{
+  "item_index": "4293",
+  "item_name": "Rothco In God We Trust Morale Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The official motto of the United States on a 4\"X1\" morale patch by Rothco.</p>",
+  "no_ratings": null,
+  "sort_order": "70",
+  "description": "<p>Rothco&rsquo;s In God We Trust Morale Patch measures 4\"X1\" and is embroidered with the official motto of the United States of America. The nylon hook back allows the morale patch to easily attach to your favorite hat or tactical jacket.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "331",
+    "420"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17199",
+      "item_index": "4293",
+      "rothco_item_no": "1890",
+      "upc": "613902018907",
+      "inventory": "99",
+      "created_date": "2017-05-15 11:10:01",
+      "weight": "0.0094",
+      "image_filename": "1890-A-amazon.jpg",
+      "catalog_page_no": "214",
+      "msrp": 3.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab / Tan",
+        "size": "One Size"
+      },
+      "color": "Olive Drab / Tan",
+      "size": "One Size",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

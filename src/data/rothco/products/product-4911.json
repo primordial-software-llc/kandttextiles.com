@@ -1,0 +1,40 @@
+{
+  "item_index": "4911",
+  "item_name": "Rothco Military Force Soldier Play Set",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Provide your child with endless hours of fun with a classic military playset that includes over 30 military toys. This military toy set makes for a great gift. Perfect for ages 3 and up.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133224",
+  "description": "<p>Provide your child with endless hours of fun with a classic military playset that includes over 30 military toys. This military toy set makes for a great gift. Perfect for ages 3 and up.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "131"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "21190",
+      "item_index": "4911",
+      "rothco_item_no": "42592",
+      "upc": "613902010314",
+      "inventory": "99",
+      "created_date": "2021-12-15 11:00:08",
+      "weight": "0.5625",
+      "image_filename": "42592-A1.jpg",
+      "catalog_page_no": "209",
+      "msrp": 14.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 5.55,
+      "case_price": 5.55,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

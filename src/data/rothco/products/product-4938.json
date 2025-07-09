@@ -1,0 +1,43 @@
+{
+  "item_index": "4938",
+  "item_name": "Rothco Multicam/OCP Tactical Mesh Back Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Multicam/OCP Tactical Mesh Back Cap is an adjustable baseball style military hat that is perfect for soldiers and civilians alike.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133251",
+  "description": "<p>Rothco&rsquo;s Multicam/OCP Tactical Mesh Back Cap is an adjustable baseball style military hat that is perfect for soldiers and civilians alike. This military cap features a ventilated mesh back that wicks away moisture to cool you down. The lightweight cap is constructed with sturdy cotton front panels and back polyester mesh panels. A coyote loop field on the back of the cap is ideal for adding name tape (Measures 5 Inches X 1 Inch). One size fits most with an adjustable MultiCam hook and loop closure, and two reinforced air vent holes provide additional cooling.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "674"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "21065",
+      "item_index": "4938",
+      "rothco_item_no": "99555",
+      "upc": "613902008021",
+      "inventory": "99",
+      "created_date": "2021-12-03 14:00:16",
+      "weight": "0.0190",
+      "image_filename": "99555-A1.jpg",
+      "catalog_page_no": "145",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote / MultiCam"
+      },
+      "color": "Coyote / MultiCam",
+      "price": 7.95,
+      "case_price": 7.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

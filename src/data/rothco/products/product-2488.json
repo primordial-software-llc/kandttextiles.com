@@ -1,0 +1,70 @@
+{
+  "item_index": "2488",
+  "item_name": "Rothco Canvas Urban Explorer Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay organized and prepared for any adventure with Rothco's Canvas Urban Explorer Bag, the ultimate companion for those who value functionality and style. Crafted from durable canvas, this messenger bag features an impressive 12-pocket design, offering ample storage options for all your essentials. The spacious main compartment includes a hidden zip pocket, perfect for securing valuables, while a large exterior pocket with hook &amp; loop closure provides easy access to frequently used items.</p>",
+  "no_ratings": "0",
+  "sort_order": "1508",
+  "description": "<p>Stay organized and prepared for any adventure with Rothco's Canvas Urban Explorer Bag, the ultimate companion for those who value functionality and style. Crafted from durable canvas, this messenger bag features an impressive 12-pocket design, offering ample storage options for all your essentials. The spacious main compartment includes a hidden zip pocket, perfect for securing valuables, while a large exterior pocket with hook &amp; loop closure provides easy access to frequently used items. The storm flap with an additional zip pocket and quick-release buckles ensures your gear stays protected from the elements. An integrated ID holder allows for easy identification, and the adjustable shoulder strap offers customizable comfort for all-day wear. Whether you're navigating the urban jungle or exploring the great outdoors, the Rothco Canvas Urban Explorer Bag is the perfect blend of practicality and rugged style, keeping you organized and ready for anything. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "208",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10675",
+      "item_index": "2488",
+      "rothco_item_no": "9201",
+      "upc": "613902920101",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.6500",
+      "image_filename": "9201_HR.jpg",
+      "catalog_page_no": "359",
+      "msrp": 30.99,
+      "ship_length": "14.5000",
+      "ship_width": "12.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 13.95,
+      "case_price": 13.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10677",
+      "item_index": "2488",
+      "rothco_item_no": "9203",
+      "upc": "613902920309",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.7000",
+      "image_filename": "9203-A1.jpg",
+      "catalog_page_no": "359",
+      "msrp": 30.99,
+      "ship_length": "14.5000",
+      "ship_width": "12.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 13.95,
+      "case_price": 13.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

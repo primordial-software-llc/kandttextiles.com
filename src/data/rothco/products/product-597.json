@@ -1,0 +1,127 @@
+{
+  "item_index": "597",
+  "item_name": "Rothco G.I. Type Combat Caps With Flaps - Olive Drab",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Embrace timeless classic fashion with Rothco&rsquo;s Field Cap with Flaps. Crafted after the iconic patrol cap, this military hat features attached flaps, offering warmth and protection in cold weather, ensuring your head, ears, and neck is shielded from the elements. Made from a durable 55% cotton / 45% polyester blend, the patrol cap ensures comfort and breathability that easily endures any mission. The fitted design guarantees a secure fit, making it suitable for everyday wear.</p>",
+  "no_ratings": "0",
+  "sort_order": "4114",
+  "description": "<p>Embrace timeless classic fashion with Rothco&rsquo;s Field Cap with Flaps. Crafted after the iconic patrol cap, this military hat features attached flaps, offering warmth and protection in cold weather, ensuring your head, ears, and neck is shielded from the elements. Made from a durable 55% cotton / 45% polyester blend, the patrol cap ensures comfort and breathability that easily endures any mission. The fitted design guarantees a secure fit, making it suitable for everyday wear. Ideal for everyday use, this hat adds a touch of classic, patrol inspired flair. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "head_size"
+  ],
+  "statuses": "",
+  "categories": [
+    "83",
+    "137",
+    "523"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5425",
+      "item_index": "597",
+      "rothco_item_no": "5712",
+      "upc": "613902571204",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "5712-A-amazon.jpg",
+      "catalog_page_no": "148",
+      "msrp": 16.99,
+      "ship_length": "6.5000",
+      "ship_width": "8.5000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "head_size": "7",
+        "color": "Olive Drab"
+      },
+      "head_size": "7",
+      "color": "Olive Drab",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5426",
+      "item_index": "597",
+      "rothco_item_no": "5712",
+      "upc": "613902571211",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "5712-A-amazon.jpg",
+      "catalog_page_no": "148",
+      "msrp": 16.99,
+      "ship_length": "6.5000",
+      "ship_width": "8.7500",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "head_size": "7 1/4",
+        "color": "Olive Drab"
+      },
+      "head_size": "7 1/4",
+      "color": "Olive Drab",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5427",
+      "item_index": "597",
+      "rothco_item_no": "5712",
+      "upc": "613902571228",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "5712-A-amazon.jpg",
+      "catalog_page_no": "148",
+      "msrp": 16.99,
+      "ship_length": "7.0000",
+      "ship_width": "8.7500",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "head_size": "7 1/2",
+        "color": "Olive Drab"
+      },
+      "head_size": "7 1/2",
+      "color": "Olive Drab",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5428",
+      "item_index": "597",
+      "rothco_item_no": "5712",
+      "upc": "613902571235",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "5712-A-amazon.jpg",
+      "catalog_page_no": "148",
+      "msrp": 16.99,
+      "ship_length": "7.5000",
+      "ship_width": "9.0000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "head_size": "7 3/4",
+        "color": "Olive Drab"
+      },
+      "head_size": "7 3/4",
+      "color": "Olive Drab",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

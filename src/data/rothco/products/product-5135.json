@@ -1,0 +1,95 @@
+{
+  "item_index": "5135",
+  "item_name": "Rothco Lightweight Woobie Crossbody Day Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Built with everyday practicality and comfort, our Lightweight Woobie Crossbody Day Bag keeps your essentials close to you, right where you need them. Compact and designed to fit comfortably between your shoulder blades, this military-inspired crossbody organizer bag has a 2L capacity that is ideal for travel and measures 8 inch x 5.5 inch x 3 inch.</p>",
+  "no_ratings": null,
+  "sort_order": null,
+  "description": "<p>Built with everyday practicality and comfort, our Lightweight Woobie Crossbody Day Bag keeps your essentials close to you, right where you need them. Compact and designed to fit comfortably between your shoulder blades, this military-inspired crossbody organizer bag has a 2L capacity that is ideal for travel and measures 8 inch x 5.5 inch x 3 inch. From Tactical Roots to Everyday Utility: Inspired by the dependable versatility of the iconic poncho liner, Rothco&rsquo;s Woobie collection embodies rugged style and practicality. Each item, from our durable outerwear to the premium Crossbody Day Bag, features a distinctive quilted pattern and lightweight filling, combining unique style with everyday functionality. Stay Organized: The quilted woobie bag offers substantial storage space inside the main compartment for everyday carry essentials. The 3 inner pockets are perfect for carrying small items, while the internal clip is great for securing keys or accessories. Safe &amp; Secure Zipper Closures: The main compartment utilizes a two-way zipper that opens at both ends for quick and easy access. In addition, the lightweight organizer bag features 2 exterior zipper pockets on the front and back for extra storage. Carry Options: These woobie belt bags feature an adjustable strap with a side release buckle that extends up to 46 inches, allowing you to wear it across your body as a crossbody bag or around your waist as a fanny pack. These woobie day bags are perfect for traveling, commuting, hiking, and more.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "756",
+    "3",
+    "650"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "30226",
+      "item_index": "5135",
+      "rothco_item_no": "13850",
+      "upc": "613902049505",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.3000",
+      "image_filename": "13850-A.jpg",
+      "catalog_page_no": "354",
+      "msrp": 21.99,
+      "ship_length": "8.0000",
+      "ship_width": "5.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30227",
+      "item_index": "5135",
+      "rothco_item_no": "13852",
+      "upc": "613902049529",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.3000",
+      "image_filename": "13852-A.jpg",
+      "catalog_page_no": "354",
+      "msrp": 21.99,
+      "ship_length": "8.0000",
+      "ship_width": "5.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Cream"
+      },
+      "color": "Cream",
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30355",
+      "item_index": "5135",
+      "rothco_item_no": "13851",
+      "upc": "613902049512",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.3000",
+      "image_filename": "13851-A.jpg",
+      "catalog_page_no": "354",
+      "msrp": 21.99,
+      "ship_length": "8.0000",
+      "ship_width": "5.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

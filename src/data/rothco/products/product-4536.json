@@ -1,0 +1,100 @@
+{
+  "item_index": "4536",
+  "item_name": "Rothco Canvas Insulated Cooler Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>BYOB in style with Rothco&rsquo;s Insulated Cooler Bag. Crafted from durable canvas, this cooler bag features insulating foam padding to keep your drinks cold and safe during outdoor adventures. With dimensions of 10 inches x 10 inches x 7.5 inches, it can hold up to a 6-pack of beer or other canned/bottled beverages. The integrated bottle opener, attached to the shoulder strap, ensures you're always prepared for refreshment. An adjustable 54 inch shoulder strap allows for hands-free carrying.</p>",
+  "no_ratings": null,
+  "sort_order": "132849",
+  "description": "<p>BYOB in style with Rothco&rsquo;s Insulated Cooler Bag. Crafted from durable canvas, this cooler bag features insulating foam padding to keep your drinks cold and safe during outdoor adventures. With dimensions of 10 inches x 10 inches x 7.5 inches, it can hold up to a 6-pack of beer or other canned/bottled beverages. The integrated bottle opener, attached to the shoulder strap, ensures you're always prepared for refreshment. An adjustable 54 inch shoulder strap allows for hands-free carrying, while a convenient open-top pocket on the front provides storage for keys and phone. Completed with sleek faux leather accents, this soft cooler bag combines functionality with style for your beach trips, picnics, or camping excursions. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "214",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18769",
+      "item_index": "4536",
+      "rothco_item_no": "2608",
+      "upc": "613902026087",
+      "inventory": "99",
+      "created_date": "2018-12-06 12:10:00",
+      "weight": "1.5000",
+      "image_filename": "2608-B1.jpg",
+      "catalog_page_no": "349",
+      "msrp": 28.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 12.95,
+      "case_price": 12.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19758",
+      "item_index": "4536",
+      "rothco_item_no": "2609",
+      "upc": "613902026094",
+      "inventory": "99",
+      "created_date": "2020-06-30 13:00:27",
+      "weight": "1.5000",
+      "image_filename": "2609-B-amazon.jpg",
+      "catalog_page_no": "349",
+      "msrp": 28.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 12.95,
+      "case_price": 12.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21729",
+      "item_index": "4536",
+      "rothco_item_no": "26080",
+      "upc": "613902015012",
+      "inventory": "99",
+      "created_date": "2022-04-05 15:00:20",
+      "weight": "1.5000",
+      "image_filename": "26080-A.jpg",
+      "catalog_page_no": "349",
+      "msrp": 28.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Coyote Brown"
+      },
+      "size": "One Size",
+      "color": "Coyote Brown",
+      "price": 12.95,
+      "case_price": 12.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "item_index": "5040",
+  "item_name": "Rothco Womens R.E.D. (Remember Everyone Deployed) T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show your solidarity and support for all military personnel serving with our Womens R.E.D. (Remember Everyone Deployed) T-Shirt. This patriotic shirt features a graphic design on the front that honors deployed service members, along with a distressed American Flag on the right sleeve.</p>",
+  "no_ratings": null,
+  "sort_order": null,
+  "description": "<p>Show your solidarity and support for all military personnel serving with our Womens R.E.D. (Remember Everyone Deployed) T-Shirt. This patriotic shirt features a graphic design on the front that honors deployed service members, along with a distressed American Flag on the right sleeve. Unbelievable Comfort: Made from a special Cotton/Polyester blend, the women&rsquo;s R.E.D. shirt is silky-smooth and soft to the touch. For added comfort, these graphic tees feature flat seams at the collar, sleeves, and bottom hem, as well as a tag-less label. Comfortable and Easygoing: Designed with a flattering fit and curved hem, this crewneck t-shirt sits just right while complementing your body. These comfy t-shirts feature a raglan sleeve style as well. Land of the Free: Whether you&rsquo;re out hiking on a trail, spending a day at the beach, or casually walking around town, our Remember Everyone Deployed T-Shirts are great for weekend adventures, working-out, everyday use, and more. They&rsquo;re also perfect for showcasing your American spirit during 4th of July, Memorial Day, and Veterans Day. Complete the Look: Our R.E.D. (Remember Everyone Deployed) T-Shirt goes especially well with a pair of our Womens Vintage Paratrooper Fatigue Pants or BDU Cargo Pants.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "2",
+    "101"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "23331",
+      "item_index": "5040",
+      "rothco_item_no": "11825",
+      "upc": "613902035386",
+      "inventory": "99",
+      "created_date": "2023-08-09 14:59:47",
+      "weight": "0.0000",
+      "image_filename": "11825-CC.jpg",
+      "catalog_page_no": "127",
+      "msrp": 14.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red",
+        "size": "2XL"
+      },
+      "color": "Red",
+      "size": "2XL",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "23332",
+      "item_index": "5040",
+      "rothco_item_no": "11825",
+      "upc": "613902035355",
+      "inventory": "99",
+      "created_date": "2023-08-09 14:59:47",
+      "weight": "0.0000",
+      "image_filename": "11825-CC.jpg",
+      "catalog_page_no": "127",
+      "msrp": 14.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red",
+        "size": "M"
+      },
+      "color": "Red",
+      "size": "M",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "23333",
+      "item_index": "5040",
+      "rothco_item_no": "11825",
+      "upc": "613902035362",
+      "inventory": "99",
+      "created_date": "2023-08-09 14:59:47",
+      "weight": "0.0000",
+      "image_filename": "11825-CC.jpg",
+      "catalog_page_no": "127",
+      "msrp": 14.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red",
+        "size": "L"
+      },
+      "color": "Red",
+      "size": "L",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "23334",
+      "item_index": "5040",
+      "rothco_item_no": "11825",
+      "upc": "613902035300",
+      "inventory": "99",
+      "created_date": "2023-08-09 14:59:47",
+      "weight": "0.0000",
+      "image_filename": "11825-CC.jpg",
+      "catalog_page_no": "127",
+      "msrp": 14.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red",
+        "size": "S"
+      },
+      "color": "Red",
+      "size": "S",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "23335",
+      "item_index": "5040",
+      "rothco_item_no": "11825",
+      "upc": "613902035379",
+      "inventory": "99",
+      "created_date": "2023-08-09 14:59:47",
+      "weight": "0.0000",
+      "image_filename": "11825-CC.jpg",
+      "catalog_page_no": "127",
+      "msrp": 14.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red",
+        "size": "XL"
+      },
+      "color": "Red",
+      "size": "XL",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

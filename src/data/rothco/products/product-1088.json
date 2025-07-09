@@ -1,0 +1,40 @@
+{
+  "item_index": "1088",
+  "item_name": "Rothco Deluxe 5 Piece Mess Kit",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco Deluxe 5 Piece Mess Kit features a heavy gauge polished aluminum for maximum durability and convenient&nbsp;carry.</p>",
+  "no_ratings": "0",
+  "sort_order": "724",
+  "description": "<p>Rothco Deluxe 5 Piece Mess Kit features a heavy gauge polished aluminum for maximum durability and convenient&nbsp;carry. The kit contains a frying pan with handle, saucepan, lid, plate and plastic cup, that conveniently packs away into one piece and features a stay-cool handle.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "263"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "777",
+      "item_index": "1088",
+      "rothco_item_no": "168",
+      "upc": "613902168909",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6000",
+      "image_filename": "168-B-amazon.jpg",
+      "catalog_page_no": "292",
+      "msrp": 25.99,
+      "ship_length": "7.0000",
+      "ship_width": "7.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

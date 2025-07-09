@@ -1,0 +1,40 @@
+{
+  "item_index": "3988",
+  "item_name": "Rothco Folding Chow Set",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Folding Chow Set is perfect for campers with a pocket-knife style fork, knife, spoon, bottle opener, and can opener in a compact and easy-to-carry package.</p>",
+  "no_ratings": null,
+  "sort_order": "476",
+  "description": "<p>Rothco's Folding Chow Set is constructed with a durable, rustproof, stainless steel material. Great for camping or loaded in your bug out bag, this utensil set features a fork, spoon, bottle and can opener. The fork and spoon act as a lock but also separate into two. Includes split key ring and polyester sheath.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "263"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15582",
+      "item_index": "3988",
+      "rothco_item_no": "2033",
+      "upc": "613902820333",
+      "inventory": "99",
+      "created_date": "2015-08-24 13:10:01",
+      "weight": "0.3125",
+      "image_filename": "2033-A1.jpg",
+      "catalog_page_no": "291",
+      "msrp": 7.99,
+      "ship_length": "4.5000",
+      "ship_width": "2.0000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 3.15,
+      "case_price": 3.15,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

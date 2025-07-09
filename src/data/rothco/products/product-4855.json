@@ -1,0 +1,125 @@
+{
+  "item_index": "4855",
+  "item_name": "Rothco Hi-Vis Performance Zipper Sweatshirt - Safety Green",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Built for warmth, comfort, durability, and visibility. Rothco's High-Vis Performance Zipper Sweatshirt with reflective striping enhances your visibility while working on the job site or in the outdoors.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133168",
+  "description": "<p>Built for warmth, comfort, durability, and visibility. Rothco's High-Vis Performance Zipper Sweatshirt with reflective striping enhances your visibility while working on the job site or in the outdoors.&nbsp;</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "51"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20837",
+      "item_index": "4855",
+      "rothco_item_no": "20381",
+      "upc": "613902004269",
+      "inventory": "20",
+      "created_date": "2021-06-29 12:00:00",
+      "weight": "1.1000",
+      "image_filename": "20381-LEFT-B.jpg",
+      "catalog_page_no": "75",
+      "msrp": 59.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Safety Green",
+        "size": "S"
+      },
+      "color": "Safety Green",
+      "size": "S",
+      "price": 23.9,
+      "case_price": 23.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20838",
+      "item_index": "4855",
+      "rothco_item_no": "20381",
+      "upc": "613902004290",
+      "inventory": "35",
+      "created_date": "2021-06-29 12:00:00",
+      "weight": "1.1000",
+      "image_filename": "20381-LEFT-B.jpg",
+      "catalog_page_no": "75",
+      "msrp": 59.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Safety Green",
+        "size": "M"
+      },
+      "color": "Safety Green",
+      "size": "M",
+      "price": 23.9,
+      "case_price": 23.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20839",
+      "item_index": "4855",
+      "rothco_item_no": "20381",
+      "upc": "613902004313",
+      "inventory": "20",
+      "created_date": "2021-06-29 12:00:00",
+      "weight": "1.1000",
+      "image_filename": "20381-LEFT-B.jpg",
+      "catalog_page_no": "75",
+      "msrp": 59.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Safety Green",
+        "size": "L"
+      },
+      "color": "Safety Green",
+      "size": "L",
+      "price": 23.9,
+      "case_price": 23.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20842",
+      "item_index": "4855",
+      "rothco_item_no": "20383",
+      "upc": "613902004337",
+      "inventory": "20",
+      "created_date": "2021-06-29 12:00:00",
+      "weight": "1.1000",
+      "image_filename": "20381-LEFT-B.jpg",
+      "catalog_page_no": "75",
+      "msrp": 64.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Safety Green",
+        "size": "3XL"
+      },
+      "color": "Safety Green",
+      "size": "3XL",
+      "price": 25.9,
+      "case_price": 25.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

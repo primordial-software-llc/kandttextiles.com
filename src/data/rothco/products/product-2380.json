@@ -1,0 +1,120 @@
+{
+  "item_index": "2380",
+  "item_name": "Rothco Deluxe Stool With Pouch ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Experience comfort on-the-go with Rothco's Deluxe Folding Stool. Ideal for camping, hiking, and outdoor activities, it combines durability with convenience. The heavyweight material and sturdy aluminum frame ensure a reliable seat in any terrain. The large storage pouch underneath holds essential gear, making this camp stool a versatile companion. Easily foldable and backpack-friendly, this deluxe stool is your go-to solution for outdoor relaxation.</p>",
+  "no_ratings": "0",
+  "sort_order": "1082",
+  "description": "<p>Experience comfort on-the-go with Rothco's Deluxe Folding Stool. Ideal for camping, hiking, and outdoor activities, it combines durability with convenience. The heavyweight material and sturdy aluminum frame ensure a reliable seat in any terrain. The large storage pouch underneath holds essential gear, making this camp stool a versatile companion. Easily foldable and backpack-friendly, this deluxe stool is your go-to solution for outdoor relaxation.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "143",
+    "144",
+    "273"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3467",
+      "item_index": "2380",
+      "rothco_item_no": "4546",
+      "upc": "613902454606",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.1000",
+      "image_filename": "4546-flat-hr1-amazon.jpg",
+      "catalog_page_no": "302",
+      "msrp": 54.99,
+      "ship_length": "20.0000",
+      "ship_width": "14.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "ACU Digital Camo"
+      },
+      "color": "ACU Digital Camo",
+      "price": 24.75,
+      "case_price": 24.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3490",
+      "item_index": "2380",
+      "rothco_item_no": "4556",
+      "upc": "613902455603",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.1000",
+      "image_filename": "4556-HR2.jpg",
+      "catalog_page_no": "302",
+      "msrp": 54.99,
+      "ship_length": "20.0000",
+      "ship_width": "14.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Digital Camo"
+      },
+      "color": "Woodland Digital Camo",
+      "price": 24.75,
+      "case_price": 24.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3521",
+      "item_index": "2380",
+      "rothco_item_no": "4576",
+      "upc": "613902457607",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.1000",
+      "image_filename": "4576-hr2.jpg",
+      "catalog_page_no": "302",
+      "msrp": 54.99,
+      "ship_length": "20.0000",
+      "ship_width": "14.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 24.75,
+      "case_price": 24.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15923",
+      "item_index": "2380",
+      "rothco_item_no": "45460",
+      "upc": "613902045460",
+      "inventory": "99",
+      "created_date": "2015-11-13 16:10:03",
+      "weight": "2.1000",
+      "image_filename": "45460-A-amazon.jpg",
+      "catalog_page_no": "302",
+      "msrp": 54.99,
+      "ship_length": "20.0000",
+      "ship_width": "14.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 24.75,
+      "case_price": 24.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

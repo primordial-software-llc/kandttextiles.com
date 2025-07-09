@@ -1,0 +1,40 @@
+{
+  "item_index": "474",
+  "item_name": "Rothco Ragg Wool Gloves",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Ragg Wool Gloves are made to keep your hands warm throughout the cold winter months.</p>",
+  "no_ratings": "0",
+  "sort_order": "631",
+  "description": "<p>Rothco&rsquo;s Ragg Wool Gloves are made to keep your hands warm throughout the cold winter months. The work gloves are one size fits all, constructed of 85% wool and 15% nylon for extreme comfort. Rothco&rsquo;s cold weather wool gloves are perfect for simple, everyday tasks and can fit a lining underneath for extra warmth. Rothco&rsquo;s Ragg Wool Gloves are made in the U.S.A.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "321"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9639",
+      "item_index": "474",
+      "rothco_item_no": "8416",
+      "upc": "613902841604",
+      "inventory": "20",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "0.2125",
+      "image_filename": "8416-A-NOLOGO.jpg",
+      "catalog_page_no": "192",
+      "msrp": 25.99,
+      "ship_length": "11.0000",
+      "ship_width": "5.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 10.25,
+      "case_price": 10.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

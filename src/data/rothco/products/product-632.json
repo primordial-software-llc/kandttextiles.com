@@ -1,0 +1,69 @@
+{
+  "item_index": "632",
+  "item_name": "Rothco G.I. Wool Scarf",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay comfortable during chilly days with Rothco&rsquo;s G.I. Wool Scarf. Crafted from 100% wool, this scarf offers exceptional warmth and comfort to keep you snug during winter. Made in the U.S.A., it boasts a double-layer construction for unbeatable insulation against the cold. Measuring 56 inches long by 9 inches wide, it provides ample coverage to keep you protected. Whether you're commuting to work or enjoying outdoor activities, this scarf is the perfect accessory to tackle the cold.</p>",
+  "no_ratings": "0",
+  "sort_order": "3012",
+  "description": "<p>Stay comfortable during chilly days with Rothco&rsquo;s G.I. Wool Scarf. Crafted from 100% wool, this scarf offers exceptional warmth and comfort to keep you snug during winter. Made in the U.S.A., it boasts a double-layer construction for unbeatable insulation against the cold. Measuring 56 inches long by 9 inches wide, it provides ample coverage to keep you protected. Whether you're commuting to work or enjoying outdoor activities, this scarf is the perfect accessory to tackle the cold.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "414"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9676",
+      "item_index": "632",
+      "rothco_item_no": "8420",
+      "upc": "613902842007",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "8420-B.jpg",
+      "catalog_page_no": "158",
+      "msrp": 20.99,
+      "ship_length": "14.0000",
+      "ship_width": "8.7500",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 10.15,
+      "case_price": 10.15,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9677",
+      "item_index": "632",
+      "rothco_item_no": "8421",
+      "upc": "613902842106",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3500",
+      "image_filename": "8421-A.jpg",
+      "catalog_page_no": "158",
+      "msrp": 20.99,
+      "ship_length": "14.0000",
+      "ship_width": "8.7500",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 10.15,
+      "case_price": 10.15,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "item_index": "2955",
+  "item_name": "Steel Half Face Tactical Mask",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": null,
+  "sort_order": "941",
+  "description": "<p>The Bravo Tac Gear Steel Half Mask is a lightweight durable steel face mask ideal for Airsoft.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "335"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14979",
+      "item_index": "2955",
+      "rothco_item_no": "867",
+      "upc": "613902028579",
+      "inventory": "99",
+      "created_date": "2014-11-11 11:10:02",
+      "weight": "0.7000",
+      "image_filename": "867-A-AMAZON.jpg",
+      "catalog_page_no": "257",
+      "msrp": 25.99,
+      "ship_length": "10.0000",
+      "ship_width": "6.0000",
+      "ship_height": "3.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black Skull"
+      },
+      "color": "Black Skull",
+      "price": 9.9,
+      "case_price": 9.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

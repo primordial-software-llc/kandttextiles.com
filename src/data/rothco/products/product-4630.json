@@ -1,0 +1,131 @@
+{
+  "item_index": "4630",
+  "item_name": "Rothco MOLLE Lightweight Low Profile Belt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s MOLLE Lightweight Low-Profile Belt is designed for those who need to carry their MOLLE (Modular Lightweight Load-Carrying Equipment) gear efficiently and comfortably. This tactical belt allows you to evenly distribute the weight of your gear across your waist, reducing strain and freeing up space on your pack or vest. The belt works in conjunction with an inner duty or riggers belt up to 2.5 inches wide (not included), with an outer hook &amp; loop MOLLE panel and an interior hook field to hold everything securely in place.</p>",
+  "no_ratings": null,
+  "sort_order": "132943",
+  "description": "<p>Rothco&rsquo;s MOLLE Lightweight Low-Profile Belt is designed for those who need to carry their MOLLE (Modular Lightweight Load-Carrying Equipment) gear efficiently and comfortably. This tactical belt allows you to evenly distribute the weight of your gear across your waist, reducing strain and freeing up space on your pack or vest. The belt works in conjunction with an inner duty or riggers belt up to 2.5 inches wide (not included), with an outer hook &amp; loop MOLLE panel and an interior hook field to hold everything securely in place. Featuring MOLLE webbing, you can attach pouches and other accessories with ease. The belt&rsquo;s lightweight and durable construction can bear the weight of your MOLLE supplies, while the air mesh interior and 3 removable non-slip pads provide enhanced comfort and support. Additionally, 4 D-rings along the top of the belt allow for easy attachment to a battle harness. Available in 2 sizes, Rothco&rsquo;s low-profile tactical belt offers versatile, all-day functionality.</p>",
+  "selection_groups": [
+    "color",
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "304",
+    "238",
+    "239",
+    "333",
+    "382",
+    "383"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19314",
+      "item_index": "4630",
+      "rothco_item_no": "1807",
+      "upc": "613902118072",
+      "inventory": "81",
+      "created_date": "2019-11-25 12:00:10",
+      "weight": "0.9375",
+      "image_filename": "1807-A-amazon.jpg",
+      "catalog_page_no": "240",
+      "msrp": 30.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "L"
+      },
+      "color": "Black",
+      "size": "L",
+      "price": 13.9,
+      "case_price": 13.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19315",
+      "item_index": "4630",
+      "rothco_item_no": "1807",
+      "upc": "613902918078",
+      "inventory": "22",
+      "created_date": "2019-11-25 12:00:10",
+      "weight": "0.9375",
+      "image_filename": "1807-A-amazon.jpg",
+      "catalog_page_no": "240",
+      "msrp": 30.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "M"
+      },
+      "color": "Black",
+      "size": "M",
+      "price": 13.9,
+      "case_price": 13.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19316",
+      "item_index": "4630",
+      "rothco_item_no": "1808",
+      "upc": "613902018082",
+      "inventory": "77",
+      "created_date": "2019-11-25 12:00:10",
+      "weight": "0.9375",
+      "image_filename": "1808-Coyote-A-amazon.jpg",
+      "catalog_page_no": "240",
+      "msrp": 30.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "M"
+      },
+      "color": "Coyote Brown",
+      "size": "M",
+      "price": 13.9,
+      "case_price": 13.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19317",
+      "item_index": "4630",
+      "rothco_item_no": "1808",
+      "upc": "613902918085",
+      "inventory": "99",
+      "created_date": "2019-11-25 12:00:10",
+      "weight": "0.9375",
+      "image_filename": "1808-Coyote-A-amazon.jpg",
+      "catalog_page_no": "240",
+      "msrp": 30.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "L"
+      },
+      "color": "Coyote Brown",
+      "size": "L",
+      "price": 13.9,
+      "case_price": 13.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

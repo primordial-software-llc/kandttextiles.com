@@ -1,0 +1,95 @@
+{
+  "item_index": "1300",
+  "item_name": "Rothco Canvas Dual Compartment Travel Kit",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Canvas Dual Compartment Travel Kit is the ultimate solution for keeping your toiletries organized and easily accessible on the go. Constructed with a durable heavyweight cotton canvas material, this travel bag is built to last, ensuring years of reliable use. The kit features dual zippered compartments, providing ample space for organizing toiletries, grooming essentials, and more. Each compartment is lined with plastic, making it easy to clean and maintain.</p>",
+  "no_ratings": "0",
+  "sort_order": "2587",
+  "description": "<p>Rothco's Canvas Dual Compartment Travel Kit is the ultimate solution for keeping your toiletries organized and easily accessible on the go. Constructed with a durable heavyweight cotton canvas material, this travel bag is built to last, ensuring years of reliable use. The kit features dual zippered compartments, providing ample space for organizing toiletries, grooming essentials, and more. Each compartment is lined with plastic, making it easy to clean and maintain. Measuring 8.5 inches by 7.5 inches by 5 inches, this compact travel kit fits perfectly into your luggage without taking up too much space. Whether you are heading out for a weekend getaway or an extended trip, Rothco's Dual Compartment Travel Kit keeps your essentials neatly organized and readily accessible. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "212",
+    "574",
+    "397"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10590",
+      "item_index": "1300",
+      "rothco_item_no": "9126",
+      "upc": "613902912601",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7000",
+      "image_filename": "9126_B-OD.jpg",
+      "catalog_page_no": "351",
+      "msrp": 15.99,
+      "ship_length": "12.2500",
+      "ship_width": "8.5000",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 5.95,
+      "case_price": 5.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10591",
+      "item_index": "1300",
+      "rothco_item_no": "9126",
+      "upc": "613902912618",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7000",
+      "image_filename": "9126_B-BK_HR1.jpg",
+      "catalog_page_no": "351",
+      "msrp": 15.99,
+      "ship_length": "12.2500",
+      "ship_width": "8.5000",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 5.95,
+      "case_price": 5.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21718",
+      "item_index": "1300",
+      "rothco_item_no": "9126",
+      "upc": "613902014787",
+      "inventory": "99",
+      "created_date": "2022-04-05 12:00:21",
+      "weight": "0.7000",
+      "image_filename": "9126-A.jpg",
+      "catalog_page_no": "351",
+      "msrp": 15.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 5.95,
+      "case_price": 5.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

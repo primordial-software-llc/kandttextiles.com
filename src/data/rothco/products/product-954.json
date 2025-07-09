@@ -1,0 +1,93 @@
+{
+  "item_index": "954",
+  "item_name": "Lincoln U.S.M.C. Stain Wax Shoe Polish",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Revitalize your leather shoes with Lincoln U.S.M.C. Stain Wax Shoe Polish. This premium polish is specially formulated to deliver a brilliant shine while providing essential nourishment and protection to your leather footwear. The wax blend not only enhances the appearance of your shoes but also adds a waterproof layer, ensuring they remain pristine even in wet conditions. Housed in a convenient snap open can, accessing the wax is quick and effortless, making it ideal for on-the-go use.</p>",
+  "no_ratings": "0",
+  "sort_order": "2599",
+  "description": "<p>Revitalize your leather shoes with Lincoln U.S.M.C. Stain Wax Shoe Polish. This premium polish is specially formulated to deliver a brilliant shine while providing essential nourishment and protection to your leather footwear. The wax blend not only enhances the appearance of your shoes but also adds a waterproof layer, ensuring they remain pristine even in wet conditions. Housed in a convenient snap open can, accessing the wax is quick and effortless, making it ideal for on-the-go use. The polish stays fresh indefinitely, provided the lid is tightly secured after each use. Proudly made in the U.S.A. and issued by the U.S.M.C., this shoe polish guarantees top-tier quality and performance. With Lincoln U.S.M.C. Stain Wax Shoe Polish, you can effortlessly achieve the perfect &lsquo;spit shine&rsquo; look. Whether you're preparing for a formal event or maintaining your daily footwear, this polish ensures your shoes always look their best. Upgrade your shoe care routine with this reliable and effective wax polish, designed to meet the highest standards of quality and performance.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "362"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "69",
+      "item_index": "954",
+      "rothco_item_no": "10110",
+      "upc": "758202101116",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3000",
+      "image_filename": "10110-HR1.jpg",
+      "catalog_page_no": "184",
+      "msrp": 11.99,
+      "ship_length": "3.5000",
+      "ship_width": "3.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 4.75,
+      "case_price": 4.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15293",
+      "item_index": "954",
+      "rothco_item_no": "20110",
+      "upc": "758202101192",
+      "inventory": "99",
+      "created_date": "2015-04-17 13:10:01",
+      "weight": "0.3000",
+      "image_filename": "20110-A3.jpg",
+      "catalog_page_no": "184",
+      "msrp": 11.99,
+      "ship_length": "3.5000",
+      "ship_width": "3.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Neutral"
+      },
+      "color": "Neutral",
+      "price": 4.75,
+      "case_price": 4.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20756",
+      "item_index": "954",
+      "rothco_item_no": "30110",
+      "upc": "758202101130",
+      "inventory": "99",
+      "created_date": "2021-06-10 12:00:15",
+      "weight": "0.3000",
+      "image_filename": "30110-A-no-logo1.jpg",
+      "catalog_page_no": "184",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Brown"
+      },
+      "color": "Brown",
+      "price": 4.75,
+      "case_price": 4.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

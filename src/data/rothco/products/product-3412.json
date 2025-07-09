@@ -1,0 +1,94 @@
+{
+  "item_index": "3412",
+  "item_name": "Rothco Base Jump Helmet",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Gear up with Rothco's Base Jump Helmet, crafted from durable yet lightweight ABS plastic. Its construction maintains comfort, with removable memory foam cushions enhancing the wearer's experience. This helmet features two 4-position side rails for accessory attachment, allowing users to customize their gear with lights, cameras, or night vision devices. The adjustable suspender straps and chin/neck pad provide a secure and comfortable fit for all-day wear.</p>",
+  "no_ratings": null,
+  "sort_order": "2412",
+  "description": "<p>Gear up with Rothco's Base Jump Helmet, crafted from durable yet lightweight ABS plastic. Its construction maintains comfort, with removable memory foam cushions enhancing the wearer's experience. This helmet features two 4-position side rails for accessory attachment, allowing users to customize their gear with lights, cameras, or night vision devices. The adjustable suspender straps and chin/neck pad provide a secure and comfortable fit for all-day wear. Additionally, the helmet comes with a fully customizable 7-piece loop kit with adhesive backing, enabling users to attach patches or illuminators as desired. Perfect for outdoor enthusiasts, this tactical helmet is designed to meet the demands of various activities. One size fits most, ensuring a versatile fit for a wide range of users.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "240",
+    "332"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12596",
+      "item_index": "3412",
+      "rothco_item_no": "1894",
+      "upc": "613902189492",
+      "inventory": "99",
+      "created_date": "2013-07-08 16:52:02",
+      "weight": "2.1000",
+      "image_filename": "1894-Coyote-A-Amazon.jpg",
+      "catalog_page_no": "257",
+      "msrp": 98.99,
+      "ship_length": "11.0000",
+      "ship_width": "9.0000",
+      "ship_height": "7.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 44.95,
+      "case_price": 44.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12597",
+      "item_index": "3412",
+      "rothco_item_no": "1894",
+      "upc": "613902189409",
+      "inventory": "99",
+      "created_date": "2013-07-08 16:52:02",
+      "weight": "2.1000",
+      "image_filename": "1894-od-A-HR-amazon.jpg",
+      "catalog_page_no": "257",
+      "msrp": 98.99,
+      "ship_length": "11.0000",
+      "ship_width": "9.0000",
+      "ship_height": "7.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 44.95,
+      "case_price": 44.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15431",
+      "item_index": "3412",
+      "rothco_item_no": "1894",
+      "upc": "613902189447",
+      "inventory": "99",
+      "created_date": "2015-05-13 17:10:02",
+      "weight": "2.1000",
+      "image_filename": "1894-Black-A-amazon1.jpg",
+      "catalog_page_no": "257",
+      "msrp": 98.99,
+      "ship_length": "11.0000",
+      "ship_width": "9.0000",
+      "ship_height": "7.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 44.95,
+      "case_price": 44.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

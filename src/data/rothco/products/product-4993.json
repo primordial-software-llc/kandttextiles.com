@@ -1,0 +1,70 @@
+{
+  "item_index": "4993",
+  "item_name": "Rothco Rechargeable 600 Lumen Led Headlamp",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Rechargeable 600 Lumen LED Headlamp is your go-to headlamp for work, camping, hiking, and emergency situations, with a convenient motion sensor that enables hands-free illumination. This headlamp has been carefully engineered for lengthy excursions; the lightweight design, 3-way head strap, and 90-degree tilt help distribute weight and reduce neck fatigue. The LED headlamp features 5 light modes: High, low, red, lantern, and strobe. A central CPE LED light and 2 COB LED side lights provide a wide range of illumination.</p>",
+  "no_ratings": null,
+  "sort_order": "133306",
+  "description": "<p>Rothco&rsquo;s Rechargeable 600 Lumen LED Headlamp is perfect for work and the great outdoors with a convenient motion sensor that enables hands-free illumination. The LED headlamp features 5 light modes: High, low, red, lantern, and strobe. A central CPE LED light and 2 COB LED side lights provide a wide range of illumination. 90-degree tiltability on the headlamp flashlight helps reduce head fatigue. The lightweight headlamp features a high-quality ABS plastic body and has a 3-6-hour runtime (Micro USB charging cable included). The powerful 600 lumen headlamp shines for about 150 feet (50 meters) on high mode and features a 3-way head strap that is comfortable on bare heads and compatible with hard hats. The Flashlight headlamp measures 3 inches X 2 inches X 1.5 inches and is IP4X water and dust-resistant.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "310",
+    "473"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "22508",
+      "item_index": "4993",
+      "rothco_item_no": "28560",
+      "upc": "613902024267",
+      "inventory": "99",
+      "created_date": "2022-12-08 13:00:27",
+      "weight": "0.0000",
+      "image_filename": "28560-A.jpg",
+      "catalog_page_no": "278",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22509",
+      "item_index": "4993",
+      "rothco_item_no": "28561",
+      "upc": "613902024274",
+      "inventory": "99",
+      "created_date": "2022-12-08 13:00:27",
+      "weight": "0.0000",
+      "image_filename": "28561-A.jpg",
+      "catalog_page_no": "278",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "item_index": "4407",
+  "item_name": "Rothco Tactical Utility Oxford Shoe - 4.75 Inch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Tactical Utility Oxford Shoe is designed for those who demand both durability and comfort in their footwear. Featuring a 4.75-inch height, these tactical shoes are crafted with an action leather upper that provides long-lasting wear and a sleek, professional appearance. The comfortable rubber sole includes a slip-resistant cupsole, offering reliable traction on various surfaces, making these uniform shoes perfect for both indoor and outdoor use.</p>",
+  "no_ratings": null,
+  "sort_order": "132720",
+  "description": "<p>Rothco&rsquo;s Tactical Utility Oxford Shoe is designed for those who demand both durability and comfort in their footwear. Featuring a 4.75-inch height, these tactical shoes are crafted with an action leather upper that provides long-lasting wear and a sleek, professional appearance. The comfortable rubber sole includes a slip-resistant cupsole, offering reliable traction on various surfaces, making these uniform shoes perfect for both indoor and outdoor use. Inside, a steel shank provides extra support and stability, while the perspiration-absorbing Cambrelle lining keeps your feet dry and comfortable throughout the day. For added convenience, the shoes come with removable insoles, allowing you to customize your comfort level. The rustproof hardware ensures longevity, and the padded collars, along with an air mesh tongue, enhance comfort and breathability. Designed with precision and built to withstand the harshest conditions, Rothco's collection of footwear and accessories combines durability, functionality, and unparalleled performance. From our Forced Entry Series which features our speedlace and waterproof technologies, to our V-Max Collection designed with lightweight running shoe soles, our diverse range of footwear provides unmatched comfort and protection for everyone from military personnel to outdoor enthusiasts. With a rich heritage spanning over 7 decades, Rothco is the go-to brand for all things that keep you standing on your feet.</p>",
+  "selection_groups": [
+    "shoe_size",
+    "width"
+  ],
+  "statuses": "",
+  "categories": [
+    "355"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17950",
+      "item_index": "4407",
+      "rothco_item_no": "5116",
+      "upc": "613902151161",
+      "inventory": "20",
+      "created_date": "2017-12-06 14:10:02",
+      "weight": "3.5000",
+      "image_filename": "5116-A-amazon1.jpg",
+      "catalog_page_no": "0",
+      "msrp": 67.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "shoe_size": "5.5",
+        "width": "Regular",
+        "color": "Black"
+      },
+      "shoe_size": "5.5",
+      "width": "Regular",
+      "color": "Black",
+      "price": 26.9,
+      "case_price": 26.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17952",
+      "item_index": "4407",
+      "rothco_item_no": "5116",
+      "upc": "613902650404",
+      "inventory": "20",
+      "created_date": "2017-12-06 14:10:02",
+      "weight": "3.5000",
+      "image_filename": "5116-A-amazon1.jpg",
+      "catalog_page_no": "0",
+      "msrp": 67.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "shoe_size": "6.5",
+        "width": "Regular",
+        "color": "Black"
+      },
+      "shoe_size": "6.5",
+      "width": "Regular",
+      "color": "Black",
+      "price": 26.9,
+      "case_price": 26.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

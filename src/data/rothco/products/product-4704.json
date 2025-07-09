@@ -1,0 +1,69 @@
+{
+  "item_index": "4704",
+  "item_name": "Rothco Tactical Insulated Beverage Holder",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Elevate your outdoor adventures or casual hangouts with Rothco's Tactical Insulated Beverage Holder. Crafted with foam insulation, this beverage holder is designed to keep your drinks ice-cold, ensuring that every sip is as refreshing as the first. The loop field on the exterior allows you to personalize your holder with any morale or flag patch, adding a touch of individuality to your tactical gear. Equipped with MOLLE straps, this holder can be easily attached to your outdoor backpack or tactical belt.</p>",
+  "no_ratings": null,
+  "sort_order": "133017",
+  "description": "<p>Elevate your outdoor adventures or casual hangouts with Rothco's Tactical Insulated Beverage Holder. Crafted with foam insulation, this beverage holder is designed to keep your drinks ice-cold, ensuring that every sip is as refreshing as the first. The loop field on the exterior allows you to personalize your holder with any morale or flag patch, adding a touch of individuality to your tactical gear. Equipped with MOLLE straps, this holder can be easily attached to your outdoor backpack or tactical belt, making it a must-have for camping trips, tailgating, or just chilling with friends. The grommet hole at the bottom ensures efficient drainage, keeping your beverage holder dry and ready for the next can. Designed to fit most 12-ounce cans, Rothco's Tactical Insulated Beverage Holder is the perfect companion for those who demand functionality and style in one package.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "403"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19692",
+      "item_index": "4704",
+      "rothco_item_no": "1297",
+      "upc": "613902912977",
+      "inventory": "99",
+      "created_date": "2020-06-26 12:00:08",
+      "weight": "0.3125",
+      "image_filename": "1297-BLACK-A-AMAZON.jpg",
+      "catalog_page_no": "288",
+      "msrp": 8.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 3.25,
+      "case_price": 3.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19693",
+      "item_index": "4704",
+      "rothco_item_no": "1297",
+      "upc": "613902812970",
+      "inventory": "99",
+      "created_date": "2020-06-26 12:00:08",
+      "weight": "0.3125",
+      "image_filename": "1297-COYOTE-A-AMAZON.jpg",
+      "catalog_page_no": "288",
+      "msrp": 8.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 3.25,
+      "case_price": 3.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

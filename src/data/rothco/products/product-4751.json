@@ -1,0 +1,70 @@
+{
+  "item_index": "4751",
+  "item_name": "XMRE Blue Line Meals -12 Pack",
+  "has_restrictions": "1",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>XMRE Blue Line Meals provide 800 &ndash; 1,200 calories of high-quality shelf-stable (36 months) food portions that are perfect for preppers, survivalists, camping enthusiasts, and more.</p>",
+  "no_ratings": null,
+  "sort_order": "133064",
+  "description": "<p>XMRE Blue Line Meals provide 800 &ndash; 1,200 calories of high-quality shelf stable (36 months) food portions that are perfect for preppers, survivalists, camping enthusiasts, and more.</p>",
+  "selection_groups": [
+    "heaters"
+  ],
+  "statuses": "",
+  "categories": [
+    "542",
+    "258"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19957",
+      "item_index": "4751",
+      "rothco_item_no": "9212",
+      "upc": "857548005017",
+      "inventory": "99",
+      "created_date": "2020-10-22 10:00:25",
+      "weight": "0.0000",
+      "image_filename": "9213-A-NOLOGO.jpg",
+      "catalog_page_no": "294",
+      "msrp": 267.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "heaters": "Without Heaters"
+      },
+      "heaters": "Without Heaters",
+      "price": 106.9,
+      "case_price": 106.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19958",
+      "item_index": "4751",
+      "rothco_item_no": "9213",
+      "upc": "857548005000",
+      "inventory": "85",
+      "created_date": "2020-10-22 10:00:25",
+      "weight": "15.0000",
+      "image_filename": "9213-A-NOLOGO.jpg",
+      "catalog_page_no": "294",
+      "msrp": 284.99,
+      "ship_length": "15.7500",
+      "ship_width": "9.5000",
+      "ship_height": "10.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "heaters": "With Heaters"
+      },
+      "heaters": "With Heaters",
+      "price": 113.95,
+      "case_price": 113.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

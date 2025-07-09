@@ -1,0 +1,94 @@
+{
+  "item_index": "2379",
+  "item_name": "Rothco Thermal Boot Socks",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Thermal Boot Socks are the ultimate choice for those who need to keep their feet warm and comfortable in extreme cold weather. Crafted with a heavyweight blend of cotton and nylon, these winter socks are designed to retain heat, making them ideal for outdoor activities like hunting, hiking, and fishing. The durable material ensures that your feet stay cozy, even in the harshest conditions. These thermal boot socks are not only built to last but are also made in the USA, offering high quality and reliability.</p>",
+  "no_ratings": "0",
+  "sort_order": "1749",
+  "description": "<p>Rothco's Thermal Boot Socks are the ultimate choice for those who need to keep their feet warm and comfortable in extreme cold weather. Crafted with a heavyweight blend of cotton and nylon, these winter socks are designed to retain heat, making them ideal for outdoor activities like hunting, hiking, and fishing. The durable material ensures that your feet stay cozy, even in the harshest conditions. These thermal boot socks are not only built to last but are also made in the USA, offering high quality and reliability. With a design focused on warmth and comfort, Rothco's Thermal Boot Socks are a must-have addition to your cold-weather gear, providing the insulation and cushioning you need to tackle the outdoors with confidence.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "408",
+    "410"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "6108",
+      "item_index": "2379",
+      "rothco_item_no": "6113",
+      "upc": "613902611306",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2250",
+      "image_filename": "6113-HR1.jpg",
+      "catalog_page_no": "182",
+      "msrp": 10.99,
+      "ship_length": "9.0000",
+      "ship_width": "4.2500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki"
+      },
+      "color": "Khaki",
+      "price": 4.2,
+      "case_price": 4.2,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6170",
+      "item_index": "2379",
+      "rothco_item_no": "6150",
+      "upc": "613902615007",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2250",
+      "image_filename": "6150-B2.jpg",
+      "catalog_page_no": "182",
+      "msrp": 10.99,
+      "ship_length": "9.0000",
+      "ship_width": "4.2500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 4.2,
+      "case_price": 4.2,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6183",
+      "item_index": "2379",
+      "rothco_item_no": "6152",
+      "upc": "613902615205",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2250",
+      "image_filename": "6152-B1.jpg",
+      "catalog_page_no": "182",
+      "msrp": 10.99,
+      "ship_length": "9.0000",
+      "ship_width": "4.2500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 4.2,
+      "case_price": 4.2,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

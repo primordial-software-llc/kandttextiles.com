@@ -1,0 +1,118 @@
+{
+  "item_index": "2859",
+  "item_name": "Rothco Hook and Loop Inner Duty Belt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Hook &amp; Loop Inner Duty Belt provides essential support for law enforcement and public safety personnel. With a full-length hook &amp; loop closure, it securely attaches to your tactical duty belt, reinforcing your loadout for optimal performance. This belt is fully adjustable and available in 3 different size ranges, accommodating a variety of body types for a comfortable fit. Measuring 1.5 inches wide, it fits most standard-sized belt loops, ensuring compatibility with a range of tactical gear.</p>",
+  "no_ratings": null,
+  "sort_order": "3283",
+  "description": "<p>Rothco&rsquo;s Hook &amp; Loop Inner Duty Belt provides essential support for law enforcement and public safety personnel. With a full-length hook &amp; loop closure, it securely attaches to your tactical duty belt, reinforcing your loadout for optimal performance. This belt is fully adjustable and available in 3 different size ranges, accommodating a variety of body types for a comfortable fit. Measuring 1.5 inches wide, it fits most standard-sized belt loops, ensuring compatibility with a range of tactical gear. Designed to complement Rothco&rsquo;s Deluxe Triple Retention Duty Belt, this inner belt enhances stability and ensures your gear stays securely in place during demanding situations. Invest in Rothco&rsquo;s Hook &amp; Loop Inner Duty Belt for a reliable foundation for your duty gear.</p>",
+  "selection_groups": [
+    "waist_size"
+  ],
+  "statuses": "",
+  "categories": [
+    "238",
+    "383"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "332",
+      "item_index": "2859",
+      "rothco_item_no": "10677",
+      "upc": "613902106772",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "10677-A1.jpg",
+      "catalog_page_no": "228",
+      "msrp": 11.99,
+      "ship_length": "17.0000",
+      "ship_width": "2.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "waist_size": "32 - 38"
+      },
+      "waist_size": "32 - 38",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "333",
+      "item_index": "2859",
+      "rothco_item_no": "10677",
+      "upc": "613902107779",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "10677-A1.jpg",
+      "catalog_page_no": "228",
+      "msrp": 11.99,
+      "ship_length": "18.5000",
+      "ship_width": "2.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "waist_size": "40 - 44"
+      },
+      "waist_size": "40 - 44",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "334",
+      "item_index": "2859",
+      "rothco_item_no": "10677",
+      "upc": "613902107878",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "10677-A1.jpg",
+      "catalog_page_no": "228",
+      "msrp": 11.99,
+      "ship_length": "23.5000",
+      "ship_width": "2.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "waist_size": "46 - 50"
+      },
+      "waist_size": "46 - 50",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21685",
+      "item_index": "2859",
+      "rothco_item_no": "10667",
+      "upc": "613902011960",
+      "inventory": "99",
+      "created_date": "2022-03-24 15:00:30",
+      "weight": "0.3750",
+      "image_filename": "10677-A1.jpg",
+      "catalog_page_no": null,
+      "msrp": 12.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "waist_size": "52 - 56"
+      },
+      "waist_size": "52 - 56",
+      "price": 5,
+      "case_price": 5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "item_index": "4568",
+  "item_name": "Rothco Kids US Flag T-Shirt ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>We took our popular US Flag t-shirt and made it kid-size!</p>",
+  "no_ratings": null,
+  "sort_order": "132881",
+  "description": "<p>Rothco's Kids US Flag T-Shirt is made from a soft cotton/polyester material and features a distressed US flag graphic on the front along with a smaller US flag print on the right sleeve. Perfect for school, sports or any occasion!</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "42",
+    "44",
+    "640",
+    "121"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19066",
+      "item_index": "4568",
+      "rothco_item_no": "2854",
+      "upc": "613902228542",
+      "inventory": "76",
+      "created_date": "2019-05-28 10:10:00",
+      "weight": "0.2500",
+      "image_filename": "2854-A-NOLOGO.jpg",
+      "catalog_page_no": "135",
+      "msrp": 13.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Black"
+      },
+      "size": "M",
+      "color": "Black",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19067",
+      "item_index": "4568",
+      "rothco_item_no": "2854",
+      "upc": "613902328549",
+      "inventory": "68",
+      "created_date": "2019-05-28 10:10:00",
+      "weight": "0.2500",
+      "image_filename": "2854-A-NOLOGO.jpg",
+      "catalog_page_no": "135",
+      "msrp": 13.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Black"
+      },
+      "size": "L",
+      "color": "Black",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19068",
+      "item_index": "4568",
+      "rothco_item_no": "2854",
+      "upc": "613902428546",
+      "inventory": "38",
+      "created_date": "2019-05-28 10:10:00",
+      "weight": "0.2500",
+      "image_filename": "2854-A-NOLOGO.jpg",
+      "catalog_page_no": "135",
+      "msrp": 13.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Black"
+      },
+      "size": "XL",
+      "color": "Black",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19071",
+      "item_index": "4568",
+      "rothco_item_no": "2854",
+      "upc": "613902128545",
+      "inventory": "29",
+      "created_date": "2019-05-28 10:10:00",
+      "weight": "0.2500",
+      "image_filename": "2854-A-NOLOGO.jpg",
+      "catalog_page_no": "135",
+      "msrp": 13.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Black"
+      },
+      "size": "S",
+      "color": "Black",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

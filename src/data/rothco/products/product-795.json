@@ -1,0 +1,40 @@
+{
+  "item_index": "795",
+  "item_name": "Rothco Genuine G.I. Earplugs",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's ear protection set, comprising two ultra-soft hypoallergenic silicone earplugs designed for maximum comfort and protection. With a noise reduction rating of 25 decibels, these earplugs offer&nbsp; defense against loud environments. Their three ultra-thin flanges ensure a snug fit while minimizing pressure on the inner ear.&nbsp;Plus, their reusable design allows for easy maintenance by simply washing in warm, soapy water, without compromising on flexibility or protective capabilities.</p>",
+  "no_ratings": "0",
+  "sort_order": "995",
+  "description": "<p>Rothco's ear protection set, comprising two ultra-soft hypoallergenic silicone earplugs designed for maximum comfort and protection. With a noise reduction rating of 25 decibels, these earplugs offer&nbsp; defense against loud environments. Their three ultra-thin flanges ensure a snug fit while minimizing pressure on the inner ear.&nbsp;Plus, their reusable design allows for easy maintenance by simply washing in warm, soapy water, without compromising on flexibility or protective capabilities.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "252"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3651",
+      "item_index": "795",
+      "rothco_item_no": "4700",
+      "upc": "662728091021",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0250",
+      "image_filename": "4700-C.jpg",
+      "catalog_page_no": "263",
+      "msrp": "3.99",
+      "ship_length": "1.5000",
+      "ship_width": "2.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": null,
+      "statuses": ""
+    }
+  ]
+}

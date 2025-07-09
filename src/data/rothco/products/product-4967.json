@@ -1,0 +1,45 @@
+{
+  "item_index": "4967",
+  "item_name": "Rothco Deluxe Embroidered Watch Cap - Army",
+  "has_restrictions": "1",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Add rugged style to your cold-weather gear with Rothco&rsquo;s Deluxe Embroidered Watch Cap. Designed for warmth and comfort, this durable knit cap features bold embroidered ARMY lettering, while keeping you covered in harsh conditions. Perfect for tactical use, outdoor adventures, or everyday wea</p>\n<p>&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133280",
+  "description": "<p>Add rugged style to your cold-weather gear with Rothco&rsquo;s Deluxe Embroidered Watch Cap. Designed for warmth and comfort, this durable knit cap features bold embroidered ARMY lettering, while keeping you covered in harsh conditions. Perfect for tactical use, outdoor adventures, or everyday wea</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "367"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "4954",
+      "item_index": "4967",
+      "rothco_item_no": "5445",
+      "upc": "613902544505",
+      "inventory": "99",
+      "created_date": "2008-06-11 21:00:00",
+      "weight": "0.1813",
+      "image_filename": "5445-A1.jpg",
+      "catalog_page_no": "157",
+      "msrp": 13.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "emblem": "Army",
+        "color": "Black"
+      },
+      "emblem": "Army",
+      "color": "Black",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

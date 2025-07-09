@@ -1,0 +1,47 @@
+{
+  "item_index": "2788",
+  "item_name": "Rothco Deluxe Heavyweight PVC Rainsuit",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay dry and protected in harsh weather with Rothco&rsquo;s Deluxe Heavyweight PVC Rainsuit. Made from a heavy-duty gauge PVC material, this rainsuit is designed to keep you fully covered and shielded from rain, wind, and moisture during outdoor work or activities. The jacket features a front zipper with a storm flap for additional water resistance, along with a drawstring hood that offers full head coverage and an adjustable fit. The bib-style bottoms provide complete lower body protection and include adjustable straps to ensure comfort.</p>",
+  "no_ratings": "0",
+  "sort_order": "399",
+  "description": "<p>Stay dry and protected in harsh weather with Rothco&rsquo;s Deluxe Heavyweight PVC Rainsuit. Made from a heavy-duty gauge PVC material, this rainsuit is designed to keep you fully covered and shielded from rain, wind, and moisture during outdoor work or activities. The jacket features a front zipper with a storm flap for additional water resistance, along with a drawstring hood that offers full head coverage and an adjustable fit. The bib-style bottoms provide complete lower body protection and include adjustable straps to ensure comfort and a secure fit. Reinforced seams add extra durability, ensuring the suit stands up to heavy wear and tear. Ideal for outdoor work, hiking, camping, or any activity in wet conditions, Rothco's Deluxe Heavyweight Rainsuit is your go-to for staying dry when the weather turns bad.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "192"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2396",
+      "item_index": "2788",
+      "rothco_item_no": "3621",
+      "upc": "613902362109",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "6.7500",
+      "image_filename": "3620-RIGHT-D.jpg",
+      "catalog_page_no": "95",
+      "msrp": 89.99,
+      "ship_length": "14.5000",
+      "ship_width": "10.2500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL",
+        "color": "Yellow"
+      },
+      "size": "2XL",
+      "color": "Yellow",
+      "price": 35.9,
+      "case_price": 35.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

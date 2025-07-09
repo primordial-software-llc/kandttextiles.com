@@ -1,0 +1,119 @@
+{
+  "item_index": "358",
+  "item_name": "Rothco Mini Army Style Flashlight",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Mini Flashlight is a dependable tool for various outdoor tasks. Crafted from high-impact plastic, the camping flashlight is lightweight and waterproof. Equipped with a multi-mode switch and a signal button for Morse code, the flashlight allows you to make survival signals during emergencies. The flashlight includes 4 filter lenses in red, blue, yellow, or green stored conveniently in the bottom section. In addition, the survival tool features a spare bulb tucked under the battery spring for emergency situations.</p>",
+  "no_ratings": "0",
+  "sort_order": "4839",
+  "description": "<p>Rothco&rsquo;s Mini Flashlight is a dependable tool for various outdoor tasks. Crafted from high-impact plastic, the camping flashlight is lightweight and waterproof. Equipped with a multi-mode switch and a signal button for Morse code, the flashlight allows you to make survival signals during emergencies. The flashlight includes 4 filter lenses in red, blue, yellow, or green stored conveniently in the bottom section. In addition, the survival tool features a spare bulb tucked under the battery spring for emergency situations. With a metal ring and belt clip, the flashlight easily attaches to outdoor gear or belts, making it an essential addition to your collection or bug out bag.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "470",
+    "274"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1892",
+      "item_index": "358",
+      "rothco_item_no": "322",
+      "upc": "613902003224",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1850",
+      "image_filename": "322-HR1.jpg",
+      "catalog_page_no": "277",
+      "msrp": 11.99,
+      "ship_length": "6.5000",
+      "ship_width": "2.2500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1904",
+      "item_index": "358",
+      "rothco_item_no": "324",
+      "upc": "613902032408",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1850",
+      "image_filename": "324_BIG.JPG",
+      "catalog_page_no": "277",
+      "msrp": 10.99,
+      "ship_length": "6.5000",
+      "ship_width": "2.2500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1910",
+      "item_index": "358",
+      "rothco_item_no": "325",
+      "upc": "613902003255",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1850",
+      "image_filename": "325_BIG.JPG",
+      "catalog_page_no": "277",
+      "msrp": 10.99,
+      "ship_length": "6.5000",
+      "ship_width": "2.2500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2941",
+      "item_index": "358",
+      "rothco_item_no": "423",
+      "upc": "613902042308",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1850",
+      "image_filename": "423-HR1.jpg",
+      "catalog_page_no": "277",
+      "msrp": 10.99,
+      "ship_length": "6.5000",
+      "ship_width": "2.2500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "item_index": "4861",
+  "item_name": "Smith & Wesson EMT Watch (sww-455-emt)",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Slide your hand into the bold style and sophistication of the Smith &amp; Wesson EMS / EMT Watch that features a round blue face with the EMT and Smith &amp; Wesson logos and a nylon wristband.</p>",
+  "no_ratings": null,
+  "sort_order": "133174",
+  "description": "<p>Slide your hand into the bold style and sophistication of the Smith &amp; Wesson EMS / EMT Watch that features a round blue face with the EMT and Smith &amp; Wesson logos and a nylon wristband.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "513"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20890",
+      "item_index": "4861",
+      "rothco_item_no": "43120",
+      "upc": "810112981285",
+      "inventory": "20",
+      "created_date": "2021-07-27 14:00:07",
+      "weight": "0.2625",
+      "image_filename": "43120-B-no-logo.jpg",
+      "catalog_page_no": "205",
+      "msrp": 93.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 37.5,
+      "case_price": 37.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

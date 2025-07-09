@@ -1,0 +1,75 @@
+{
+  "item_index": "5171",
+  "item_name": "Rothco X Bear Archery Fred Bear Camo Canvas Shoulder Duffle Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "https://www.youtube.com/watch?v=-WS0355Q-hw",
+  "rating": "5",
+  "item_short_desc": "<p>Embark on any adventure with the Rothco X Bear Archery Fred Bear Camo Canvas Shoulder Duffle Bag, a powerhouse of functionality and style. The hunting duffle bag features a large main compartment and an exterior zipper pocket, providing ample storage space for hunting accessories, clothing, outdoor gear, and emergency essentials. The main compartment comes equipped with a two-way zipper closure for quick, full access to your bow hunting gear.</p>",
+  "no_ratings": null,
+  "sort_order": "133412",
+  "description": "<p>Embark on any adventure with the Rothco X Bear Archery Fred Bear Camo Canvas Shoulder Duffle Bag, a powerhouse of functionality and style. The hunting duffle bag features a large main compartment and an exterior zipper pocket, providing ample storage space for hunting accessories, clothing, outdoor gear, and emergency essentials. The main compartment comes equipped with a two-way zipper closure for quick, full access to your bow hunting gear. Two Iconic Brands Unite: In collaboration with Bear Archery, the revered Fred Bear camouflage pattern comes to life through Rothco&rsquo;s legendary apparel, gear, and accessories, including our Canvas Shoulder Duffle Bag. Each item in the Fred Bear Camouflage collection has been crafted using the iconic Fred Bear camo pattern. Carry Options: The canvas duffle bag features a removable and adjustable shoulder strap and dual web carry handles for a comfortable carry. The grab handle at the end provides quick and easy handling for when you are on the hunt. Multiple Sizes Available: These bow hunting duffle bags come in 2 sizes: 19 inch x 9 inch (20 Liter Capacity) and 24 inch x 12 inch (44 Liter Capacity). Action &amp; Adventure Ready: Whether you&rsquo;re out hunting or camping in the woods, the canvas shoulder bag ensures your possessions are safe and secure. The camo duffle bag is great for hunters, bow-fishers, campers, travelers, gym-goers, commuters, everyday use, and more. Top Grade Canvas: Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul, allowing the hunting shoulder bag to withstand outdoor adventures. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "736",
+    "2",
+    "215"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "30176",
+      "item_index": "5171",
+      "rothco_item_no": "22213",
+      "upc": "613902049079",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "1.3500",
+      "image_filename": "22213-A.jpg",
+      "catalog_page_no": "332",
+      "msrp": 28.99,
+      "ship_length": "17.0000",
+      "ship_width": "9.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Fred Bear Camo",
+        "size": "19 Inches"
+      },
+      "color": "Fred Bear Camo",
+      "size": "19 Inches",
+      "price": 12.95,
+      "case_price": 12.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30181",
+      "item_index": "5171",
+      "rothco_item_no": "22244",
+      "upc": "613902049130",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "1.7000",
+      "image_filename": "22213-A.jpg",
+      "catalog_page_no": "332",
+      "msrp": 35.99,
+      "ship_length": "20.0000",
+      "ship_width": "12.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Fred Bear Camo",
+        "size": "24 Inches"
+      },
+      "color": "Fred Bear Camo",
+      "size": "24 Inches",
+      "price": 15.95,
+      "case_price": 15.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "item_index": "780",
+  "item_name": "Rothco Boomerang",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Experience endless outdoor fun with Rothco&rsquo;s Wooden Boomerang! Unlike a Frisbee, this traditional boomerang is designed to return to you with every throw, adding a magical twist to your activities. Measuring approximately 17 &frac34; inches x 7 inches, it&rsquo;s the perfect size for both children and adults, offering easy handling and precision. Made from high-quality wood, Rothco&rsquo;s Boomerang is crafted for durability in all weather conditions, ensuring it can be used year-round.</p>",
+  "no_ratings": "0",
+  "sort_order": "684",
+  "description": "<p>Experience endless outdoor fun with Rothco&rsquo;s Wooden Boomerang! Unlike a Frisbee, this traditional boomerang is designed to return to you with every throw, adding a magical twist to your activities. Measuring approximately 17 &frac34; inches x 7 inches, it&rsquo;s the perfect size for both children and adults, offering easy handling and precision. Made from high-quality wood, Rothco&rsquo;s Boomerang is crafted for durability in all weather conditions, ensuring it can be used year-round. Whether you&rsquo;re at the park, the beach, or your own backyard, this boomerang provides hours of engaging entertainment. Ideal for outdoor play, the wooden construction offers a unique flying experience, combining fun and skill for users of all ages. It&rsquo;s a great way to stay active, enjoy the outdoors, and challenge yourself or your friends with every throw.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "231"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "506",
+      "item_index": "780",
+      "rothco_item_no": "11586",
+      "upc": "613902115866",
+      "inventory": "99",
+      "created_date": "2002-05-29 21:00:00",
+      "weight": "0.2200",
+      "image_filename": "11586-C.jpg",
+      "catalog_page_no": "266",
+      "msrp": 15.99,
+      "ship_length": "18.0000",
+      "ship_width": "7.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

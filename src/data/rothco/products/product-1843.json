@@ -1,0 +1,40 @@
+{
+  "item_index": "1843",
+  "item_name": "Rothco Hip Holster",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Adjustable Front Snap Holster is designed to fit 4&rdquo; and 5&rdquo; autos, including Beretta 92, Colt, and Glock models. Featuring a vinyl-lined interior to protect your firearm and an adjustable snap closure for secure, easy access, this holster is perfect for tactical or everyday use.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "830",
+  "description": "<p>Rothco's Adjustable Front Snap Holster is designed to fit 4&rdquo; and 5&rdquo; autos, including Beretta 92, Colt, and Glock models. Featuring a vinyl-lined interior to protect your firearm and an adjustable snap closure for secure, easy access, this holster is perfect for tactical or everyday use.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "251"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "268",
+      "item_index": "1843",
+      "rothco_item_no": "10544",
+      "upc": "613902054400",
+      "inventory": "99",
+      "created_date": "2002-06-19 21:00:00",
+      "weight": "0.2100",
+      "image_filename": "10544-a.jpg",
+      "catalog_page_no": "230",
+      "msrp": 15.99,
+      "ship_length": "8.0000",
+      "ship_width": "4.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 5.95,
+      "case_price": 5.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

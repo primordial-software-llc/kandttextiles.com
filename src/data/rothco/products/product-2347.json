@@ -1,0 +1,94 @@
+{
+  "item_index": "2347",
+  "item_name": "Rothco Fingerless Wool Gloves",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay warm and ready with Rothco's US-made wool fingerless gloves. Crafted from a blend of 70% wool and 30% nylon, they offer exceptional warmth without sacrificing dexterity. Perfect for outdoor tasks like hunting or fishing, these gloves feature a fingerless design for easy grip and versatility. Wear them alone or as glove liners for added warmth. Proudly made in the USA.</p>",
+  "no_ratings": "0",
+  "sort_order": "6555",
+  "description": "<p>Stay warm and ready with Rothco's US-made wool fingerless gloves. Crafted from a blend of 70% wool and 30% nylon, they offer exceptional warmth without sacrificing dexterity. Perfect for outdoor tasks like hunting or fishing, these gloves feature a fingerless design for easy grip and versatility. Wear them alone or as glove liners for added warmth. Proudly made in the USA.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "318",
+    "319"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9634",
+      "item_index": "2347",
+      "rothco_item_no": "8410",
+      "upc": "613902841000",
+      "inventory": "99",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "0.1500",
+      "image_filename": "8410-C1.jpg",
+      "catalog_page_no": "187",
+      "msrp": 13.99,
+      "ship_length": "10.0000",
+      "ship_width": "5.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9635",
+      "item_index": "2347",
+      "rothco_item_no": "8411",
+      "upc": "613902841109",
+      "inventory": "99",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "0.1500",
+      "image_filename": "8411-C-amazon.jpg",
+      "catalog_page_no": "187",
+      "msrp": 13.99,
+      "ship_length": "10.0000",
+      "ship_width": "5.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22121",
+      "item_index": "2347",
+      "rothco_item_no": "84110",
+      "upc": "613902019935",
+      "inventory": "0",
+      "created_date": "2022-08-22 15:00:19",
+      "weight": "0.0000",
+      "image_filename": "84110-B1.jpg",
+      "catalog_page_no": "187",
+      "msrp": 13.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "09/04/2025",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

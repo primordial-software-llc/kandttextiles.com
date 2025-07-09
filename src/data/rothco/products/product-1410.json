@@ -1,0 +1,40 @@
+{
+  "item_index": "1410",
+  "item_name": "Rothco Deluxe POW-MIA Flag 3' x 5'",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Deluxe US Flag is made from a high quality, durable 210D polyester material, featuring the POW-MIA emblem in the center with the text &ldquo;You Are Not Forgotten&rdquo; underneath. This military flag also features grommets along the side for easy display.</p>",
+  "no_ratings": "0",
+  "sort_order": "373",
+  "description": "<p>Rothco&rsquo;s Deluxe US Flag is made from a high quality, durable 210D polyester material, featuring the POW-MIA emblem in the center with the text &ldquo;You Are Not Forgotten&rdquo; underneath. This military flag also features grommets along the side for easy display.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "428"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "715",
+      "item_index": "1410",
+      "rothco_item_no": "1563",
+      "upc": "613902156302",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.0000",
+      "image_filename": "1563-A3.jpg",
+      "catalog_page_no": "211",
+      "msrp": 39.99,
+      "ship_length": "11.0000",
+      "ship_width": "8.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 15.95,
+      "case_price": 15.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "item_index": "4136",
+  "item_name": "Rothco \"Murica\" Flag Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show off your patriotism with Rothco's \"Murica\" Flag Patch.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "704",
+  "description": "<p>Show off your patriotism with Rothco's \"Murica\" Flag Patch. Support the good ol' US of A by sporting this 4\" x 1 1/8\" hook back patch that features the US flag and the phrase \"Murica\". Patches with the item #&rsquo;s starting with &lsquo;P&rsquo; are individually packaged with a header card.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "424"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16371",
+      "item_index": "4136",
+      "rothco_item_no": "73200",
+      "upc": "613902732100",
+      "inventory": "99",
+      "created_date": "2016-05-17 16:10:02",
+      "weight": "0.0094",
+      "image_filename": "73200-A-amazon1.jpg",
+      "catalog_page_no": "214",
+      "msrp": 3.99,
+      "ship_length": "3.0000",
+      "ship_width": "1.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "packaging": "Bulk Packaging"
+      },
+      "packaging": "Bulk Packaging",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

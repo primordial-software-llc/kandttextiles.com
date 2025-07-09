@@ -1,0 +1,144 @@
+{
+  "item_index": "2102",
+  "item_name": "Rothco Marines ''Pain Is Weakness'' T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s \"Pain Is Weakness Leaving The Body\" T-Shirt is officially licensed by the U.S. Marines and is a must-have for anyone looking to show their support and pride. This high-quality graphic t-shirt features a two-sided print: the front chest displays the iconic Marines Eagle, Globe, and Anchor logo, while the back showcases the bold \"Pain Is Weakness Leaving The Body\" slogan. Made from a comfortable, breathable, and long-lasting cotton material, this workout shirt is perfect for everyday wear.</p>",
+  "no_ratings": "0",
+  "sort_order": "1980",
+  "description": "<p>Rothco&rsquo;s \"Pain Is Weakness Leaving The Body\" T-Shirt is officially licensed by the U.S. Marines and is a must-have for anyone looking to show their support and pride. This high-quality graphic t-shirt features a two-sided print: the front chest displays the iconic Marines Eagle, Globe, and Anchor logo, while the back showcases the bold \"Pain Is Weakness Leaving The Body\" slogan. Made from a comfortable, breathable, and long-lasting cotton material, this workout shirt is perfect for everyday wear. Whether you&rsquo;re a proud Marine, a supporter, or just someone who appreciates strong messages, this graphic USMC t-shirt is an excellent addition to your wardrobe.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "38",
+    "42",
+    "46",
+    "547"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "6005",
+      "item_index": "2102",
+      "rothco_item_no": "60417",
+      "upc": "613902041714",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "60417-RIGHT-C.jpg",
+      "catalog_page_no": "116",
+      "msrp": 21.99,
+      "ship_length": "14.0000",
+      "ship_width": "17.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6006",
+      "item_index": "2102",
+      "rothco_item_no": "60417",
+      "upc": "613902041721",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "60417-RIGHT-C.jpg",
+      "catalog_page_no": "116",
+      "msrp": 21.99,
+      "ship_length": "14.7500",
+      "ship_width": "12.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6007",
+      "item_index": "2102",
+      "rothco_item_no": "60417",
+      "upc": "613902041738",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "60417-RIGHT-C.jpg",
+      "catalog_page_no": "116",
+      "msrp": 21.99,
+      "ship_length": "15.5000",
+      "ship_width": "21.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6008",
+      "item_index": "2102",
+      "rothco_item_no": "60417",
+      "upc": "613902041745",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "60417-RIGHT-C.jpg",
+      "catalog_page_no": "116",
+      "msrp": 21.99,
+      "ship_length": "15.5000",
+      "ship_width": "22.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6009",
+      "item_index": "2102",
+      "rothco_item_no": "60418",
+      "upc": "613902041806",
+      "inventory": "89",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6000",
+      "image_filename": "60417-RIGHT-C.jpg",
+      "catalog_page_no": "116",
+      "msrp": 25.99,
+      "ship_length": "17.0000",
+      "ship_width": "24.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 8.9,
+      "case_price": 8.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

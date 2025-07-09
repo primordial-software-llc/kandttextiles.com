@@ -1,0 +1,40 @@
+{
+  "item_index": "3994",
+  "item_name": "Rothco Folding Hunting Knife",
+  "has_restrictions": "1",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Rothco Folding Pocket Knife combines classic style with reliable performance. This buck-style folding knife measures 8.5\" in length and features a durable 3.5\" stainless steel non-serrated blade with a 1/8\" thickness for precision cutting. Designed for convenience, the knife includes a secure push-button closure, a 2.5\" ergonomic grip for comfortable handling, and a keyhole at the bottom for easy attachment. Perfect for outdoor enthusiasts, tactical professionals, or everyday carry needs.</p>",
+  "no_ratings": null,
+  "sort_order": "85",
+  "description": "<p>he Rothco Folding Pocket Knife combines classic style with reliable performance. This buck-style folding knife measures 8.5\" in length and features a durable 3.5\" stainless steel non-serrated blade with a 1/8\" thickness for precision cutting. Designed for convenience, the knife includes a secure push-button closure, a 2.5\" ergonomic grip for comfortable handling, and a keyhole at the bottom for easy attachment. Perfect for outdoor enthusiasts, tactical professionals, or everyday carry needs.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "295"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15589",
+      "item_index": "3994",
+      "rothco_item_no": "5258",
+      "upc": "613902525894",
+      "inventory": "99",
+      "created_date": "2015-08-26 14:10:01",
+      "weight": "0.5000",
+      "image_filename": "5258-B-amazon.jpg",
+      "catalog_page_no": "272",
+      "msrp": 24.99,
+      "ship_length": "5.2500",
+      "ship_width": "1.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

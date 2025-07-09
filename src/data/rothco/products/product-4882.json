@@ -1,0 +1,70 @@
+{
+  "item_index": "4882",
+  "item_name": "Rothco Low Profile MOLLE Pistol Holster",
+  "has_restrictions": "1",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Low Profile MOLLE Pistol Holster is fully adjustable and customizable to fit most compact and midsize firearms.</p>",
+  "no_ratings": null,
+  "sort_order": "133195",
+  "description": "<p>Rothco's Low Profile MOLLE Firearm Holster is fully adjustable and customizable to fit most compact and midsize firearms. The MOLLE compatible holster will attach to most tactical gear.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "251",
+    "308"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20980",
+      "item_index": "4882",
+      "rothco_item_no": "10756",
+      "upc": "613902006485",
+      "inventory": "99",
+      "created_date": "2021-10-21 13:00:13",
+      "weight": "0.4000",
+      "image_filename": "10756-A1.jpg",
+      "catalog_page_no": "233",
+      "msrp": 30.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 13.95,
+      "case_price": 13.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20981",
+      "item_index": "4882",
+      "rothco_item_no": "10757",
+      "upc": "613902006492",
+      "inventory": "99",
+      "created_date": "2021-10-21 13:00:13",
+      "weight": "0.4000",
+      "image_filename": "10757-A1.jpg",
+      "catalog_page_no": "233",
+      "msrp": 30.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 13.95,
+      "case_price": 13.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "item_index": "4571",
+  "item_name": "Rothco G.I. Type Zipper Pocket Mechanics Tool Bag With Military Stencil",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>When it comes to managing your tools, Rothco&rsquo;s G.I. Type Zipper Pocket Mechanics Tool Bag is a must-have. Designed for durability and functionality, this bag ensures your tools stay organized and accessible wherever you go. Featuring military style stenciled lettering on the front, it adds a touch of ruggedness and character to your toolkit. Inside, you&rsquo;ll find a large main compartment with organizer pockets, providing ample space for all your tools and accessories while keeping them neatly arranged.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "132884",
+  "description": "<p>When it comes to managing your tools, Rothco&rsquo;s G.I. Type Zipper Pocket Mechanics Tool Bag is a must-have. Designed for durability and functionality, this bag ensures your tools stay organized and accessible wherever you go. Featuring military style stenciled lettering on the front, it adds a touch of ruggedness and character to your toolkit. Inside, you&rsquo;ll find a large main compartment with organizer pockets, providing ample space for all your tools and accessories while keeping them neatly arranged. Additionally, the front and rear zippered pockets offer convenient storage for smaller items like nails, screws, or measuring tape. Even with the spacious interior, this canvas tool bag maintains a compact size, measuring 11 inch x 7 inch x 6 inch, making the canvas tool bag easy to carry and transport. Constructed with rugged 100% cotton canvas materials and reinforced top carry handles, the tool bag is built to withstand the demands of daily use and heavy loads. Whether you're a professional mechanic, DIY enthusiast, or handyman, Rothco&rsquo;s Mechanics Tool Bag is the perfect solution for storing and transporting your tools with style and efficiency. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color",
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "503",
+    "221"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10571",
+      "item_index": "4571",
+      "rothco_item_no": "9114",
+      "upc": "613902911406",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.1500",
+      "image_filename": "9114-A1.jpg",
+      "catalog_page_no": "337",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size",
+        "amazon_color_map": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "amazon_color_map": "Olive Drab",
+      "price": 10.25,
+      "case_price": 10.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19033",
+      "item_index": "4571",
+      "rothco_item_no": "9113",
+      "upc": "613902911307",
+      "inventory": "99",
+      "created_date": "2019-05-15 14:10:00",
+      "weight": "1.1500",
+      "image_filename": "9113-A-amazon.jpg",
+      "catalog_page_no": "337",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size",
+        "amazon_color_map": "Black"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "amazon_color_map": "Black",
+      "price": 10.25,
+      "case_price": 10.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21752",
+      "item_index": "4571",
+      "rothco_item_no": "91131",
+      "upc": "613902016910",
+      "inventory": "99",
+      "created_date": "2022-04-11 10:00:24",
+      "weight": "1.1500",
+      "image_filename": "91131-B.jpg",
+      "catalog_page_no": "337",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Earth Brown"
+      },
+      "size": "One Size",
+      "color": "Earth Brown",
+      "price": 10.25,
+      "case_price": 10.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21753",
+      "item_index": "4571",
+      "rothco_item_no": "91132",
+      "upc": "613902015203",
+      "inventory": "99",
+      "created_date": "2022-04-11 10:00:24",
+      "weight": "1.1500",
+      "image_filename": "91132-A.jpg",
+      "catalog_page_no": "337",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Coyote Brown"
+      },
+      "size": "One Size",
+      "color": "Coyote Brown",
+      "price": 10.25,
+      "case_price": 10.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

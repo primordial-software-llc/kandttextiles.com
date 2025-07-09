@@ -1,0 +1,96 @@
+{
+  "item_index": "2466",
+  "item_name": "Rothco G.I. Type Enhanced Butt Packs",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Enhanced Butt Packs are designed to offer convenient and secure storage for your essential tactical gear. With dimensions of 10 inches x 9 &frac12; inches x 6 inches, these packs provide ample space for all your necessities. Featuring dual quick release buckle flap closures and an interior drawstring closure, your items will remain safe and secure even in challenging conditions. The 2 Alice keeper clips on the back allow for easy attachment to your belt, backpack, or other gear, ensuring your essentials are always within reach.</p>",
+  "no_ratings": "0",
+  "sort_order": "995",
+  "description": "<p>Rothco&rsquo;s Enhanced Butt Packs are designed to offer convenient and secure storage for your essential tactical gear. With dimensions of 10 inches x 9 &frac12; inches x 6 inches, these packs provide ample space for all your necessities. Featuring dual quick release buckle flap closures and an interior drawstring closure, your items will remain safe and secure even in challenging conditions. The 2 Alice keeper clips on the back allow for easy attachment to your belt, backpack, or other gear, ensuring your essentials are always within reach. Constructed from durable denier nylon material, these butt packs are built to withstand harsh environments and provide long-lasting use. A vent hole at the bottom ensures efficient drainage, keeping your gear dry and protected. Whether you're out in the field or organizing your gear at home, Rothco&rsquo;s Enhanced Butt Packs offer the perfect blend of durability, convenience, and security. Elevate your tactical storage solutions with these reliable and robust packs, designed to meet the demands of professionals and enthusiasts alike. Rothco stands out as the leader in camouflage clothing and accessories. With a rich heritage spanning over 7 decades, we have honed our expertise in crafting durable and effective camouflage gear. Our extensive range of products, including apparel, bags, and gear, showcases a diverse selection of camouflage, with over 35 patterns available! From outdoor enthusiasts and military personnel, to skate and fashion, Rothco is the go-to brand for camo.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "201",
+    "202",
+    "221"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2687",
+      "item_index": "2466",
+      "rothco_item_no": "40000",
+      "upc": "613902000001",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5500",
+      "image_filename": "40000-A-OD.jpg",
+      "catalog_page_no": "312",
+      "msrp": 34.99,
+      "ship_length": "12.7500",
+      "ship_width": "13.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 15.05,
+      "case_price": 15.05,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2688",
+      "item_index": "2466",
+      "rothco_item_no": "40000",
+      "upc": "613902000018",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5500",
+      "image_filename": "40000-A-BLACK.jpg",
+      "catalog_page_no": "312",
+      "msrp": 34.99,
+      "ship_length": "12.7500",
+      "ship_width": "13.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 15.05,
+      "case_price": 15.05,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2689",
+      "item_index": "2466",
+      "rothco_item_no": "40002",
+      "upc": "613902400023",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5500",
+      "image_filename": "40002-A.jpg",
+      "catalog_page_no": "312",
+      "msrp": 35.99,
+      "ship_length": "12.7500",
+      "ship_width": "13.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 15.65,
+      "case_price": 15.65,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

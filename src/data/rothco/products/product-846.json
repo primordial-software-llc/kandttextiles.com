@@ -1,0 +1,44 @@
+{
+  "item_index": "846",
+  "item_name": "Rothco Camouflage Face Paint Creme",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Camouflage Face Paint Creme is a versatile 3-tube set designed to help you create the perfect camouflage pattern for outdoor activities. The pack includes flat black, mud brown, and leaf green colors, ideal for blending into various environments. The face paint comes in easy-to-use creme tubes, making application smooth and mess-free while allowing for quick touch-ups when needed. Compact and lightweight, this set is perfect for hunting, airsoft, or costume use.</p>",
+  "no_ratings": "0",
+  "sort_order": "747",
+  "description": "<p>Rothco&rsquo;s Camouflage Face Paint Creme is a versatile 3-tube set designed to help you create the perfect camouflage pattern for outdoor activities. The pack includes flat black, mud brown, and leaf green colors, ideal for blending into various environments. The face paint comes in easy-to-use creme tubes, making application smooth and mess-free while allowing for quick touch-ups when needed. Compact and lightweight, this set is perfect for hunting, airsoft, or costume use. Whether you're heading out for a day in the wilderness or preparing for an event, Rothco&rsquo;s camo face paint ensures you stay concealed and ready. Each color tube is formulated for long-lasting wear and washes off easily with soap and water, making it both practical and convenient for repeated use.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "341",
+    "343"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9373",
+      "item_index": "846",
+      "rothco_item_no": "8203",
+      "upc": "613902820302",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2600",
+      "image_filename": "8203-B-amazon.jpg",
+      "catalog_page_no": "265",
+      "msrp": 11.99,
+      "ship_length": "7.7500",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Green"
+      },
+      "color": "Green",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

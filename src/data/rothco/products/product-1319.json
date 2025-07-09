@@ -1,0 +1,144 @@
+{
+  "item_index": "1319",
+  "item_name": "Rothco MOLLE Tactical Trauma & First Aid Kit Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's MOLLE Tactical Trauma &amp; First Aid Kit Pouch is your reliable companion for emergency situations. Measuring 7 inch x 8 inch x 3 inch, the emergency pouch provides ample space to organize all your first aid essentials efficiently. Featuring a dual zippered design, accessing your supplies becomes quick and hassle-free. Crafted from durable polyester material, this pouch ensures long-lasting performance.</p>",
+  "no_ratings": "0",
+  "sort_order": "2318",
+  "description": "<p>Rothco's MOLLE Tactical Trauma &amp; First Aid Kit Pouch is your reliable companion for emergency situations. Measuring 7 inch x 8 inch x 3 inch, the emergency pouch provides ample space to organize all your first aid essentials efficiently. Featuring a dual zippered design, accessing your supplies becomes quick and hassle-free. Crafted from durable polyester material, this pouch ensures long-lasting performance. The inside elastic bands and pocket offer secure storage for your medical items, keeping them in place during movement. Its MOLLE compatibility allows easy attachment to tactical vests and packs, ensuring accessibility whenever needed. With Rothco's MOLLE Tactical Trauma &amp; First Aid Kit Pouch, you can be prepared for any emergency with confidence.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "224",
+    "306",
+    "271",
+    "239"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "11284",
+      "item_index": "1319",
+      "rothco_item_no": "9776",
+      "upc": "613902977600",
+      "inventory": "99",
+      "created_date": "2008-07-23 21:00:00",
+      "weight": "0.6500",
+      "image_filename": "9776-A-amazon1.jpg",
+      "catalog_page_no": "249",
+      "msrp": 24.99,
+      "ship_length": "9.5000",
+      "ship_width": "6.5000",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12877",
+      "item_index": "1319",
+      "rothco_item_no": "9703",
+      "upc": "613902097032",
+      "inventory": "99",
+      "created_date": "2013-08-30 16:22:52",
+      "weight": "0.6500",
+      "image_filename": "9703-A-amazon.jpg",
+      "catalog_page_no": "249",
+      "msrp": 24.99,
+      "ship_length": "9.5000",
+      "ship_width": "6.5000",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14818",
+      "item_index": "1319",
+      "rothco_item_no": "9623",
+      "upc": "613902096233",
+      "inventory": "99",
+      "created_date": "2014-09-22 15:10:01",
+      "weight": "0.6500",
+      "image_filename": "9623-A-amazon.jpg",
+      "catalog_page_no": "249",
+      "msrp": 24.99,
+      "ship_length": "9.5000",
+      "ship_width": "6.5000",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16412",
+      "item_index": "1319",
+      "rothco_item_no": "97760",
+      "upc": "613902097766",
+      "inventory": "99",
+      "created_date": "2016-05-23 17:10:02",
+      "weight": "0.6500",
+      "image_filename": "97760-A-amazon.jpg",
+      "catalog_page_no": "249",
+      "msrp": 24.99,
+      "ship_length": "9.5000",
+      "ship_width": "6.5000",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red"
+      },
+      "color": "Red",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17772",
+      "item_index": "1319",
+      "rothco_item_no": "2696",
+      "upc": "613902026964",
+      "inventory": "99",
+      "created_date": "2017-10-31 10:10:01",
+      "weight": "0.6500",
+      "image_filename": "2696-A-amazon.jpg",
+      "catalog_page_no": "249",
+      "msrp": 39.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 17.95,
+      "case_price": 17.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "item_index": "3773",
+  "item_name": "Rothco XL Advanced Tactical Shoulder Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s XL Advanced Tactical Shoulder Bag is the ultimate gear solution for those in need of versatile and durable storage. Made from rugged Denier polyester, this MOLLE compatible shoulder bag is designed to withstand the rigors of daily use. The oversized main compartment measures 10 inches x 4 inches x 10.5 inches and features 2 interior pockets, providing ample space for your essentials.</p>",
+  "no_ratings": null,
+  "sort_order": "3221",
+  "description": "<p>Rothco&rsquo;s XL Advanced Tactical Shoulder Bag is the ultimate gear solution for those in need of versatile and durable storage. Made from rugged Denier polyester, this MOLLE compatible shoulder bag is designed to withstand the rigors of daily use. The oversized main compartment measures 10 inches x 4 inches x 10.5 inches and features 2 interior pockets, providing ample space for your essentials. The bag includes a large side pouch with a drawstring closure and hook &amp; loop tie down, a small zippered side pouch, a top zippered pouch, and a front zippered pouch for organized storage. Additionally, there is an exterior cell phone pouch with a quick release buckle for easy access. The bag is equipped with a 2 inch wide adjustable padded shoulder strap with a quick release buckle and hook for comfortable carrying. Three padded areas on the back of the bag enhance comfort, and 2 pen holders keep writing instruments handy. Whether for everyday carry or outdoor adventures, Rothco&rsquo;s XL Advanced Tactical Shoulder Bag is built to keep your gear secure and accessible.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "598",
+    "201",
+    "223",
+    "504"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14778",
+      "item_index": "3773",
+      "rothco_item_no": "24038",
+      "upc": "613902240384",
+      "inventory": "99",
+      "created_date": "2014-09-17 10:10:02",
+      "weight": "2.2000",
+      "image_filename": "24038-A-amazon2.jpg",
+      "catalog_page_no": "322",
+      "msrp": 65.99,
+      "ship_length": "15.0000",
+      "ship_width": "14.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 29.95,
+      "case_price": 29.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14779",
+      "item_index": "3773",
+      "rothco_item_no": "24038",
+      "upc": "613902240391",
+      "inventory": "77",
+      "created_date": "2014-09-17 10:10:02",
+      "weight": "2.2000",
+      "image_filename": "24038-Coyote-B-amazon.jpg",
+      "catalog_page_no": "322",
+      "msrp": 65.99,
+      "ship_length": "15.0000",
+      "ship_width": "14.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 29.95,
+      "case_price": 29.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

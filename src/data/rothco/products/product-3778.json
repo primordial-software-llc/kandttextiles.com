@@ -1,0 +1,44 @@
+{
+  "item_index": "3778",
+  "item_name": "Rothco Leather ID & Badge Wallet",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Leather ID &amp; Badge Wallet is meticulously crafted to meet the needs of police and public safety professionals, providing a secure and organized place to store your essential items. This leather trifold wallet features a dedicated section for your badge, cards, and ID window, ensuring easy access and visibility. The removable badge tab includes protective padding to safeguard your badge from damage. With 7 card slots and a cash slot, this wallet offers ample storage for your everyday essentials. Please note, badge is not included.</p>",
+  "no_ratings": null,
+  "sort_order": "659",
+  "description": "<p>Rothco's Leather ID &amp; Badge Wallet is meticulously crafted to meet the needs of police and public safety professionals, providing a secure and organized place to store your essential items. This leather trifold wallet features a dedicated section for your badge, cards, and ID window, ensuring easy access and visibility. The removable badge tab includes protective padding to safeguard your badge from damage. With 7 card slots and a cash slot, this wallet offers ample storage for your everyday essentials. Designed to accommodate shield-shaped badges, this wallet measures 10.5 inch x 4.5 inch x 0.25 inch when open and 4.5 inch x 3.6 inch x 0.5 inch when closed, making it compact and easy to carry. Please note, badge is not included.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "233",
+    "415"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14831",
+      "item_index": "3778",
+      "rothco_item_no": "1134",
+      "upc": "613902113411",
+      "inventory": "99",
+      "created_date": "2014-09-25 16:10:02",
+      "weight": "0.2500",
+      "image_filename": "1134-A-amazon.jpg",
+      "catalog_page_no": null,
+      "msrp": 41.99,
+      "ship_length": "8.0000",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "material": "Leather"
+      },
+      "material": "Leather",
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "item_index": "4556",
+  "item_name": "Rothco Elastic Reflective Hi-Vis PT Harness ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Elastic Reflective PT Harness offers maximum visibility at night and during the day.</p>",
+  "no_ratings": null,
+  "sort_order": "132869",
+  "description": "<p>Rothco's Elastic Reflective PT Harness offers maximum visibility at night and during the day. The polyester harness stretches and moves with you, making it ideal for any physical activity. Hi-Vis yellow adjustable shoulder straps and waistband allow for a custom fit for any body type, with the waist measuring from 28\" to 48\". The reflective harness is lightweight and can be worn easily over PT gear or outerwear and has a quick release ABS plastic buckle that makes it easy to take on and off. Featuring straps that measure 1.75\" wide and a reflective stripe that measures .75\" wide, you'll be easy to see at all times. Great for military training, running or walking at night.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "238",
+    "382"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19010",
+      "item_index": "4556",
+      "rothco_item_no": "6039",
+      "upc": "613902160392",
+      "inventory": "99",
+      "created_date": "2019-05-10 13:10:00",
+      "weight": "0.3750",
+      "image_filename": "6039-B-amazon.jpg",
+      "catalog_page_no": "76",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Yellow",
+        "size": "One Size"
+      },
+      "color": "Yellow",
+      "size": "One Size",
+      "price": 4.7,
+      "case_price": 4.7,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

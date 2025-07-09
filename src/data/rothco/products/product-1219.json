@@ -1,0 +1,70 @@
+{
+  "item_index": "1219",
+  "item_name": "Rothco EMS Medical Field Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Be prepared and ready with our EMS Medical Field Pouch. These utility bags are great for storing items that are needed at a moment&rsquo;s notice, such as first aid supplies, emergency equipment, and survival gear. These medical pouches feature the Star of Life Emblem on the front, and are ideal for first responders, paramedics, EMTs, EMS personnel, medical professionals, police officers, security guards, firefighters, event staff, and many more.</p>",
+  "no_ratings": "0",
+  "sort_order": "518",
+  "description": "<p>Be prepared and ready with our EMS Medical Field Pouch. These utility bags are great for storing items that are needed at a moment&rsquo;s notice, such as first aid supplies, emergency equipment, and survival gear. These medical pouches feature the Star of Life Emblem on the front, and are ideal for first responders, paramedics, EMTs, EMS personnel, medical professionals, police officers, security guards, firefighters, event staff, and many more. Please Note &ndash; Accessories Not Included Spacious Storage Compartments: Featuring 3 expandable zipper compartments and 1 open-top pocket, these medical field bags keep your emergency gear secure and organized while remaining lightweight and portable. The bag measures 7 inch x 9 inch x 4 inch overall. Quick Release Convenience: In addition to the zipper closures, the emergency pouch also features a quick release buckle at the front, giving you immediate, easy access to supplies and equipment. Get-Up-and-Go: Keep your essential gear alongside you by using the adjustable shoulder strap. This strap can be removed by detaching the 2 clip fasteners, allowing you to easily store the emergency medical tote in your car, or a larger bag or backpack.Tough and Long-Lasting: Made from a durable 1000D polyester material, these rugged medical field bags endure continuous movement and travel. The heavy-duty material withstands field use, along with other outdoor activities, such as camping and hiking.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "226",
+    "242"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14758",
+      "item_index": "1219",
+      "rothco_item_no": "2843",
+      "upc": "613902028432",
+      "inventory": "99",
+      "created_date": "2014-09-12 15:10:01",
+      "weight": "0.9500",
+      "image_filename": "2843-B3.jpg",
+      "catalog_page_no": "251",
+      "msrp": 37.99,
+      "ship_length": "12.0000",
+      "ship_width": "9.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red"
+      },
+      "color": "Red",
+      "price": 16.5,
+      "case_price": 16.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22708",
+      "item_index": "1219",
+      "rothco_item_no": "28430",
+      "upc": "613902027695",
+      "inventory": "99",
+      "created_date": "2023-03-21 12:00:15",
+      "weight": "3.3400",
+      "image_filename": "28430-C.jpg",
+      "catalog_page_no": "251",
+      "msrp": 37.99,
+      "ship_length": "29.0000",
+      "ship_width": "13.0000",
+      "ship_height": "11.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Orange"
+      },
+      "color": "Orange",
+      "price": 16.5,
+      "case_price": 16.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "item_index": "805",
+  "item_name": "Marksman Laserhawk Slingshot",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Laserhawk Talon Grip Slingshot is designed for hyper velocity and precision. Its tapered band offers up to 30% greater velocity with less effort, while the Talon Grip pouch securely holds any size steel shot or BB. With a tempered steel yoke and ergonomic design, this slingshot provides durable performance and enhanced control for accurate shooting.</p>",
+  "no_ratings": "0",
+  "sort_order": "255",
+  "description": "<p>The Laserhawk Talon Grip Slingshot is designed for hyper velocity and precision. Its tapered band offers up to 30% greater velocity with less effort, while the Talon Grip pouch securely holds any size steel shot or BB. With a tempered steel yoke and ergonomic design, this slingshot provides durable performance and enhanced control for accurate shooting.</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "345"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3695",
+      "item_index": "805",
+      "rothco_item_no": "4729",
+      "upc": "026785030308",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5500",
+      "image_filename": "4729.jpg",
+      "catalog_page_no": "266",
+      "msrp": 18.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 7.25,
+      "case_price": 7.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

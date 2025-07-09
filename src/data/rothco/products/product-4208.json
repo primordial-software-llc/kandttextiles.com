@@ -1,0 +1,44 @@
+{
+  "item_index": "4208",
+  "item_name": "Rothco Lightweight MOLLE Utility Vest",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Gear up for your next mission with Rothco's Lightweight MOLLE Utility Vest, offering top-tier breathability, durability, and versatility.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "117",
+  "description": "<p>The front and back of the utility vest features multiple rows of MOLLE loops for fastening Modular Lightweight Load-carrying Equipment compatible gear and pouches. Numerous strips of loop field on both the front chest and back of this tactical vest allow for patch attachment and hook and loop accessories. Our MOLLE vest is crafted for comfort, with hook and loop adjustable shoulder panels, 3 side straps adjustable up to 10 inches, and 3 front side release buckle closures so that you can adjust to your perfect, secure fit. Side straps on this lightweight vest feature hook and loop tabs to tame excess straps. This M.O.L.L.E. vest is hydration compatible, offering 2 elastic straps on each shoulder panel to secure hydration hose, along with a hydration compartment with hook and loop attachments on back to secure a bladder. The interior features 4 mesh side pockets, 2 zippered, and 2 with hook and loop closure for storing essentials. This tactical mesh vest also includes dual D rings atop of shoulder panel and a drag handle for emergency use and 6 loops with snap closures for belt attachment (16491 belt sold separately). This vest is constructed with a breathable mesh front and durable polyester back, the optimal combination for withstanding rugged missions.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "307",
+    "333"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16657",
+      "item_index": "4208",
+      "rothco_item_no": "7206",
+      "upc": "613902172067",
+      "inventory": "99",
+      "created_date": "2016-10-31 12:10:01",
+      "weight": "1.6000",
+      "image_filename": "7206-A-amazon.jpg",
+      "catalog_page_no": "238",
+      "msrp": 53.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 24.25,
+      "case_price": 24.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

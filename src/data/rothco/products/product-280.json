@@ -1,0 +1,141 @@
+{
+  "item_index": "280",
+  "item_name": "Rothco Heavyweight Thermal Knit Underwear Top",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Layer up and conquer the cold with Rothco&rsquo;s Heavyweight Thermal Knit Underwear Top. This thermal top is designed to provide powerful insulation, keeping you warm in the harshest of conditions. Constructed from a heavyweight raschel knit composition, the base layer top is built to maintain its shape and durability for years of use. The comfortable elastic ribbed knit cuffs ensure a seamless thermal seal between your top and gloves, locking in warmth and keeping out the cold.</p>",
+  "no_ratings": "0",
+  "sort_order": "1094",
+  "description": "<p>Layer up and conquer the cold with Rothco&rsquo;s Heavyweight Thermal Knit Underwear Top. This thermal top is designed to provide powerful insulation, keeping you warm in the harshest of conditions. Constructed from a heavyweight raschel knit composition, the base layer top is built to maintain its shape and durability for years of use. The comfortable elastic ribbed knit cuffs ensure a seamless thermal seal between your top and gloves, locking in warmth and keeping out the cold. Ideal for outdoor enthusiasts, tactical professionals, hunters, skiers, and anyone facing extreme cold weather, this thermal top is an essential addition to your cold weather gear. Rothco&rsquo;s commitment to quality ensures you get reliable performance and long-lasting comfort with the Heavyweight Thermal Knit Underwear Top.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "56"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "6632",
+      "item_index": "280",
+      "rothco_item_no": "6448",
+      "upc": "613902644816",
+      "inventory": "31",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8500",
+      "image_filename": "6448-RIGHT-B.jpg",
+      "catalog_page_no": "96",
+      "msrp": 27.99,
+      "ship_length": "13.0000",
+      "ship_width": "10.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6633",
+      "item_index": "280",
+      "rothco_item_no": "6448",
+      "upc": "613902644823",
+      "inventory": "64",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8500",
+      "image_filename": "6448-RIGHT-B.jpg",
+      "catalog_page_no": "96",
+      "msrp": 27.99,
+      "ship_length": "13.0000",
+      "ship_width": "10.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6634",
+      "item_index": "280",
+      "rothco_item_no": "6448",
+      "upc": "613902644830",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8500",
+      "image_filename": "6448-RIGHT-B.jpg",
+      "catalog_page_no": "96",
+      "msrp": 27.99,
+      "ship_length": "13.0000",
+      "ship_width": "10.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6635",
+      "item_index": "280",
+      "rothco_item_no": "6448",
+      "upc": "613902644847",
+      "inventory": "64",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8500",
+      "image_filename": "6448-RIGHT-B.jpg",
+      "catalog_page_no": "96",
+      "msrp": 27.99,
+      "ship_length": "13.0000",
+      "ship_width": "10.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6637",
+      "item_index": "280",
+      "rothco_item_no": "6449",
+      "upc": "613902644908",
+      "inventory": "43",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.0000",
+      "image_filename": "6448-RIGHT-B.jpg",
+      "catalog_page_no": "96",
+      "msrp": 29.99,
+      "ship_length": "13.0000",
+      "ship_width": "10.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 13.5,
+      "case_price": 13.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "item_index": "1238",
+  "item_name": "Rothco MOLLE Triple Mag Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=KsTFpkEH44A",
+  "rating": "5",
+  "item_short_desc": "<p>Elevate your tactical gear with Rothco&rsquo;s MOLLE Open Top Triple Mag Pouch, the ultimate solution for carrying extra rifle mags. Crafted for versatility and durability, this pouch seamlessly integrates with your MOLLE-compatible plate carrier vest, tactical pack, or any gear featuring a MOLLE panel.</p>",
+  "no_ratings": "0",
+  "sort_order": "1175",
+  "description": "<p>Elevate your tactical gear with Rothco&rsquo;s MOLLE Open Top Triple Mag Pouch, the ultimate solution for carrying extra rifle mags. Crafted for versatility and durability, this pouch seamlessly integrates with your MOLLE-compatible plate carrier vest, tactical pack, or any gear featuring a MOLLE panel. Designed to accommodate 3 rifle mags, including AK-47 and M-16 magazines, it ensures you have quick and convenient access to ammunition when you need it most. The open-top design with elastic cord closures enables rapid reloading during critical moments. Constructed from rugged 600 Denier polyester, this pouch withstands the rigors of outdoor environments and tactical operations, ensuring long-lasting performance. Its compact dimensions, measuring 9 &frac14; inches X 5 &frac12; inches, provide high-capacity storage without adding unnecessary bulk. Additionally, grommet drainage holes prevent moisture buildup, enhancing durability in adverse conditions. Whether you're on duty or engaged in recreational activities like airsoft or paintball, this triple mag pouch is an essential addition to your loadout. Versatile and dependable, it offers a secure and accessible solution for carrying your essential rifle magazines.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "143",
+    "140",
+    "254",
+    "255",
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15432",
+      "item_index": "1238",
+      "rothco_item_no": "41004",
+      "upc": "613902410046",
+      "inventory": "99",
+      "created_date": "2015-05-13 17:10:02",
+      "weight": "0.6300",
+      "image_filename": "41004-A-amazon1.jpg",
+      "catalog_page_no": "242",
+      "msrp": 26.99,
+      "ship_length": "10.5000",
+      "ship_width": "7.7500",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 11.95,
+      "case_price": 11.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15433",
+      "item_index": "1238",
+      "rothco_item_no": "41005",
+      "upc": "613902410053",
+      "inventory": "99",
+      "created_date": "2015-05-13 17:10:02",
+      "weight": "0.6300",
+      "image_filename": "41005-A-amazon1.jpg",
+      "catalog_page_no": "242",
+      "msrp": 26.99,
+      "ship_length": "10.5000",
+      "ship_width": "7.7500",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 11.95,
+      "case_price": 11.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18700",
+      "item_index": "1238",
+      "rothco_item_no": "41003",
+      "upc": "613902341005",
+      "inventory": "99",
+      "created_date": "2018-11-08 16:10:00",
+      "weight": "0.6500",
+      "image_filename": "41003-A-amazon.jpg",
+      "catalog_page_no": "242",
+      "msrp": 41.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19943",
+      "item_index": "1238",
+      "rothco_item_no": "3140",
+      "upc": "613902131408",
+      "inventory": "99",
+      "created_date": "2020-10-19 15:00:08",
+      "weight": "0.6300",
+      "image_filename": "3140-A-NOLOGO.jpg",
+      "catalog_page_no": "242",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 11.95,
+      "case_price": 11.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

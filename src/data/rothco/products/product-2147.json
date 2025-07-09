@@ -1,0 +1,100 @@
+{
+  "item_index": "2147",
+  "item_name": "Black Ink Marines First To Fight T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Our Marines First to Fight T-Shirt, designed by Black Ink, is the ultimate tribute to the U.S. Marine Corps, featuring a bold, 2-sided design that showcases pride for the USMC. The front of the rugged shirt proudly displays the USMC logo with the powerful words, \"First to Fight, Last to Leave,\" reflecting the unwavering spirit of the Marines. Officially licensed by the United States Marine Corps, this crew neck shirt ensures you&rsquo;re wearing authentic and quality Marine Corps apparel.</p>",
+  "no_ratings": "0",
+  "sort_order": "3940",
+  "description": "<p>Our Marines First to Fight T-Shirt, designed by Black Ink, is the ultimate tribute to the U.S. Marine Corps, featuring a bold, 2-sided design that showcases pride for the USMC. Made from breathable and durable cotton fabric, this graphic t-shirt provides exceptional comfort for all-day wear that endures rigorous outdoor use. The front of the rugged shirt proudly displays the USMC logo with the powerful words, \"First to Fight, Last to Leave,\" reflecting the unwavering spirit of the Marines. Pre-shrunk for a perfect fit, this short sleeve tee maintains its shape and comfort wash after wash. Officially licensed by the United States Marine Corps, this crew neck shirt ensures you&rsquo;re wearing authentic and quality Marine Corps apparel. Whether you're honoring a loved one, or simply showing your support, this t-shirt is a must-have addition to any wardrobe.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "42",
+    "547"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9149",
+      "item_index": "2147",
+      "rothco_item_no": "80280",
+      "upc": "613902028029",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "80280-LEFT-B.jpg",
+      "catalog_page_no": "116",
+      "msrp": 26.99,
+      "ship_length": "15.2500",
+      "ship_width": "12.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Black"
+      },
+      "size": "M",
+      "color": "Black",
+      "price": 9.25,
+      "case_price": 9.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9151",
+      "item_index": "2147",
+      "rothco_item_no": "80280",
+      "upc": "613902028043",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "80280-LEFT-B.jpg",
+      "catalog_page_no": "116",
+      "msrp": 26.99,
+      "ship_length": "15.0000",
+      "ship_width": "16.2500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Black"
+      },
+      "size": "XL",
+      "color": "Black",
+      "price": 9.25,
+      "case_price": 9.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9152",
+      "item_index": "2147",
+      "rothco_item_no": "80281",
+      "upc": "613902028104",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6000",
+      "image_filename": "80280-LEFT-B.jpg",
+      "catalog_page_no": "116",
+      "msrp": 32.99,
+      "ship_length": "17.2500",
+      "ship_width": "16.7500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL",
+        "color": "Black"
+      },
+      "size": "2XL",
+      "color": "Black",
+      "price": 11.25,
+      "case_price": 11.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

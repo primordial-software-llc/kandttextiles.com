@@ -1,0 +1,41 @@
+{
+  "item_index": "1079",
+  "item_name": "Rothco Sewing Kit",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Sewing Kit is your go-to solution for quick fixes and essential repairs, whether at home or on the go. This compact kit includes everything you need: 3 straight pins, 3 sewing needles, 4 assorted buttons, and 3 safety pins, all neatly organized in a durable mesh pocket. With black, white, and olive drab threads, you&rsquo;ll have versatile color options to match various fabrics. The handy folding scissors are perfect for precise cutting and conveniently fold for easy storage.</p>",
+  "no_ratings": "0",
+  "sort_order": "1191",
+  "description": "<p>Rothco&rsquo;s Sewing Kit is your go-to solution for quick fixes and essential repairs, whether at home or on the go. This compact kit includes everything you need: 3 straight pins, 3 sewing needles, 4 assorted buttons, and 3 safety pins, all neatly organized in a durable mesh pocket. With black, white, and olive drab threads, you&rsquo;ll have versatile color options to match various fabrics. The handy folding scissors are perfect for precise cutting and conveniently fold for easy storage. Compact and lightweight, this sewing kit is ideal for travelers, campers, or anyone needing a reliable repair kit on hand. Crafted from durable materials, it&rsquo;s built to last through all your stitching needs.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "634",
+    "261"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "480",
+      "item_index": "1079",
+      "rothco_item_no": "1123",
+      "upc": "613902112308",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1625",
+      "image_filename": "1123-A1.jpg",
+      "catalog_page_no": "204",
+      "msrp": 6.99,
+      "ship_length": "7.0000",
+      "ship_width": "5.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 2.5,
+      "case_price": 2.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

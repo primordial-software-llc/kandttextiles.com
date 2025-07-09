@@ -1,0 +1,42 @@
+{
+  "item_index": "1868",
+  "item_name": "Rothco Expandable Baton With Keyring / Black - 12\"",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": "0",
+  "sort_order": "452",
+  "description": "<p>Expandable Baton With Keyring , 12 Inches Carbon Steel Tubing</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "235"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "456",
+      "item_index": "1868",
+      "rothco_item_no": "11030",
+      "upc": "613902110304",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5625",
+      "image_filename": "11030-HR.jpg",
+      "catalog_page_no": "226",
+      "msrp": 18.99,
+      "ship_length": "6.2500",
+      "ship_width": "1.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

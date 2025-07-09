@@ -1,0 +1,47 @@
+{
+  "item_index": "4439",
+  "item_name": "Rothco Swiss Military Canvas Shoulder Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Swiss Military Canvas Shoulder Bag is constructed of heavyweight cotton canvas and features a vintage military inspired screened cross and numbering at the center of the storm flap.</p>",
+  "no_ratings": null,
+  "sort_order": "132752",
+  "description": "<p>Rothco&rsquo;s Military Shoulder Bag is constructed of heavyweight cotton canvas for maximum durability. The shoulder strap on this canvas bag is fully adjustable with a full length of 54 &frac14;&rdquo; and is made of cotton webbing material. This military shoulder bag features a fold over storm flap that securely closes with a metal revolving closure and vintage military inspired screened cross and numbering at the center of the storm flap. Measuring 9\" X 4 &frac14;&rdquo; X 9\", the main compartment is perfect to store your essential items and gear. 2 Metal D-rings and plastic buttons are featured on the canvas shoulder bag as well.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "206",
+    "208",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18223",
+      "item_index": "4439",
+      "rothco_item_no": "8111",
+      "upc": "613902081116",
+      "inventory": "99",
+      "created_date": "2018-04-09 11:10:04",
+      "weight": "0.7000",
+      "image_filename": "8111-A-amazon.jpg",
+      "catalog_page_no": "366",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 7.95,
+      "case_price": 7.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

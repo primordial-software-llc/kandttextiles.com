@@ -1,0 +1,41 @@
+{
+  "item_index": "1361",
+  "item_name": "Aircrew Survival Manual",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Delve into the depths of military expertise with the Aircrew Survival Manual. This military field manual consists of over 120 pages with detailed illustrations that offer insights into a wide array of topics. With chapters covering search and rescue, combat survival, evading the enemy, camouflage and movement survival, medical techniques and avoiding illness, and cold weather survival, the manual provides a comprehensive guide that is perfect for military personnel, survivalists, and outdoor enthusiasts.</p>",
+  "no_ratings": "0",
+  "sort_order": "262",
+  "description": "<p>Delve into the depths of military expertise with the Aircrew Survival Manual. This military field manual consists of over 120 pages with detailed illustrations that offer insights into a wide array of topics. With chapters covering search and rescue, combat survival, evading the enemy, camouflage and movement survival, medical techniques and avoiding illness, and cold weather survival, the manual provides a comprehensive guide that is perfect for military personnel, survivalists, and outdoor enthusiasts. Timeless Wisdom: The military manual contains lessons and techniques that transcends decades, offering invaluable insights for both the field and emergency situations. Portable Size: The mountaineering instruction manual features compact 8 inch x 5 inch dimensions, ensuring it fits easily into your tactical gear or backpack for convenient on-the-go reference.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "400",
+    "550"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "645",
+      "item_index": "1361",
+      "rothco_item_no": "1408",
+      "upc": "613902140806",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "1408-A.jpg",
+      "catalog_page_no": "284",
+      "msrp": 9.99,
+      "ship_length": "8.0000",
+      "ship_width": "4.7500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 4.75,
+      "case_price": 4.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

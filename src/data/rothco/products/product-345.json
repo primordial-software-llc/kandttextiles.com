@@ -1,0 +1,45 @@
+{
+  "item_index": "345",
+  "item_name": "Rothco Medium Shopping Bag",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Low Density Polyethylene Bag Size: 12 Inches X 7 Inches X 23 Inches Thickness 1.25 MIL ACU Digital Camo Imprint, Thickness: 1.25 Mil</p>",
+  "no_ratings": "0",
+  "sort_order": "583",
+  "description": "<p>Low Density Polyethylene Bag Size: 12 Inches X 7 Inches X 23 Inches Thickness 1.25 MIL ACU Digital Camo Imprint, Thickness: 1.25 Mil WARNING: This product contains a chemical known to the State of California to cause cancer, birth defects and other reproductive harm.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "143",
+    "506",
+    "432"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "11585",
+      "item_index": "345",
+      "rothco_item_no": "9994",
+      "upc": "613902999404",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.5000",
+      "image_filename": "9994_HR.jpg",
+      "catalog_page_no": "369",
+      "msrp": 40.99,
+      "ship_length": "17.5000",
+      "ship_width": "11.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "ACU Digital Camo"
+      },
+      "color": "ACU Digital Camo",
+      "price": 16.25,
+      "case_price": 16.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

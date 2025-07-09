@@ -1,0 +1,118 @@
+{
+  "item_index": "2329",
+  "item_name": "Rothco Belt Webbing",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Belt Webbing is the ultimate choice for durable and versatile duty belt construction materials. Made from 100% cotton, this webbing offers superior strength and longevity, ensuring your belts and straps withstand the rigors of daily use. Each roll of belt webbing is 50 yards long, providing a continuous fabric that can be cut to any desired length, making it perfect for custom projects. The webbing measures 1 &frac14; inches in width, the standard size for various types of belts.</p>",
+  "no_ratings": "0",
+  "sort_order": "849",
+  "description": "<p>Rothco&rsquo;s Belt Webbing is the ultimate choice for durable and versatile duty belt construction materials. Made from 100% cotton, this webbing offers superior strength and longevity, ensuring your belts and straps withstand the rigors of daily use. Each roll of belt webbing is 50 yards long, providing a continuous fabric that can be cut to any desired length, making it perfect for custom projects. The webbing measures 1 &frac14; inches in width, the standard size for various types of belts, ensuring compatibility with a wide range of buckles and fittings. This versatile webbing is not only ideal for creating sturdy belts but also excels in making straps for bags, utility uses, and even craft projects. Whether you are constructing tactical gear, repairing old straps, or embarking on a creative endeavor, Rothco&rsquo;s Belt Webbing is the dependable material you need.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "380",
+    "382"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2786",
+      "item_index": "2329",
+      "rothco_item_no": "4060",
+      "upc": "613902406001",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "4.0400",
+      "image_filename": "4060-B-NOLOGO.jpg",
+      "catalog_page_no": "195",
+      "msrp": 109.99,
+      "ship_length": "14.5000",
+      "ship_width": "14.5000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 49.95,
+      "case_price": 49.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2787",
+      "item_index": "2329",
+      "rothco_item_no": "4061",
+      "upc": "613902406100",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "4.0400",
+      "image_filename": "4061-B-NOLOGO.jpg",
+      "catalog_page_no": "195",
+      "msrp": 109.99,
+      "ship_length": "14.5000",
+      "ship_width": "14.5000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 49.95,
+      "case_price": 49.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2788",
+      "item_index": "2329",
+      "rothco_item_no": "4062",
+      "upc": "613902406209",
+      "inventory": "39",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "4.0600",
+      "image_filename": "4062-B-NOLOGO.jpg",
+      "catalog_page_no": "195",
+      "msrp": 109.99,
+      "ship_length": "14.5000",
+      "ship_width": "14.5000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue"
+      },
+      "color": "Navy Blue",
+      "price": 49.95,
+      "case_price": 49.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2789",
+      "item_index": "2329",
+      "rothco_item_no": "4063",
+      "upc": "613902406308",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "4.2500",
+      "image_filename": "4063-B-NOLOGO.jpg",
+      "catalog_page_no": "195",
+      "msrp": 109.99,
+      "ship_length": "14.5000",
+      "ship_width": "14.5000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki"
+      },
+      "color": "Khaki",
+      "price": 49.95,
+      "case_price": 49.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

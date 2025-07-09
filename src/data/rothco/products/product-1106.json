@@ -1,0 +1,41 @@
+{
+  "item_index": "1106",
+  "item_name": "Rothco Nylon Tri-Fold Shovel Cover ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Tri-Fold Shovel cover will work with most military shovels and is made from a durable nylon fabric for years of dependable use.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "341",
+  "description": "<p>Rothco's Tri-Fold Shovel cover will work with most military shovels and is made from a durable nylon fabric for years of dependable use.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "256",
+    "275"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1601",
+      "item_index": "1106",
+      "rothco_item_no": "2823",
+      "upc": "613902282308",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3000",
+      "image_filename": "2823-A.jpg",
+      "catalog_page_no": "276",
+      "msrp": 17.99,
+      "ship_length": "10.2500",
+      "ship_width": "7.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

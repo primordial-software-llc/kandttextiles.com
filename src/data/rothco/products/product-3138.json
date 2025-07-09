@@ -1,0 +1,94 @@
+{
+  "item_index": "3138",
+  "item_name": "Rothco 2-Point Tactical Sling",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Upgrade your tactical setup with Rothco&rsquo;s 2-Point Tactical Sling! This sling offers versatility and durability for optimal weapon handling in various situations. This sling offers versatility and durability for optimal weapon handling in various situations. This firearm accessory is great for police, active-duty personnel, tactical enthusiasts, airsoft players, and more.</p>",
+  "no_ratings": null,
+  "sort_order": "3979",
+  "description": "<p>Upgrade your tactical setup with Rothco&rsquo;s 2-Point Tactical Sling! This sling offers versatility and durability for optimal weapon handling in various situations. This sling offers versatility and durability for optimal weapon handling in various situations. This firearm accessory is great for police, active-duty personnel, tactical enthusiasts, airsoft players, and more.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "250",
+    "333"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3602",
+      "item_index": "3138",
+      "rothco_item_no": "4656",
+      "upc": "613902946569",
+      "inventory": "99",
+      "created_date": "2013-01-03 21:00:00",
+      "weight": "0.5188",
+      "image_filename": "4656-a-hr-amazon.jpg",
+      "catalog_page_no": "259",
+      "msrp": 24.99,
+      "ship_length": "8.5000",
+      "ship_width": "6.5000",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3603",
+      "item_index": "3138",
+      "rothco_item_no": "4657",
+      "upc": "613902946576",
+      "inventory": "99",
+      "created_date": "2013-01-03 21:00:00",
+      "weight": "0.5188",
+      "image_filename": "4657-Coyote-HR.jpg",
+      "catalog_page_no": "259",
+      "msrp": 24.99,
+      "ship_length": "8.5000",
+      "ship_width": "6.5000",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14703",
+      "item_index": "3138",
+      "rothco_item_no": "4654",
+      "upc": "613902046542",
+      "inventory": "99",
+      "created_date": "2014-07-30 15:10:01",
+      "weight": "0.5188",
+      "image_filename": "4654-C-amazon.jpg",
+      "catalog_page_no": "259",
+      "msrp": 24.99,
+      "ship_length": "8.5000",
+      "ship_width": "6.5000",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

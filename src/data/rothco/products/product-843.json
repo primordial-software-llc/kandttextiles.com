@@ -1,0 +1,45 @@
+{
+  "item_index": "843",
+  "item_name": "Ultra-Lite Killer Kamo Net",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": "0",
+  "sort_order": "663",
+  "description": "<p>Effective 3-D Digital Disruptive Pattern 3-D Leaf Like Foliage UV Treated 100% Waterproof Rot/mold Resistant Lightweight Strong And Durable Pliable In Extreme Temperature Ranges Treated To Eliminate Shine And Glare Product Is Not Recommended For Indoor Use Because It Is Not Fire Retardant</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "452"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "6812",
+      "item_index": "843",
+      "rothco_item_no": "6532",
+      "upc": "690104021027",
+      "inventory": "34",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.0000",
+      "image_filename": "6532.jpg",
+      "catalog_page_no": "264",
+      "msrp": 156.99,
+      "ship_length": "16.5000",
+      "ship_width": "9.5000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 64.95,
+      "case_price": 64.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

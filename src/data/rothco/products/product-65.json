@@ -1,0 +1,165 @@
+{
+  "item_index": "65",
+  "item_name": "Rothco M-65 Storm Jacket",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The M-65 Storm Jacket combines the classic styling of our traditional M-65 Field Jacket with enhanced wet weather protection that utilizes a 210-denier nylon outer shell with water-resistant coating that shields you from the wind, rain, snow, and sleet. This military-styled rain jacket is perfect for active-duty personnel, tactical enthusiasts, outdoor adventurers, and causal everyday wear.</p>",
+  "no_ratings": "0",
+  "sort_order": "2089",
+  "description": "<p>The M-65 Storm Jacket combines the classic styling of our traditional M-65 Field Jacket with enhanced wet weather protection that utilizes a 210-denier nylon outer shell with water-resistant coating that shields you from the wind, rain, snow, and sleet. This military-styled rain jacket is perfect for active-duty personnel, tactical enthusiasts, outdoor adventurers, and causal everyday wear. Weather the Storm: The weatherproof military field coat features a comfortable lining that keeps you warm, ideal for outdoor operations, expeditions, and everyday wear. The concealed drawstring hood conveniently stores inside the collar and is easily accessible when needed. Storage Pockets: These storm rain jackets come equipped with 4 large-capacity cargo pockets (2 on the chest and 2 on the waist) for storing gear and EDC essentials. Utility at the Forefront: The bi-swing back design lets you move with ease, allowing you to focus on the task at hand. The sturdy zipper closure with button-snap storm flap, adjustable wrist cuffs, interior waist drawcord, and drawstring bottom help keep the rain out and the heat in. Action Ready: From outdoor adventures to everyday wear, the wet weather jacket transitions seamlessly though the spring, summer, fall, and winter seasons, ideal for traveling, camping, hiking, and more.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "170"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10042",
+      "item_index": "65",
+      "rothco_item_no": "8644",
+      "upc": "613902086647",
+      "inventory": "24",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.4500",
+      "image_filename": "8644-RIGHT-C.jpg",
+      "catalog_page_no": "45",
+      "msrp": 94.99,
+      "ship_length": "13.5000",
+      "ship_width": "17.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 37.95,
+      "case_price": 37.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10043",
+      "item_index": "65",
+      "rothco_item_no": "8644",
+      "upc": "613902864405",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.4500",
+      "image_filename": "8644-RIGHT-C.jpg",
+      "catalog_page_no": "45",
+      "msrp": 94.99,
+      "ship_length": "13.5000",
+      "ship_width": "17.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 37.95,
+      "case_price": 37.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10044",
+      "item_index": "65",
+      "rothco_item_no": "8644",
+      "upc": "613902986640",
+      "inventory": "69",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.4500",
+      "image_filename": "8644-RIGHT-C.jpg",
+      "catalog_page_no": "45",
+      "msrp": 94.99,
+      "ship_length": "13.5000",
+      "ship_width": "17.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 37.95,
+      "case_price": 37.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10045",
+      "item_index": "65",
+      "rothco_item_no": "8644",
+      "upc": "613902864498",
+      "inventory": "82",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.4500",
+      "image_filename": "8644-RIGHT-C.jpg",
+      "catalog_page_no": "45",
+      "msrp": 94.99,
+      "ship_length": "13.5000",
+      "ship_width": "17.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 37.95,
+      "case_price": 37.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10046",
+      "item_index": "65",
+      "rothco_item_no": "8645",
+      "upc": "613902086456",
+      "inventory": "32",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.4500",
+      "image_filename": "8644-RIGHT-C.jpg",
+      "catalog_page_no": "45",
+      "msrp": 97.99,
+      "ship_length": "13.5000",
+      "ship_width": "17.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 38.95,
+      "case_price": 38.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10047",
+      "item_index": "65",
+      "rothco_item_no": "8646",
+      "upc": "613902086463",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.5000",
+      "image_filename": "8644-RIGHT-C.jpg",
+      "catalog_page_no": "45",
+      "msrp": 99.99,
+      "ship_length": "13.5000",
+      "ship_width": "17.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3XL"
+      },
+      "size": "3XL",
+      "price": 39.95,
+      "case_price": 39.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

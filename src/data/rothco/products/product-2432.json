@@ -1,0 +1,43 @@
+{
+  "item_index": "2432",
+  "item_name": "Rothco Nylon Compass Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Water Repellent Nylon-420D Oxford Compass Pouch: compact, durable, and ready for adventure. Crafted from high-quality nylon, it keeps your essentials safe and dry.</p>",
+  "no_ratings": "0",
+  "sort_order": "1941",
+  "description": "<p>Rothco's Water Repellent Nylon-420D Oxford Compass Pouch: compact, durable, and ready for adventure. Crafted from high-quality nylon, it keeps your compass safe and dry.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "505"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2802",
+      "item_index": "2432",
+      "rothco_item_no": "408",
+      "upc": "613902040809",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "408-OD-HR1.jpg",
+      "catalog_page_no": "368",
+      "msrp": 4.99,
+      "ship_length": "5.0000",
+      "ship_width": "5.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 1.75,
+      "case_price": 1.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

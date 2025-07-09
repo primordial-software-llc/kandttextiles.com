@@ -1,0 +1,69 @@
+{
+  "item_index": "2661",
+  "item_name": "Rothco Security Officer Badge",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Security Officer Badge is a professional accessory designed to enhance the presence and authority of any security officer. Featuring a durable metal construction, this badge offers a genuine and polished appearance that works seamlessly with uniforms or badge wallets. Its pin-back attachment ensures a secure fit on shirts, jackets, or other uniform components. The badge&rsquo;s compact design also fits easily into badge wallets, providing versatility and easy access when needed.</p>",
+  "no_ratings": "0",
+  "sort_order": "1367",
+  "description": "<p>Rothco&rsquo;s Security Officer Badge is a professional accessory designed to enhance the presence and authority of any security officer. Featuring a durable metal construction, this badge offers a genuine and polished appearance that works seamlessly with uniforms or badge wallets. Its pin-back attachment ensures a secure fit on shirts, jackets, or other uniform components. The badge&rsquo;s compact design also fits easily into badge wallets, providing versatility and easy access when needed. Whether on duty or for display purposes, this badge combines functionality and style, making it a reliable addition to any security professional&rsquo;s gear.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "233"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "872",
+      "item_index": "2661",
+      "rothco_item_no": "1901",
+      "upc": "613902190108",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "1901-A-amazon.jpg",
+      "catalog_page_no": "220",
+      "msrp": 9.99,
+      "ship_length": "4.2500",
+      "ship_width": "3.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Silver"
+      },
+      "color": "Silver",
+      "price": 3.75,
+      "case_price": 3.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "876",
+      "item_index": "2661",
+      "rothco_item_no": "1905",
+      "upc": "613902419056",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "1905-hr2-amazon.jpg",
+      "catalog_page_no": "220",
+      "msrp": 12.99,
+      "ship_length": "4.2500",
+      "ship_width": "3.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Gold"
+      },
+      "color": "Gold",
+      "price": 4.85,
+      "case_price": 4.85,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

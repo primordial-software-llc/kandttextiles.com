@@ -1,0 +1,45 @@
+{
+  "item_index": "3807",
+  "item_name": "Rothco Molon Labe Flag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>\"Molon Labe\" translates to \"come and take them\", so let everyone know where you stand with this classic flag.</p>",
+  "no_ratings": null,
+  "sort_order": "1748",
+  "description": "<p>\"Molon Labe\" translates to \"come and take them\", so let everyone know where you stand with this classic flag. This durable flag features grommets along the side for easy display and is available in multiple sizes, including 2' X 3' and 3' X 5'.&nbsp;</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "428"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14804",
+      "item_index": "3807",
+      "rothco_item_no": "1527",
+      "upc": "613902015272",
+      "inventory": "99",
+      "created_date": "2014-09-18 17:10:02",
+      "weight": "0.2500",
+      "image_filename": "1527-A-AMAZON.jpg",
+      "catalog_page_no": "210",
+      "msrp": 8.99,
+      "ship_length": "10.0000",
+      "ship_width": "8.2500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3' x 5'"
+      },
+      "size": "3' x 5'",
+      "price": 3.75,
+      "case_price": 3.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

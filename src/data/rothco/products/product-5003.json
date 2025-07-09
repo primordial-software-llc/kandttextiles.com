@@ -1,0 +1,73 @@
+{
+  "item_index": "5003",
+  "item_name": "Rothco Fast Action First Aid Tourniquet Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Fast Action First Aid Tourniquet Pouch is designed for rapid access to first-aid gear in situations where every second counts. The exterior pocket secures your tourniquet with a webbing flap featuring a hook and loop closure and elasticized polyester for a secure fit. The fast action pull tab allows easy one-handed access for self-use. The inside of the back flap features a convenient elastic band for storing your medical shears, while the inside of the front flap boasts two pockets with elastic trim for first-aid storage.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133316",
+  "description": "<p>Rothco&rsquo;s Fast Action First Aid Tourniquet Pouch is designed for rapid access to first-aid gear in situations where every second counts. The exterior pocket secures yourtourniquet with a webbing flap featuring a hook and loop closure and elasticized polyester for a secure fit. The fast action pull tab is designed to allow easy one-handed access &ndash; perfect for self-use in an emergency situation. The inside of the back flap features a convenient elastic band for storing your medical shears, while the inside of the front flap boasts two pockets with elastic trim for additional first-aid storage. The U-shaped opening allows for full access to the contents of the pouch, making it easy to find what you need in a hurry. The water-resistant polyester composition helps keep your supplies safe and dry, while the MOLLE compatible design means you can attach it to anything with a MOLLE panel.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "504",
+    "505",
+    "306",
+    "239",
+    "241"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "22530",
+      "item_index": "5003",
+      "rothco_item_no": "52022",
+      "upc": "613902024564",
+      "inventory": "0",
+      "created_date": "2022-12-15 14:00:00",
+      "weight": "0.0000",
+      "image_filename": "52022-A1.jpg",
+      "catalog_page_no": "248",
+      "msrp": 17.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "07/21/2025",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22531",
+      "item_index": "5003",
+      "rothco_item_no": "52023",
+      "upc": "613902024571",
+      "inventory": "99",
+      "created_date": "2022-12-15 14:00:00",
+      "weight": "0.0000",
+      "image_filename": "52023-A.jpg",
+      "catalog_page_no": "248",
+      "msrp": 17.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

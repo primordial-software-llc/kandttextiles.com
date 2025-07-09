@@ -1,0 +1,71 @@
+{
+  "item_index": "3552",
+  "item_name": "Rothco Tactical MOLLE EDC Wallet and Phone Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Tactical MOLLE EDC Wallet and Phone Pouch is a versatile and compact solution for securely carrying your essential everyday items. With its dual-purpose design, this pouch functions both as a wallet and a tactical organizer, ideal for storing your phone, credit cards, ID, and keys. Featuring internal compartments, it keeps your belongings organized, while 5 elastic loops offer additional storage for tactical pens or other slim tools. A U-shaped zipper closure ensures quick and easy access to the contents.</p>",
+  "no_ratings": null,
+  "sort_order": "968",
+  "description": "<p>Rothco&rsquo;s Tactical MOLLE EDC Wallet and Phone Pouch is a versatile and compact solution for securely carrying your essential everyday items. With its dual-purpose design, this pouch functions both as a wallet and a tactical organizer, ideal for storing your phone, credit cards, ID, and keys. Featuring internal compartments, it keeps your belongings organized, while 5 elastic loops offer additional storage for tactical pens or other slim tools. A U-shaped zipper closure ensures quick and easy access to the contents. Designed for compatibility with MOLLE systems, this tactical pouch can be attached to your duty belt, tactical vest, backpack, or other gear. The exterior mesh pocket provides extra storage, secured with a hook &amp; loop closure, while a handy strap with a hook doubles as a carrying handle. With a 2 inch x 3 incs loop panel on the front for attaching a patch, our Tactical MOLLE EDC Wallet and Phone Pouch is built for function, convenience, and durability.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "306",
+    "239",
+    "415"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12816",
+      "item_index": "3552",
+      "rothco_item_no": "11660",
+      "upc": "613902001169",
+      "inventory": "99",
+      "created_date": "2013-08-27 11:30:22",
+      "weight": "0.1875",
+      "image_filename": "11660-B-amazon.jpg",
+      "catalog_page_no": "247",
+      "msrp": 19.99,
+      "ship_length": "8.0000",
+      "ship_width": "5.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15351",
+      "item_index": "3552",
+      "rothco_item_no": "11661",
+      "upc": "613902166110",
+      "inventory": "99",
+      "created_date": "2015-04-21 12:10:01",
+      "weight": "0.1900",
+      "image_filename": "11661-A-amazon.jpg",
+      "catalog_page_no": "247",
+      "msrp": 24.99,
+      "ship_length": "8.0000",
+      "ship_width": "5.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

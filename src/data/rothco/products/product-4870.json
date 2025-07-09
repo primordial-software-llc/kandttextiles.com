@@ -1,0 +1,44 @@
+{
+  "item_index": "4870",
+  "item_name": "Rothco Canvas Tactical Tool Bag ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>An enhanced take on your classic military mechanics tool bag.&nbsp;&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133183",
+  "description": "<p>An enhanced take on your classic military mechanics tool bag. A spacious and supported main zippered compartment on this tool bag contains individual slots to store tools and other gear while the front of this mechanics bag includes a large external zippered pouch with an identification window. The tactical bag&rsquo;s front exterior features dual small zippered pouches to pack smaller essentials. A rear drop-down compartment contains pen/flashlight slots, cardholders, multiple rows of MOLLE webbing and a removable and expandable snap closure pouch, all the features you need in a mechanics tool bag. There are MOLLE loops on the back and sides of this canvas bag to attach additional accessories with security. The bag's carry handle features hook and loop closure options to keep straps together when transporting the military bag from one site to another. This tool kit made with cotton canvas and polyester lining for heavy duty durability. The MOLLE bag measures: 12 Inches x 10 Inches x 6.25 Inches.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "221",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20935",
+      "item_index": "4870",
+      "rothco_item_no": "19775",
+      "upc": "613902005648",
+      "inventory": "99",
+      "created_date": "2021-09-03 15:00:01",
+      "weight": "1.7000",
+      "image_filename": "19775-A1.jpg",
+      "catalog_page_no": "339",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 11.95,
+      "case_price": 11.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

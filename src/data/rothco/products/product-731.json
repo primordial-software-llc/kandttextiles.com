@@ -1,0 +1,104 @@
+{
+  "item_index": "731",
+  "item_name": "Rothco Deluxe Marines Low Profile Insignia Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show your support for the United States Marine Corps with Rothco&rsquo;s Deluxe Marines Low Profile Insignia Cap. This cap features raised \"Marines\" embroidered text on both the front panel and upper brim, making a bold statement of pride and dedication. The cap also includes woven \"Marines\" labels on the front of the sandwich brim and on the hook and loop closure strap, adding extra detail and authenticity. Made from brushed cotton twill, this cap offers long-lasting comfort and durability.</p>",
+  "no_ratings": "0",
+  "sort_order": "913",
+  "description": "<p>Show your support for the United States Marine Corps with Rothco&rsquo;s Deluxe Marines Low Profile Insignia Cap. This cap features raised \"Marines\" embroidered text on both the front panel and upper brim, making a bold statement of pride and dedication. The cap also includes woven \"Marines\" labels on the front of the sandwich brim and on the hook and loop closure strap, adding extra detail and authenticity. Made from brushed cotton twill, this cap offers long-lasting comfort and durability, perfect for everyday wear. The internal sweatband helps to wick away moisture, keeping you cool and dry. With 6 ventilation holes on the top, this cap ensures maximum breathability. The adjustable hook and loop closure ensures a perfect fit for most head sizes. As an officially licensed product of the United States Marine Corps, this cap is a genuine tribute to the brave men and women who serve. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from military personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "83",
+    "144",
+    "374",
+    "522",
+    "674",
+    "547"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10984",
+      "item_index": "731",
+      "rothco_item_no": "9437",
+      "upc": "613902943704",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "9437-HR.jpg",
+      "catalog_page_no": "141",
+      "msrp": 24.99,
+      "ship_length": "8.7500",
+      "ship_width": "8.7500",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "11112",
+      "item_index": "731",
+      "rothco_item_no": "9588",
+      "upc": "613902958807",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "9588-hr-amazon.jpg",
+      "catalog_page_no": "141",
+      "msrp": 24.99,
+      "ship_length": "8.7500",
+      "ship_width": "8.7500",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Digital Camo",
+        "size": "One Size"
+      },
+      "color": "Woodland Digital Camo",
+      "size": "One Size",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19047",
+      "item_index": "731",
+      "rothco_item_no": "3548",
+      "upc": "613902035485",
+      "inventory": "99",
+      "created_date": "2019-05-22 12:10:00",
+      "weight": "0.2500",
+      "image_filename": "3548-A-amazon.jpg",
+      "catalog_page_no": "141",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

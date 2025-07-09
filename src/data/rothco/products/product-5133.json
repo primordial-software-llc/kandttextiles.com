@@ -1,0 +1,71 @@
+{
+  "item_index": "5133",
+  "item_name": "Rothco Lightweight Woobie Travel Kit",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Discover the ultimate travel companion in Rothco&rsquo;s Lightweight Woobie Travel Kit. Keep your travel essentials like shampoo, toothbrushes, shavers, and other toiletries secure with the quilted dopp kit, featuring a collapsible design that is ideal for travel and fits easily into luggage or carry-on bags. The military-styled toiletry bag has a 4L capacity and measures 10 inch x 5 inch x 5 inch. Whether you are out exploring or heading out on a trip, the woobie travel bag ensures your possessions are safe and secure.</p>",
+  "no_ratings": null,
+  "sort_order": null,
+  "description": "<p>Discover the ultimate travel companion in Rothco&rsquo;s Lightweight Woobie Travel Kit. Keep your travel essentials like shampoo, toothbrushes, shavers, and other toiletries secure with the quilted dopp kit, featuring a collapsible design that is ideal for travel and fits easily into luggage or carry-on bags. The military-styled toiletry bag has a 4L capacity and measures 10 inch x 5 inch x 5 inch. Whether you are out exploring or heading out on a trip, the woobie travel bag ensures your possessions are safe and secure. From Tactical Roots to Everyday Utility: Inspired by the dependable versatility of the iconic poncho liner, Rothco&rsquo;s Woobie collection embodies rugged style and practicality. Each item, from our durable outerwear to the premium Travel Dopp Kit, features a distinctive quilted pattern and lightweight filling, combining unique style with everyday functionality. Quick Access: The woobie travel toiletries kit comes equipped with a durable main zipper, allowing for easy access to your contents. Convenient Handling: These quilted travel bags feature a single side handle for easy carry, also doubling as a hanging organizer on bathroom hooks. Multifunctional Design: From weekend adventures and road trips to everyday use, the Lightweight Woobie Travel Kit is perfect for both men and women, serving as a shaving bag, dopp kit, travel bag, and more.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "756",
+    "3",
+    "212"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "30217",
+      "item_index": "5133",
+      "rothco_item_no": "13800",
+      "upc": "613902049376",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.5000",
+      "image_filename": "13800-C.jpg",
+      "catalog_page_no": "354",
+      "msrp": 16.99,
+      "ship_length": "12.0000",
+      "ship_width": "7.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30218",
+      "item_index": "5133",
+      "rothco_item_no": "13801",
+      "upc": "613902049383",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.5000",
+      "image_filename": "13801-C.jpg",
+      "catalog_page_no": "354",
+      "msrp": 16.99,
+      "ship_length": "12.0000",
+      "ship_width": "7.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

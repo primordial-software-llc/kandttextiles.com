@@ -1,0 +1,101 @@
+{
+  "item_index": "4626",
+  "item_name": "Rothco Lightweight 3 Mag Elastic Retention Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Lightweight 3 Mag Elastic Retention Pouch offers a streamlined solution for securely carrying magazines without adding bulk. Designed for tactical efficiency, this pouch features three elastic retention pockets that provide a snug, open-top hold for quick magazine access during high-intensity situations. The lightweight, low-profile design allows the pouch to lay flat when not in use, making it ideal for low-bulk loadouts. Equipped with MOLLE-compatible straps and webbed loops, this pouch can be easily attached to vests or belts.</p>",
+  "no_ratings": null,
+  "sort_order": "132939",
+  "description": "<p>Rothco&rsquo;s Lightweight 3 Mag Elastic Retention Pouch offers a streamlined solution for securely carrying magazines without adding bulk. Designed for tactical efficiency, this pouch features three elastic retention pockets that provide a snug, open-top hold for quick magazine access during high-intensity situations. The lightweight, low-profile design allows the pouch to lay flat when not in use, making it ideal for low-bulk loadouts. Equipped with MOLLE-compatible straps and webbed loops, this pouch can be easily attached to vests, belts, or packs, making it highly versatile for any setup. It comfortably fits standard-size M-16 and AK-47 magazines and is built to withstand rugged conditions while keeping gear accessible and organized. Rothco&rsquo;s 3 Mag Pouch combines practicality with durability, the perfect addition for tactical range days or field activities.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "251",
+    "254",
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19274",
+      "item_index": "4626",
+      "rothco_item_no": "5956",
+      "upc": "613902159563",
+      "inventory": "99",
+      "created_date": "2019-11-11 14:00:06",
+      "weight": "0.0313",
+      "image_filename": "5956-Black-A-amazon.jpg",
+      "catalog_page_no": "242",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 8.9,
+      "case_price": 8.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19275",
+      "item_index": "4626",
+      "rothco_item_no": "5956",
+      "upc": "613902959569",
+      "inventory": "99",
+      "created_date": "2019-11-11 14:00:06",
+      "weight": "0.0313",
+      "image_filename": "5956-Coyote-A-amazon.jpg",
+      "catalog_page_no": "242",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 8.9,
+      "case_price": 8.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20892",
+      "item_index": "4626",
+      "rothco_item_no": "5956",
+      "upc": "613902004689",
+      "inventory": "99",
+      "created_date": "2021-07-27 14:00:07",
+      "weight": "0.0313",
+      "image_filename": "5956-OD-A1.jpg",
+      "catalog_page_no": "242",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Olive Drab"
+      },
+      "size": "One Size",
+      "color": "Olive Drab",
+      "price": 8.9,
+      "case_price": 8.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

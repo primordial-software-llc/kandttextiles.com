@@ -1,0 +1,42 @@
+{
+  "item_index": "3121",
+  "item_name": "Rothco G.I Style 18\" Sawback Machete",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": null,
+  "sort_order": "290",
+  "description": "An Amazing Mil-Spec Replica , Black Oxide Coated Carbon Steel Blade , Flame Resistant Thermoplastic Handle , Saw-Back Blade",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "298"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1329",
+      "item_index": "3121",
+      "rothco_item_no": "253",
+      "upc": "613902902534",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.6000",
+      "image_filename": "253-hr1.jpg",
+      "catalog_page_no": "274",
+      "msrp": 34.99,
+      "ship_length": "23.0000",
+      "ship_width": "2.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 15.5,
+      "case_price": 15.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

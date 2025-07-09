@@ -1,0 +1,46 @@
+{
+  "item_index": "4118",
+  "item_name": "Rothco Tactical Eyewear Kit",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=JdwE0wqMSHc",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Tactical Eyewear Kit is designed to offer ultimate eye protection and visual clarity, making it ideal for outdoor activities and tactical missions. The eyewear kit includes a pair of high-quality tactical glasses made with durable polycarbonate frames, featuring a prescription lens insert for those who require vision correction. The lenses are crafted from 2mm shatterproof polycarbonate material, providing maximum safety, and come with UV400 protection to guard against harmful UV rays.</p>",
+  "no_ratings": null,
+  "sort_order": "409",
+  "description": "<p>Rothco&rsquo;s Tactical Eyewear Kit is designed to offer ultimate eye protection and visual clarity, making it ideal for outdoor activities and tactical missions. The eyewear kit includes a pair of high-quality tactical glasses made with durable polycarbonate frames, featuring a prescription lens insert for those who require vision correction. The lenses are crafted from 2mm shatterproof polycarbonate material, providing maximum safety, and come with UV400 protection to guard against harmful UV rays. For versatility in changing light conditions, the kit includes interchangeable smoke, yellow, and clear lenses, ensuring you always have the right lens for any environment. The tactical eyewear kit also comes with a soft cleaning pouch and a convenient carry case with belt loops and a hook, so you can easily store and transport your eyewear. Whether you're hiking, training, or working outdoors, Rothco's Tactical Eyewear Kit offers everything you need to keep your eyes safe and your vision sharp.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "253",
+    "394"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16290",
+      "item_index": "4118",
+      "rothco_item_no": "10637",
+      "upc": "613902106376",
+      "inventory": "99",
+      "created_date": "2016-04-08 17:10:02",
+      "weight": "0.4500",
+      "image_filename": "10637-A-amazon.jpg",
+      "catalog_page_no": "201",
+      "msrp": 38.99,
+      "ship_length": "8.0000",
+      "ship_width": "3.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 17.25,
+      "case_price": 17.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

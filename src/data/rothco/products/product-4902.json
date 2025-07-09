@@ -1,0 +1,70 @@
+{
+  "item_index": "4902",
+  "item_name": "Heavyweight Canvas Classic Messenger Bag With Military Stencil ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Emulate a classic and functional military style with Rothco&rsquo;s Heavyweight Canvas Classic Messenger Bag With Military Stencil.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133215",
+  "description": "<p>Emulate a classic and functional military style with Rothco&rsquo;s Heavyweight Canvas Classic Messenger Bag With Military Stencil. This vintage messenger bag is designed with a thick, and durable heavy weight cotton canvas material. The front of this canvas messenger bag features the military inspired bag&rsquo;s details printed in stark, gold lettering, while intricate stitching accents this classic military bag and brass hardware enhance its vintage look. Two canvas loops on the front flap closure allow for added gear attachments. A spacious main compartment is secured with two hook and loop fields, perfect for storing large electronics, and stationary, while the interior zippered pocket allows for the safe carry of personal items, like keys. Two front top open pockets are stowed underneath the canvas bag&rsquo;s front flap allow for hidden extra storage. This military inspired messenger bag includes dual side pockets featuring snap closure, providing the perfect spots to carry water bottles with quick access. The 2-Inch-wide sturdy shoulder strap on this crossbody messenger bag is adjustable to your optimal fit for comfortable carry.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "205",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "21063",
+      "item_index": "4902",
+      "rothco_item_no": "91181",
+      "upc": "613902007888",
+      "inventory": "99",
+      "created_date": "2021-12-01 16:00:06",
+      "weight": "1.7000",
+      "image_filename": "91181-A-no-logo.jpg",
+      "catalog_page_no": "364",
+      "msrp": 35.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 15.95,
+      "case_price": 15.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21064",
+      "item_index": "4902",
+      "rothco_item_no": "91182",
+      "upc": "613902007895",
+      "inventory": "89",
+      "created_date": "2021-12-01 16:00:06",
+      "weight": "1.7000",
+      "image_filename": "91182-A-no-logo.jpg",
+      "catalog_page_no": "364",
+      "msrp": 35.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 15.95,
+      "case_price": 15.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

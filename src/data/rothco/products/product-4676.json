@@ -1,0 +1,100 @@
+{
+  "item_index": "4676",
+  "item_name": "Rothco Medical Symbol (Caduceus) T-Shirt - Black",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Medical T-Shirt featuring the Caduceus Symbol honors the essential lifesaving warriors of America's Healthcare System.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "132989",
+  "description": "<p>Rothco&rsquo;s Medical T-Shirt featuring the Caduceus Symbol honors the essential lifesaving warriors of America's Healthcare System. The healthcare shirt features a distressed U.S. flag Caduceus symbol on the center chest and a reverse American flag graphic on the right sleeve. Designed with a tagless printed label and a lightweight cotton / polyester construction, the Caduceus shirt provides a comfortable fit and feel. Proceeds from this purchase help support healthcare workers on the front lines of the COVID-19 crisis.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "42",
+    "640"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19530",
+      "item_index": "4676",
+      "rothco_item_no": "2728",
+      "upc": "613902827288",
+      "inventory": "99",
+      "created_date": "2020-04-14 12:00:07",
+      "weight": "0.3500",
+      "image_filename": "2728-A-amazon.jpg",
+      "catalog_page_no": "118",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "M"
+      },
+      "color": "Black",
+      "size": "M",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19533",
+      "item_index": "4676",
+      "rothco_item_no": "2729",
+      "upc": "613902527287",
+      "inventory": "29",
+      "created_date": "2020-04-14 12:00:07",
+      "weight": "0.3500",
+      "image_filename": "2728-A-amazon.jpg",
+      "catalog_page_no": "118",
+      "msrp": 20.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "2XL"
+      },
+      "color": "Black",
+      "size": "2XL",
+      "price": 7,
+      "case_price": 7,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19534",
+      "item_index": "4676",
+      "rothco_item_no": "2733",
+      "upc": "613902427280",
+      "inventory": "99",
+      "created_date": "2020-04-14 12:00:07",
+      "weight": "0.3500",
+      "image_filename": "2728-A-amazon.jpg",
+      "catalog_page_no": "118",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "3XL"
+      },
+      "color": "Black",
+      "size": "3XL",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

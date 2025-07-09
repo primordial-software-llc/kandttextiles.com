@@ -1,0 +1,94 @@
+{
+  "item_index": "3860",
+  "item_name": "Rothco Ambidextrous Shoulder Holster",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=0gCip2wyVzc",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Ambidextrous Shoulder Holster is designed for professionals in law enforcement and public safety. This holster features a smart design, with a pistol holster positioned opposite 2 magazine pouches, providing quick access to your firearm and extra ammunition. The holster's versatility is enhanced by 2 side release buckles, allowing you to easily swap the positions of the holster and magazine pouches according to your preference.</p>",
+  "no_ratings": null,
+  "sort_order": "788",
+  "description": "<p>Rothco&rsquo;s Ambidextrous Shoulder Holster is designed for professionals in law enforcement and public safety. This holster features a smart design, with a pistol holster positioned opposite 2 magazine pouches, providing quick access to your firearm and extra ammunition. The holster's versatility is enhanced by 2 side release buckles, allowing you to easily swap the positions of the holster and magazine pouches according to your preference. Crafted from durable materials, this shoulder holster is built to withstand rigorous use in demanding environments, ensuring reliable performance over time. Additionally, hook and loop straps on each side enable secure belt attachment, providing stability during movement. The mag pouch panel boasts 2 pockets perfectly sized for standard magazines, offering convenient storage and access. Moreover, the holster comfortably accommodates most medium to large frame pistols, with dimensions of 8 1/8 inches x 4.5 inches (handle opening) x 2.5 inches (barrel opening) x 4 1/8 inches. Enjoy enhanced comfort during prolonged wear, thanks to the padded back and adjustable shoulder straps, ensuring a personalized fit for every user. With Rothco&rsquo;s Ambidextrous Shoulder Holster, you'll experience superior functionality and versatility in your holstering solution.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "251",
+    "555"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15083",
+      "item_index": "3860",
+      "rothco_item_no": "10985",
+      "upc": "613902098510",
+      "inventory": "99",
+      "created_date": "2015-03-02 10:10:02",
+      "weight": "0.6250",
+      "image_filename": "10985-A-Amazon.jpg",
+      "catalog_page_no": "232",
+      "msrp": 27.99,
+      "ship_length": "11.0000",
+      "ship_width": "9.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 12.25,
+      "case_price": 12.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18625",
+      "item_index": "3860",
+      "rothco_item_no": "10987",
+      "upc": "613902009875",
+      "inventory": "99",
+      "created_date": "2018-08-24 16:10:01",
+      "weight": "0.6250",
+      "image_filename": "10987-A-amazon.jpg",
+      "catalog_page_no": "232",
+      "msrp": 27.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 12.25,
+      "case_price": 12.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20580",
+      "item_index": "3860",
+      "rothco_item_no": "10988",
+      "upc": "613902000940",
+      "inventory": "99",
+      "created_date": "2021-04-15 15:00:07",
+      "weight": "0.6250",
+      "image_filename": "10988-A-no-logo1.jpg",
+      "catalog_page_no": "232",
+      "msrp": 27.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 12.25,
+      "case_price": 12.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

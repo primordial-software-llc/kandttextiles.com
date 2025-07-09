@@ -1,0 +1,40 @@
+{
+  "item_index": "1845",
+  "item_name": "Rothco Police Holster",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Police Holster is designed for 4&rdquo; and 5&rdquo; autos, including Beretta 92, and features a hook &amp; loop adjustable thumbsnap for secure, easy access. The leatherette lining protects your firearm, making this holster a durable and professional choice for law enforcement and tactical use.</p>",
+  "no_ratings": "0",
+  "sort_order": "261",
+  "description": "<p>Rothco's Police Holster is designed for 4&rdquo; and 5&rdquo; autos, including Beretta 92, and features a hook &amp; loop adjustable thumbsnap for secure, easy access. The leatherette lining protects your firearm, making this holster a durable and professional choice for law enforcement and tactical use.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "251"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "273",
+      "item_index": "1845",
+      "rothco_item_no": "10556",
+      "upc": "613902105560",
+      "inventory": "99",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "0.2000",
+      "image_filename": "10556-A1.jpg",
+      "catalog_page_no": "230",
+      "msrp": 19.99,
+      "ship_length": "9.5000",
+      "ship_width": "4.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 7.95,
+      "case_price": 7.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

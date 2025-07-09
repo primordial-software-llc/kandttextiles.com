@@ -1,0 +1,43 @@
+{
+  "item_index": "4226",
+  "item_name": "Rothco US Air Force Flash Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's US Air Force Flash Patch is the official beret flash for the United States Air Force Security Forces. Measuring 2 1/4\" x 2 1/2\" and crafted from 100% polyester to meet MIL-DTL-14652 specifications, this durable patch is perfect for military personnel.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "24",
+  "description": "<p>Rothco's US Air Force Flash Patch is the official beret flash for the United States Air Force Security Forces. Measuring 2 1/4\" x 2 1/2\" and crafted from 100% polyester to meet MIL-DTL-14652 specifications, this durable patch is perfect for military personnel.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "423"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16783",
+      "item_index": "4226",
+      "rothco_item_no": "3575",
+      "upc": "613902357501",
+      "inventory": "99",
+      "created_date": "2016-12-14 10:10:01",
+      "weight": "0.0070",
+      "image_filename": "3575-A-amazon.jpg",
+      "catalog_page_no": "215",
+      "msrp": 3.99,
+      "ship_length": "2.7500",
+      "ship_width": "2.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Blue"
+      },
+      "color": "Blue",
+      "price": 1.35,
+      "case_price": 1.35,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

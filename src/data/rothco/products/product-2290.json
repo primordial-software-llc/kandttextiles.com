@@ -1,0 +1,99 @@
+{
+  "item_index": "2290",
+  "item_name": " Rothco GI Style Pistol Belt With Metal Buckles",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Pistol Belt with Metal Buckles combines a classic, field-proven design with modern durability. Constructed from robust poly yarn, this uniform belt ensures long-lasting performance in various outdoor and tactical settings. The rugged belt features a hook &amp; eye closure system, providing a secure and adjustable fit that enhances comfort and functionality. Faithfully replicating the classic utility belt, it serves as a versatile accessory for carrying essential gear and equipment.</p>",
+  "no_ratings": "0",
+  "sort_order": "1353",
+  "description": "<p>Rothco's Pistol Belt with Metal Buckles combines a classic, field-proven design with modern durability. Constructed from robust poly yarn, this uniform belt ensures long-lasting performance in various outdoor and tactical settings. The rugged belt features a hook &amp; eye closure system, providing a secure and adjustable fit that enhances comfort and functionality. Faithfully replicating the classic utility belt, it serves as a versatile accessory for carrying essential gear and equipment. Ideal for tactical enthusiasts, outdoor adventurers, and anyone in need of a reliable utility belt, Rothco's design offers both style and substance. The metal buckles add an extra layer of durability, ensuring the belt remains secure under heavy use. With its robust construction and secure closure, the Utility Belt is built to withstand the rigors of intense activities while offering a comfortable and adjustable fit. Whether you're heading into the great outdoors or engaging in tactical operations, this belt is the perfect companion to keep your gear organized and accessible.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "380"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10537",
+      "item_index": "2290",
+      "rothco_item_no": "9059",
+      "upc": "613902905900",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6000",
+      "image_filename": "9059-A3.jpg",
+      "catalog_page_no": "310",
+      "msrp": 17.99,
+      "ship_length": "14.5000",
+      "ship_width": "2.2500",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "White",
+        "size": "L"
+      },
+      "color": "White",
+      "size": "L",
+      "price": 6.9,
+      "case_price": 6.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10540",
+      "item_index": "2290",
+      "rothco_item_no": "9065",
+      "upc": "613902906501",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6150",
+      "image_filename": "9065-A4.jpg",
+      "catalog_page_no": "310",
+      "msrp": 15.99,
+      "ship_length": "14.5000",
+      "ship_width": "2.2500",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Olive Drab"
+      },
+      "size": "L",
+      "color": "Olive Drab",
+      "price": 6.15,
+      "case_price": 6.15,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10541",
+      "item_index": "2290",
+      "rothco_item_no": "9066",
+      "upc": "613902906600",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6150",
+      "image_filename": "9066-A3.jpg",
+      "catalog_page_no": "310",
+      "msrp": 15.99,
+      "ship_length": "14.5000",
+      "ship_width": "2.2500",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "L"
+      },
+      "color": "Black",
+      "size": "L",
+      "price": 6.15,
+      "case_price": 6.15,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

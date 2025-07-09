@@ -1,0 +1,51 @@
+{
+  "item_index": "4569",
+  "item_name": "Rothco Long Sleeve Vintage T-Shirt - Woodland Camo",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Designed for those laidback days, this long sleeve version of our vintage tee will keep you comfortable all day long.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "132882",
+  "description": "<p>Designed for any occasion, you'll be comfortable and warm all day long in Rothco's Long Sleeve Vintage T-Shirt. Constructed from a soft cotton/polyester blend, this vintage washed woodland camouflage tee has a tagless for maximized comfort.&nbsp;</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "39",
+    "40",
+    "49",
+    "80",
+    "137"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19080",
+      "item_index": "4569",
+      "rothco_item_no": "3733",
+      "upc": "613902037335",
+      "inventory": "43",
+      "created_date": "2019-05-28 11:10:01",
+      "weight": "0.5500",
+      "image_filename": "3733-RIGHT-D.jpg",
+      "catalog_page_no": "0",
+      "msrp": 22.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Woodland Camo"
+      },
+      "size": "S",
+      "color": "Woodland Camo",
+      "price": 7.95,
+      "case_price": 7.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "item_index": "3650",
+  "item_name": "Rothco Waterproof Cold Weather Neoprene Gloves",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay warm and protected with Rothco's Waterproof Cold Weather Neoprene Gloves. These durable gloves are designed to keep your hands warm and dry in harsh winter conditions, featuring a soft fleece lining for added warmth and comfort. The waterproof neoprene and tricot lining provide excellent protection against wet weather, making these winter gloves ideal for outdoor activities in cold, rainy, or snowy environments. The embossed synthetic rubber palms enhance your grip, ensuring a secure hold on any tool or object, even in slippery conditions.</p>",
+  "no_ratings": null,
+  "sort_order": "686",
+  "description": "<p>Stay warm and protected with Rothco's Waterproof Cold Weather Neoprene Gloves. These durable gloves are designed to keep your hands warm and dry in harsh winter conditions, featuring a soft fleece lining for added warmth and comfort. The waterproof neoprene and tricot lining provide excellent protection against wet weather, making these winter gloves ideal for outdoor activities in cold, rainy, or snowy environments. The embossed synthetic rubber palms enhance your grip, ensuring a secure hold on any tool or object, even in slippery conditions. Adjustable wrist cuffs with a hook &amp; loop strap allow for a customized fit, providing a snug and secure seal to keep the cold and moisture out. Whether you&rsquo;re working outdoors or enjoying winter sports, our Neoprene Gloves offer the perfect combination of warmth, comfort, and functionality.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "321"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "13445",
+      "item_index": "3650",
+      "rothco_item_no": "33550",
+      "upc": "613902993358",
+      "inventory": "71",
+      "created_date": "2013-11-06 02:05:38",
+      "weight": "0.4000",
+      "image_filename": "33550-C1.jpg",
+      "catalog_page_no": "189",
+      "msrp": 39.99,
+      "ship_length": "12.0000",
+      "ship_width": "7.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 17.5,
+      "case_price": 17.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "13446",
+      "item_index": "3650",
+      "rothco_item_no": "33550",
+      "upc": "613902993372",
+      "inventory": "99",
+      "created_date": "2013-11-06 02:05:38",
+      "weight": "0.4000",
+      "image_filename": "33550-C1.jpg",
+      "catalog_page_no": "189",
+      "msrp": 39.99,
+      "ship_length": "13.0000",
+      "ship_width": "7.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 17.5,
+      "case_price": 17.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "13447",
+      "item_index": "3650",
+      "rothco_item_no": "33550",
+      "upc": "613902993389",
+      "inventory": "99",
+      "created_date": "2013-11-06 02:05:38",
+      "weight": "0.4000",
+      "image_filename": "33550-C1.jpg",
+      "catalog_page_no": "189",
+      "msrp": 39.99,
+      "ship_length": "13.0000",
+      "ship_width": "7.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 17.5,
+      "case_price": 17.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "13448",
+      "item_index": "3650",
+      "rothco_item_no": "33550",
+      "upc": "613902999350",
+      "inventory": "99",
+      "created_date": "2013-11-06 02:05:38",
+      "weight": "0.4000",
+      "image_filename": "33550-C1.jpg",
+      "catalog_page_no": "189",
+      "msrp": 39.99,
+      "ship_length": "12.5000",
+      "ship_width": "7.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 17.5,
+      "case_price": 17.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

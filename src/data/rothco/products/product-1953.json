@@ -1,0 +1,40 @@
+{
+  "item_index": "1953",
+  "item_name": "Rothco Neck ID Badge Holder",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Leather Neck ID Badge Holder is designed for convenience and security, making it easy to keep your badge accessible at all times. This high-quality holder features a bi-fold design with a secure hook and loop closure, ensuring your ID and badges are safely stored. The clear window on one side allows for easy display of your ID card, while the cutout on the opposite side is perfect for securely holding badges. Inside, you'll find a slot for storing credit cards and money, providing extra functionality.</p>",
+  "no_ratings": "0",
+  "sort_order": "1555",
+  "description": "<p>Rothco&rsquo;s Leather Neck ID Badge Holder is designed for convenience and security, making it easy to keep your badge accessible at all times. This high-quality holder features a bi-fold design with a secure hook and loop closure, ensuring your ID and badges are safely stored. The clear window on one side allows for easy display of your ID card, while the cutout on the opposite side is perfect for securely holding badges. Inside, you'll find a slot for storing credit cards and money, providing extra functionality. The 33-inch chain allows the holder to be worn around the neck for easy access, but can also be stored in a small pocket inside the holder. Additionally, the holder can be worn on a belt for added convenience, making it versatile and practical for various settings.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "233"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "489",
+      "item_index": "1953",
+      "rothco_item_no": "1139",
+      "upc": "613902113909",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0700",
+      "image_filename": "1139_ID_side-hr.jpg",
+      "catalog_page_no": "221",
+      "msrp": 26.99,
+      "ship_length": "8.2500",
+      "ship_width": "5.0000",
+      "ship_height": "8.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 11.5,
+      "case_price": 11.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

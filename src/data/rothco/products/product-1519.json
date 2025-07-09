@@ -1,0 +1,40 @@
+{
+  "item_index": "1519",
+  "item_name": "Rothco Special Forces Combat Toy Gun",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Pull Trigger For Bullets &amp; Gun Barrel To Move Lights Flash &amp; Gun Makes Firing Noises.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "575",
+  "description": "<p>Pull Trigger For Bullets &amp; Gun Barrel To Move Lights Flash &amp; Gun Makes Firing Noises. CE Certified Symbol On Package For Ages 3 And Over Uses 3 AA Batteries (not Included)&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "131"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5424",
+      "item_index": "1519",
+      "rothco_item_no": "571",
+      "upc": "613902571006",
+      "inventory": "99",
+      "created_date": "2010-12-12 21:00:00",
+      "weight": "1.0000",
+      "image_filename": "571-A2.jpg",
+      "catalog_page_no": "209",
+      "msrp": 25.99,
+      "ship_length": "17.0000",
+      "ship_width": "8.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

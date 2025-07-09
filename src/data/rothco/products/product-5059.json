@@ -1,0 +1,70 @@
+{
+  "item_index": "5059",
+  "item_name": "Rothco Waxed Canvas Wine Carrier Tote Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Whether you are looking for the perfect complimentary gift or your own personal beverage holster, our Waxed Canvas Wine Carrier Tote Bag is designed to protect and serve, alcohol of course. This canvas tote bag comfortably holds a single bottle of wine or champagne, or even a few cans of your favorite drink.</p>",
+  "no_ratings": null,
+  "sort_order": "133368",
+  "description": "<p>Whether you are looking for the perfect complimentary gift or your own personal beverage holster, our Waxed Canvas Wine Carrier Tote Bag is designed to protect and serve, alcohol of course. This canvas tote bag comfortably holds a single bottle of wine or champagne, or even a few cans of your favorite drink. Thermal Insulation &amp; Protection: The top zipper closure and sherpa fleece lining keeps the bottle nice and cold for a long time while also providing a soft cushion against sudden bumps and scrapes. Top Grade Waxed Canvas: Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. These wine totes are made of heavy-duty waxed cotton canvas, antiqued brass hardware, and buffalo leather accents for a handsome and weather-stricken look. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs. Portable Design: The reusable drink carrier measures 14 inch x 6 inch, and features an adjustable shoulder strap for comfortable and easy carry. The wax canvas wine bag is great for transporting your favorite beverage to BBQs, parties, sports games, concerts, and more. A Gift That Keeps on Giving: This wax canvas wine tote makes for a perfect gift, especially for the wine lovers, beach-goers, and those who fall in line with B.Y.O.D. (Bring Your Own Drink). Better yet, pair it with a chilled bottle inside! From weddings to family outing, this wine cooler bag is the go-to gift!</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "2",
+    "506"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "23548",
+      "item_index": "5059",
+      "rothco_item_no": "81460",
+      "upc": "613902037939",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.0000",
+      "image_filename": "81460-A.jpg",
+      "catalog_page_no": "350",
+      "msrp": 17.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 7.95,
+      "case_price": 7.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "23549",
+      "item_index": "5059",
+      "rothco_item_no": "81461",
+      "upc": "613902037946",
+      "inventory": "74",
+      "created_date": null,
+      "weight": "0.0000",
+      "image_filename": "81461-C.jpg",
+      "catalog_page_no": "350",
+      "msrp": 17.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 7.95,
+      "case_price": 7.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

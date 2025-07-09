@@ -1,0 +1,94 @@
+{
+  "item_index": "587",
+  "item_name": "Rothco Lightweight Balaclava",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Lightweight Balaclava offers unparalleled insulation against harsh winds, dust, and debris. Designed with an adjustable eye opening, this one-hole balaclava provides ultimate protection from airborne fragments, snow, and all weather conditions. Its comfortable and lightweight design allows for extended wear, making it ideal for outdoor activities and strenuous work in cold environments.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "1900",
+  "description": "<p>Rothco&rsquo;s Lightweight Balaclava offers unparalleled insulation against harsh winds, dust, and debris. Designed with an adjustable eye opening, this one-hole balaclava provides ultimate protection from airborne fragments, snow, and all weather conditions. Its comfortable and lightweight design allows for extended wear, making it ideal for outdoor activities and strenuous work in cold environments. Crafted from moisture-wicking material, it keeps you warm while ensuring sweat is wicked away, keeping you dry and comfortable. Additionally, this versatile balaclava can be used as a helmet liner and extends to the base of the neck for added warmth. Perfect for active-duty professionals, skiers, outdoor workers, and more. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "378",
+    "683"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5151",
+      "item_index": "587",
+      "rothco_item_no": "5562",
+      "upc": "613902995628",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0625",
+      "image_filename": "5562-Black-amazon.jpg",
+      "catalog_page_no": "161",
+      "msrp": 4.99,
+      "ship_length": "9.5000",
+      "ship_width": "8.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 1.75,
+      "case_price": 1.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5152",
+      "item_index": "587",
+      "rothco_item_no": "5562",
+      "upc": "613902955622",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0625",
+      "image_filename": "5562-Sand-amazon.jpg",
+      "catalog_page_no": "161",
+      "msrp": 4.99,
+      "ship_length": "9.5000",
+      "ship_width": "8.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Desert Sand"
+      },
+      "color": "Desert Sand",
+      "price": 1.75,
+      "case_price": 1.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20154",
+      "item_index": "587",
+      "rothco_item_no": "5562",
+      "upc": "613902556294",
+      "inventory": "99",
+      "created_date": "2021-01-11 13:00:29",
+      "weight": "0.0625",
+      "image_filename": "5562-Coyote-A.jpg",
+      "catalog_page_no": "161",
+      "msrp": 4.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "AR 670-1 Coyote Brown"
+      },
+      "color": "AR 670-1 Coyote Brown",
+      "price": 1.75,
+      "case_price": 1.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

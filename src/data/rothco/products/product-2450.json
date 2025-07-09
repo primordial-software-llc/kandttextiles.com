@@ -1,0 +1,95 @@
+{
+  "item_index": "2450",
+  "item_name": "Rothco Canvas Double-Ender Sports Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Discover the ultimate travel companion with Rothco's Canvas Double-Ender Sports Bag. Designed for versatility and durability, this spacious shoulder bag measures 30 inches x 13 inches, making it ideal for long trips and carrying sports equipment. Crafted from heavyweight canvas material, the sports bag withstands the rigors of travel and outdoor activities, ensuring long-lasting performance. The travel bag features a convenient 6.5 inch extension end pocket with a 5.5 inch internal pocket, providing ample space for storing essentials.</p>",
+  "no_ratings": "0",
+  "sort_order": "1978",
+  "description": "<p>Discover the ultimate travel companion with Rothco's Canvas Double-Ender Sports Bag. Designed for versatility and durability, this spacious shoulder bag measures 30 inches x 13 inches, making it ideal for long trips and carrying sports equipment. Crafted from heavyweight canvas material, the sports bag withstands the rigors of travel and outdoor activities, ensuring long-lasting performance. The travel bag features a convenient 6.5 inch extension end pocket with a 5.5 inch internal pocket, providing ample space for storing essentials. Whether you're packing for a weekend getaway or heading to the gym, this canvas bag offers plenty of room to organize your belongings. In addition, the detachable and adjustable shoulder strap allows for comfortable carrying, while the sturdy construction ensures your gear stays secure. Whether you're an avid traveler, athlete, or simply need a reliable bag for daily use, Rothco's Canvas Double-Ender Sports Bag delivers the durability and functionality you need. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "208",
+    "215",
+    "217"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1262",
+      "item_index": "2450",
+      "rothco_item_no": "2372",
+      "upc": "613902237209",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.9000",
+      "image_filename": "2372-A-OD.jpg",
+      "catalog_page_no": "332",
+      "msrp": 52.99,
+      "ship_length": "20.5000",
+      "ship_width": "13.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 23.95,
+      "case_price": 23.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1263",
+      "item_index": "2450",
+      "rothco_item_no": "2373",
+      "upc": "613902237308",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.9000",
+      "image_filename": "2373-A-amazon.jpg",
+      "catalog_page_no": "332",
+      "msrp": 52.99,
+      "ship_length": "20.5000",
+      "ship_width": "13.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 23.95,
+      "case_price": 23.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14397",
+      "item_index": "2450",
+      "rothco_item_no": "2377",
+      "upc": "613902023772",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.9000",
+      "image_filename": "2377-A-amazon.jpg",
+      "catalog_page_no": "332",
+      "msrp": 52.99,
+      "ship_length": "20.5000",
+      "ship_width": "13.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Earth Brown"
+      },
+      "color": "Earth Brown",
+      "price": 23.95,
+      "case_price": 23.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

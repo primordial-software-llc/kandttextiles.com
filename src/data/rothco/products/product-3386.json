@@ -1,0 +1,94 @@
+{
+  "item_index": "3386",
+  "item_name": "Military Duct Tape AKA 100 Mile An Hour Tape",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Unleash the power of the legendary \"100 Mile An Hour Tape.\" Crafted from premium PE-coated cloth, this adhesive tape is the ultimate multitool for your repair arsenal. Whether you're tackling field repairs in the wilderness or fixing household items, this tape is your go-to solution.</p>",
+  "no_ratings": null,
+  "sort_order": "4508",
+  "description": "<p>Unleash the power of the legendary \"100 Mile An Hour Tape.\" Crafted from premium PE-coated cloth, this adhesive tape is the ultimate multitool for your repair arsenal. Whether you're tackling field repairs in the wilderness or fixing household items, this tape is your go-to solution. Its durable construction ensures reliable adhesion, while its versatility knows no bounds. From patching up tents and backpacks to sealing leaks and securing loose items, this tape can handle it all. Available in a variety of colors, you can choose the perfect match for your needs or add a splash of personality to your repairs. Don't let emergencies catch you off guard &ndash; stock up on the indispensable \"100 Mile An Hour Tape\" today.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "542",
+    "434"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9396",
+      "item_index": "3386",
+      "rothco_item_no": "8227",
+      "upc": "742366009883",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3500",
+      "image_filename": "8227-B-no-logo.jpg",
+      "catalog_page_no": "309",
+      "msrp": 14.99,
+      "ship_length": "5.7500",
+      "ship_width": "5.7500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 5.95,
+      "case_price": 5.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9397",
+      "item_index": "3386",
+      "rothco_item_no": "8228",
+      "upc": "742366011572",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3500",
+      "image_filename": "8228-B-no-logo.jpg",
+      "catalog_page_no": "309",
+      "msrp": 14.99,
+      "ship_length": "5.7500",
+      "ship_width": "5.7500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 5.95,
+      "case_price": 5.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9404",
+      "item_index": "3386",
+      "rothco_item_no": "8233",
+      "upc": "742366011602",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3500",
+      "image_filename": "8233-HR1.jpg",
+      "catalog_page_no": "309",
+      "msrp": 14.99,
+      "ship_length": "5.7500",
+      "ship_width": "5.7500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 5.95,
+      "case_price": 5.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

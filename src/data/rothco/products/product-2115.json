@@ -1,0 +1,149 @@
+{
+  "item_index": "2115",
+  "item_name": "Rothco Vintage USMC Eagle, Globe & Anchor T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show off your pride in the United States Marine Corps with Rothco&rsquo;s Vintage USMC Eagle, Globe &amp; Anchor T-Shirt. This iconic tee features the renowned Eagle, Globe, and Anchor insignia, symbolizing the valor and dedication of the Marine Corps. Made from a soft, lightweight, and durable cotton blend, this t-shirt ensures maximum comfort and longevity. Each Marine shirt comes with a holographic USMC hangtag, authenticating its official licensing by the United States Marine Corps.</p>",
+  "no_ratings": "0",
+  "sort_order": "2533",
+  "description": "<p>Show off your pride in the United States Marine Corps with Rothco&rsquo;s Vintage USMC Eagle, Globe &amp; Anchor T-Shirt. This iconic tee features the renowned Eagle, Globe, and Anchor insignia, symbolizing the valor and dedication of the Marine Corps. Made from a soft, lightweight, and durable cotton blend, this t-shirt ensures maximum comfort and longevity. It&rsquo;s perfect for everyday wear or as a meaningful gift for Marines, veterans, and their families. Each Marine shirt comes with a holographic USMC hangtag, authenticating its official licensing by the United States Marine Corps. The classic design and patriotic message make it a standout piece in any wardrobe, reflecting respect and admiration for the brave men and women who serve. Whether you&rsquo;re wearing it to show support or giving it as a gift, the Rothco Vintage USMC T-Shirt is a timeless tribute to the Marine Corps.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "640",
+    "42",
+    "49",
+    "69",
+    "547"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "6140",
+      "item_index": "2115",
+      "rothco_item_no": "61343",
+      "upc": "613902613430",
+      "inventory": "45",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "61343-RIGHT-C.jpg",
+      "catalog_page_no": "116",
+      "msrp": 21.99,
+      "ship_length": "14.0000",
+      "ship_width": "18.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": [
+        "Inactive"
+      ]
+    },
+    {
+      "item_variation_id": "6141",
+      "item_index": "2115",
+      "rothco_item_no": "61343",
+      "upc": "613902613461",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "61343-RIGHT-C.jpg",
+      "catalog_page_no": "116",
+      "msrp": 21.99,
+      "ship_length": "15.2500",
+      "ship_width": "19.0000",
+      "ship_height": "0.2500",
+      "eta_date": "08/11/2025",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6142",
+      "item_index": "2115",
+      "rothco_item_no": "61343",
+      "upc": "613902613478",
+      "inventory": "44",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "61343-RIGHT-C.jpg",
+      "catalog_page_no": "116",
+      "msrp": 21.99,
+      "ship_length": "15.2500",
+      "ship_width": "20.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": [
+        "Inactive"
+      ]
+    },
+    {
+      "item_variation_id": "6143",
+      "item_index": "2115",
+      "rothco_item_no": "61343",
+      "upc": "613902613485",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "61343-RIGHT-C.jpg",
+      "catalog_page_no": "116",
+      "msrp": 21.99,
+      "ship_length": "15.0000",
+      "ship_width": "22.2500",
+      "ship_height": "0.2500",
+      "eta_date": "08/11/2025",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6144",
+      "item_index": "2115",
+      "rothco_item_no": "61344",
+      "upc": "613902611641",
+      "inventory": "22",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6000",
+      "image_filename": "61343-RIGHT-C.jpg",
+      "catalog_page_no": "116",
+      "msrp": 25.99,
+      "ship_length": "16.5000",
+      "ship_width": "17.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 8.9,
+      "case_price": 8.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

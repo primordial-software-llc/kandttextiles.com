@@ -1,0 +1,42 @@
+{
+  "item_index": "3585",
+  "item_name": "Rothco Replacement Bite Valve",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Replacement Bite Valve fits any Rothco hydration pack or bladder. The bite valve is constructed from PVC plastic to prevent leaks and for a soft bite. The soft bite feature offers easier access to your fluids while hiking, biking or during other high-intensity activities.</p>",
+  "no_ratings": null,
+  "sort_order": "608",
+  "description": "<p>Rothco&rsquo;s Replacement Bite Valve fits any Rothco hydration pack or bladder. The bite valve is constructed from PVC plastic to prevent leaks and for a soft bite. The soft bite feature offers easier access to your fluids while hiking, biking or during other high-intensity activities.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "230",
+    "282",
+    "283"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "932",
+      "item_index": "3585",
+      "rothco_item_no": "20006",
+      "upc": "613902200067",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0400",
+      "image_filename": "20006-A-amazon.jpg",
+      "catalog_page_no": "290",
+      "msrp": 7.99,
+      "ship_length": "5.0000",
+      "ship_width": "3.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 3.1,
+      "case_price": 3.1,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

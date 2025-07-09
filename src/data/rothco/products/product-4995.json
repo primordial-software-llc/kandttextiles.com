@@ -1,0 +1,70 @@
+{
+  "item_index": "4995",
+  "item_name": "Rothco Hinged Helmet Liner Balaclava",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Warm, comfortable, and versatile, Rothco&rsquo;s Hinged Helmet Liner Balaclava is great for any winter activity. This toasty winter face mask features a hinged design that enables you to adjust the orientation to your needs.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133308",
+  "description": "<p>Warm, comfortable, and versatile, Rothco&rsquo;s Hinged Helmet Liner Balaclava is great for any winter activity. This toasty winter face mask features a hinged design that enables you to adjust the orientation to your needs. Thanks to the hinged design, you can wear the ski mask as a balaclava, neck gaiter, face mask, or hood. The balaclava mask features a soft and warm four-way stretch poly/spandex composition for optimal thermal insulation. The breathable mesh mouth covering combats moisture. Excess fabric on the neck maintains full coverage while on-the-go and can be tucked into your collar.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "378",
+    "372"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "22511",
+      "item_index": "4995",
+      "rothco_item_no": "42030",
+      "upc": "613902024311",
+      "inventory": "99",
+      "created_date": "2022-12-08 17:00:09",
+      "weight": "0.0000",
+      "image_filename": "42030-AA.jpg",
+      "catalog_page_no": "161",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22512",
+      "item_index": "4995",
+      "rothco_item_no": "42031",
+      "upc": "613902024328",
+      "inventory": "99",
+      "created_date": "2022-12-08 17:00:09",
+      "weight": "0.0000",
+      "image_filename": "42031-AA.jpg",
+      "catalog_page_no": "161",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

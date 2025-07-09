@@ -1,0 +1,72 @@
+{
+  "item_index": "3616",
+  "item_name": "Rothco Large Paracord Knife With Fire Starter",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Large Paracord Knife with Fire Starter is the ultimate survival tool for outdoor enthusiasts. Featuring a durable stainless steel blade, this knife is wrapped with 6 feet of paracord for a comfortable grip and emergency cordage. The magnesium fire starter allows you to quickly ignite fires in survival situations, while the included polyester belt sheath ensures safe and convenient storage. Designed for versatility, the knife measures 8.5 inches in total length with a sharp 3 1/8-inch blade perfect for cutting tasks.</p>",
+  "no_ratings": null,
+  "sort_order": "1786",
+  "description": "<p>Rothco&rsquo;s Large Paracord Knife with Fire Starter is the ultimate survival tool for outdoor enthusiasts. Featuring a durable stainless steel blade, this knife is wrapped with 6 feet of paracord for a comfortable grip and emergency cordage. The magnesium fire starter allows you to quickly ignite fires in survival situations, while the included polyester belt sheath ensures safe and convenient storage. Designed for versatility, the knife measures 8.5 inches in total length with a sharp 3 1/8-inch blade perfect for cutting tasks. Whether you're camping, hiking, or exploring the wilderness, this knife is a reliable companion to help you tackle any adventure with confidence.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "297",
+    "466"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "13358",
+      "item_index": "3616",
+      "rothco_item_no": "36742",
+      "upc": "613902367425",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4375",
+      "image_filename": "36742-B1.jpg",
+      "catalog_page_no": "271",
+      "msrp": 23.99,
+      "ship_length": "9.0000",
+      "ship_width": "2.7500",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 9.25,
+      "case_price": 9.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15428",
+      "item_index": "3616",
+      "rothco_item_no": "36743",
+      "upc": "613902367432",
+      "inventory": "99",
+      "created_date": "2015-05-11 17:10:02",
+      "weight": "0.4375",
+      "image_filename": "36743-C.jpg",
+      "catalog_page_no": "271",
+      "msrp": 23.99,
+      "ship_length": "9.0000",
+      "ship_width": "2.7500",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 9.25,
+      "case_price": 9.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

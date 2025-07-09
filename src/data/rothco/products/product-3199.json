@@ -1,0 +1,71 @@
+{
+  "item_index": "3199",
+  "item_name": "Rothco MultiCam T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's MultiCam T-Shirt is crafted with a blend of comfort and durability, made from a robust 5.5 oz cotton jersey material. The camo shirt is designed with licensed MultiCam fabric through CRYE Industries, ensuring an authentic and high-quality camouflage pattern. This uniform t-shirt features a double-needle stitch for enhanced durability and longevity, making it perfect for various outdoor activities and casual wear. The 100% cotton construction provides a soft and breathable feel, ensuring all-day comfort.</p>",
+  "no_ratings": null,
+  "sort_order": "2476",
+  "description": "<p>Rothco's MultiCam T-Shirt is crafted with a blend of comfort and durability, made from a robust 5.5 oz cotton jersey material. The camo shirt is designed with licensed MultiCam fabric through CRYE Industries, ensuring an authentic and high-quality camouflage pattern. This uniform t-shirt features a double-needle stitch for enhanced durability and longevity, making it perfect for various outdoor activities and casual wear. The 100% cotton construction provides a soft and breathable feel, ensuring all-day comfort. Whether you're heading into the wilderness or simply want a stylish and functional tee, Rothco's MultiCam T-Shirt is an excellent choice.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "40",
+    "80",
+    "140"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "6391",
+      "item_index": "3199",
+      "rothco_item_no": "6286",
+      "upc": "613902628632",
+      "inventory": "66",
+      "created_date": "2010-12-12 21:00:00",
+      "weight": "0.4500",
+      "image_filename": "6286-LEFT-B.jpg",
+      "catalog_page_no": "0",
+      "msrp": 52.99,
+      "ship_length": "22.5000",
+      "ship_width": "16.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 20.95,
+      "case_price": 20.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6392",
+      "item_index": "3199",
+      "rothco_item_no": "6287",
+      "upc": "613902628700",
+      "inventory": "20",
+      "created_date": "2010-12-12 21:00:00",
+      "weight": "0.4600",
+      "image_filename": "6286-LEFT-B.jpg",
+      "catalog_page_no": "0",
+      "msrp": 62.99,
+      "ship_length": "16.0000",
+      "ship_width": "15.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 24.95,
+      "case_price": 24.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

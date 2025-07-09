@@ -1,0 +1,98 @@
+{
+  "item_index": "169",
+  "item_name": "Rothco Women's Adjustable Vintage Fatigue Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p class=\"MsoNormal\">Add timeless style to your wardrobe with Rothco Women&rsquo;s Adjustable Vintage Fatigue Caps. Crafted from 100% cotton rip-stop fabric, this cap is built to endure daily wear while offering a soft, worn-in feel. The washed fabric provides an authentic vintage look that complements any outfit, from casual to rugged. The adjustable hook and loop closure ensures a comfortable fit for most head sizes, making it a versatile addition to your accessory collection.</p>",
+  "no_ratings": "0",
+  "sort_order": "2308",
+  "description": "<p>Add timeless style to your wardrobe with Rothco Women&rsquo;s Adjustable Vintage Fatigue Caps. Crafted from 100% cotton rip-stop fabric, this cap is built to endure daily wear while offering a soft, worn-in feel. The washed fabric provides an authentic vintage look that complements any outfit, from casual to rugged. The adjustable hook and loop closure ensures a comfortable fit for most head sizes, making it a versatile addition to your accessory collection. Whether you&rsquo;re heading outdoors or just completing your everyday ensemble, this fatigue cap combines durability and style with ease. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from military personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "68",
+    "83",
+    "137",
+    "150",
+    "370",
+    "537"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "497",
+      "item_index": "169",
+      "rothco_item_no": "1153",
+      "upc": "613902115309",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "1153-army.jpg",
+      "catalog_page_no": "127",
+      "msrp": 13.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.5000",
+      "ship_height": "4.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "498",
+      "item_index": "169",
+      "rothco_item_no": "1155",
+      "upc": "613902115507",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "1155-olive_drab.jpg",
+      "catalog_page_no": "127",
+      "msrp": 13.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.5000",
+      "ship_height": "4.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "499",
+      "item_index": "169",
+      "rothco_item_no": "1156",
+      "upc": "613902115606",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0094",
+      "image_filename": "1156-A-amazon.jpg",
+      "catalog_page_no": "127",
+      "msrp": 13.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.5000",
+      "ship_height": "4.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Pink Camo"
+      },
+      "color": "Pink Camo",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

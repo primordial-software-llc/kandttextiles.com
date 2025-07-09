@@ -1,0 +1,47 @@
+{
+  "item_index": "4498",
+  "item_name": "Rothco Pop-Up Solar Lantern And Charger",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Pop-Up Lantern and Charger is a multifaceted light that is the perfect addition for any outdoor enthusiast&rsquo;s gear collection.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "132811",
+  "description": "<p>Rothco&rsquo;s Pop-Up Lantern and Charger is a multifaceted light that is the perfect addition for any outdoor enthusiast&rsquo;s gear collection. This solar light can be used as a standard lantern, or condensed and used as a flashlight. The 3 watt LED pop-up lantern can be charged via solar energy or with the charging cable. Along with 3 different light modes (Dim, Bright and Flashing), the solar lantern can charge mobile devices through the USB port. Metal hooks allow these camping lanterns to be hung-up when needed. Made from lightweight plastic material, Rothco&rsquo;s collapsible lantern can be stored away for easy travel.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "310",
+    "311",
+    "312",
+    "274",
+    "405"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18642",
+      "item_index": "4498",
+      "rothco_item_no": "2775",
+      "upc": "613902127753",
+      "inventory": "0",
+      "created_date": "2018-08-30 15:10:03",
+      "weight": "0.8000",
+      "image_filename": "2775-D-amazon.jpg",
+      "catalog_page_no": "0",
+      "msrp": 22.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": null,
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 8.9,
+      "case_price": 8.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

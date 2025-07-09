@@ -1,0 +1,40 @@
+{
+  "item_index": "4126",
+  "item_name": "Smith & Wesson Police Watch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p class=\"MsoNormal\">Smith &amp; Wesson&rsquo;s Police Watch is a high-quality tactical watch perfect for wearing on the job.</p>",
+  "no_ratings": null,
+  "sort_order": "191",
+  "description": "<p class=\"MsoNormal\">Smith &amp; Wesson&rsquo;s Police Watch is a high-quality tactical watch perfect for wearing on the job. This watch features precision quartz Japanese movement, so that you are always on time. Employ this timepiece day or night, equipped with electronic back glow for night time use. The face of this police watch is blue with Smith &amp; Wesson name and logo written in white, along with the word &ldquo;police&rdquo; and police badge in white font color. The Smith and Wesson watch face also features both the time and date. This reliable wrist watch is water resistant up to 30 meters and its Nylon band is not only waterproof, but durable and comfortable as well. This wrist accessory is constructed with a dependable long-lasting silver oxide battery, and is lightweight, weighing 4.7 ounces.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "418"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16321",
+      "item_index": "4126",
+      "rothco_item_no": "4312",
+      "upc": "810112981230",
+      "inventory": "20",
+      "created_date": "2016-05-03 16:10:01",
+      "weight": "0.2938",
+      "image_filename": "4312-A-amazon.jpg",
+      "catalog_page_no": "205",
+      "msrp": 93.99,
+      "ship_length": "3.5000",
+      "ship_width": "3.5000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 37.5,
+      "case_price": 37.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

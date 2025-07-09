@@ -1,0 +1,47 @@
+{
+  "item_index": "434",
+  "item_name": "Rothco Special Forces Cut Resistant Tactical Gloves",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": "0",
+  "sort_order": "406",
+  "description": "<p>Ergonomic Cut And Fit, Cut Resistant Shell Provides Cut Resistance And Flash Protection To 800 Degrees F (427 C), Water Resilient</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "318"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2175",
+      "item_index": "434",
+      "rothco_item_no": "3462",
+      "upc": "613902346253",
+      "inventory": "21",
+      "created_date": "2005-02-21 21:00:00",
+      "weight": "0.2900",
+      "image_filename": "3462-A.jpg",
+      "catalog_page_no": "0",
+      "msrp": 62.99,
+      "ship_length": "12.5000",
+      "ship_width": "5.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Tan",
+        "size": "S"
+      },
+      "color": "Tan",
+      "size": "S",
+      "price": 24.9,
+      "case_price": 24.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

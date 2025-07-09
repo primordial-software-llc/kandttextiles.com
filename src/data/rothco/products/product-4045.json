@@ -1,0 +1,41 @@
+{
+  "item_index": "4045",
+  "item_name": "Rothco Cotton Gun Cleaning Patches",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Keep your firearms clean with Rothco's Cotton Gun Cleaning Patches. The 3\" x 3\" 100% cotton gun cleaning patches are spun lace, not woven and can be cut to fit the desired size. Polybag contains 200 patches.</p>",
+  "no_ratings": null,
+  "sort_order": "816",
+  "description": "<p>Keep your firearms clean with Rothco's Cotton Gun Cleaning Patches. The 3\" x 3\" 100% cotton gun cleaning patches are spun lace, not woven and can be cut to fit the desired size. Polybag contains 200 patches.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "249",
+    "255"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15780",
+      "item_index": "4045",
+      "rothco_item_no": "3825",
+      "upc": "613902123854",
+      "inventory": "99",
+      "created_date": "2015-10-05 14:10:04",
+      "weight": "0.1250",
+      "image_filename": "3825-A-amazon.jpg",
+      "catalog_page_no": "262",
+      "msrp": 6.99,
+      "ship_length": "3.0000",
+      "ship_width": "3.0000",
+      "ship_height": "5.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 2.5,
+      "case_price": 2.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "item_index": "2352",
+  "item_name": "Rothco Tactical Operator Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=ogxvwHgD37A",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Tactical operator hat features 3 separate loop fields: the front is for displaying flag and morale patches, the top is for attaching an IR marker, and the back is for mounting name tape.</p>",
+  "no_ratings": "0",
+  "sort_order": "56437",
+  "description": "<p>Rothco's Tactical operator hat features 3 separate loop fields: the front is for displaying flag and morale patches, the top is for attaching an IR marker, and the back is for mounting name tape.</p>\n<p><strong>Rugged &amp; Long-Lasting:&nbsp;</strong>These outdoor hats are built with a breathable 55% cotton / 45% polyester blend (MultiCam = 65% polyester / 35% cotton rip-stop) for unmatched resiliency and easy-to-care-for maintenance. These tactical field hats are not afraid to get down and dirty while out in the wilderness.</p>\n<p><strong>Keep Cool, Stay Focused:</strong>This tactical cap features 4 reinforced vents on the top to help circulate airflow around your head, allowing you to focus on the task at hand.</p>\n<p><strong>One Size Fits Most:</strong>Our tactical operator hats use an adjustable hook and loop strap for a snug fit that is perfect for most head sizes, ensuring the cap stays in place.</p>\n<p>&nbsp;</p>\n<p><strong>Got You Covered:</strong>Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "2",
+    "83",
+    "692",
+    "146",
+    "145",
+    "144",
+    "143",
+    "579",
+    "138",
+    "137",
+    "140",
+    "521"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3144",
+      "item_index": "2352",
+      "rothco_item_no": "4362",
+      "upc": "613902436206",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "4362-A-amazon1.jpg",
+      "catalog_page_no": "146",
+      "msrp": 20.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam",
+        "size": "One Size"
+      },
+      "color": "MultiCam",
+      "size": "One Size",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "10876",
+      "item_index": "2352",
+      "rothco_item_no": "9362",
+      "upc": "613902936201",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "9362-Khaki-D-amazon.jpg",
+      "catalog_page_no": "147",
+      "msrp": 10.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki",
+        "size": "One Size"
+      },
+      "color": "Khaki",
+      "size": "One Size",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "10877",
+      "item_index": "2352",
+      "rothco_item_no": "9362",
+      "upc": "613902936218",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "9362-Black-D-amazon1.jpg",
+      "catalog_page_no": "147",
+      "msrp": 10.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "10878",
+      "item_index": "2352",
+      "rothco_item_no": "9362",
+      "upc": "613902936225",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "9362-OD-D-amazon.jpg",
+      "catalog_page_no": "147",
+      "msrp": 10.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "10879",
+      "item_index": "2352",
+      "rothco_item_no": "9362",
+      "upc": "613902936232",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "93362-ACUCamo-A-amazon.jpg",
+      "catalog_page_no": "147",
+      "msrp": 10.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "ACU Digital Camo",
+        "size": "One Size"
+      },
+      "color": "ACU Digital Camo",
+      "size": "One Size",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "12491",
+      "item_index": "2352",
+      "rothco_item_no": "9362",
+      "upc": "613902936249",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "9362-Coyote-D-amazon1.jpg",
+      "catalog_page_no": "147",
+      "msrp": 10.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "12492",
+      "item_index": "2352",
+      "rothco_item_no": "9362",
+      "upc": "613902936256",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "9362-NavyBlue-D-amazon.jpg",
+      "catalog_page_no": "147",
+      "msrp": 10.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue",
+        "size": "One Size"
+      },
+      "color": "Navy Blue",
+      "size": "One Size",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "12493",
+      "item_index": "2352",
+      "rothco_item_no": "9362",
+      "upc": "613902936263",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "9362-Woodland-A-amazon.jpg",
+      "catalog_page_no": "147",
+      "msrp": 10.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo",
+        "size": "One Size"
+      },
+      "color": "Woodland Camo",
+      "size": "One Size",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "14168",
+      "item_index": "2352",
+      "rothco_item_no": "93662",
+      "upc": "613902993662",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "93362-TotalTerrain-A-amazon.jpg",
+      "catalog_page_no": "146",
+      "msrp": 10.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Total Terrain Camo",
+        "size": "One Size"
+      },
+      "color": "Total Terrain Camo",
+      "size": "One Size",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "14348",
+      "item_index": "2352",
+      "rothco_item_no": "93362",
+      "upc": "613902093669",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "93362-woodigital-A-amazon1.jpg",
+      "catalog_page_no": "146",
+      "msrp": 10.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Digital Camo",
+        "size": "One Size"
+      },
+      "color": "Woodland Digital Camo",
+      "size": "One Size",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "14349",
+      "item_index": "2352",
+      "rothco_item_no": "93362",
+      "upc": "613902366992",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "93362-Subdued_DIgital-A-amazon.jpg",
+      "catalog_page_no": "146",
+      "msrp": 10.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Subdued Urban Digital Camo",
+        "size": "One Size"
+      },
+      "color": "Subdued Urban Digital Camo",
+      "size": "One Size",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "14350",
+      "item_index": "2352",
+      "rothco_item_no": "93362",
+      "upc": "613902093621",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "93362-Desert-Digital-A-amazon.jpg",
+      "catalog_page_no": "146",
+      "msrp": 10.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Desert Digital Camo",
+        "size": "One Size"
+      },
+      "color": "Desert Digital Camo",
+      "size": "One Size",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "15832",
+      "item_index": "2352",
+      "rothco_item_no": "93362",
+      "upc": "613902093638",
+      "inventory": "99",
+      "created_date": "2015-10-19 16:10:01",
+      "weight": "0.2000",
+      "image_filename": "93362-SkyCamo-A-amazon.jpg",
+      "catalog_page_no": "146",
+      "msrp": 10.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Sky Blue Digital Camo",
+        "size": "One Size"
+      },
+      "color": "Sky Blue Digital Camo",
+      "size": "One Size",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "15833",
+      "item_index": "2352",
+      "rothco_item_no": "93362",
+      "upc": "613902093645",
+      "inventory": "99",
+      "created_date": "2015-10-19 16:10:01",
+      "weight": "0.2000",
+      "image_filename": "93362-City_Digital_Camo-A-amazon.jpg",
+      "catalog_page_no": "146",
+      "msrp": 10.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "City Digital Camo",
+        "size": "One Size"
+      },
+      "color": "City Digital Camo",
+      "size": "One Size",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "15834",
+      "item_index": "2352",
+      "rothco_item_no": "93362",
+      "upc": "613902093652",
+      "inventory": "99",
+      "created_date": "2015-10-19 16:10:01",
+      "weight": "0.2000",
+      "image_filename": "93362-Midnite_Digital-A-amazon1.jpg",
+      "catalog_page_no": "146",
+      "msrp": 10.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Midnight Digital Camo",
+        "size": "One Size"
+      },
+      "color": "Midnight Digital Camo",
+      "size": "One Size",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "16806",
+      "item_index": "2352",
+      "rothco_item_no": "9362",
+      "upc": "613902893627",
+      "inventory": "99",
+      "created_date": "2016-12-16 12:10:01",
+      "weight": "0.2000",
+      "image_filename": "9362-Grey-H-amazon1.jpg",
+      "catalog_page_no": "147",
+      "msrp": 10.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Gunmetal Grey",
+        "size": "One Size"
+      },
+      "color": "Gunmetal Grey",
+      "size": "One Size",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "19367",
+      "item_index": "2352",
+      "rothco_item_no": "2672",
+      "upc": "613902026728",
+      "inventory": "99",
+      "created_date": "2019-12-30 11:00:16",
+      "weight": "0.2000",
+      "image_filename": "2672-C.jpg",
+      "catalog_page_no": "146",
+      "msrp": 10.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black Camo",
+        "size": "One Size"
+      },
+      "color": "Black Camo",
+      "size": "One Size",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "19556",
+      "item_index": "2352",
+      "rothco_item_no": "9362",
+      "upc": "613902883628",
+      "inventory": "99",
+      "created_date": "2020-05-06 12:00:11",
+      "weight": "0.2000",
+      "image_filename": "9362-A-amazon.jpg",
+      "catalog_page_no": "147",
+      "msrp": 10.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Midnight Navy Blue"
+      },
+      "size": "One Size",
+      "color": "Midnight Navy Blue",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "21268",
+      "item_index": "2352",
+      "rothco_item_no": "26720",
+      "upc": "613902010994",
+      "inventory": "99",
+      "created_date": "2022-01-13 16:00:12",
+      "weight": "0.2000",
+      "image_filename": "26720-A.jpg",
+      "catalog_page_no": "146",
+      "msrp": 10.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Coyote Camo"
+      },
+      "size": "One Size",
+      "color": "Coyote Camo",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "21945",
+      "item_index": "2352",
+      "rothco_item_no": "9362",
+      "upc": "613902017504",
+      "inventory": "99",
+      "created_date": "2022-06-02 16:00:06",
+      "weight": "0.2000",
+      "image_filename": "9362-Brown-A.jpg",
+      "catalog_page_no": "147",
+      "msrp": 10.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Brown"
+      },
+      "color": "Brown",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "21946",
+      "item_index": "2352",
+      "rothco_item_no": "93620",
+      "upc": "613902017368",
+      "inventory": "99",
+      "created_date": "2022-06-02 16:00:06",
+      "weight": "0.2000",
+      "image_filename": "93620-A.jpg",
+      "catalog_page_no": "146",
+      "msrp": 10.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Tiger Stripe Camo"
+      },
+      "color": "Tiger Stripe Camo",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "21947",
+      "item_index": "2352",
+      "rothco_item_no": "93621",
+      "upc": "613902017375",
+      "inventory": "99",
+      "created_date": "2022-06-02 16:00:06",
+      "weight": "0.2000",
+      "image_filename": "93621-A.jpg",
+      "catalog_page_no": "146",
+      "msrp": 10.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Midnight Blue Camo"
+      },
+      "color": "Midnight Blue Camo",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    }
+  ]
+}

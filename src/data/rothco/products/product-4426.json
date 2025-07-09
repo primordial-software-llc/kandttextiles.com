@@ -1,0 +1,98 @@
+{
+  "item_index": "4426",
+  "item_name": "Rothco EMT Medical Trauma Kit",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's EMT Medical Trauma Kit is packed with over 200 essential first aid supplies, perfect for first responders and emergency medical personnel. The durable EMT bag measures 22\" x 11\" x 11 1/2\" and features a large main compartment with a removable organizer, along with 8 additional pockets and pouches for securely storing medical equipment and supplies. The shaped zipper flap opening allows for easy access to the contents, while the rear 6-loop bandolier provides space for attaching extra gear.</p>",
+  "no_ratings": null,
+  "sort_order": "132739",
+  "description": "<p>Rothco's EMT Medical Trauma Kit is packed with over 200 essential first aid supplies, perfect for first responders and emergency medical personnel. The durable EMT bag measures 22\" x 11\" x 11 1/2\" and features a large main compartment with a removable organizer, along with 8 additional pockets and pouches for securely storing medical equipment and supplies. The shaped zipper flap opening allows for easy access to the contents, while the rear 6-loop bandolier provides space for attaching extra gear. For added convenience, the kit includes an adjustable and removable shoulder strap and a top carry handle. The top flap features a prominent white cross, making it easily identifiable in emergency situations. Please note that this item has hazmat restrictions and cannot be shipped via air freight. Contact Rothco for further shipping details. Military Trauma Kit includes: 1- 6\" Elastic Bandage 5 Eye Pads, 16 - 1\" x 3\" Bandage Strips, 5 - 2\" x 9\" Abdominal Pads, 5 - 4\" x 4\" Sterile Gauze, 2 - Bleed Stop Bandages, 2 - 40\" x 40\" x 56\" Triangle Bandages, 5 - Butterfly Strips, 10 - Knuckle Bandages, 3 - 12\" x 30\" Multi-Trauma Dressings, 5 - Ammonia Inhalants, 8 - Pairs of Examination Gloves, 2 - Casualty Blankets 84\" x 52\" Silver/OD, 2 - 1\" Tape, 2 - Ice Packs, 5 - Tongue Depressors, 1 - EMT Shears, 1 - Tweezers, 2 - Scalpel Blades, 1 - Latex Tourniquet, 1 - Stethoscope, 2 - Sutures, 2 - Stainless Steel Hemostats, 1 - #3 Scalpel Handle, 2 - Air Ways, 1 - Cervical Collar, 1 -&nbsp; Pen Light, 1 - Universal Splint, 1 - CPR Mask Wound Cleaning/Misc., 10 - Aspirin Packages, 2 - 1 6 oz. Calamine Lotion, 6 - After Bite Wipes, 45 - Antiseptic Wipes, 1 - Skin &amp; Eye Wash, 5 -&nbsp; Burn Aid Packages, 1 -&nbsp; First Aid Book, 6 -&nbsp; Safety Pins, 1 - 2oz. Hand Sanitizer, 1 - Hand Soap, and 10 -&nbsp; Triple Antibiotic Ointment Packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "223",
+    "226",
+    "227",
+    "271",
+    "241",
+    "242"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18085",
+      "item_index": "4426",
+      "rothco_item_no": "1145",
+      "upc": "613902114517",
+      "inventory": "22",
+      "created_date": "2017-12-27 15:10:02",
+      "weight": "8.9000",
+      "image_filename": "1145-Red-B-amazon.jpg",
+      "catalog_page_no": "298",
+      "msrp": 287.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red"
+      },
+      "color": "Red",
+      "price": 114.95,
+      "case_price": 114.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18086",
+      "item_index": "4426",
+      "rothco_item_no": "1145",
+      "upc": "613902114524",
+      "inventory": "20",
+      "created_date": "2017-12-27 15:10:02",
+      "weight": "8.9000",
+      "image_filename": "1145-Blue-A-amazon.jpg",
+      "catalog_page_no": "298",
+      "msrp": 287.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Blue"
+      },
+      "color": "Blue",
+      "price": 114.95,
+      "case_price": 114.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18163",
+      "item_index": "4426",
+      "rothco_item_no": "1145",
+      "upc": "613902114531",
+      "inventory": "20",
+      "created_date": "2018-02-22 10:10:04",
+      "weight": "8.9000",
+      "image_filename": "1145-Orange-D1.jpg",
+      "catalog_page_no": "298",
+      "msrp": 287.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Orange"
+      },
+      "color": "Orange",
+      "price": 114.95,
+      "case_price": 114.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

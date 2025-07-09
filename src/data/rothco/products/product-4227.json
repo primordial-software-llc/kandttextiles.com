@@ -1,0 +1,46 @@
+{
+  "item_index": "4227",
+  "item_name": "Rothco US Army Flash Patch",
+  "has_restrictions": "1",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Standard Beret Flash for United States Army. The patch measures 1 7/8\" x 2 1/4\" and is made to MIL-DTL-14652 specifications.</p>",
+  "no_ratings": null,
+  "sort_order": "14",
+  "description": "<p>Standard Beret Flash for United States Army. The patch measures 1 7/8\" x 2 1/4\" and is made to MIL-DTL-14652 specifications.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "423",
+    "376"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14322",
+      "item_index": "4227",
+      "rothco_item_no": "3574",
+      "upc": "613902357402",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0070",
+      "image_filename": "3574-A-amazon.jpg",
+      "catalog_page_no": "215",
+      "msrp": 3.99,
+      "ship_length": "2.7500",
+      "ship_width": "2.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Blue",
+        "size": "One Size"
+      },
+      "color": "Blue",
+      "size": "One Size",
+      "price": 1.35,
+      "case_price": 1.35,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

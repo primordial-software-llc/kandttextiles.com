@@ -1,0 +1,40 @@
+{
+  "item_index": "1673",
+  "item_name": "Smith & Wesson Extreme OPS Knife",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Smith &amp; Wesson Extreme OPS Knife is great for fishing, hunting, camping, and emergencies. The knife 7 1/2&rdquo; overall, and has a 3 &frac14;&rdquo; 400 Series Stainless Steel locking blade. The Extreme OPS Knife also has an aluminum handle, and a pocket clip.</p>",
+  "no_ratings": "0",
+  "sort_order": "360",
+  "description": "<p>The Smith &amp; Wesson Extreme OPS Knife is great for fishing, hunting, camping, and emergencies. The knife 7 1/2&rdquo; overall, and has a 3 &frac14;&rdquo; 400 Series Stainless Steel locking blade. The Extreme OPS Knife also has an aluminum handle, and a pocket clip.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "513"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1804",
+      "item_index": "1673",
+      "rothco_item_no": "3089",
+      "upc": "028634105663",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1813",
+      "image_filename": "3089_hr1.jpg",
+      "catalog_page_no": "270",
+      "msrp": 32.99,
+      "ship_length": "4.2500",
+      "ship_width": "1.2500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 12.9,
+      "case_price": 12.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

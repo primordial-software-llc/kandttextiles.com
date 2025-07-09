@@ -1,0 +1,574 @@
+{
+  "item_index": "142",
+  "item_name": "Rothco Deluxe EMT (Emergency Medical Technician) Paramedic Pants",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=KncveEht8vM",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Deluxe EMT Pants are designed for comfort and utility, ensuring emergency medical technicians (EMTs) can respond swiftly without distraction.</p>",
+  "no_ratings": "0",
+  "sort_order": "3572",
+  "description": "<p>Rothco&rsquo;s Deluxe EMT Pants are designed for comfort and utility, ensuring emergency medical technicians (EMTs) can respond swiftly without distraction. Made from a durable cotton-polyester blend, these pants feature an enhanced waistband for increased mobility, hidden elastic-slider waistband for a comfortable fit, and gripper waistband to keep your shirt neatly tucked in. With multiple pockets including deep reinforced front slash pockets, large button-down cargo pockets, hidden zipper pocket, back pockets, and calf pockets, these pants provide ample storage for essential EMS gear. The reinforced knees help prevent wear and tear, making them ideal for EMTs, paramedics, and other first responder personnel.</p>",
+  "selection_groups": [
+    "color",
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "9",
+    "10",
+    "454",
+    "455"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2568",
+      "item_index": "142",
+      "rothco_item_no": "3823",
+      "upc": "613902382305",
+      "inventory": "80",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.6000",
+      "image_filename": "3823-QA_Right-C.jpg",
+      "catalog_page_no": "24",
+      "msrp": 74.99,
+      "ship_length": "18.0000",
+      "ship_width": "15.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "waist_size": "30",
+        "color": "Black",
+        "size": "30W x 32L"
+      },
+      "waist_size": "30",
+      "color": "Black",
+      "size": "30W x 32L",
+      "price": 33.95,
+      "case_price": 33.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "2569",
+      "item_index": "142",
+      "rothco_item_no": "3823",
+      "upc": "613902382312",
+      "inventory": "88",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.6000",
+      "image_filename": "3823-QA_Right-C.jpg",
+      "catalog_page_no": "24",
+      "msrp": 74.99,
+      "ship_length": "18.0000",
+      "ship_width": "15.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "waist_size": "32",
+        "color": "Black",
+        "size": "32W x 32L"
+      },
+      "waist_size": "32",
+      "color": "Black",
+      "size": "32W x 32L",
+      "price": 33.95,
+      "case_price": 33.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "2570",
+      "item_index": "142",
+      "rothco_item_no": "3823",
+      "upc": "613902382329",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.6000",
+      "image_filename": "3823-QA_Right-C.jpg",
+      "catalog_page_no": "24",
+      "msrp": 74.99,
+      "ship_length": "18.0000",
+      "ship_width": "15.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "waist_size": "34",
+        "color": "Black",
+        "size": "34W x 32L"
+      },
+      "waist_size": "34",
+      "color": "Black",
+      "size": "34W x 32L",
+      "price": 33.95,
+      "case_price": 33.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "2571",
+      "item_index": "142",
+      "rothco_item_no": "3823",
+      "upc": "613902382336",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.6000",
+      "image_filename": "3823-QA_Right-C.jpg",
+      "catalog_page_no": "24",
+      "msrp": 74.99,
+      "ship_length": "18.0000",
+      "ship_width": "15.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "waist_size": "36",
+        "color": "Black",
+        "size": "36W x 32L"
+      },
+      "waist_size": "36",
+      "color": "Black",
+      "size": "36W x 32L",
+      "price": 33.95,
+      "case_price": 33.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "2572",
+      "item_index": "142",
+      "rothco_item_no": "3823",
+      "upc": "613902382343",
+      "inventory": "82",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.6000",
+      "image_filename": "3823-QA_Right-C.jpg",
+      "catalog_page_no": "24",
+      "msrp": 74.99,
+      "ship_length": "18.0000",
+      "ship_width": "15.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "waist_size": "38",
+        "color": "Black",
+        "size": "38W x 32L"
+      },
+      "waist_size": "38",
+      "color": "Black",
+      "size": "38W x 32L",
+      "price": 33.95,
+      "case_price": 33.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "2573",
+      "item_index": "142",
+      "rothco_item_no": "3823",
+      "upc": "613902382350",
+      "inventory": "33",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.6000",
+      "image_filename": "3823-QA_Right-C.jpg",
+      "catalog_page_no": "24",
+      "msrp": 74.99,
+      "ship_length": "18.0000",
+      "ship_width": "15.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "waist_size": "40",
+        "color": "Black",
+        "size": "40W x 32L"
+      },
+      "waist_size": "40",
+      "color": "Black",
+      "size": "40W x 32L",
+      "price": 33.95,
+      "case_price": 33.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "2574",
+      "item_index": "142",
+      "rothco_item_no": "3823",
+      "upc": "613902382367",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.6000",
+      "image_filename": "3823-QA_Right-C.jpg",
+      "catalog_page_no": "24",
+      "msrp": 74.99,
+      "ship_length": "18.0000",
+      "ship_width": "15.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "waist_size": "42",
+        "color": "Black",
+        "size": "42W x 32L"
+      },
+      "waist_size": "42",
+      "color": "Black",
+      "size": "42W x 32L",
+      "price": 33.95,
+      "case_price": 33.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "2575",
+      "item_index": "142",
+      "rothco_item_no": "3824",
+      "upc": "613902382404",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.7000",
+      "image_filename": "3823-QA_Right-C.jpg",
+      "catalog_page_no": "24",
+      "msrp": 78.99,
+      "ship_length": "19.0000",
+      "ship_width": "15.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "waist_size": "44",
+        "color": "Black",
+        "size": "44W x 32L"
+      },
+      "waist_size": "44",
+      "color": "Black",
+      "size": "44W x 32L",
+      "price": 35.3,
+      "case_price": 35.3,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "2576",
+      "item_index": "142",
+      "rothco_item_no": "3824",
+      "upc": "613902382411",
+      "inventory": "37",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.7000",
+      "image_filename": "3823-QA_Right-C.jpg",
+      "catalog_page_no": "24",
+      "msrp": 78.99,
+      "ship_length": "19.0000",
+      "ship_width": "15.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "waist_size": "46",
+        "color": "Black",
+        "size": "46W x 32L"
+      },
+      "waist_size": "46",
+      "color": "Black",
+      "size": "46W x 32L",
+      "price": 35.3,
+      "case_price": 35.3,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "14896",
+      "item_index": "142",
+      "rothco_item_no": "3923",
+      "upc": "613902009394",
+      "inventory": "60",
+      "created_date": "2014-10-22 14:10:02",
+      "weight": "1.6000",
+      "image_filename": "3923-QA_Right-B1.jpg",
+      "catalog_page_no": "24",
+      "msrp": 74.99,
+      "ship_length": "18.0000",
+      "ship_width": "15.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue",
+        "waist_size": "42",
+        "size": "42W x 32L"
+      },
+      "color": "Navy Blue",
+      "waist_size": "42",
+      "size": "42W x 32L",
+      "price": 33.95,
+      "case_price": 33.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Inactive",
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "14897",
+      "item_index": "142",
+      "rothco_item_no": "3923",
+      "upc": "613902003927",
+      "inventory": "20",
+      "created_date": "2014-10-22 14:10:02",
+      "weight": "1.6000",
+      "image_filename": "3923-QA_Right-B1.jpg",
+      "catalog_page_no": "24",
+      "msrp": 74.99,
+      "ship_length": "18.0000",
+      "ship_width": "15.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue",
+        "waist_size": "30",
+        "size": "30W x 32L"
+      },
+      "color": "Navy Blue",
+      "waist_size": "30",
+      "size": "30W x 32L",
+      "price": 33.95,
+      "case_price": 33.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Inactive",
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "14898",
+      "item_index": "142",
+      "rothco_item_no": "3923",
+      "upc": "613902392304",
+      "inventory": "99",
+      "created_date": "2014-10-22 14:10:02",
+      "weight": "1.6000",
+      "image_filename": "3923-QA_Right-B1.jpg",
+      "catalog_page_no": "24",
+      "msrp": 74.99,
+      "ship_length": "18.0000",
+      "ship_width": "15.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue",
+        "waist_size": "32",
+        "size": "32W x 32L"
+      },
+      "color": "Navy Blue",
+      "waist_size": "32",
+      "size": "32W x 32L",
+      "price": 33.95,
+      "case_price": 33.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Inactive",
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "14899",
+      "item_index": "142",
+      "rothco_item_no": "3923",
+      "upc": "613902392397",
+      "inventory": "88",
+      "created_date": "2014-10-22 14:10:02",
+      "weight": "1.6000",
+      "image_filename": "3923-QA_Right-B1.jpg",
+      "catalog_page_no": "24",
+      "msrp": 74.99,
+      "ship_length": "18.0000",
+      "ship_width": "15.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue",
+        "waist_size": "36",
+        "size": "36W x 32L"
+      },
+      "color": "Navy Blue",
+      "waist_size": "36",
+      "size": "36W x 32L",
+      "price": 33.95,
+      "case_price": 33.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Inactive",
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "14900",
+      "item_index": "142",
+      "rothco_item_no": "3923",
+      "upc": "613902392991",
+      "inventory": "58",
+      "created_date": "2014-10-22 14:10:02",
+      "weight": "1.6000",
+      "image_filename": "3923-QA_Right-B1.jpg",
+      "catalog_page_no": "24",
+      "msrp": 74.99,
+      "ship_length": "18.0000",
+      "ship_width": "15.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue",
+        "waist_size": "40",
+        "size": "40W x 32L"
+      },
+      "color": "Navy Blue",
+      "waist_size": "40",
+      "size": "40W x 32L",
+      "price": 33.95,
+      "case_price": 33.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Inactive",
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "14901",
+      "item_index": "142",
+      "rothco_item_no": "3923",
+      "upc": "613902939233",
+      "inventory": "41",
+      "created_date": "2014-10-22 14:10:02",
+      "weight": "1.6000",
+      "image_filename": "3923-QA_Right-B1.jpg",
+      "catalog_page_no": "24",
+      "msrp": 74.99,
+      "ship_length": "18.0000",
+      "ship_width": "15.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue",
+        "waist_size": "34",
+        "size": "34W x 32L"
+      },
+      "color": "Navy Blue",
+      "waist_size": "34",
+      "size": "34W x 32L",
+      "price": 33.95,
+      "case_price": 33.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Inactive",
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "14902",
+      "item_index": "142",
+      "rothco_item_no": "3923",
+      "upc": "613902993921",
+      "inventory": "74",
+      "created_date": "2014-10-22 14:10:02",
+      "weight": "1.6000",
+      "image_filename": "3923-QA_Right-B1.jpg",
+      "catalog_page_no": "24",
+      "msrp": 74.99,
+      "ship_length": "18.0000",
+      "ship_width": "15.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue",
+        "waist_size": "38",
+        "size": "38W x 32L"
+      },
+      "color": "Navy Blue",
+      "waist_size": "38",
+      "size": "38W x 32L",
+      "price": 33.95,
+      "case_price": 33.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Inactive",
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "14903",
+      "item_index": "142",
+      "rothco_item_no": "3924",
+      "upc": "613902392007",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.7000",
+      "image_filename": "3923-QA_Right-B1.jpg",
+      "catalog_page_no": "24",
+      "msrp": 78.99,
+      "ship_length": "19.0000",
+      "ship_width": "15.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue",
+        "waist_size": "44",
+        "size": "44W x 32L"
+      },
+      "color": "Navy Blue",
+      "waist_size": "44",
+      "size": "44W x 32L",
+      "price": 35.3,
+      "case_price": 35.3,
+      "case_quantity": 1,
+      "statuses": [
+        "Inactive",
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "14904",
+      "item_index": "142",
+      "rothco_item_no": "3924",
+      "upc": "613902392403",
+      "inventory": "46",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.7000",
+      "image_filename": "3923-QA_Right-B1.jpg",
+      "catalog_page_no": "24",
+      "msrp": 78.99,
+      "ship_length": "19.0000",
+      "ship_width": "15.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue",
+        "waist_size": "46",
+        "size": "46W x 32L"
+      },
+      "color": "Navy Blue",
+      "waist_size": "46",
+      "size": "46W x 32L",
+      "price": 35.3,
+      "case_price": 35.3,
+      "case_quantity": 1,
+      "statuses": [
+        "Inactive",
+        "Active"
+      ]
+    }
+  ]
+}

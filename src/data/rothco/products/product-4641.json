@@ -1,0 +1,43 @@
+{
+  "item_index": "4641",
+  "item_name": "Rothco Hydration Bladder Cleaning Kit",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Designed to clean and help dry your hydration bladder &ndash; Rothco&rsquo;s Bladder Cleaning Kit is equipped with a drying hanger and 3 brushes to extend the life of the bladder.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "132954",
+  "description": "<p>Designed to clean and help dry your hydration bladder &ndash; Rothco&rsquo;s bladder cleaning kit is equipped with a drying hanger and 3 brushes to extend the life of the bladder. The flexible 37.5&rdquo; long snake brush thoroughly cleans your entire bladder hose. The cleaning system includes a large (15.5&rdquo;) and small (5.25&rdquo;) brush for detailed cleaning of the hydration bladder and mouth piece to prevent bacterial build-up.&nbsp; After cleaning, use the collapsible frame / drying rack for proper airflow for the bladder to effectively dry (12.75&rdquo; x 5/8&rdquo;). Includes small plastic clips (2) hold cleaning components together when not in use.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "230",
+    "231",
+    "280",
+    "363"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19332",
+      "item_index": "4641",
+      "rothco_item_no": "2826",
+      "upc": "613902928268",
+      "inventory": "99",
+      "created_date": "2019-12-02 13:00:21",
+      "weight": "0.3750",
+      "image_filename": "2826-A-amazon.jpg",
+      "catalog_page_no": "290",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 7.8,
+      "case_price": 7.8,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

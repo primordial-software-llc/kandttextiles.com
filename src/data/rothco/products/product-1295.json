@@ -1,0 +1,69 @@
+{
+  "item_index": "1295",
+  "item_name": "Rothco Canvas European Shoulder Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco Canvas European Shoulder Bag is a versatile and practical solution for all your carrying needs, whether you're commuting, traveling, or running errands. This sturdy shoulder bag features six spacious compartments, including an expandable main compartment that offers ample room for a laptop, tablet, or everyday essentials. The main compartment expands with a &frac34; zipper, providing extra space when needed. Additionally, the bag is equipped with 2 front pouches for quick-access items, secured with snap closures.</p>",
+  "no_ratings": "0",
+  "sort_order": "1531",
+  "description": "<p>Rothco Canvas European Shoulder Bag is a versatile and practical solution for all your carrying needs, whether you're commuting, traveling, or running errands. This sturdy shoulder bag features six spacious compartments, including an expandable main compartment that offers ample room for a laptop, tablet, or everyday essentials. The main compartment expands with a &frac34; zipper, providing extra space when needed. Additionally, the bag is equipped with 2 front pouches for quick-access items, secured with snap closures. The front flap has 2 hook and loop closures that attach to D-rings, ensuring your belongings are safe and secure. With a large zippered pocket on the front flap and a convenient open-top back pocket, this bag keeps everything organized and within easy reach. The expandable shoulder strap and top carry handle give you multiple ways to carry this durable and stylish canvas bag, making it perfect for any occasion. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "208"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9318",
+      "item_index": "1295",
+      "rothco_item_no": "8118",
+      "upc": "613902811805",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.1500",
+      "image_filename": "8118-Black-HR.jpg",
+      "catalog_page_no": "358",
+      "msrp": 37.99,
+      "ship_length": "18.0000",
+      "ship_width": "13.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 16.95,
+      "case_price": 16.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9319",
+      "item_index": "1295",
+      "rothco_item_no": "8119",
+      "upc": "613902811904",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.1000",
+      "image_filename": "8119-HR1.jpg",
+      "catalog_page_no": "358",
+      "msrp": 37.99,
+      "ship_length": "18.0000",
+      "ship_width": "13.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 16.95,
+      "case_price": 16.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

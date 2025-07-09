@@ -1,0 +1,42 @@
+{
+  "item_index": "3263",
+  "item_name": "Rothco Black Windstorm Tactical Goggle",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Foam Padded Frame , Anti-Fog , Anti-Scratch , Clear Lens , UV400 Protection , 1 1/2\" Adjustable Strap , Individually Boxed</p>",
+  "no_ratings": null,
+  "sort_order": "294",
+  "description": "<p>Foam Padded Frame , Anti-Fog , Anti-Scratch , Clear Lens , UV400 Protection , 1 1/2\" Adjustable Strap , Individually Boxed</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "394",
+    "395",
+    "489"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "200",
+      "item_index": "3263",
+      "rothco_item_no": "10379",
+      "upc": "613902103795",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3500",
+      "image_filename": "10379_HR1.jpg",
+      "catalog_page_no": "200",
+      "msrp": 34.99,
+      "ship_length": "8.5000",
+      "ship_width": "4.5000",
+      "ship_height": "3.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 15.25,
+      "case_price": 15.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

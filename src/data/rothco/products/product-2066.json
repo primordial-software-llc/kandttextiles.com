@@ -1,0 +1,126 @@
+{
+  "item_index": "2066",
+  "item_name": "Rothco All Weather Emergency Poncho",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s All Weather Emergency Rain Poncho is a must-have for anyone who spends time outdoors. Lightweight yet durable, this poncho is designed to provide effective protection against the elements. Measuring 50 inches x 80 inches, it offers ample coverage to keep you dry during unexpected rain showers. Made from reusable material, it is easy to pack and perfect for including in your bug-out bag, camping gear, or emergency kit.</p>",
+  "no_ratings": "0",
+  "sort_order": "3818",
+  "description": "<p>Rothco&rsquo;s All Weather Emergency Rain Poncho is a must-have for anyone who spends time outdoors. Lightweight yet durable, this poncho is designed to provide effective protection against the elements. Measuring 50 inches x 80 inches, it offers ample coverage to keep you dry during unexpected rain showers. Made from reusable material, it is easy to pack and perfect for including in your bug-out bag, camping gear, or emergency kit. The poncho is available in various colors to suit your preferences and needs. Whether you're hiking, camping, or just need a reliable rain cover in an emergency, Rothco's All Weather Emergency Rain Poncho is a versatile and practical addition to your outdoor gear.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "191",
+    "542"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2428",
+      "item_index": "2066",
+      "rothco_item_no": "3681",
+      "upc": "613902368101",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "3681OD-FRONT-A.jpg",
+      "catalog_page_no": "93",
+      "msrp": 1.99,
+      "ship_length": "6.2500",
+      "ship_width": "4.7500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 0.85,
+      "case_price": 0.85,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2429",
+      "item_index": "2066",
+      "rothco_item_no": "3681",
+      "upc": "613902368125",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "3681CLEAR-LEFT-A.jpg",
+      "catalog_page_no": "93",
+      "msrp": 1.99,
+      "ship_length": "6.2500",
+      "ship_width": "4.7500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Clear",
+        "size": "One Size"
+      },
+      "color": "Clear",
+      "size": "One Size",
+      "price": 0.85,
+      "case_price": 0.85,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2430",
+      "item_index": "2066",
+      "rothco_item_no": "3681",
+      "upc": "613902368118",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "3681YELLOW-FRONT-A.jpg",
+      "catalog_page_no": "93",
+      "msrp": 1.99,
+      "ship_length": "6.2500",
+      "ship_width": "4.7500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Yellow",
+        "size": "One Size"
+      },
+      "color": "Yellow",
+      "size": "One Size",
+      "price": 0.85,
+      "case_price": 0.85,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2431",
+      "item_index": "2066",
+      "rothco_item_no": "3681",
+      "upc": "613902368132",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "3681BLUE-FRONT-A.jpg",
+      "catalog_page_no": "93",
+      "msrp": 1.99,
+      "ship_length": "6.2500",
+      "ship_width": "4.7500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Blue",
+        "size": "One Size"
+      },
+      "color": "Blue",
+      "size": "One Size",
+      "price": 0.85,
+      "case_price": 0.85,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

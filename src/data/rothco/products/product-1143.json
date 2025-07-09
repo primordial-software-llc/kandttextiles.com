@@ -1,0 +1,71 @@
+{
+  "item_index": "1143",
+  "item_name": "G.I. Bladder Canteen",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Bladder Canteen is a reliable hydration solution for outdoor enthusiasts. With a generous 2-quart capacity, this active-duty-style canteen ensures you stay hydrated during your adventures. Its collapsible design allows for easy storage in bags and packs, making it convenient to carry wherever you go. The attached cap prevents loss while filling or drinking, ensuring you have quick access to water when needed.</p>",
+  "no_ratings": "0",
+  "sort_order": "2847",
+  "description": "<p>Rothco's Bladder Canteen is a reliable hydration solution for outdoor enthusiasts. With a generous 2-quart capacity, this active-duty-style canteen ensures you stay hydrated during your adventures. Its collapsible design allows for easy storage in bags and packs, making it convenient to carry wherever you go. The attached cap prevents loss while filling or drinking, ensuring you have quick access to water when needed. Plus, the canteen is BPA-free, guaranteeing safe and clean drinking water. Rothco&rsquo;s Bladder Canteen is a reliable hydration solution for active-duty professionals and outdoor enthusiasts.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "281",
+    "283",
+    "500"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5828",
+      "item_index": "1143",
+      "rothco_item_no": "600",
+      "upc": "613902060005",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3000",
+      "image_filename": "601-B-NOLOGO.jpg",
+      "catalog_page_no": "286",
+      "msrp": 14.99,
+      "ship_length": "12.0000",
+      "ship_width": "12.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 5.75,
+      "case_price": 5.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5884",
+      "item_index": "1143",
+      "rothco_item_no": "601",
+      "upc": "613902060104",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3000",
+      "image_filename": "602-A-NOLOGO.jpg",
+      "catalog_page_no": "286",
+      "msrp": 14.99,
+      "ship_length": "12.0000",
+      "ship_width": "12.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 5.75,
+      "case_price": 5.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

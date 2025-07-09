@@ -1,0 +1,41 @@
+{
+  "item_index": "2881",
+  "item_name": "Rothco Metal Tent Stakes",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Metal Tent Stakes are 12 inches long and made from durable, lightweight materials, making them perfect for camping and outdoor use. Each poly bag includes 10 stakes, ensuring reliable support for your tent or shelter in a variety of terrains.</p>",
+  "no_ratings": null,
+  "sort_order": "957",
+  "description": "<p>Rothco's Metal Tent Stakes are 12 inches long and made from durable, lightweight materials, making them perfect for camping and outdoor use. Each poly bag includes 10 stakes, ensuring reliable support for your tent or shelter in a variety of terrains.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "257",
+    "261"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1278",
+      "item_index": "2881",
+      "rothco_item_no": "240",
+      "upc": "613902024007",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1350",
+      "image_filename": "240-A-amazon1.jpg",
+      "catalog_page_no": "304",
+      "msrp": 1.99,
+      "ship_length": "12.0000",
+      "ship_width": "3.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 0.75,
+      "case_price": 0.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "item_index": "4273",
+  "item_name": "Rothco MA-1 Bomber Backpack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s MA-1 Bomber Backpack brings the iconic style of the classic MA-1 Bomber Jacket into a functional and fashionable bag. This backpack features a large main compartment with a double zipper, providing ample space for your essentials, whether you're heading to work, school, or on a day trip. The interior is lined with the recognizable orange lining that fans of the MA-1 jacket will appreciate, adding a touch of authenticity.</p>",
+  "no_ratings": null,
+  "sort_order": "78",
+  "description": "<p>Rothco&rsquo;s MA-1 Bomber Backpack brings the iconic style of the classic MA-1 Bomber Jacket into a functional and fashionable bag. This backpack features a large main compartment with a double zipper, providing ample space for your essentials, whether you're heading to work, school, or on a day trip. The interior is lined with the recognizable orange lining that fans of the MA-1 jacket will appreciate, adding a touch of authenticity. A front zippered compartment and an additional MA-1 flight jacket-inspired pocket ensure easy access to smaller items like your phone, keys, or wallet. The 2 side bottle holders with elastic tops keep your water bottles secure and within reach. Designed for both function and fashion, this backpack measures 15 inch x 13.5 inch x 7 inch, offering plenty of storage while maintaining a sleek, stylish look. Whether you're using it for your daily commute or as a versatile travel companion, the MA-1 Bomber Backpack is a standout choice for any occasion.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "204"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17011",
+      "item_index": "4273",
+      "rothco_item_no": "7676",
+      "upc": "613902176768",
+      "inventory": "99",
+      "created_date": "2017-04-03 11:10:02",
+      "weight": "0.8000",
+      "image_filename": "7676-A-amazon.jpg",
+      "catalog_page_no": "345",
+      "msrp": 48.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Sage Green"
+      },
+      "color": "Sage Green",
+      "price": 21.95,
+      "case_price": 21.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18491",
+      "item_index": "4273",
+      "rothco_item_no": "7670",
+      "upc": "613902076709",
+      "inventory": "85",
+      "created_date": "2018-05-18 13:10:02",
+      "weight": "0.8000",
+      "image_filename": "7670-Black-A-amazon.jpg",
+      "catalog_page_no": "345",
+      "msrp": 48.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 21.95,
+      "case_price": 21.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "item_index": "4254",
+  "item_name": "Rothco Combat Work Boots - 6 Inch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s 6-Inch Combat Work Boots are designed for the hardworking individual seeking durability, comfort, and stability in their footwear. Inspired by Rothco's classic combat boots, these work boots feature a durable tan suede leather upper that withstands the rigors of daily use. The thick lug sole ensures improved stability and traction, making them ideal for various terrains and conditions. For added comfort, the boots come with a padded collar and a convenient pull tab for easy on and off.</p>",
+  "no_ratings": null,
+  "sort_order": "128",
+  "description": "<p>Rothco&rsquo;s 6-Inch Combat Work Boots are designed for the hardworking individual seeking durability, comfort, and stability in their footwear. Inspired by Rothco's classic combat boots, these work boots feature a durable tan suede leather upper that withstands the rigors of daily use. The thick lug sole ensures improved stability and traction, making them ideal for various terrains and conditions. For added comfort, the boots come with a padded collar and a convenient pull tab for easy on and off. The removable cushion insole provides additional support, while the nylon-coated brass speedhook eyelet lacing system ensures a secure fit. These utility work boots also include a midsole heat barrier for enhanced protection, making them a reliable choice for any demanding job. Measuring 6 inches in height, Rothco&rsquo;s Combat Work Boots are the perfect blend of durability and practical functionality. Designed with precision and built to withstand the harshest conditions, Rothco's collection of footwear and accessories combines durability, functionality, and unparalleled performance. From our Forced Entry Series which features our speedlace and waterproof technologies, to our V-Max Collection designed with lightweight running shoe soles, our diverse range of footwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts. With a rich heritage spanning over 7 decades, Rothco is the go-to brand for all things that keep you standing on your feet.</p>",
+  "selection_groups": [
+    "shoe_size"
+  ],
+  "statuses": "",
+  "categories": [
+    "349",
+    "354"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16991",
+      "item_index": "4254",
+      "rothco_item_no": "5288",
+      "upc": "613902252882",
+      "inventory": "20",
+      "created_date": "2017-04-03 09:10:01",
+      "weight": "4.0000",
+      "image_filename": "5288-B-amazon.jpg",
+      "catalog_page_no": "0",
+      "msrp": 74.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "shoe_size": "5",
+        "color": "Desert Tan"
+      },
+      "shoe_size": "5",
+      "color": "Desert Tan",
+      "price": 29.9,
+      "case_price": 29.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16992",
+      "item_index": "4254",
+      "rothco_item_no": "5288",
+      "upc": "613902352889",
+      "inventory": "20",
+      "created_date": "2017-04-03 09:10:01",
+      "weight": "4.0000",
+      "image_filename": "5288-B-amazon.jpg",
+      "catalog_page_no": "0",
+      "msrp": 74.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "shoe_size": "6",
+        "color": "Desert Tan"
+      },
+      "shoe_size": "6",
+      "color": "Desert Tan",
+      "price": 29.9,
+      "case_price": 29.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16998",
+      "item_index": "4254",
+      "rothco_item_no": "5288",
+      "upc": "613902852884",
+      "inventory": "20",
+      "created_date": "2017-04-03 09:10:01",
+      "weight": "4.0000",
+      "image_filename": "5288-B-amazon.jpg",
+      "catalog_page_no": "0",
+      "msrp": 74.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "shoe_size": "11",
+        "color": "Desert Tan"
+      },
+      "shoe_size": "11",
+      "color": "Desert Tan",
+      "price": 29.9,
+      "case_price": 29.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

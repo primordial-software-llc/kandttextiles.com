@@ -1,0 +1,71 @@
+{
+  "item_index": "4974",
+  "item_name": "Rothco Waterproof Backpack Cover",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Waterproof Backpack Covers provides powerful rain protection in the great outdoors without taking too much space in your pack.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133287",
+  "description": "<p>Rothco&rsquo;s Waterproof Backpack Covers provide a powerful and compact way to keep your backpack dry in the great outdoors without taking too much space in your pack. The durable, coated polyester ripstop composition of the backpack rain cover is designed to stand the test of time. An elastic cinch pull cord and hook and loop strap on the waterproof backpack cover add multiple layers of insulation, while a grommet hole at the bottom allows for drainage. The packable carrying pouch measures 9 inches x 7 inches. Item #10228 fits backpacks up to 60L, and item #10229 fits backpacks up to 90L.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "201",
+    "202",
+    "204"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "22172",
+      "item_index": "4974",
+      "rothco_item_no": "10228",
+      "upc": "613902020405",
+      "inventory": "99",
+      "created_date": "2022-09-08 10:00:17",
+      "weight": "0.9000",
+      "image_filename": "10228-A.jpg",
+      "catalog_page_no": "312",
+      "msrp": 21.99,
+      "ship_length": "2.5000",
+      "ship_width": "6.0000",
+      "ship_height": "9.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "60L"
+      },
+      "size": "60L",
+      "price": 9.9,
+      "case_price": 9.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22173",
+      "item_index": "4974",
+      "rothco_item_no": "10229",
+      "upc": "613902020412",
+      "inventory": "99",
+      "created_date": "2022-09-08 10:00:17",
+      "weight": "0.0000",
+      "image_filename": "10229-A.jpg",
+      "catalog_page_no": "312",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "90L"
+      },
+      "size": "90L",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

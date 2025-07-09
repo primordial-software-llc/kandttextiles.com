@@ -1,0 +1,51 @@
+{
+  "item_index": "4004",
+  "item_name": "Rothco OTG Tactical Goggles",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Over the Glasses (OTG) Tactical Goggles are crafted to comfortably fit prescription glasses, making them an essential accessory for range days and outdoor activities. Specially designed temple cutouts ensure a secure and comfortable fit over your glasses, while the padded interior enhances all-day comfort. These goggles feature 2mm thick anti-fog and anti-scratch lenses for long-lasting durability and clear vision in any environment. Built-in top, side, and bottom vents improve airflow to prevent fogging and keep you cool.</p>",
+  "no_ratings": null,
+  "sort_order": "186",
+  "description": "<p>Rothco&rsquo;s Over the Glasses (OTG) Tactical Goggles are crafted to comfortably fit prescription glasses, making them an essential accessory for range days and outdoor activities. Specially designed temple cutouts ensure a secure and comfortable fit over your glasses, while the padded interior enhances all-day comfort. These goggles feature 2mm thick anti-fog and anti-scratch lenses for long-lasting durability and clear vision in any environment. Built-in top, side, and bottom vents improve airflow to prevent fogging and keep you cool. CE certified with UV 400 protection, the goggles shield your eyes from harmful sun exposure. An adjustable strap provides a customizable fit for any user, ensuring secure wear during any activity.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "253",
+    "335",
+    "394",
+    "395",
+    "489"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15630",
+      "item_index": "4004",
+      "rothco_item_no": "10730",
+      "upc": "613902107311",
+      "inventory": "99",
+      "created_date": "2015-09-03 17:10:01",
+      "weight": "0.3000",
+      "image_filename": "10730-A-amazon.jpg",
+      "catalog_page_no": "199",
+      "msrp": 32.99,
+      "ship_length": "7.0000",
+      "ship_width": "3.2500",
+      "ship_height": "3.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "amazon_color_map": "Clear",
+        "color": "Clear"
+      },
+      "amazon_color_map": "Clear",
+      "color": "Clear",
+      "price": 14.95,
+      "case_price": 14.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "item_index": "56",
+  "item_name": "Rothco G.I. Type Poncho Liner",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Experience enhanced warmth in harsh weather with Rothco's G.I. Type Poncho Liner, affectionately known as The Woobie. This versatile field-proven poncho liner, measuring 62 inch x 82 inch, offers additional insulation. Beyond its role as a poncho accessory, it transforms into a cozy sleeping bag or blanket, ideal for camping adventures. Crafted from durable 100% rip-stop polyester, it ensures both longevity and comfort. The corner tie strings enable easy attachment to your poncho, providing a secure fit.</p>",
+  "no_ratings": "0",
+  "sort_order": "3754",
+  "description": "<p>Experience enhanced warmth in harsh weather with Rothco's G.I. Type Poncho Liner, affectionately known as The Woobie. This versatile field-proven poncho liner, measuring 62 inch x 82 inch, offers additional insulation. Beyond its role as a poncho accessory, it transforms into a cozy sleeping bag or blanket, ideal for camping adventures. Crafted from durable 100% rip-stop polyester, it ensures both longevity and comfort. The corner tie strings enable easy attachment to your poncho, providing a secure fit. Compact and lightweight, it's a valuable addition to your bug-out bag, ensuring all-weather readiness.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "191",
+    "593"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9609",
+      "item_index": "56",
+      "rothco_item_no": "8375",
+      "upc": "613902837508",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.7000",
+      "image_filename": "8375-od.jpg",
+      "catalog_page_no": "306",
+      "msrp": 57.99,
+      "ship_length": "28.5000",
+      "ship_width": "21.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 25.5,
+      "case_price": 25.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9610",
+      "item_index": "56",
+      "rothco_item_no": "8375",
+      "upc": "613902837515",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.7000",
+      "image_filename": "8375-blk.jpg",
+      "catalog_page_no": "306",
+      "msrp": 57.99,
+      "ship_length": "28.5000",
+      "ship_width": "21.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 25.5,
+      "case_price": 25.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9611",
+      "item_index": "56",
+      "rothco_item_no": "8375",
+      "upc": "613902837522",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.7000",
+      "image_filename": "8375-coyote.jpg",
+      "catalog_page_no": "306",
+      "msrp": 57.99,
+      "ship_length": "28.5000",
+      "ship_width": "21.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 25.5,
+      "case_price": 25.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

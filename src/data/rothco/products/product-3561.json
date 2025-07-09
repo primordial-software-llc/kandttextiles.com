@@ -1,0 +1,42 @@
+{
+  "item_index": "3561",
+  "item_name": "Rothco Survival Tent",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Reflective Survival Tent provides effective protection for two adults from the elements in an emergency situation; the reflective material helps conserve body heat.The tent contains a 3 meter long nylon rope and is compact &amp; lightweight for easy storage. Great for a bug out bag or emergency kit.</p>",
+  "no_ratings": null,
+  "sort_order": "843",
+  "description": "<p>Rothco's Reflective Survival Tent provides effective protection for two adults from the elements in an emergency situation; the reflective material helps conserve body heat.The tent contains a 3 meter long nylon rope and is compact &amp; lightweight for easy storage. Great for a bug out bag or emergency kit.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "542",
+    "261",
+    "257"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12859",
+      "item_index": "3561",
+      "rothco_item_no": "3878",
+      "upc": "613902038783",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5000",
+      "image_filename": "3878-C.jpg",
+      "catalog_page_no": "304",
+      "msrp": 10.99,
+      "ship_length": "9.0000",
+      "ship_width": "6.7500",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

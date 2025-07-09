@@ -1,0 +1,95 @@
+{
+  "item_index": "2458",
+  "item_name": "Rothco 25L Tactical Backpack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s 25L Tactical Backpack offers a versatile solution for all your storage needs, whether you&rsquo;re hiking, camping, traveling, or commuting. With a 25 liter capacity and dimensions of 11.5 inch x 6.75 inch x 19 inch, this hiking backpack provides ample room to store your tactical gear securely. The spacious main compartment features an elastic top cover with quick-release buckles to keep your tactical supplies in place, while the top cover's zippered pouch offers easy access to smaller items.</p>",
+  "no_ratings": "0",
+  "sort_order": "1365",
+  "description": "<p>Rothco&rsquo;s 25L Tactical Backpack offers a versatile solution for all your storage needs, whether you&rsquo;re hiking, camping, traveling, or commuting. With a 25 liter capacity and dimensions of 11.5 inch x 6.75 inch x 19 inch, this hiking backpack provides ample room to store your tactical gear securely. The spacious main compartment features an elastic top cover with quick-release buckles to keep your tactical supplies in place, while the top cover's zippered pouch offers easy access to smaller items. The rugged backpack also includes large side pouches with 2-way zipper closures for additional storage. Adjustable padded shoulder straps and back padding ensure comfort, even during extended use. Made from durable materials, this tactical pack is built to withstand the rigors of daily wear and tear, making it perfect for outdoor adventures, commuting, or everyday use.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "223",
+    "201",
+    "204"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1298",
+      "item_index": "2458",
+      "rothco_item_no": "2448",
+      "upc": "613902244801",
+      "inventory": "99",
+      "created_date": "2011-10-26 21:00:00",
+      "weight": "1.8000",
+      "image_filename": "2448-A.jpg",
+      "catalog_page_no": "321",
+      "msrp": 57.99,
+      "ship_length": "17.7500",
+      "ship_width": "14.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 28.5,
+      "case_price": 28.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1538",
+      "item_index": "2458",
+      "rothco_item_no": "2748",
+      "upc": "613902274808",
+      "inventory": "51",
+      "created_date": "2011-10-26 21:00:00",
+      "weight": "1.8000",
+      "image_filename": "2748-A2.jpg",
+      "catalog_page_no": "321",
+      "msrp": 57.99,
+      "ship_length": "17.7500",
+      "ship_width": "14.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 28.5,
+      "case_price": 28.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14338",
+      "item_index": "2458",
+      "rothco_item_no": "2749",
+      "upc": "613902027497",
+      "inventory": "48",
+      "created_date": "2014-02-28 18:10:01",
+      "weight": "1.8000",
+      "image_filename": "2749-A.jpg",
+      "catalog_page_no": "321",
+      "msrp": 57.99,
+      "ship_length": "17.7500",
+      "ship_width": "14.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 28.5,
+      "case_price": 28.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

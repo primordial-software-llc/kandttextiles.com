@@ -1,0 +1,76 @@
+{
+  "item_index": "1231",
+  "item_name": "Rothco Tactical Canvas Cargo Bag / Backpack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Tactical Canvas Cargo Bag / Backpack is built to be more than just a bag for active-duty personnel; it's a versatile travel companion perfect for storing tools, equipment, and essential gear. Constructed with heavyweight canvas material, this durable duffle bag is designed to bear the weight of your supplies while you&rsquo;re on the go. The Tactical Canvas Cargo Bag features a massive main compartment measuring approximately 24 inches x 15 inches x 13 inches, providing ample space for all your items.</p>",
+  "no_ratings": "0",
+  "sort_order": "528",
+  "description": "<p>Rothco&rsquo;s Tactical Canvas Cargo Bag / Backpack is built to be more than just a bag for active-duty personnel; it's a versatile travel companion perfect for storing tools, equipment, and essential gear. Constructed with heavyweight canvas material, this durable duffle bag is designed to bear the weight of your supplies while you&rsquo;re on the go. The Tactical Canvas Cargo Bag features a massive main compartment measuring approximately 24 inches x 15 inches x 13 inches, providing ample space for all your items. The full-length heavy-duty zipper with a snap flap cover ensures easy access to your essentials, keeping them secure and protected. Sturdy dual reinforced crosshatch stitched web handles offer reliable carrying options. For added convenience, the bag includes adjustable backpack-style padded shoulder straps with D-rings, allowing you to haul your gear comfortably. Whether you're heading on a trip, carrying tools, or organizing equipment, Rothco&rsquo;s Tactical Canvas Cargo Bag / Backpack is designed to meet your needs with its robust construction and versatile carrying options. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "204",
+    "215",
+    "217",
+    "211"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1829",
+      "item_index": "1231",
+      "rothco_item_no": "3125",
+      "upc": "613902312500",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.7500",
+      "image_filename": "3125-A-amazon.jpg",
+      "catalog_page_no": "326",
+      "msrp": 41.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1830",
+      "item_index": "1231",
+      "rothco_item_no": "3125",
+      "upc": "613902312517",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.7500",
+      "image_filename": "3125-Black-A-amazon.jpg",
+      "catalog_page_no": "326",
+      "msrp": 41.99,
+      "ship_length": "14.0000",
+      "ship_width": "12.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "item_index": "1186",
+  "item_name": "Rothco Mosquito Head Net",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay protected from pesky insects during outdoor activities with Rothco&rsquo;s Mosquito Head Net. Constructed from fine mesh netting, this head covering blocks mosquitoes, gnats, and other bugs without obstructing your vision. The elastic neck cord ensures a snug, secure fit, preventing insects from slipping through. Lightweight and versatile, the net can be worn over hats, such as boonie hats, for added convenience. Whether you&rsquo;re camping, hiking, or fishing, this mosquito net provides essential protection.</p>",
+  "no_ratings": "0",
+  "sort_order": "1662",
+  "description": "<p>Stay protected from pesky insects during outdoor activities with Rothco&rsquo;s Mosquito Head Net. Constructed from fine mesh netting, this head covering blocks mosquitoes, gnats, and other bugs without obstructing your vision. The elastic neck cord ensures a snug, secure fit, preventing insects from slipping through. Lightweight and versatile, the net can be worn over hats, such as boonie hats, for added convenience. Whether you&rsquo;re camping, hiking, or fishing, this mosquito net provides essential protection, making it an ideal companion for all your outdoor adventures.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "256",
+    "268",
+    "601"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9824",
+      "item_index": "1186",
+      "rothco_item_no": "8534",
+      "upc": "613902853416",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "8534-A-amazon.jpg",
+      "catalog_page_no": "153",
+      "msrp": 5.99,
+      "ship_length": "6.0000",
+      "ship_width": "5.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 2.55,
+      "case_price": 2.55,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

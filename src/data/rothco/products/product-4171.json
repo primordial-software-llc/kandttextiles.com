@@ -1,0 +1,100 @@
+{
+  "item_index": "4171",
+  "item_name": "Rothco Paracord Boot Laces",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Be prepared from head to toe with Rothco&rsquo;s Paracord Boot Laces. These versatile boot laces are constructed from 550lb test strength paracord with a durable 7-strand core, making them ideal for tactical, hiking, or work boots. Designed for heavy-duty performance, the laces ensure your boots stay securely fastened while withstanding rugged environments. The reinforced plastic tips are built to prevent fraying, adding durability to the already tough construction.</p>",
+  "no_ratings": null,
+  "sort_order": "737",
+  "description": "<p>Be prepared from head to toe with Rothco&rsquo;s Paracord Boot Laces. These versatile boot laces are constructed from 550lb test strength paracord with a durable 7-strand core, making them ideal for tactical, hiking, or work boots. Designed for heavy-duty performance, the laces ensure your boots stay securely fastened while withstanding rugged environments. The reinforced plastic tips are built to prevent fraying, adding durability to the already tough construction. Whether you're trekking through rough terrain or wearing your boots for everyday use, Rothco&rsquo;s paracord laces are the perfect replacement for any worn-out or broken laces. These laces are not only functional but can also serve as emergency paracord in survival situations, offering multi-purpose versatility.</p>",
+  "selection_groups": [
+    "color",
+    "length"
+  ],
+  "statuses": "",
+  "categories": [
+    "359"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16521",
+      "item_index": "4171",
+      "rothco_item_no": "2149",
+      "upc": "613902121492",
+      "inventory": "99",
+      "created_date": "2016-07-07 12:10:01",
+      "weight": "0.7100",
+      "image_filename": "2139-A-amazon.jpg",
+      "catalog_page_no": "186",
+      "msrp": 6.99,
+      "ship_length": "3.0000",
+      "ship_width": "2.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Desert Tan",
+        "length": "72 Inches"
+      },
+      "color": "Desert Tan",
+      "length": "72 Inches",
+      "price": 2.5,
+      "case_price": 2.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16522",
+      "item_index": "4171",
+      "rothco_item_no": "2159",
+      "upc": "613902221598",
+      "inventory": "99",
+      "created_date": "2016-07-07 12:10:01",
+      "weight": "0.0600",
+      "image_filename": "2159-A-amazon.jpg",
+      "catalog_page_no": "186",
+      "msrp": 5.99,
+      "ship_length": "3.0000",
+      "ship_width": "2.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "length": "54 Inches"
+      },
+      "color": "Black",
+      "length": "54 Inches",
+      "price": 2.4,
+      "case_price": 2.4,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16523",
+      "item_index": "4171",
+      "rothco_item_no": "2179",
+      "upc": "613902121799",
+      "inventory": "99",
+      "created_date": "2016-07-07 12:10:01",
+      "weight": "0.0710",
+      "image_filename": "2159-A-amazon.jpg",
+      "catalog_page_no": "186",
+      "msrp": 6.99,
+      "ship_length": "3.0000",
+      "ship_width": "2.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "length": "72 Inches"
+      },
+      "color": "Black",
+      "length": "72 Inches",
+      "price": 2.5,
+      "case_price": 2.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

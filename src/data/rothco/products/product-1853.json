@@ -1,0 +1,45 @@
+{
+  "item_index": "1853",
+  "item_name": "Sabre Red USA Defense Spray W/pink Hard Case",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Sabre Red USA Defense Spray offers maximum stopping power with its pepper spray formula. Legal for sale in 50 States. NY, MA and HI require FFL for purchase.</p>",
+  "no_ratings": "0",
+  "sort_order": "659",
+  "description": "<p>Sabre Red USA Defense Spray offers maximum stopping power with its pepper spray formula. Complete with a pink hard case and quick release key ring for hands-free carry, the Sabre Red Pepper Spray has a ballistic stream which reduces wind blow-back. With a range of 8 to 10 feet and containing approximately 25 shots, this is the ideal personal protection item. Proceeds From This Purchase Help Fight Breast Cancer. ISO 9001 Certified.</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "244"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "436",
+      "item_index": "1853",
+      "rothco_item_no": "11000",
+      "upc": "023063105581",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "11000-B1.jpg",
+      "catalog_page_no": "222",
+      "msrp": 18.99,
+      "ship_length": "9.5000",
+      "ship_width": "5.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red"
+      },
+      "color": "Red",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

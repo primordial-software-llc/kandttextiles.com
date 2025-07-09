@@ -1,0 +1,42 @@
+{
+  "item_index": "3107",
+  "item_name": "Rothco Handcuff Case ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Handcuff Case is expertly crafted from durable polyester for dependable use. Measuring 4\" x 3 3/4\" x 2\", this tactical handcuff case features a secure hook and loop closure to safely hold standard or linked cuffs. Designed to fit a duty belt up to 2.25\" wide, this essential police duty belt accessory ensures that handcuffs are always within reach. By providing quick and easy access to handcuffs, this case enhances the efficiency and readiness of law enforcement officers, ultimately contributing to improved public safety.</p>",
+  "no_ratings": null,
+  "sort_order": "838",
+  "description": "<p>Rothco's Handcuff Case is expertly crafted from durable polyester for dependable use. Measuring 4\" x 3 3/4\" x 2\", this tactical handcuff case features a secure hook and loop closure to safely hold standard or linked cuffs. Designed to fit a duty belt up to 2.25\" wide, this essential police duty belt accessory ensures that handcuffs are always within reach. By providing quick and easy access to handcuffs, this case enhances the efficiency and readiness of law enforcement officers, ultimately contributing to improved public safety.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "234",
+    "238",
+    "239"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "283",
+      "item_index": "3107",
+      "rothco_item_no": "10574",
+      "upc": "613902105744",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "10574-AA.jpg",
+      "catalog_page_no": "230",
+      "msrp": 13.99,
+      "ship_length": "5.0000",
+      "ship_width": "4.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 5.1,
+      "case_price": 5.1,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

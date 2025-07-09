@@ -1,0 +1,93 @@
+{
+  "item_index": "2059",
+  "item_name": "Rothco BDU Buttons Bag of 100",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s BDU Replacement Buttons offer a convenient and durable solution for replacing worn or lost buttons on BDU pants, shirts, and jackets. Crafted from high-quality plastic, these buttons are designed to withstand the demands of frequent wear and washing. The classic 4-hole layout makes them easy to sew, and the versatile design complements a range of garments. Each bag includes 100 buttons, providing ample replacements for BDU-style gear.</p>",
+  "no_ratings": "0",
+  "sort_order": "3029",
+  "description": "<p>Rothco&rsquo;s BDU Replacement Buttons offer a convenient and durable solution for replacing worn or lost buttons on BDU pants, shirts, and jackets. Crafted from high-quality plastic, these buttons are designed to withstand the demands of frequent wear and washing. The classic 4-hole layout makes them easy to sew, and the versatile design complements a range of garments. Each bag includes 100 buttons, providing ample replacements for BDU-style gear. Available in various colors, Rothco&rsquo;s BDU Buttons ensure your gear stays secure, professional, and ready for everyday use. With Rothco&rsquo;s attention to quality, these buttons are a reliable choice to keep your clothing intact and functional.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "427"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "979",
+      "item_index": "2059",
+      "rothco_item_no": "205",
+      "upc": "613902020580",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "205-A-OD1.jpg",
+      "catalog_page_no": "12",
+      "msrp": 13.99,
+      "ship_length": "5.0000",
+      "ship_width": "5.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "980",
+      "item_index": "2059",
+      "rothco_item_no": "205",
+      "upc": "613902020597",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "205-A-Black1.jpg",
+      "catalog_page_no": "12",
+      "msrp": 13.99,
+      "ship_length": "5.0000",
+      "ship_width": "5.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "981",
+      "item_index": "2059",
+      "rothco_item_no": "205",
+      "upc": "613902020573",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "205-A-Khaki1.jpg",
+      "catalog_page_no": "12",
+      "msrp": 13.99,
+      "ship_length": "5.0000",
+      "ship_width": "5.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki"
+      },
+      "color": "Khaki",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

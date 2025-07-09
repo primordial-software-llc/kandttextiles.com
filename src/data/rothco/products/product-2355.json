@@ -1,0 +1,99 @@
+{
+  "item_index": "2355",
+  "item_name": "Rothco 3 Hole Face Mask",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Experience ultimate cold weather protection with Rothco's 3 Hole Acrylic Knit Face Mask. Crafted to shield your face, head, neck, and ears from extreme cold, this mask ensures unbeatable coverage. Its double-layered knit fabric delivers superior warmth, keeping you comfortable in the harshest conditions. The 3 hole design strategically offers full coverage while maintaining minimal exposure to the elements, ensuring maximum protection without compromising visibility.</p>",
+  "no_ratings": "0",
+  "sort_order": "6316",
+  "description": "<p>Experience ultimate cold weather protection with Rothco's 3 Hole Acrylic Knit Face Mask. Crafted to shield your face, head, neck, and ears from extreme cold, this mask ensures unbeatable coverage. Its double-layered knit fabric delivers superior warmth, keeping you comfortable in the harshest conditions. The 3 hole design strategically offers full coverage while maintaining minimal exposure to the elements, ensuring maximum protection without compromising visibility. Made from high-quality acrylic material, this mask is not only warm but also breathable and comfortable for extended wear during outdoor activities. Whether you're skiing, snowboarding, or simply braving the winter chill, this full-face mask provides the insulation you need to stay warm and focused. Plus, being made in the USA ensures quality craftsmanship and durability. The soft and stretchy knit design ensures a snug fit for most head sizes, offering versatility and convenience. Upgrade your winter gear with Rothco's 3 Hole Face Mask and tackle cold weather with confidence. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "372"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "4950",
+      "item_index": "2355",
+      "rothco_item_no": "5439",
+      "upc": "613902543904",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "5439-HR1.jpg",
+      "catalog_page_no": "159",
+      "msrp": 9.99,
+      "ship_length": "9.0000",
+      "ship_width": "6.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 4.95,
+      "case_price": 4.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5054",
+      "item_index": "2355",
+      "rothco_item_no": "5503",
+      "upc": "613902550308",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "5503_OD-HR.jpg",
+      "catalog_page_no": "159",
+      "msrp": 9.99,
+      "ship_length": "9.0000",
+      "ship_width": "6.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 4.95,
+      "case_price": 4.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5055",
+      "item_index": "2355",
+      "rothco_item_no": "5504",
+      "upc": "613902550407",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1600",
+      "image_filename": "5504-HR1.jpg",
+      "catalog_page_no": "159",
+      "msrp": 9.99,
+      "ship_length": "9.0000",
+      "ship_width": "6.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 4.95,
+      "case_price": 4.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

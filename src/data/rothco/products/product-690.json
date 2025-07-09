@@ -1,0 +1,41 @@
+{
+  "item_index": "690",
+  "item_name": "Rothco Deluxe Border Patrol Low Profile Cap",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Deluxe Border Patrol Low Profile Cap features embroidered &ldquo;BORDER PATROL&rdquo; text on the front panels, sandwich brim, upper brim, and back closure.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "1021",
+  "description": "<p>Rothco Deluxe Border Patrol Low Profile Cap Features A 100% Brushed Cotton Twill With Raised 3-D Embroidered \"Boarder Patrol\" Text On The Front Panel &amp; Brim. The Cap Features A Sandwich Bill &amp; Back Strap Insignia With Adjustable Hook &amp; Loop Closure.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "374",
+    "674"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10888",
+      "item_index": "690",
+      "rothco_item_no": "9368",
+      "upc": "613902936805",
+      "inventory": "85",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2125",
+      "image_filename": "9368-B.jpg",
+      "catalog_page_no": "144",
+      "msrp": 19.99,
+      "ship_length": "8.7500",
+      "ship_width": "8.7500",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 7.25,
+      "case_price": 7.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

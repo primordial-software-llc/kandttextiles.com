@@ -1,0 +1,70 @@
+{
+  "item_index": "4214",
+  "item_name": "Rothco MOLLE Utility Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s MOLLE Utility Pouch is a versatile storage solution designed to accommodate small electronics, magazine rounds, and other essential gear. Constructed for durability, the pouch features a front flap secured by 2 side release buckles, along with a cinch cord and barrel lock adjuster to keep your items securely in place. This utility pouch can hold up to 6 30-round M4 magazines, making it a great option for range days or on-the-go organization. Measuring 8 inches x 8 inches x 2.5 inches, it provides ample space without being bulky.</p>",
+  "no_ratings": null,
+  "sort_order": "129",
+  "description": "<p>Rothco&rsquo;s MOLLE Utility Pouch is a versatile storage solution designed to accommodate small electronics, magazine rounds, and other essential gear. Constructed for durability, the pouch features a front flap secured by 2 side release buckles, along with a cinch cord and barrel lock adjuster to keep your items securely in place. This utility pouch can hold up to 6 30-round M4 magazines, making it a great option for range days or on-the-go organization. Measuring 8 inches x 8 inches x 2.5 inches, it provides ample space without being bulky. The pouch is equipped with 3 rows of MOLLE loops and 2 attachment straps, allowing you to easily fasten it to your tactical vest or pack. Whether you're storing electronics, tools, or other necessities, Rothco's MOLLE Utility Pouch ensures your gear stays accessible and protected.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "306",
+    "333"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16664",
+      "item_index": "4214",
+      "rothco_item_no": "5704",
+      "upc": "613902157040",
+      "inventory": "99",
+      "created_date": "2016-11-07 09:10:01",
+      "weight": "0.5000",
+      "image_filename": "5704-A-amazon.jpg",
+      "catalog_page_no": "241",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 10.5,
+      "case_price": 10.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16667",
+      "item_index": "4214",
+      "rothco_item_no": "5724",
+      "upc": "613902157248",
+      "inventory": "99",
+      "created_date": "2016-11-07 10:10:01",
+      "weight": "0.5000",
+      "image_filename": "5724-A-amazon1.jpg",
+      "catalog_page_no": "241",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 10.5,
+      "case_price": 10.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

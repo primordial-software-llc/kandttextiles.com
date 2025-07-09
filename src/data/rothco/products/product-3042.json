@@ -1,0 +1,46 @@
+{
+  "item_index": "3042",
+  "item_name": "Rothco Rapid Trek Hydration Pack - Black",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay prepared and well equipped with Rothco&rsquo;s Rapid Trek Hydration Pack. This hydration pack offers essential features for outdoor enthusiasts and active-duty personnel. With a 3-liter bladder and MOLLE compatibility, stay hydrated while on-the-go. The neoprene-covered hose includes a bite valve with an on-off switch for easy drinking, while the quick-release shoulder straps and sternum strap provide a secure fit. The outdoor pack features a top carry handle for convenience&nbsp;and a zipper-close bladder compartment for easy access.</p>",
+  "no_ratings": null,
+  "sort_order": "443",
+  "description": "<p>Stay prepared and well equipped with Rothco&rsquo;s Rapid Trek Hydration Pack. This hydration pack offers essential features for outdoor enthusiasts and active-duty personnel. With a 3-liter bladder and MOLLE compatibility, stay hydrated while on-the-go. The neoprene-covered hose includes a bite valve with an on-off switch for easy drinking, while the quick-release shoulder straps and sternum strap provide a secure fit. The outdoor pack features a top carry handle for convenience and a zipper-close bladder compartment for easy access. The front storage compartment with zipper closure offers additional space for essentials. Additionally, the 2 bottom d-rings offer extra gear attachment while the loop field allows you to attach name tape or badge for added versatility.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "143",
+    "229",
+    "282",
+    "500"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1610",
+      "item_index": "3042",
+      "rothco_item_no": "2865",
+      "upc": "613902928657",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.0000",
+      "image_filename": "2865-A-amazon.jpg",
+      "catalog_page_no": "290",
+      "msrp": 97.99,
+      "ship_length": "21.0000",
+      "ship_width": "12.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 44.25,
+      "case_price": 44.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

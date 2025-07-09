@@ -1,0 +1,77 @@
+{
+  "item_index": "700",
+  "item_name": "Rothco Kids Military Fatigue Cap - Woodland Camo",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Kids Military Fatigue Cap blends 55% cotton and 45% polyester for durability and comfort. Inspired by classic military design, it's perfect for outdoor adventures with its rugged look. Featuring an adjustable strap for a snug fit, this cap is ideal for your little explorer's escapades, offering both style and functionality.</p>",
+  "no_ratings": "0",
+  "sort_order": "1210",
+  "description": "<p>The Kids Military Fatigue Cap blends 55% cotton and 45% polyester for durability and comfort. Inspired by classic military design, it's perfect for outdoor adventures with its rugged look. Featuring an adjustable strap for a snug fit, this cap is ideal for your little explorer's escapades, offering both style and functionality.</p>",
+  "selection_groups": [
+    "head_size"
+  ],
+  "statuses": "",
+  "categories": [
+    "83",
+    "132",
+    "137",
+    "377",
+    "370"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10950",
+      "item_index": "700",
+      "rothco_item_no": "9406",
+      "upc": "613902940604",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "9406-C.jpg",
+      "catalog_page_no": "148",
+      "msrp": 9.99,
+      "ship_length": "8.0000",
+      "ship_width": "6.0000",
+      "ship_height": "3.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo",
+        "head_size": "M"
+      },
+      "color": "Woodland Camo",
+      "head_size": "M",
+      "price": 3.95,
+      "case_price": 3.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10951",
+      "item_index": "700",
+      "rothco_item_no": "9406",
+      "upc": "613902940611",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "9406-C.jpg",
+      "catalog_page_no": "148",
+      "msrp": 9.99,
+      "ship_length": "8.0000",
+      "ship_width": "6.0000",
+      "ship_height": "3.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo",
+        "head_size": "L"
+      },
+      "color": "Woodland Camo",
+      "head_size": "L",
+      "price": 3.95,
+      "case_price": 3.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "item_index": "3327",
+  "item_name": "Rothco Paracord Keychain with Carabiner",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Paracord Keychain with Carabiner is the ideal accessory for anyone who loves outdoor adventures or wants to stay prepared in emergency situations. This compact and lightweight keychain, measuring 2.3 cm x 9 cm, provides easy access to 1.4 meters of durable paracord when disassembled, perfect for securing objects, making quick repairs, or crafting makeshift tools while camping or hiking. The carabiner attachment conveniently hooks onto your belt loop, backpack, or gear bag, ensuring quick access when you need it most.</p>",
+  "no_ratings": null,
+  "sort_order": "2234",
+  "description": "<p>Rothco&rsquo;s Paracord Keychain with Carabiner is the ideal accessory for anyone who loves outdoor adventures or wants to stay prepared in emergency situations. This compact and lightweight keychain, measuring 2.3 cm x 9 cm, provides easy access to 1.4 meters of durable paracord when disassembled, perfect for securing objects, making quick repairs, or crafting makeshift tools while camping or hiking. The carabiner attachment conveniently hooks onto your belt loop, backpack, or gear bag, ensuring quick access when you need it most. Both ends of the keychain feature loops, making it easy to attach keys, small tools, or a mini flashlight. Whether you're on a weekend hike or preparing for survival, this paracord keychain is a versatile and practical tool to have by your side.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "446",
+    "490"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12490",
+      "item_index": "3327",
+      "rothco_item_no": "9179",
+      "upc": "613902917996",
+      "inventory": "99",
+      "created_date": "2013-06-13 15:52:06",
+      "weight": "0.3125",
+      "image_filename": "9179-A.jpg",
+      "catalog_page_no": "208",
+      "msrp": 6.99,
+      "ship_length": "7.0000",
+      "ship_width": "2.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab / Black"
+      },
+      "color": "Olive Drab / Black",
+      "price": 2.5,
+      "case_price": 2.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14763",
+      "item_index": "3327",
+      "rothco_item_no": "9808",
+      "upc": "613902098084",
+      "inventory": "99",
+      "created_date": "2014-09-12 16:10:02",
+      "weight": "0.3125",
+      "image_filename": "9808-A1.jpg",
+      "catalog_page_no": "208",
+      "msrp": 6.99,
+      "ship_length": "7.0000",
+      "ship_width": "2.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 2.5,
+      "case_price": 2.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

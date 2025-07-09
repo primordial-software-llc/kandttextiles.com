@@ -1,0 +1,42 @@
+{
+  "item_index": "1869",
+  "item_name": "Rothco Expandable Lightweight Nylon Baton With Sheath - 22\"",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>expandable 22 Inches light weight nylon baton with Sheathubber Gripper Handle &amp; Metal Tip , 9 Inches When Closed - 22 Inches When Extended</p>",
+  "no_ratings": "0",
+  "sort_order": "225",
+  "description": "<p>expandable 22 Inches light weight nylon baton with Sheathubber Gripper Handle &amp; Metal Tip , 9 Inches When Closed - 22 Inches When Extended</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "235"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "457",
+      "item_index": "1869",
+      "rothco_item_no": "11031",
+      "upc": "613902110311",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7250",
+      "image_filename": "11031-HR-N.jpg",
+      "catalog_page_no": "226",
+      "msrp": 28.99,
+      "ship_length": "10.0000",
+      "ship_width": "1.7500",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 12.95,
+      "case_price": 12.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

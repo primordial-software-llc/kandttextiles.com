@@ -1,0 +1,96 @@
+{
+  "item_index": "1310",
+  "item_name": "Rothco Map and Document Case",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Keep your maps and important documents safe and dry with the Rothco Map and Document Case. Designed for all weather conditions, this case features a weather-resistant exterior and clear lining, ensuring your documents remain visible and protected. The case includes 2 zip-lock storage bags, providing double protection against moisture and dirt. Additionally, the drainage grommets help to remove any accumulated water, ensuring your contents stay dry.</p>",
+  "no_ratings": "0",
+  "sort_order": "1490",
+  "description": "<p>Keep your maps and important documents safe and dry with the Rothco Map and Document Case. Designed for all weather conditions, this case features a weather-resistant exterior and clear lining, ensuring your documents remain visible and protected. The case includes 2 zip-lock storage bags, providing double protection against moisture and dirt. Additionally, the drainage grommets help to remove any accumulated water, ensuring your contents stay dry. This durable case is perfect for outdoor enthusiasts, travelers, and anyone who needs to keep their documents safe from the elements. Whether you're hiking, camping, or navigating, the Rothco Map and Document Case is your reliable companion for keeping your maps and documents secure and dry.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "224",
+    "542",
+    "261"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10674",
+      "item_index": "1310",
+      "rothco_item_no": "9195",
+      "upc": "613902919501",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3000",
+      "image_filename": "9195-B.jpg",
+      "catalog_page_no": "283",
+      "msrp": 20.99,
+      "ship_length": "13.7500",
+      "ship_width": "7.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12786",
+      "item_index": "1310",
+      "rothco_item_no": "9238",
+      "upc": "613902092389",
+      "inventory": "99",
+      "created_date": "2013-08-14 10:04:06",
+      "weight": "0.3000",
+      "image_filename": "9238-B-amazon.jpg",
+      "catalog_page_no": "283",
+      "msrp": 20.99,
+      "ship_length": "13.7500",
+      "ship_width": "7.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14701",
+      "item_index": "1310",
+      "rothco_item_no": "9838",
+      "upc": "613902098381",
+      "inventory": "99",
+      "created_date": "2014-07-30 14:10:02",
+      "weight": "0.3000",
+      "image_filename": "9838-B-amazon.jpg",
+      "catalog_page_no": "283",
+      "msrp": 20.99,
+      "ship_length": "13.7500",
+      "ship_width": "7.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

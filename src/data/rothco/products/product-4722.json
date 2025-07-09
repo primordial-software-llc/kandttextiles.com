@@ -1,0 +1,70 @@
+{
+  "item_index": "4722",
+  "item_name": "Rothco MOLLE Replacement Straps - 4 Pack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Safely secure your MOLLE gear with Rothco&rsquo;s Replacement MOLLE straps.</p>",
+  "no_ratings": null,
+  "sort_order": "133035",
+  "description": "<p>Safely secure your MOLLE gear with Rothco&rsquo;s Replacement MOLLE straps. The MOLLE webbing straps measure 6 inches long by 1 inch wide and come equipped with reliable snap closures to remount essential MOLLE attachments effectively. Simply weave the replacement straps through your MOLLE panel and snap them into place for a quick, easy, and effective way to mount your MOLLE gear. The MOLLE strap replacements are perfect for fixing MOLLE mag pouches, MOLLE holsters, and other MOLLE accessories onto your MOLLE backpack or vest. No stitching required.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "201",
+    "204"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19696",
+      "item_index": "4722",
+      "rothco_item_no": "1609",
+      "upc": "613902616196",
+      "inventory": "99",
+      "created_date": "2020-06-26 12:00:08",
+      "weight": "0.3125",
+      "image_filename": "1609-Black-A-amazon.jpg",
+      "catalog_page_no": "244",
+      "msrp": 8.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 3.25,
+      "case_price": 3.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19697",
+      "item_index": "4722",
+      "rothco_item_no": "1609",
+      "upc": "613902816091",
+      "inventory": "99",
+      "created_date": "2020-06-26 12:00:08",
+      "weight": "0.3125",
+      "image_filename": "1609-Coyote-A-amazon.jpg",
+      "catalog_page_no": "244",
+      "msrp": 8.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 3.25,
+      "case_price": 3.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

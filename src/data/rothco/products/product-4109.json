@@ -1,0 +1,45 @@
+{
+  "item_index": "4109",
+  "item_name": "Rothco Grid Fleece Watch Cap Gen III Level 2",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": null,
+  "sort_order": "218",
+  "description": "<p>Rothco's Grid Fleece Watch Caps are the ultimate in cold weather protection. The watch caps feature a polyester/spandex fabric with in a grid style that allows heat to vent out without letting the cold in. There is a double layer of fabric around the ears and single layer on the top.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "368"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16228",
+      "item_index": "4109",
+      "rothco_item_no": "5571",
+      "upc": "613902557109",
+      "inventory": "99",
+      "created_date": "2016-03-11 16:10:02",
+      "weight": "0.1000",
+      "image_filename": "5571-A-amazon1.jpg",
+      "catalog_page_no": "156",
+      "msrp": 7.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 3.1,
+      "case_price": 3.1,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "item_index": "1894",
+  "item_name": "Smith & Wesson 21'' Steel Expandable Baton With Holster",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Elevate your security measures with the Smith &amp; Wesson 21'' Steel Expandable Baton. Crafted from seamless alloy steel, it ensures unparalleled reliability and durability. The baton features a thermoplastic elastomer polyester handle, providing a high-grade rubber feel for a secure grip, even in challenging conditions. With a quick flick of the wrist, you can effortlessly extend and lock the baton in place, ready for any emergency.</p>",
+  "no_ratings": "0",
+  "sort_order": "388",
+  "description": "<p>Elevate your security measures with the Smith &amp; Wesson 21'' Steel Expandable Baton. Crafted from seamless alloy steel, it ensures unparalleled reliability and durability. The baton features a thermoplastic elastomer polyester handle, providing a high-grade rubber feel for a secure grip, even in challenging conditions. With a quick flick of the wrist, you can effortlessly extend and lock the baton in place, ready for any emergency. For added convenience and accessibility, it comes with a denier holster equipped with a snap closure belt loop, allowing you to keep it by your side at all times. Whether you need it for self-defense, law enforcement, or personal security, this expandable baton is a versatile tool you can rely on. Please note that this item is restricted for export and may not be sold for use in certain countries outside the U.S. For more information on international restrictions, please contact Rothco directly.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "length"
+  ],
+  "statuses": "",
+  "categories": [
+    "235"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2016",
+      "item_index": "1894",
+      "rothco_item_no": "3375",
+      "upc": "028634703029",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3000",
+      "image_filename": "3375-B.jpg",
+      "catalog_page_no": "227",
+      "msrp": 99.99,
+      "ship_length": "9.7500",
+      "ship_width": "2.5000",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "length": "21 Inches"
+      },
+      "length": "21 Inches",
+      "price": 39.75,
+      "case_price": 39.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12683",
+      "item_index": "1894",
+      "rothco_item_no": "3319",
+      "upc": "028634703043",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.6000",
+      "image_filename": "3375-B.jpg",
+      "catalog_page_no": "227",
+      "msrp": 108.99,
+      "ship_length": "9.7500",
+      "ship_width": "2.5000",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "length": "26 Inches"
+      },
+      "length": "26 Inches",
+      "price": 43.5,
+      "case_price": 43.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

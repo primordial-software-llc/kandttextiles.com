@@ -1,0 +1,47 @@
+{
+  "item_index": "1518",
+  "item_name": "Rothco Playing Cards",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Camo Playing Cards feature a sleek gloss finish on both sides and a woodland camo design, adding a tactical twist to your favorite card games. Each deck includes 52 cards and 2 jokers. Perfect for military enthusiasts and outdoor adventurers, these cards are built for durability and style.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "530",
+  "description": "<p>Rothco&rsquo;s Camo Playing Cards feature a sleek gloss finish on both sides and a woodland camo design, adding a tactical twist to your favorite card games. Each deck includes 52 cards and 2 jokers. Perfect for military enthusiasts and outdoor adventurers, these cards are built for durability and style.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "131",
+    "137",
+    "143"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5332",
+      "item_index": "1518",
+      "rothco_item_no": "567",
+      "upc": "613902005679",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "567-A1.jpg",
+      "catalog_page_no": "206",
+      "msrp": 4.99,
+      "ship_length": "4.5000",
+      "ship_width": "2.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 1.75,
+      "case_price": 1.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "item_index": "3613",
+  "item_name": "Rothco Tactisling Transport Pack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=ZwbzVnm6dCQ",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Tactisling Transport Pack is the ultimate combination of convenience, security, and versatility. With the over-the-shoulder sling design, this CCW pack ensures quick and easy access to your firearm while on the move. Featuring a built-in discrete carry holder attachment, this tactical bag offers peace of mind for those who prioritize safety. Stay organized with multiple zippered and open-top pockets, providing ample storage for all your EDC gear and accessories.</p>",
+  "no_ratings": null,
+  "sort_order": "1116",
+  "description": "<p>Rothco's Tactisling Transport Pack is the ultimate combination of convenience, security, and versatility. With the over-the-shoulder sling design, this CCW pack ensures quick and easy access to your firearm while on the move. Featuring a built-in discrete carry holder attachment, this tactical bag offers peace of mind for those who prioritize safety. Stay organized with multiple zippered and open-top pockets, providing ample storage for all your EDC gear and accessories. Whether you're heading out for a day trip or navigating through urban environments, this tactical pack keeps your belongings secure and easily accessible. Designed for comfort, the Tactisling Transport Pack boasts a padded mesh back and shoulder strap, reducing fatigue during extended wear. Its MOLLE compatibility allows for customization and expansion, while the hydration bladder compatibility ensures you stay hydrated on the go. Equipped with top and side carry handles, this pack offers versatile carrying options to suit your needs. Constructed from durable 600D polyester, this rugged bag withstands the rigors of daily use and outdoor adventures. From everyday carry to tactical missions, the Tactisling Transport Pack is your go-to solution for reliable and convenient storage.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "598",
+    "201",
+    "204",
+    "305",
+    "553",
+    "333"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "13352",
+      "item_index": "3613",
+      "rothco_item_no": "25110",
+      "upc": "613902251106",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.8500",
+      "image_filename": "25110-A-amazon.jpg",
+      "catalog_page_no": "318",
+      "msrp": 75.99,
+      "ship_length": "22.0000",
+      "ship_width": "13.7500",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 37.5,
+      "case_price": 37.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "13353",
+      "item_index": "3613",
+      "rothco_item_no": "25120",
+      "upc": "613902251205",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.8500",
+      "image_filename": "25120-A-amazon.jpg",
+      "catalog_page_no": "318",
+      "msrp": 75.99,
+      "ship_length": "22.0000",
+      "ship_width": "13.7500",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 37.5,
+      "case_price": 37.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "13354",
+      "item_index": "3613",
+      "rothco_item_no": "25130",
+      "upc": "613902251304",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.8500",
+      "image_filename": "25130-A-amazon.jpg",
+      "catalog_page_no": "318",
+      "msrp": 75.99,
+      "ship_length": "22.0000",
+      "ship_width": "13.7500",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 37.5,
+      "case_price": 37.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

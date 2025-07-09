@@ -1,0 +1,93 @@
+{
+  "item_index": "1546",
+  "item_name": "Rothco Ribbon Mount",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Brass Ribbon Mount offers a dependable solution for securing ribbons and medals to uniforms or display cases. Crafted from durable and lightweight brass, this ribbon mount ensures long-lasting use while maintaining a polished appearance. The straight pin with a clutch back allows for easy attachment and removal, making it a practical choice for uniforms, awards, or decorative displays. Designed with precision, this mount provides a secure fit without compromising on style.</p>",
+  "no_ratings": "0",
+  "sort_order": "2796",
+  "description": "<p>Rothco&rsquo;s Brass Ribbon Mount offers a dependable solution for securing ribbons and medals to uniforms or display cases. Crafted from durable and lightweight brass, this ribbon mount ensures long-lasting use while maintaining a polished appearance. The straight pin with a clutch back allows for easy attachment and removal, making it a practical choice for uniforms, awards, or decorative displays. Designed with precision, this mount provides a secure fit without compromising on style. Proudly made in the U.S.A., Rothco&rsquo;s ribbon mount is ideal for presentations, formal events, or showcasing achievements.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "494"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "7967",
+      "item_index": "1546",
+      "rothco_item_no": "71001",
+      "upc": "613902710153",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0060",
+      "image_filename": "71001_Pins-A.jpg",
+      "catalog_page_no": "212",
+      "msrp": 1.99,
+      "ship_length": "1.5000",
+      "ship_width": "0.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "1"
+      },
+      "size": "1",
+      "price": 0.7,
+      "case_price": 0.7,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7968",
+      "item_index": "1546",
+      "rothco_item_no": "71002",
+      "upc": "613902710122",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0075",
+      "image_filename": "71002_Pins-A.jpg",
+      "catalog_page_no": "212",
+      "msrp": 2.99,
+      "ship_length": "2.7500",
+      "ship_width": "0.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2"
+      },
+      "size": "2",
+      "price": 0.95,
+      "case_price": 0.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7969",
+      "item_index": "1546",
+      "rothco_item_no": "71003",
+      "upc": "613902710139",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0120",
+      "image_filename": "71003_Pins-A.jpg",
+      "catalog_page_no": "212",
+      "msrp": 2.99,
+      "ship_length": "4.2500",
+      "ship_width": "0.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3"
+      },
+      "size": "3",
+      "price": 1.05,
+      "case_price": 1.05,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

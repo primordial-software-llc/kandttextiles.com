@@ -1,0 +1,45 @@
+{
+  "item_index": "1509",
+  "item_name": "Rothco Woodland Camo Beach Towel ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay cool and blend in with bold style. Rothco&rsquo;s Woodland Camo Beach Towel is made from 100% soft and absorbent cotton, delivering comfort whether you're hitting the beach, lounging poolside, or drying off after a tough workout. Measuring 30\" x 60\", this towel offers full coverage and quick-drying performance. Its iconic Woodland Camo pattern brings a rugged edge to your summer essentials &ndash; perfect for military enthusiasts and outdoor adventurers alike.</p>",
+  "no_ratings": "0",
+  "sort_order": "525",
+  "description": "<p>Stay cool and blend in with bold style. Rothco&rsquo;s Woodland Camo Beach Towel is made from 100% soft and absorbent cotton, delivering comfort whether you're hitting the beach, lounging poolside, or drying off after a tough workout. Measuring 30\" x 60\", this towel offers full coverage and quick-drying performance. Its iconic Woodland Camo pattern brings a rugged edge to your summer essentials &ndash; perfect for military enthusiasts and outdoor adventurers alike.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "137",
+    "397",
+    "547"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1212",
+      "item_index": "1509",
+      "rothco_item_no": "2300",
+      "upc": "613902230033",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "2300Camo-HR2.jpg",
+      "catalog_page_no": "206",
+      "msrp": 30.99,
+      "ship_length": "16.0000",
+      "ship_width": "11.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 13.5,
+      "case_price": 13.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

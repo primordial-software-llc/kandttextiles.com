@@ -1,0 +1,45 @@
+{
+  "item_index": "464",
+  "item_name": "Rothco Cold Weather Gloves",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay warm and protected with Rothco&rsquo;s Cold Weather Gloves. These gloves are designed to shield your hands from harsh elements, featuring a windproof nylon shell and Thermoblock insulation for exceptional warmth. The neoprene knuckle panel enhances flexibility and mobility, ensuring comfort during prolonged wear. Leather embossing on the palms and fingers provides a superior grip, making these gloves ideal for a variety of outdoor activities. The tricot lining adds an extra layer of comfort, while the secure fit helps retain heat.</p>",
+  "no_ratings": "0",
+  "sort_order": "503",
+  "description": "<p>Stay warm and protected with Rothco&rsquo;s Cold Weather Gloves. These gloves are designed to shield your hands from harsh elements, featuring a windproof nylon shell and Thermoblock insulation for exceptional warmth. The neoprene knuckle panel enhances flexibility and mobility, ensuring comfort during prolonged wear. Leather embossing on the palms and fingers provides a superior grip, making these gloves ideal for a variety of outdoor activities. The tricot lining adds an extra layer of comfort, while the secure fit helps retain heat. Whether you're working or exploring in freezing conditions, Rothco&rsquo;s Cold Weather Gloves offer the perfect balance of warmth, comfort, and functionality.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "321"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3326",
+      "item_index": "464",
+      "rothco_item_no": "4494",
+      "upc": "613902449435",
+      "inventory": "74",
+      "created_date": "2011-09-05 21:00:00",
+      "weight": "0.3250",
+      "image_filename": "4494-a.jpg",
+      "catalog_page_no": "192",
+      "msrp": 31.99,
+      "ship_length": "12.0000",
+      "ship_width": "5.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

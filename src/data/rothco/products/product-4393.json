@@ -1,0 +1,127 @@
+{
+  "item_index": "4393",
+  "item_name": "Rothco Mid-Calf Boot Sock",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Mid-Calf Boot Sock is designed to provide ultimate comfort and durability for all-day wear. Made from a blend of 92% acrylic, 7% nylon, and 1% spandex, these socks offer a breathable and lightweight fit that keeps your feet comfortable in a variety of conditions. The reinforced toe and heel add extra strength to withstand wear and tear, making them ideal for rugged use. Cushioned support in the shin and footbed provides added comfort and shock absorption, making them perfect for long days on your feet.</p>",
+  "no_ratings": null,
+  "sort_order": "132706",
+  "description": "<p>Rothco's Mid-Calf Boot Sock is designed to provide ultimate comfort and durability for all-day wear. Made from a blend of 92% acrylic, 7% nylon, and 1% spandex, these socks offer a breathable and lightweight fit that keeps your feet comfortable in a variety of conditions. The reinforced toe and heel add extra strength to withstand wear and tear, making them ideal for rugged use. Cushioned support in the shin and footbed provides added comfort and shock absorption, making them perfect for long days on your feet. The flat toes and ribbed tops enhance fit and comfort, ensuring that the socks stay securely in place without slipping. Whether you're working outdoors, hiking, or just need reliable socks for everyday wear, Rothco's Mid-Calf Boot Socks deliver long-lasting performance.</p>",
+  "selection_groups": [
+    "color",
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "408",
+    "410"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17861",
+      "item_index": "4393",
+      "rothco_item_no": "4625",
+      "upc": "613902046252",
+      "inventory": "0",
+      "created_date": "2017-11-22 16:10:02",
+      "weight": "0.3000",
+      "image_filename": "4625-Black-A-amazon.jpg",
+      "catalog_page_no": "183",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "07/12/2025",
+      "specs": {
+        "color": "Black",
+        "size": "M"
+      },
+      "color": "Black",
+      "size": "M",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17862",
+      "item_index": "4393",
+      "rothco_item_no": "4625",
+      "upc": "613902146259",
+      "inventory": "0",
+      "created_date": "2017-11-22 16:10:02",
+      "weight": "0.3000",
+      "image_filename": "4625-Black-A-amazon.jpg",
+      "catalog_page_no": "183",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "07/12/2025",
+      "specs": {
+        "color": "Black",
+        "size": "L"
+      },
+      "color": "Black",
+      "size": "L",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17864",
+      "item_index": "4393",
+      "rothco_item_no": "4625",
+      "upc": "613902406520",
+      "inventory": "99",
+      "created_date": "2017-11-22 16:10:02",
+      "weight": "0.3000",
+      "image_filename": "4625-Coyote-A-amazon.jpg",
+      "catalog_page_no": "183",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "M"
+      },
+      "color": "Coyote Brown",
+      "size": "M",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17865",
+      "item_index": "4393",
+      "rothco_item_no": "4625",
+      "upc": "613902446250",
+      "inventory": "99",
+      "created_date": "2017-11-22 16:10:02",
+      "weight": "0.3000",
+      "image_filename": "4625-Coyote-A-amazon.jpg",
+      "catalog_page_no": "183",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "L"
+      },
+      "color": "Coyote Brown",
+      "size": "L",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

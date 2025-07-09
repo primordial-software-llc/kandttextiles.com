@@ -1,0 +1,118 @@
+{
+  "item_index": "2906",
+  "item_name": "Rothco Vintage Fatigue Cap w/ Red Star",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Vintage Fatigue Cap w/ Red Star blends timeless style with comfortable functionality. This cap&rsquo;s classic design is inspired by traditional uniform caps and features a bold red star on the front panel for a striking yet subtle statement. Constructed with a soft and durable cotton-polyester blend, the cap delivers long-lasting wear while maintaining a broken-in feel. Its washed-out finish enhances the vintage aesthetic, making it a versatile accessory for everyday use.</p>",
+  "no_ratings": null,
+  "sort_order": "2564",
+  "description": "<p>Rothco&rsquo;s Vintage Fatigue Cap w/ Red Star blends timeless style with comfortable functionality. This cap&rsquo;s classic design is inspired by traditional uniform caps and features a bold red star on the front panel for a striking yet subtle statement. Constructed with a soft and durable cotton-polyester blend, the cap delivers long-lasting wear while maintaining a broken-in feel. Its washed-out finish enhances the vintage aesthetic, making it a versatile accessory for everyday use. Whether you're exploring the outdoors or adding a retro flair to your look, this fatigue cap is an ideal choice for casual wear or creative outfits. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from military personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "68",
+    "370"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3395",
+      "item_index": "2906",
+      "rothco_item_no": "4518",
+      "upc": "613902451810",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "4518-A1.jpg",
+      "catalog_page_no": "148",
+      "msrp": 14.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.2500",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3396",
+      "item_index": "2906",
+      "rothco_item_no": "4518",
+      "upc": "613902451827",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "4518-A1.jpg",
+      "catalog_page_no": "148",
+      "msrp": 14.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.5000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3397",
+      "item_index": "2906",
+      "rothco_item_no": "4518",
+      "upc": "613902451834",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "4518-A1.jpg",
+      "catalog_page_no": "148",
+      "msrp": 14.99,
+      "ship_length": "8.5000",
+      "ship_width": "7.5000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3398",
+      "item_index": "2906",
+      "rothco_item_no": "4518",
+      "upc": "613902451841",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "4518-A1.jpg",
+      "catalog_page_no": "148",
+      "msrp": 14.99,
+      "ship_length": "8.5000",
+      "ship_width": "7.7500",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

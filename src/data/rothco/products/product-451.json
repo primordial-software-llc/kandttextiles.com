@@ -1,0 +1,44 @@
+{
+  "item_index": "451",
+  "item_name": "Rothco Big John Leather Work Gloves",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Big John Leather Work Gloves are the perfect heavy duty, long lasting work gloves with leather palms, fingers and knuckles to ensure no tears or rips.</p>",
+  "no_ratings": "0",
+  "sort_order": "225",
+  "description": "<p>Rothco's Big John Leather Work Gloves are the perfect heavy duty, long lasting work gloves with leather palms, fingers and knuckles to ensure no tears or rips. The combination of leather and cotton provide protection and comfort. The elastic wrist cuffs of these all-purpose gloves are easily adjustable with a strap to&nbsp;tighten or loosen. Rothco&rsquo;s protective work gloves can be used for a variety of purposes such as agriculture, in factories, road work, mining, plumbing, construction, utilities and more. These are unisex gloves and one size fits most.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "318",
+    "517"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3146",
+      "item_index": "451",
+      "rothco_item_no": "4367",
+      "upc": "793770372209",
+      "inventory": "96",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "0.3375",
+      "image_filename": "4367-A-amazon2.jpg",
+      "catalog_page_no": "192",
+      "msrp": 6.99,
+      "ship_length": "10.5000",
+      "ship_width": "6.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size"
+      },
+      "size": "One Size",
+      "price": 2.5,
+      "case_price": 2.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

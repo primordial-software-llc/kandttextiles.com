@@ -1,0 +1,73 @@
+{
+  "item_index": "4700",
+  "item_name": "Rothco ECWCS Full Face Cover and Helmet Liner",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Insulate your face and neck from treacherous winter weather while comfortably lining your helmet with Rothco&rsquo;s ECWCS Full Face Cover Helmet Liner.</p>",
+  "no_ratings": null,
+  "sort_order": "133013",
+  "description": "<p>Insulate your face and neck from treacherous winter weather while comfortably lining your helmet with Rothco&rsquo;s ECWCS Full Face Cover Helmet Liner. This extreme cold weather face cover is part of the Extended Cold Weather Clothing System (ECWCS) developed by the American Military in the 1980s. The lightweight balaclava cover is constructed from rugged and durable 100% Expedition Weight polyester to provide several seasons of reliable use. The three-panel design with flatlock seams enables the reusable face cover to form a comfortable barrier between your head and your military or tactical helmet while providing robust thermal insulation. This extremely versatile face covering has endless applications and can be used as a hardhat liner, helmet liner, neck gaiter, winter face cover, balaclava cover, and more.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "56",
+    "378",
+    "372",
+    "683",
+    "325"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19614",
+      "item_index": "4700",
+      "rothco_item_no": "5508",
+      "upc": "613902550810",
+      "inventory": "99",
+      "created_date": "2020-06-10 14:00:29",
+      "weight": "0.1500",
+      "image_filename": "5508-G-amazon.jpg",
+      "catalog_page_no": "161",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19615",
+      "item_index": "4700",
+      "rothco_item_no": "5508",
+      "upc": "613902550827",
+      "inventory": "99",
+      "created_date": "2020-06-10 17:00:08",
+      "weight": "0.1500",
+      "image_filename": "5508-Coyote-B-amazon.jpg",
+      "catalog_page_no": "161",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "AR 670-1 Coyote Brown"
+      },
+      "color": "AR 670-1 Coyote Brown",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

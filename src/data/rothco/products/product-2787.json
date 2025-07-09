@@ -1,0 +1,47 @@
+{
+  "item_index": "2787",
+  "item_name": "Rothco PVC Rainsuit",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>2 Piece Rain Suit Featuring Standard Length Rain Jacket with Attached Drawstring Hood, Snap Front Closure and Snap Cuffs, Bib Style Pants.</p>",
+  "no_ratings": "0",
+  "sort_order": "611",
+  "description": "<p>2 Piece Rain Suit Featuring Standard Length Rain Jacket with Attached Drawstring Hood, Snap Front Closure and Snap Cuffs, Bib Style Pants. WARNING: This product contains a chemical known to the State of California to cause cancer, birth defects and other reproductive harm.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "192"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2383",
+      "item_index": "2787",
+      "rothco_item_no": "3616",
+      "upc": "613902361669",
+      "inventory": "49",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.1500",
+      "image_filename": "3616od-HR1.jpg",
+      "catalog_page_no": null,
+      "msrp": 37.99,
+      "ship_length": "13.7500",
+      "ship_width": "11.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Olive Drab"
+      },
+      "size": "S",
+      "color": "Olive Drab",
+      "price": 14.9,
+      "case_price": 14.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

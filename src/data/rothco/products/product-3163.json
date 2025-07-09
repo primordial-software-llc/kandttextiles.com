@@ -1,0 +1,46 @@
+{
+  "item_index": "3163",
+  "item_name": "Rothco Skull Jolly Roger Bandana ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Versatile Jolly Roger Bandana displays 3D style skull and cross bone graphics, and makes for a great facemask, skullcap, and headband.</p>",
+  "no_ratings": null,
+  "sort_order": "1128",
+  "description": "<p>Rothco&rsquo;s Versatile Jolly Roger Bandana displays 3D style skull and cross bone graphics, and makes for a great facemask, skullcap, and headband. The skull and crossbones bandana measures 22&rdquo; X 22&rdquo; and is both resilient and comfortable with a cotton construction.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "369",
+    "679"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2770",
+      "item_index": "3163",
+      "rothco_item_no": "4030",
+      "upc": "613902040304",
+      "inventory": "99",
+      "created_date": "2006-07-27 21:00:00",
+      "weight": "0.0700",
+      "image_filename": "4030-hr2_LI.jpg",
+      "catalog_page_no": "164",
+      "msrp": 3.99,
+      "ship_length": "11.0000",
+      "ship_width": "11.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 1.4,
+      "case_price": 1.4,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

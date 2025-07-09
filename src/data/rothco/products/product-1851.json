@@ -1,0 +1,42 @@
+{
+  "item_index": "1851",
+  "item_name": "Rothco Thumbcuffs / Steel - Nickel Plated",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Nickel-Plated Steel Thumbcuffs are crafted for secure and efficient restraint, making them a reliable tool for law enforcement and security professionals. These thumbcuffs feature a durable steel construction with a sleek nickel-plated finish, offering resistance to rust and wear. Designed with both single and double lock mechanisms, they provide enhanced security and prevent accidental tightening. Compact and lightweight, they are easy to carry and deploy when needed.</p>",
+  "no_ratings": "0",
+  "sort_order": "667",
+  "description": "<p>Rothco's Nickel-Plated Steel Thumbcuffs are crafted for secure and efficient restraint, making them a reliable tool for law enforcement and security professionals. These thumbcuffs feature a durable steel construction with a sleek nickel-plated finish, offering resistance to rust and wear. Designed with both single and double lock mechanisms, they provide enhanced security and prevent accidental tightening. Compact and lightweight, they are easy to carry and deploy when needed. Rothco's thumbcuffs are a dependable choice for ensuring control and safety in professional situations.</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "234"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "291",
+      "item_index": "1851",
+      "rothco_item_no": "10603",
+      "upc": "613902306011",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "10603-A-AMAZON.jpg",
+      "catalog_page_no": "225",
+      "msrp": 21.99,
+      "ship_length": "4.5000",
+      "ship_width": "2.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 8.95,
+      "case_price": 8.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

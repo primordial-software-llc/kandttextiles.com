@@ -1,0 +1,93 @@
+{
+  "item_index": "1264",
+  "item_name": "Rothco Vintage Canvas Carry-All Canteen Cover With Shoulder Strap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Vintage Canvas Canteen Cover provides convenient and durable storage for your 1-quart canteen. Made from rugged canvas, it features an interior fleece lining for added protection. The front pocket with hook and loop closure offers storage for small items, while the adjustable shoulder strap ensures comfortable carrying. With a dual snap closure, this cover securely holds your canteen in place during outdoor adventures. Note: Canteen sold separately.</p>",
+  "no_ratings": "0",
+  "sort_order": "6106",
+  "description": "<p>Rothco&rsquo;s Vintage Canvas Canteen Cover provides convenient and durable storage for your 1-quart canteen. Made from rugged canvas, it features an interior fleece lining for added protection. The front pocket with hook and loop closure offers storage for small items, while the adjustable shoulder strap ensures comfortable carrying. With a dual snap closure, this cover securely holds your canteen in place during outdoor adventures. The Vintage Canvas Canteen Cover is compatible with a 1-quart canteen and canteen cup, making it an ideal accessory for camping, hiking, and other outdoor activities. Its adjustable shoulder strap allows for comfortable carrying, while the interior fleece lining protects your canteen from scratches and dings. With a front pocket secured by hook and loop closure, you can store small gear or a mobile device for quick access. The cover's dual snap closure ensures that your canteen remains securely in place, even during rugged outdoor excursions. Note: Canteen sold separately.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "284"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "6156",
+      "item_index": "1264",
+      "rothco_item_no": "614",
+      "upc": "613902614055",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "614-A-OD.jpg",
+      "catalog_page_no": "286",
+      "msrp": 12.99,
+      "ship_length": "9.0000",
+      "ship_width": "6.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 4.95,
+      "case_price": 4.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6157",
+      "item_index": "1264",
+      "rothco_item_no": "614",
+      "upc": "613902614062",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "614_Khaki_HR1.jpg",
+      "catalog_page_no": "286",
+      "msrp": 12.99,
+      "ship_length": "9.0000",
+      "ship_width": "6.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki"
+      },
+      "color": "Khaki",
+      "price": 4.95,
+      "case_price": 4.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6158",
+      "item_index": "1264",
+      "rothco_item_no": "614",
+      "upc": "613902006140",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "614-black-hr-amazon.jpg",
+      "catalog_page_no": "286",
+      "msrp": 12.99,
+      "ship_length": "9.0000",
+      "ship_width": "6.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 4.95,
+      "case_price": 4.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

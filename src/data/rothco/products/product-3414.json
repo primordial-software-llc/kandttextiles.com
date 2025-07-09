@@ -1,0 +1,40 @@
+{
+  "item_index": "3414",
+  "item_name": "Rothco Base Jump Helmet Accessory Pack",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco Base Jump Helmet Accessory Pack is a perfect fit for our 1894 Base Jump Helmets the 4 piece set includes 2 picatinny rail adapters, 1 adjustable single clamp &amp; 1 tactical weapon light adapter.</p>",
+  "no_ratings": null,
+  "sort_order": "1537",
+  "description": "<p>The Rothco Base Jump Helmet Accessory Pack is designed to fit perfectly with our Base Jump Helmets (item #1894). This versatile 4-piece set includes 2 Picatinny rail adapters, 1 adjustable single clamp, and 1 tactical weapon light adapter, enhancing your helmet's functionality for various tactical operations. Easy to install and built from durable materials, this accessory pack is essential for any serious operator</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "240"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12598",
+      "item_index": "3414",
+      "rothco_item_no": "1895",
+      "upc": "613902189591",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1875",
+      "image_filename": "1895-A1.jpg",
+      "catalog_page_no": "257",
+      "msrp": 16.99,
+      "ship_length": "5.0000",
+      "ship_width": "2.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

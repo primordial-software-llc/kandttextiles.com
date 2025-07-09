@@ -1,0 +1,70 @@
+{
+  "item_index": "695",
+  "item_name": "Rothco Deluxe Police Low Profile Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p class=\"MsoNormal\">Rothco&rsquo;s Deluxe Police Low Profile Insignia Cap is a must-have addition to your casual police wear. This cap features the word \"POLICE\" prominently displayed in large, raised, embroidered letters on the front panel, showcasing impeccable detailing. Constructed from 100% brushed cotton twill, the police baseball cap is designed to be durable and long-lasting, making it a reliable choice for rugged use. The cap also features a sun-shielding sandwich brim with the word \"POLICE\" written twice for added style and functionality.</p>",
+  "no_ratings": "0",
+  "sort_order": "2178",
+  "description": "<p class=\"MsoNormal\">Rothco&rsquo;s Deluxe Police Low Profile Insignia Cap is a must-have addition to your casual police wear. This cap features the word \"POLICE\" prominently displayed in large, raised, embroidered letters on the front panel, showcasing impeccable detailing. Constructed from 100% brushed cotton twill, the police baseball cap is designed to be durable and long-lasting, making it a reliable choice for rugged use. The cap also features a sun-shielding sandwich brim with the word \"POLICE\" written twice for added style and functionality. The hook and loop closure system on the back allows for easy adjustment, ensuring a comfortable and secure fit for all users. Whether you're on duty or off, this embroidered police hat is a great gift for police officers or any member of the law enforcement community. Combining durability, comfort, and a professional appearance, Rothco&rsquo;s Deluxe Police Low Profile Cap is an essential piece of gear for anyone in law enforcement. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from military personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "374",
+    "674"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10911",
+      "item_index": "695",
+      "rothco_item_no": "9383",
+      "upc": "613902938304",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "9383-B.jpg",
+      "catalog_page_no": "144",
+      "msrp": 19.99,
+      "ship_length": "8.7500",
+      "ship_width": "8.7500",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 7.25,
+      "case_price": 7.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "11039",
+      "item_index": "695",
+      "rothco_item_no": "9489",
+      "upc": "613902948907",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "9489-B.jpg",
+      "catalog_page_no": "144",
+      "msrp": 19.99,
+      "ship_length": "8.7500",
+      "ship_width": "8.7500",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue"
+      },
+      "color": "Navy Blue",
+      "price": 7.25,
+      "case_price": 7.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

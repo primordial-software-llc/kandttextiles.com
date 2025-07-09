@@ -1,0 +1,44 @@
+{
+  "item_index": "4402",
+  "item_name": "Rothco Brass Web Belt Buckle",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Solid Brass Web Belt Buckle is the perfect accessory for your web belt. Crafted from solid brass, this buckle is designed to withstand daily wear and tear while maintaining its polished look. Measuring 2 1/4 inches in length and 1 3/8 inches in width, it fits perfectly with standard web belts, offering a secure and comfortable fit. The buckle's solid construction ensures durability, making it a reliable choice for both casual and formal occasions.</p>",
+  "no_ratings": null,
+  "sort_order": "132715",
+  "description": "<p>Rothco&rsquo;s Solid Brass Web Belt Buckle is the perfect accessory for your web belt. Crafted from solid brass, this buckle is designed to withstand daily wear and tear while maintaining its polished look. Measuring 2 1/4 inches in length and 1 3/8 inches in width, it fits perfectly with standard web belts, offering a secure and comfortable fit. The buckle's solid construction ensures durability, making it a reliable choice for both casual and formal occasions. Whether you're upgrading your current belt or looking for a replacement, Rothco&rsquo;s Solid Brass Web Belt Buckle adds a touch of elegance and practicality to any outfit.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "380",
+    "382"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3192",
+      "item_index": "4402",
+      "rothco_item_no": "4406",
+      "upc": "613902440609",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0688",
+      "image_filename": "4406-A-belt.jpg",
+      "catalog_page_no": "195",
+      "msrp": 5.99,
+      "ship_length": "2.5000",
+      "ship_width": "1.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Brass"
+      },
+      "color": "Brass",
+      "price": 2.25,
+      "case_price": 2.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "item_index": "959",
+  "item_name": "Sno-Seal Silicone Water Guard",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Protect your belongings from the rain with Sno-Seal Silicone Water-Guard. This protective spray is ideal for outdoor gear like outwear, footwear, sleeping bags, tents, suede items, and more. Its silicone formula offers maximum repellency with a single application. The water guard restores factory waterproofing while allowing materials to remain flexible. The solution also protects against stains.</p>",
+  "no_ratings": "0",
+  "sort_order": "1773",
+  "description": "<p>Protect your belongings from the rain with Sno-Seal Silicone Water-Guard. This protective spray is ideal for outdoor gear like outwear, footwear, sleeping bags, tents, suede items, and more. Its silicone formula offers maximum repellency with a single application. The water guard restores factory waterproofing while allowing materials to remain flexible. The solution also protects against stains.</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "362"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "81",
+      "item_index": "959",
+      "rothco_item_no": "10128",
+      "upc": "074928133669",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.0000",
+      "image_filename": "10128-A.jpg",
+      "catalog_page_no": "184",
+      "msrp": 14.99,
+      "ship_length": "8.0000",
+      "ship_width": "2.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 5.95,
+      "case_price": 5.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

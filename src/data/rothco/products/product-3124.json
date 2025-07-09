@@ -1,0 +1,93 @@
+{
+  "item_index": "3124",
+  "item_name": "Rothco Reversible PVC Ponchos",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Prepare for intense rainfalls with Rothco's Reversible PVC Poncho. Crafted from heavy-gauge PVC material, these rain ponchos are durable and reliable, ensuring you stay dry in the toughest of environments. The reversible poncho features a drawstring hood and secure snap closures for added protection from the elements. The reversible design consists of a interior for additional visibility in emergency situations. These outdoor ponchos are perfect for bug out bags, camping, or hiking packs.</p>",
+  "no_ratings": null,
+  "sort_order": "1265",
+  "description": "<p>Prepare for intense rainfalls with Rothco's Reversible PVC Poncho. Crafted from heavy-gauge PVC material, these rain ponchos are durable and reliable, ensuring you stay dry in the toughest of environments. The reversible poncho features a drawstring hood and secure snap closures for added protection from the elements. The reversible design consists of a interior for additional visibility in emergency situations. These outdoor ponchos are perfect for bug out bags, camping, or hiking packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "191"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2400",
+      "item_index": "3124",
+      "rothco_item_no": "3634",
+      "upc": "613902363403",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.5000",
+      "image_filename": "3634-OD-B-amazon.jpg",
+      "catalog_page_no": "93",
+      "msrp": 24.99,
+      "ship_length": "14.0000",
+      "ship_width": "10.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2403",
+      "item_index": "3124",
+      "rothco_item_no": "3644",
+      "upc": "613902364400",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.6500",
+      "image_filename": "3644-Navy-A-amazon1.jpg",
+      "catalog_page_no": "93",
+      "msrp": 24.99,
+      "ship_length": "12.0000",
+      "ship_width": "9.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Blue"
+      },
+      "color": "Blue",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15985",
+      "item_index": "3124",
+      "rothco_item_no": "3632",
+      "upc": "613902363205",
+      "inventory": "99",
+      "created_date": "2015-12-01 16:10:01",
+      "weight": "1.5000",
+      "image_filename": "3632-Black-B-amazon.jpg",
+      "catalog_page_no": "93",
+      "msrp": 24.99,
+      "ship_length": "14.0000",
+      "ship_width": "10.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

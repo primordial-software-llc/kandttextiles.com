@@ -1,0 +1,42 @@
+{
+  "item_index": "1825",
+  "item_name": "Rothco Double Lock Handcuffs",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco Double Lock Handcuffs are designed for secure restraint, made from heavy gauge steel with a durable nickel-plated satin finish. These handcuffs offer a reliable and effective way to ensure restraint, featuring a double lock mechanism that prevents over-tightening and ensures maximum security. The heavy gauge construction guarantees durability and resistance to tampering, making them a dependable choice for public safety professionals. The smooth satin finish provides a sleek appearance while also resisting corrosion and wear.</p>",
+  "no_ratings": "0",
+  "sort_order": "369",
+  "description": "<p>Rothco Double Lock Handcuffs are designed for secure restraint, made from heavy gauge steel with a durable nickel-plated satin finish. These handcuffs offer a reliable and effective way to ensure restraint, featuring a double lock mechanism that prevents over-tightening and ensures maximum security. The heavy gauge construction guarantees durability and resistance to tampering, making them a dependable choice for public safety professionals. The smooth satin finish provides a sleek appearance while also resisting corrosion and wear. Each pair of handcuffs comes with 2 keys, allowing for convenient operation and backup in case 1 key is lost. The compact and lightweight design makes these handcuffs easy to carry and deploy when needed. Rothco Double Lock Handcuffs are ideal for security officers, law enforcement, and anyone in need of a reliable restraint solution.</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "234"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "53",
+      "item_index": "1825",
+      "rothco_item_no": "10098",
+      "upc": "613902100985",
+      "inventory": "99",
+      "created_date": "2002-04-21 21:00:00",
+      "weight": "0.6000",
+      "image_filename": "10098-A.jpg",
+      "catalog_page_no": "224",
+      "msrp": 26.99,
+      "ship_length": "3.2500",
+      "ship_width": "4.5000",
+      "ship_height": "3.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 11.5,
+      "case_price": 11.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

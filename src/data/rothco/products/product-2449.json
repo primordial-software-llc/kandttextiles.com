@@ -1,0 +1,71 @@
+{
+  "item_index": "2449",
+  "item_name": "Rothco Canvas Jumbo Musette Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Canvas Jumbo Musette Bag is a modern take on the classic World War II Musette Bag, offering a larger design while maintaining the vintage construction that made the original so iconic. With a 18L storage capacity and measuring 15 inch x 15 inch x 5 inch, this jumbo bag provides ample storage space for all your essentials, making it an ideal companion for travel, work, or daily use. The large main compartment includes a full-length pocket to help you organize and store your gear efficiently.</p>",
+  "no_ratings": "0",
+  "sort_order": "1308",
+  "description": "<p>Rothco&rsquo;s Canvas Jumbo Musette Bag is a modern take on the classic World War II Musette Bag, offering a larger design while maintaining the vintage construction that made the original so iconic. With a 18L storage capacity and measuring 15 inch x 15 inch x 5 inch, this jumbo bag provides ample storage space for all your essentials, making it an ideal companion for travel, work, or daily use. The large main compartment includes a full-length pocket to help you organize and store your gear efficiently. Additionally, a full-length snap button back compartment and a side pocket with a snap button flap closure offer extra storage options for your supplies. Crafted from unwashed heavyweight 22oz cotton canvas, this musette bag is built to last, with a rugged design that can handle the demands of your everyday adventures. The adjustable shoulder and backpack straps feature metal buckle clips that allow you to convert the musette bag into a shoulder bag for versatile carrying options (shoulder strap not included). Keep your gear secure with the adjustable strap and buckle front flap closure, ensuring your belongings stay safe and organized wherever you go. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "503",
+    "221",
+    "505"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1243",
+      "item_index": "2449",
+      "rothco_item_no": "2353",
+      "upc": "613902235304",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.7000",
+      "image_filename": "2353-A-amazon.jpg",
+      "catalog_page_no": "361",
+      "msrp": 26.99,
+      "ship_length": "18.0000",
+      "ship_width": "13.2500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 11.5,
+      "case_price": 11.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1244",
+      "item_index": "2449",
+      "rothco_item_no": "2355",
+      "upc": "613902235519",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.6000",
+      "image_filename": "2355-A-amazon.jpg",
+      "catalog_page_no": "361",
+      "msrp": 26.99,
+      "ship_length": "18.0000",
+      "ship_width": "13.2500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 11.5,
+      "case_price": 11.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

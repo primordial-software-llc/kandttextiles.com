@@ -1,0 +1,97 @@
+{
+  "item_index": "5150",
+  "item_name": "Rothco Lightweight Woobie Weekender Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Head into adventure with our Lightweight Woobie Weekender Bag, the all-in-one storage solution for your clothes, footwear, travel essentials, and more. The main compartment features a full-length, two-way zipper closure for quick access to your gear. The quilted weekender bag has a 50L capacity and measures 20 inch x 16 inch x 9.5 inch for ample storage. Whether you&rsquo;re on a road trip or out camping, the military-styled travel bag ensures your travel accessories are safe and secure.</p>",
+  "no_ratings": null,
+  "sort_order": null,
+  "description": "<p>Head into adventure with our Lightweight Woobie Weekender Bag, the all-in-one storage solution for your clothes, footwear, travel essentials, and more. The main compartment features a full-length, two-way zipper closure for quick access to your gear. The quilted weekender bag has a 50L capacity and measures 20 inch x 16 inch x 9.5 inch for ample storage. Whether you&rsquo;re on a road trip or out camping, the military-styled travel bag ensures your travel accessories are safe and secure. From Tactical Roots to Everyday Utility: Inspired by the dependable versatility of the iconic poncho liner, Rothco&rsquo;s Woobie collection embodies rugged style and practicality. Each item, from our durable outerwear to the premium Weekend Bag, features a distinctive quilted pattern and lightweight filling, combining unique style with everyday functionality. Keep Organized: The weekend travel bag features 4 inner organizer pockets and 2 outer zipper pockets for securing electronics, accessories, and small items. Carry Options: These weekender duffle bags come equipped with dual carry handles and an adjustable shoulder strap for comfortable carry. The shoulder strap can be removed, allowing you to easily store the woobie bag as you travel. Travel Ready: Designed for both men and women, the weekend luggage bag is great for trips, sports, commuting, everyday use, and more.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "756",
+    "3",
+    "217",
+    "650",
+    "208"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "30225",
+      "item_index": "5150",
+      "rothco_item_no": "13840",
+      "upc": "613902049475",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "1.0000",
+      "image_filename": "13840-B.jpg",
+      "catalog_page_no": "354",
+      "msrp": 43.99,
+      "ship_length": "26.0000",
+      "ship_width": "13.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 19.95,
+      "case_price": 19.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30364",
+      "item_index": "5150",
+      "rothco_item_no": "13841",
+      "upc": "613902049482",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "1.0000",
+      "image_filename": "13841-B.jpg",
+      "catalog_page_no": "354",
+      "msrp": 43.99,
+      "ship_length": "26.0000",
+      "ship_width": "13.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 19.95,
+      "case_price": 19.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30365",
+      "item_index": "5150",
+      "rothco_item_no": "13842",
+      "upc": "613902049499",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "1.0000",
+      "image_filename": "13842-B.jpg",
+      "catalog_page_no": "354",
+      "msrp": 43.99,
+      "ship_length": "26.0000",
+      "ship_width": "13.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Cream"
+      },
+      "color": "Cream",
+      "price": 19.95,
+      "case_price": 19.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

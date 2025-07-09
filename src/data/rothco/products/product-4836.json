@@ -1,0 +1,69 @@
+{
+  "item_index": "4836",
+  "item_name": "Rothco Fast Action MOLLE Medical Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=__6B8Zw1vTU",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Fast Action MOLLE Medical Pouch is a necessity for field medics and first responders with over 15 storage compartments for holding life-saving gear. Simply pull down on the grip handle for rapid access to your medical equipment.</p>",
+  "no_ratings": null,
+  "sort_order": "133149",
+  "description": "<p>Rothco&rsquo;s Fast Action MOLLE Medical Pouch is a necessity for field medics and first responders with over 15 storage compartments for holding life-saving gear. Simply pull down on the grip handle for rapid access to your medical equipment. Simply pull down on the grip handle for rapid access to your medical gear. The medical pouch features four inner pockets for storing large gear in addition to 13 elastic bands for storing smaller items. The outside front of the medical pouch features a MOLLE compatible loop field for additional attachments. The MOLLE pouch features a dual zipper closure for easy access to all of your gear. The MOLLE attachment is perfect for mounting on tactical vests, assault packs, and drop leg panels. Measures 23 inches x 7.5 inches x 13 inches while open, and 9.5 inches x&nbsp; 7 inches x 3 inches when closed.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "241"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20692",
+      "item_index": "4836",
+      "rothco_item_no": "20756",
+      "upc": "613902002616",
+      "inventory": "99",
+      "created_date": "2021-05-24 14:00:29",
+      "weight": "1.0000",
+      "image_filename": "20756-E-NOLOGO.jpg",
+      "catalog_page_no": "248",
+      "msrp": 25.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 11.25,
+      "case_price": 11.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20732",
+      "item_index": "4836",
+      "rothco_item_no": "20757",
+      "upc": "613902003170",
+      "inventory": "99",
+      "created_date": "2021-05-25 12:00:20",
+      "weight": "1.0000",
+      "image_filename": "20757-D-NOLOGO.jpg",
+      "catalog_page_no": "248",
+      "msrp": 25.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 11.25,
+      "case_price": 11.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

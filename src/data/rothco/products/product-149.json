@@ -1,0 +1,192 @@
+{
+  "item_index": "149",
+  "item_name": "Rothco MA-1 Flight Jacket with Security Print",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay warm and comfortable while on duty with our MA-1 Flight Jacket with Security Print. The uniform jacket features lightweight poly fiberfill for exceptional insulation and a nylon water-repellent outer shell that provides protection from light rain and snow, perfect for cold and wet days while on patrol.</p>",
+  "no_ratings": "0",
+  "sort_order": "1164",
+  "description": "<p>Stay warm and comfortable while on duty with our MA-1 Flight Jacket with Security Print. The uniform jacket features lightweight poly fiberfill for exceptional insulation and a nylon water-repellent outer shell that provides protection from light rain and snow, perfect for cold and wet days while on patrol. Duty Ready: The security jacket features bold &ldquo;SECURITY&rdquo; lettering on the left chest and back for easy identification. The uniform flight jacket is great for security guards, public safety, bouncers, and more. Unbeatable Comfort and Warmth: These security bomber jackets feature a soft ribbed knit collar, cuffs, and waistband for additional heat retention and insulation while blocking out the wind. The MA-1 security jacket has an extra full cut for a comfortable fit with room underneath for extra layers, ideal for winter and cold weather. Utility Pockets: The outdoor uniform coat comes equipped with 5 pockets: 2 front slash pockets and 2 inner welt pockets for everyday essentials, and what&rsquo;s a bomber jacket without a zippered utility sleeve pocket!? Along with exterior pen holders, this useful pocket is great for storing small items. Legendary MA-1 Silhouette: Inspired by the original design for fighter pilots, our rugged and dependable MA-1 Flight Jackets feature a reversible orange polyester lining that offers alternative style options. The zippered front closure with double &lsquo;MA-1&rsquo; pull tabs and storm flap, brass zippers, and leather pull tab pays homage to the jacket&rsquo;s heritage, functionality, and style.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "169",
+    "173"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8320",
+      "item_index": "149",
+      "rothco_item_no": "7357",
+      "upc": "613902735729",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.9500",
+      "image_filename": "7357-LEFT-B.jpg",
+      "catalog_page_no": "73",
+      "msrp": 65.99,
+      "ship_length": "24.0000",
+      "ship_width": "15.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 29.95,
+      "case_price": 29.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8321",
+      "item_index": "149",
+      "rothco_item_no": "7357",
+      "upc": "613902735736",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.9500",
+      "image_filename": "7357-LEFT-B.jpg",
+      "catalog_page_no": "73",
+      "msrp": 65.99,
+      "ship_length": "24.0000",
+      "ship_width": "15.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 29.95,
+      "case_price": 29.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8322",
+      "item_index": "149",
+      "rothco_item_no": "7357",
+      "upc": "613902735743",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.9500",
+      "image_filename": "7357-LEFT-B.jpg",
+      "catalog_page_no": "73",
+      "msrp": 65.99,
+      "ship_length": "24.0000",
+      "ship_width": "15.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 29.95,
+      "case_price": 29.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8323",
+      "item_index": "149",
+      "rothco_item_no": "7357",
+      "upc": "613902735712",
+      "inventory": "69",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.9500",
+      "image_filename": "7357-LEFT-B.jpg",
+      "catalog_page_no": "73",
+      "msrp": 65.99,
+      "ship_length": "24.0000",
+      "ship_width": "15.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 29.95,
+      "case_price": 29.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Not Available"
+      ]
+    },
+    {
+      "item_variation_id": "8324",
+      "item_index": "149",
+      "rothco_item_no": "7358",
+      "upc": "613902735804",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.0000",
+      "image_filename": "7357-LEFT-B.jpg",
+      "catalog_page_no": "73",
+      "msrp": 70.99,
+      "ship_length": "24.0000",
+      "ship_width": "15.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 31.95,
+      "case_price": 31.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8325",
+      "item_index": "149",
+      "rothco_item_no": "7359",
+      "upc": "613902735903",
+      "inventory": "94",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.1000",
+      "image_filename": "7357-LEFT-B.jpg",
+      "catalog_page_no": "73",
+      "msrp": 72.99,
+      "ship_length": "24.0000",
+      "ship_width": "15.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3XL"
+      },
+      "size": "3XL",
+      "price": 32.95,
+      "case_price": 32.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21611",
+      "item_index": "149",
+      "rothco_item_no": "73590",
+      "upc": "613902013612",
+      "inventory": "79",
+      "created_date": "2022-03-01 16:00:04",
+      "weight": "2.2000",
+      "image_filename": "7357-LEFT-B.jpg",
+      "catalog_page_no": "73",
+      "msrp": 74.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "4XL"
+      },
+      "size": "4XL",
+      "price": 33.95,
+      "case_price": 33.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

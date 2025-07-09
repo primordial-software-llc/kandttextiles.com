@@ -1,0 +1,42 @@
+{
+  "item_index": "3503",
+  "item_name": "Rothco Woodland Camo Backpack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Woodland Camo Backpack offers convince, comfort and utility, all without sacrificing style.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "584",
+  "description": "<p>Rothco&rsquo;s Woodland Camo Backpack offers convince, comfort and utility, all without sacrificing style. The backpack&rsquo;s main, spacious zippered compartment, and 3 smaller zippered compartments offer ample storage space for your gear. Dual elastic side pouches on this gear bag are great for storing smaller items with quick access, including a water bottle and much more. The shoulder straps feature multiple MOLLE strips and a D-ring on each for attaching gear. The padded and adjustable shoulder straps on this tactical backpack are designed for a comfortable carry. The military backpack features cinch straps fastened by metal buckles aid in stability, keeping your belongings in place. A top carry handle on this backpack offers an additional carrying option and it is constructed with a sturdy polyester material for long-term durability.&nbsp;&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "137",
+    "204",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12754",
+      "item_index": "3503",
+      "rothco_item_no": "88557",
+      "upc": "613902885578",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.2500",
+      "image_filename": "88557-B-flat.jpg",
+      "catalog_page_no": "345",
+      "msrp": 52.99,
+      "ship_length": "21.0000",
+      "ship_width": "17.5000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 23.5,
+      "case_price": 23.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

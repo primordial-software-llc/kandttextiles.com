@@ -1,0 +1,171 @@
+{
+  "item_index": "3892",
+  "item_name": "Rothco Womens Long Sleeve Camo T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Women&rsquo;s Long Sleeve T-Shirt is a longer length style shirt that extends slightly past the waste for a longer and leaner look with a classic woodland camo pattern. The camo t-shirt features a comfortable 60% Cotton / 40% Poly material.</p>",
+  "no_ratings": null,
+  "sort_order": "1147",
+  "description": "<p>Rothco&rsquo;s Women&rsquo;s Long Sleeve T-Shirt is a longer length style shirt that extends slightly past the waste for a longer and leaner look with a classic woodland camo pattern. The camo t-shirt features a comfortable 60% Cotton / 40% Poly material.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "39",
+    "40",
+    "80",
+    "99",
+    "100",
+    "91",
+    "137"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15238",
+      "item_index": "3892",
+      "rothco_item_no": "3678",
+      "upc": "613902003675",
+      "inventory": "99",
+      "created_date": "2015-04-07 17:10:01",
+      "weight": "0.2500",
+      "image_filename": "3678-C-amazon.jpg",
+      "catalog_page_no": "127",
+      "msrp": 18.99,
+      "ship_length": "11.0000",
+      "ship_width": "9.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15239",
+      "item_index": "3892",
+      "rothco_item_no": "3678",
+      "upc": "613902036789",
+      "inventory": "0",
+      "created_date": "2015-04-07 17:10:01",
+      "weight": "0.2500",
+      "image_filename": "3678-C-amazon.jpg",
+      "catalog_page_no": "127",
+      "msrp": 18.99,
+      "ship_length": "11.0000",
+      "ship_width": "9.0000",
+      "ship_height": "0.5000",
+      "eta_date": null,
+      "specs": {
+        "size": "XS"
+      },
+      "size": "XS",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15240",
+      "item_index": "3892",
+      "rothco_item_no": "3678",
+      "upc": "613902367005",
+      "inventory": "0",
+      "created_date": "2015-04-07 17:10:01",
+      "weight": "0.2500",
+      "image_filename": "3678-C-amazon.jpg",
+      "catalog_page_no": "127",
+      "msrp": 18.99,
+      "ship_length": "11.0000",
+      "ship_width": "9.0000",
+      "ship_height": "0.5000",
+      "eta_date": null,
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15241",
+      "item_index": "3892",
+      "rothco_item_no": "3678",
+      "upc": "613902367807",
+      "inventory": "99",
+      "created_date": "2015-04-07 17:10:01",
+      "weight": "0.2500",
+      "image_filename": "3678-C-amazon.jpg",
+      "catalog_page_no": "127",
+      "msrp": 18.99,
+      "ship_length": "11.0000",
+      "ship_width": "9.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15242",
+      "item_index": "3892",
+      "rothco_item_no": "3678",
+      "upc": "613902367890",
+      "inventory": "99",
+      "created_date": "2015-04-07 17:10:01",
+      "weight": "0.2500",
+      "image_filename": "3678-C-amazon.jpg",
+      "catalog_page_no": "127",
+      "msrp": 18.99,
+      "ship_length": "11.0000",
+      "ship_width": "9.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15243",
+      "item_index": "3892",
+      "rothco_item_no": "3678",
+      "upc": "613902936782",
+      "inventory": "99",
+      "created_date": "2015-04-07 17:10:01",
+      "weight": "0.2500",
+      "image_filename": "3678-C-amazon.jpg",
+      "catalog_page_no": "127",
+      "msrp": 18.99,
+      "ship_length": "11.0000",
+      "ship_width": "9.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

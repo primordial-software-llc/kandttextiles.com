@@ -1,0 +1,80 @@
+{
+  "item_index": "4326",
+  "item_name": "Rothco Thin Red Line Long Sleeve T-shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Thin Red Line Long Sleeve T-Shirt is a tribute to the brave firefighters and first responders who risk their lives in the face of danger. Featuring a distressed U.S. flag graphic with a bold red line, this shirt represents camaraderie, sacrifice, and honor. Made from a soft yet durable cotton / polyester fabric blend, the shirt offers comfort for everyday wear. The tagless neck label adds an extra layer of comfort, eliminating any irritation while wearing.</p>",
+  "no_ratings": null,
+  "sort_order": "191",
+  "description": "<p>Rothco&rsquo;s Thin Red Line Long Sleeve T-Shirt is a tribute to the brave firefighters and first responders who risk their lives in the face of danger. Featuring a distressed U.S. flag graphic with a bold red line, this shirt represents camaraderie, sacrifice, and honor. Made from a soft yet durable cotton / polyester fabric blend, the shirt offers comfort for everyday wear. The tagless neck label adds an extra layer of comfort, eliminating any irritation while wearing. This long sleeve tee is designed to show solidarity with those who protect our communities. Proceeds from each purchase go toward supporting the families of fallen first responders, making it a meaningful and stylish way to show your support. Whether you&rsquo;re a first responder or someone who admires their dedication, this t-shirt is a great way to proudly display your appreciation.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "484",
+    "39",
+    "42",
+    "640",
+    "484",
+    "39",
+    "42",
+    "640"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17263",
+      "item_index": "4326",
+      "rothco_item_no": "3920",
+      "upc": "613902392038",
+      "inventory": "20",
+      "created_date": "2017-05-19 13:10:01",
+      "weight": "0.5500",
+      "image_filename": "3920-A-amazon.jpg",
+      "catalog_page_no": "112",
+      "msrp": 22.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "XL"
+      },
+      "color": "Black",
+      "size": "XL",
+      "price": 7.95,
+      "case_price": 7.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17264",
+      "item_index": "4326",
+      "rothco_item_no": "3921",
+      "upc": "613902139206",
+      "inventory": "37",
+      "created_date": "2017-05-19 13:10:01",
+      "weight": "0.6000",
+      "image_filename": "3920-A-amazon.jpg",
+      "catalog_page_no": "112",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "2XL"
+      },
+      "color": "Black",
+      "size": "2XL",
+      "price": 8.4,
+      "case_price": 8.4,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

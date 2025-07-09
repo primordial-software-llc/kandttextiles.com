@@ -1,0 +1,43 @@
+{
+  "item_index": "2065",
+  "item_name": "Rothco Rubberized Rainwear Poncho",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Rubberized Rainwear Poncho offers a versatile and durable solution to protect you from the rain, making it perfect for outdoor adventures or emergency preparedness. Constructed from a blend of PVC and rubber, this poncho provides superior water resistance and keeps you dry in even the heaviest downpours. Its .33mm thick material ensures durability while remaining lightweight enough for easy portability. The poncho features snap closures that create a secure fit and keep water out, while its polyester inner lining adds comfort.</p>",
+  "no_ratings": "0",
+  "sort_order": "193",
+  "description": "<p>Rothco&rsquo;s Rubberized Rainwear Poncho offers a versatile and durable solution to protect you from the rain, making it perfect for outdoor adventures or emergency preparedness. Constructed from a blend of PVC and rubber, this poncho provides superior water resistance and keeps you dry in even the heaviest downpours. Its .33mm thick material ensures durability while remaining lightweight enough for easy portability. The poncho features snap closures that create a secure fit and keep water out, while its polyester inner lining adds comfort. Measuring 50 inch x 80 inch, it offers full coverage to keep you dry from head to toe. Whether you&rsquo;re hiking, camping, or preparing for emergencies, Rothco&rsquo;s Rubberized Rainwear Poncho is designed to keep you protected from the elements.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "191"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2402",
+      "item_index": "2065",
+      "rothco_item_no": "3636",
+      "upc": "613902363601",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.6000",
+      "image_filename": "3636-RIGHT-c.jpg",
+      "catalog_page_no": "94",
+      "msrp": 70.99,
+      "ship_length": "14.0000",
+      "ship_width": "10.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 31.95,
+      "case_price": 31.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

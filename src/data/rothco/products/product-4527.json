@@ -1,0 +1,43 @@
+{
+  "item_index": "4527",
+  "item_name": "Rothco Enhanced Handcuff Strap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The versatile low profile handcuff strap from Rothco has been designed to holster standard or oversized cuffs and easily fit on your duty belt.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "132840",
+  "description": "<p>The versatile low profile handcuff strap from Rothco has been designed to holster standard or oversized cuffs. Constructed from a durable enhanced polyester material the handcuff strap will securely holster to most duty belts. The handcuff strap will attach to your belt through a 2.5-inch opening and measures 1 5/8-inch wide. Iron snap firmly fastens handcuffs to the strap for quick and easy access. Rothco's Enhanced Handcuff Strap is ideal for Law Enforcement and Public Safety Personal looking to enhance their Duty Rig.&nbsp;&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "234"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18737",
+      "item_index": "4527",
+      "rothco_item_no": "2054",
+      "upc": "613902520547",
+      "inventory": "99",
+      "created_date": "2018-11-15 12:10:00",
+      "weight": "0.2000",
+      "image_filename": "2054-A-amazon1.jpg",
+      "catalog_page_no": "229",
+      "msrp": 13.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 5.1,
+      "case_price": 5.1,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

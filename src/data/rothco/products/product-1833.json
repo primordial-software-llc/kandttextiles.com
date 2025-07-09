@@ -1,0 +1,70 @@
+{
+  "item_index": "1833",
+  "item_name": "Rothco  GI Style Police Whistle",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Police Whistle is a reliable and durable tool designed to grab attention quickly and effectively in various situations. Made from high-quality metal, this whistle produces a loud, clear sound that ensures you're heard when it matters most. Each whistle includes a soft, braided 30-inch lanyard, allowing for convenient hands-free use. The rubber pea inside enhances the sound quality, making it perfect for law enforcement, public safety, coaches, and emergency responders.</p>",
+  "no_ratings": "0",
+  "sort_order": "2799",
+  "description": "<p>Rothco&rsquo;s Police Whistle is a reliable and durable tool designed to grab attention quickly and effectively in various situations. Made from high-quality metal, this whistle produces a loud, clear sound that ensures you're heard when it matters most. Each whistle includes a soft, braided 30-inch lanyard, allowing for convenient hands-free use. The rubber pea inside enhances the sound quality, making it perfect for law enforcement, public safety, coaches, and emergency responders. Its compact design makes it easy to carry, while the durable construction ensures it holds up under frequent use. Whether on duty, in a coaching role, or during an emergency, Rothco&rsquo;s Police Whistle is an essential tool for clear and immediate communication.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "243",
+    "232"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "185",
+      "item_index": "1833",
+      "rothco_item_no": "10356",
+      "upc": "613902103566",
+      "inventory": "99",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "0.0350",
+      "image_filename": "10356-A2.jpg",
+      "catalog_page_no": "218",
+      "msrp": 1.99,
+      "ship_length": "1.7500",
+      "ship_width": "0.7500",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Silver"
+      },
+      "color": "Silver",
+      "price": 0.85,
+      "case_price": 0.85,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "191",
+      "item_index": "1833",
+      "rothco_item_no": "10366",
+      "upc": "613902103665",
+      "inventory": "99",
+      "created_date": "2008-06-11 21:00:00",
+      "weight": "0.0350",
+      "image_filename": "10356-A1.jpg",
+      "catalog_page_no": "218",
+      "msrp": 1.99,
+      "ship_length": "1.7500",
+      "ship_width": "0.7500",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Brass"
+      },
+      "color": "Brass",
+      "price": 0.95,
+      "case_price": 0.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

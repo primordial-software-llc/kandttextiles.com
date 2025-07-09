@@ -1,0 +1,48 @@
+{
+  "item_index": "4667",
+  "item_name": "Rothco Police Patch With Hook Back",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Police Patch With Hook Back is great for attaching to a variety of law enforcement gear, including tactical vests and operator caps.</p>",
+  "no_ratings": null,
+  "sort_order": "132980",
+  "description": "<p>Rothco&rsquo;s Police Patch With Hook Back is great for attaching to a variety of law enforcement gear, including tactical vests and operator caps. Featuring a black background and white &ldquo;Police&rdquo; lettering, the law enforcement patch is made of a high-quality construction for long-lasting durability. The police vest patch is available in small (2 &frac12;&rdquo; X 5 &frac34;&rdquo;) and large (4&rdquo; X 10 &frac34;&rdquo;).</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "239",
+    "420",
+    "424",
+    "543"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "879",
+      "item_index": "4667",
+      "rothco_item_no": "1910",
+      "upc": "613902919105",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1250",
+      "image_filename": "2784-A-amazon1.jpg",
+      "catalog_page_no": "256",
+      "msrp": 10.99,
+      "ship_length": "10.7500",
+      "ship_width": "4.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "Set: 1 Small & 1 Large"
+      },
+      "size": "Set: 1 Small & 1 Large",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

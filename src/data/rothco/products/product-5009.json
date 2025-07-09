@@ -1,0 +1,69 @@
+{
+  "item_index": "5009",
+  "item_name": "Rothco Logo US Flag Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Logo US Flag Patch with hook back features a diagonally split US Flat and Rothco &ldquo;R&rdquo; logo.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133322",
+  "description": "<p>Rothco&rsquo;s Logo US Flag Patch with hook back features a diagonally split US Flat and Rothco &ldquo;R&rdquo; logo.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "641"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "22590",
+      "item_index": "5009",
+      "rothco_item_no": "19530",
+      "upc": "613902025462",
+      "inventory": "99",
+      "created_date": "2023-01-12 09:00:09",
+      "weight": "0.0000",
+      "image_filename": "19530-C.jpg",
+      "catalog_page_no": null,
+      "msrp": "0.00",
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red / White / Blue"
+      },
+      "color": "Red / White / Blue",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22591",
+      "item_index": "5009",
+      "rothco_item_no": "19531",
+      "upc": "613902025479",
+      "inventory": "99",
+      "created_date": "2023-01-12 10:00:25",
+      "weight": "0.0000",
+      "image_filename": "19531-A1.jpg",
+      "catalog_page_no": null,
+      "msrp": "0.00",
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

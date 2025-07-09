@@ -1,0 +1,101 @@
+{
+  "item_index": "4299",
+  "item_name": "Rothco US Flag / USMC Eagle, Globe and Anchor Morale Patch ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show your pride with Rothco&rsquo;s US Flag/USMC Eagle, Globe &amp; Anchor Morale Patch. Featuring the iconic USMC logo alongside the American flag, this patch is crafted with durable rayon threading and a soft cotton backing for comfort. The strong nylon hook backing securely attaches to loop fields on hats, jackets, or bags, offering versatile display options. Measuring 3 3/8 inches x 2 3/8 inches, it&rsquo;s the perfect size to showcase your respect for the United States Marine Corps.</p>",
+  "no_ratings": null,
+  "sort_order": "57",
+  "description": "<p>Show your pride with Rothco&rsquo;s US Flag/USMC Eagle, Globe &amp; Anchor Morale Patch. Featuring the iconic USMC logo alongside the American flag, this patch is crafted with durable rayon threading and a soft cotton backing for comfort. The strong nylon hook backing securely attaches to loop fields on hats, jackets, or bags, offering versatile display options. Measuring 3 3/8 inches x 2 3/8 inches, it&rsquo;s the perfect size to showcase your respect for the United States Marine Corps.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "331",
+    "420",
+    "547"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17200",
+      "item_index": "4299",
+      "rothco_item_no": "1891",
+      "upc": "613902018914",
+      "inventory": "99",
+      "created_date": "2017-05-15 11:10:01",
+      "weight": "0.0094",
+      "image_filename": "1891-A-amazon.jpg",
+      "catalog_page_no": "214",
+      "msrp": 3.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Coyote Brown"
+      },
+      "size": "One Size",
+      "color": "Coyote Brown",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17860",
+      "item_index": "4299",
+      "rothco_item_no": "1896",
+      "upc": "613902018969",
+      "inventory": "99",
+      "created_date": "2017-11-22 16:10:02",
+      "weight": "0.0094",
+      "image_filename": "1896-A-amazon.jpg",
+      "catalog_page_no": "214",
+      "msrp": 3.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red / White / Blue",
+        "size": "One Size"
+      },
+      "color": "Red / White / Blue",
+      "size": "One Size",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20118",
+      "item_index": "4299",
+      "rothco_item_no": "1738",
+      "upc": "613902017382",
+      "inventory": "99",
+      "created_date": "2021-01-06 18:00:03",
+      "weight": "0.0094",
+      "image_filename": "1738-A-NOLOGO.jpg",
+      "catalog_page_no": "214",
+      "msrp": 3.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Olive Drab"
+      },
+      "size": "One Size",
+      "color": "Olive Drab",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

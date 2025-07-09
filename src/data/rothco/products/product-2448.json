@@ -1,0 +1,70 @@
+{
+  "item_index": "2448",
+  "item_name": "Rothco Deluxe Day Pack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Deluxe Day Pack is the ideal companion for both outdoor adventures and daily activities. Crafted from durable PVC-backed fabric, this day pack ensures long-lasting use and resilience in various conditions. The spacious main compartment, secured with a large zipper, provides ample storage for your essentials, while 4 additional zippered outer pockets offer organized space for smaller items. The padded adjustable back straps guarantee comfort during extended wear, making it perfect for hiking, traveling, or commuting.</p>",
+  "no_ratings": "0",
+  "sort_order": "1608",
+  "description": "<p>Rothco's Deluxe Day Pack is the ideal companion for both outdoor adventures and daily activities. Crafted from durable PVC-backed fabric, this day pack ensures long-lasting use and resilience in various conditions. The spacious main compartment, secured with a large zipper, provides ample storage for your essentials, while 4 additional zippered outer pockets offer organized space for smaller items. The padded adjustable back straps guarantee comfort during extended wear, making it perfect for hiking, traveling, or commuting. Measuring approximately 16 inch x 12 inch x 5.5 inch, this versatile day pack combines practicality with a sleek design, ensuring you have everything you need close at hand. Whether you're heading out for a camping trip or navigating your daily routine, Rothco's Deluxe Day Pack is your go-to solution for reliable and stylish storage.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "204"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1228",
+      "item_index": "2448",
+      "rothco_item_no": "2330",
+      "upc": "613902233003",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3000",
+      "image_filename": "2330-B-amazon.jpg",
+      "catalog_page_no": "345",
+      "msrp": 32.99,
+      "ship_length": "16.7500",
+      "ship_width": "12.7500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 14.95,
+      "case_price": 14.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14469",
+      "item_index": "2448",
+      "rothco_item_no": "2232",
+      "upc": "613902022324",
+      "inventory": "69",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3000",
+      "image_filename": "2232-B-amazon.jpg",
+      "catalog_page_no": "345",
+      "msrp": 32.99,
+      "ship_length": "16.7500",
+      "ship_width": "12.7500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 14.95,
+      "case_price": 14.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

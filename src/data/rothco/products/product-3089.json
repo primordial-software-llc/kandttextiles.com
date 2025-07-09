@@ -1,0 +1,42 @@
+{
+  "item_index": "3089",
+  "item_name": "Rothco Digital Camo 3 Color Face Paint Compact",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's 3 color camo face paint pulls essential colors from the ACU camo uniform for an ideal match. The camo facepaint features Desert Sand, Urban Grey, and Foliage Green in an easy-to-use compact.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "626",
+  "description": "<p>Rothco's 3 color camo face paint pulls essential colors from the ACU camo uniform for an ideal match. The camo facepaint features Desert Sand, Urban Grey, and Foliage Green in an easy-to-use compact with mirror.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "143",
+    "341",
+    "342"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10561",
+      "item_index": "3089",
+      "rothco_item_no": "9107",
+      "upc": "613902910706",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1250",
+      "image_filename": "9107-A-amazon.jpg",
+      "catalog_page_no": "265",
+      "msrp": 7.99,
+      "ship_length": "3.0000",
+      "ship_width": "3.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 2.95,
+      "case_price": 2.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

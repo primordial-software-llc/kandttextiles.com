@@ -1,0 +1,108 @@
+{
+  "item_index": "4290",
+  "item_name": "Rothco Deluxe Low Profile Military Branch Veteran Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Deluxe Low Profile Veteran Caps offer a variety of branch options so you can show your veteran status proudly.</p>",
+  "no_ratings": null,
+  "sort_order": "82",
+  "description": "<p>Rothco&rsquo;s Deluxe Low Profile Veteran Caps offer a variety of military branch options (Air Force, Army, Marines, and Navy) so you can show your veteran status proudly. The front panel and upper brim feature Air Force, Army, Marines or Navy veteran raised embroidered text and the sandwich brim includes a woven label of the select military branch as well. Also, the hook and loop closure strap on the back of the hat contains a &ldquo;Veteran&rdquo; woven label. Ideal comfort is provided with the brushed cotton twill construction and six top ventilation holes for breathability. Including an internal sweatband, the military baseball caps will prevent sweat from going into your eyes.</p>",
+  "selection_groups": [
+    "emblem"
+  ],
+  "statuses": "",
+  "categories": [
+    "374",
+    "522",
+    "674",
+    "549"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17116",
+      "item_index": "4290",
+      "rothco_item_no": "3953",
+      "upc": "613902389533",
+      "inventory": "99",
+      "created_date": "2017-04-17 09:10:02",
+      "weight": "0.2500",
+      "image_filename": "3953-B1.jpg",
+      "catalog_page_no": "142",
+      "msrp": 20.99,
+      "ship_length": "8.7500",
+      "ship_width": "8.7500",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size",
+        "emblem": "Navy"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "emblem": "Navy",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17117",
+      "item_index": "4290",
+      "rothco_item_no": "3956",
+      "upc": "613902398566",
+      "inventory": "99",
+      "created_date": "2017-04-17 09:10:02",
+      "weight": "0.2500",
+      "image_filename": "3956-C.jpg",
+      "catalog_page_no": "141",
+      "msrp": 24.99,
+      "ship_length": "8.7500",
+      "ship_width": "8.7500",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Black",
+        "emblem": "Marines"
+      },
+      "size": "One Size",
+      "color": "Black",
+      "emblem": "Marines",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18265",
+      "item_index": "4290",
+      "rothco_item_no": "3959",
+      "upc": "613902139596",
+      "inventory": "99",
+      "created_date": "2018-04-16 12:10:03",
+      "weight": "0.2500",
+      "image_filename": "3959-B.jpg",
+      "catalog_page_no": "142",
+      "msrp": 20.99,
+      "ship_length": "8.7500",
+      "ship_width": "8.7500",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "emblem": "Air Force",
+        "color": "Black",
+        "size": "One Size"
+      },
+      "emblem": "Air Force",
+      "color": "Black",
+      "size": "One Size",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

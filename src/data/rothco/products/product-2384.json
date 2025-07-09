@@ -1,0 +1,76 @@
+{
+  "item_index": "2384",
+  "item_name": "Rothco Wine Bota",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Gear up for adventure with our Wine Bota, crafted to conveniently store wine, water, juice, and other beverages as you explore the great outdoors. From camping trips to festivals, the bota bag is a great hydration solution, allowing you to drink without touching the nozzle by lifting the bota above your head and squeezing it for a refreshing taste. The leather canteen is great for hikers, campers, survivalists, beach-goers, concert-lovers, and more.</p>",
+  "no_ratings": "0",
+  "sort_order": "2424",
+  "description": "<p>Gear up for adventure with our Wine Bota, crafted to conveniently store wine, water, juice, and other beverages as you explore the great outdoors. From camping trips to festivals, the bota bag is a great hydration solution, allowing you to drink without touching the nozzle by lifting the bota above your head and squeezing it for a refreshing taste. The leather canteen is great for hikers, campers, survivalists, beach-goers, concert-lovers, and more. Durable Construction: Made with a top-quality goatskin leather shell and heavy latex liner, the bota canteen ensures maximum durability and insulation for your wine, water, and other drinks, perfect for keeping your beverages cold. Leak-Proof Design: The wineskin drinking flask features a screw-on cap that is leak-proof, providing a secure seal to prevent any spills during transport or storage. Convenient Carry: These Spanish bota bags come equipped with a braided shoulder carry string for comfortable crossbody wear, quick transport, and easy access to your drinks, whenever you want and wherever you go. Multiple Sizes Available: The wine pouch comes in 2 sizes, 1 Liter or 2 Liters, giving you the opportunity to choose the size that best fits your needs for hydration or enjoyment on your outdoor adventures.</p>",
+  "selection_groups": [
+    "volume"
+  ],
+  "statuses": "",
+  "categories": [
+    "281",
+    "284",
+    "500",
+    "261"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "23",
+      "item_index": "2384",
+      "rothco_item_no": "10041",
+      "upc": "613902100411",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3000",
+      "image_filename": "10041-A1.jpg",
+      "catalog_page_no": "289",
+      "msrp": 18.99,
+      "ship_length": "13.0000",
+      "ship_width": "8.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "volume": "1 Liter",
+        "color": "Brown"
+      },
+      "volume": "1 Liter",
+      "color": "Brown",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "28",
+      "item_index": "2384",
+      "rothco_item_no": "10059",
+      "upc": "613902100596",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3500",
+      "image_filename": "10059-A1.jpg",
+      "catalog_page_no": "289",
+      "msrp": 20.99,
+      "ship_length": "13.0000",
+      "ship_width": "8.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "volume": "2 Liters",
+        "color": "Brown"
+      },
+      "volume": "2 Liters",
+      "color": "Brown",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

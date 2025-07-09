@@ -1,0 +1,75 @@
+{
+  "item_index": "3999",
+  "item_name": "Rothco Interchangeable Optical System",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Tactical Interchangeable Optical System offers versatility and protection for various environments while out in the field. Easily transition from sunglasses to goggles with the interchangeable design, featuring an adjustable elastic strap that extends up to 20 inches for a secure fit when worn as tactical goggles. The system includes skin-side foam padding for long-lasting comfort, whether you're in sunglasses or goggle mode.</p>",
+  "no_ratings": null,
+  "sort_order": "411",
+  "description": "<p>Rothco&rsquo;s Tactical Interchangeable Optical System offers versatility and protection for various environments while out in the field. Easily transition from sunglasses to goggles with the interchangeable design, featuring an adjustable elastic strap that extends up to 20 inches for a secure fit when worn as tactical goggles. The system includes skin-side foam padding for long-lasting comfort, whether you're in sunglasses or goggle mode. UV400 smoke lenses help shield your eyes from harmful sunrays, while the anti-fog and anti-scratch coating ensures your lenses remain clear and clean. Both the elastic strap and bayonet temples come with end clips that easily attach to the optical system, allowing quick and effortless conversion. Ideal for tactical situations, outdoor activities, and beyond, this optical system adapts to your needs with comfort and ease.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "393",
+    "394",
+    "395"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15594",
+      "item_index": "3999",
+      "rothco_item_no": "10388",
+      "upc": "613902103887",
+      "inventory": "99",
+      "created_date": "2015-08-28 11:10:01",
+      "weight": "0.2500",
+      "image_filename": "10388-A-amazon.jpg",
+      "catalog_page_no": "198",
+      "msrp": 25.99,
+      "ship_length": "6.7500",
+      "ship_width": "2.7500",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17171",
+      "item_index": "3999",
+      "rothco_item_no": "10389",
+      "upc": "613902103894",
+      "inventory": "99",
+      "created_date": "2017-04-27 16:10:01",
+      "weight": "0.2500",
+      "image_filename": "10389-A-amazon.jpg",
+      "catalog_page_no": "198",
+      "msrp": 25.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

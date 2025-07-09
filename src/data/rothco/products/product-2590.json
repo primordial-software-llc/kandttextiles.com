@@ -1,0 +1,40 @@
+{
+  "item_index": "2590",
+  "item_name": "Lansky Puck Dual Grit Tool Sharpener",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": "0",
+  "sort_order": "983",
+  "description": "<p>Lansky Pocket-size Dual-grit Multi-purpose Sharpener Easy To Grip Contoured Shape Provides For Safe Simple Tool Sharpening Coarse And Medium Grit Dual-grit Design Provides A Coarse Side For Quick Cutting And Shaping And A Medium Side For Final Sharpening And Finishing Of Edges Ideal For Sharpening Machetes Hatchets Axe Blades Shovels Spades And Lawn Mower Blades Plus A Variety Of Other Cutting And Chopping Tools</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "299"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1936",
+      "item_index": "2590",
+      "rothco_item_no": "3289",
+      "upc": "080999037003",
+      "inventory": "99",
+      "created_date": "2011-09-18 21:00:00",
+      "weight": "0.6000",
+      "image_filename": "3289-hr1.jpg",
+      "catalog_page_no": "273",
+      "msrp": 18.99,
+      "ship_length": "9.2500",
+      "ship_width": "4.7500",
+      "ship_height": "4.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

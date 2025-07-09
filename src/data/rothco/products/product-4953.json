@@ -1,0 +1,166 @@
+{
+  "item_index": "4953",
+  "item_name": "Rothco Bearded Skull Concealed Carry Hoodie - Black",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Bearded Skull Concealed Carry Hoodie provides comfortable, stylish, and effective access to your waistband carry weapon with a passthrough kangaroo pocket.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133266",
+  "description": "<p>Rothco&rsquo;s Bearded Skull Concealed Carry Hoodie provides comfortable, stylish, and effective access to your waistband carry weapon with a passthrough kangaroo pocket. This concealed carry sweatshirt features a red, white, &amp; blue bearded skull print on the chest and a red, white, and blue distressed US flag on right shoulder of concealed carry sweatshirt is reverse oriented in accordance with US military regulations. The patriotic sweatshirt is made with a high-performance moisture-wicking composition. The left sleeve features a zippered pocket and two pen pockets, while the right sleeve features an additional zippered pocket and a loop field for mounting flags and morale patches. The cuffs come equipped with thumbholes that provide additional warmth and keep the sleeves from riding up your arms.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "51",
+    "554"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "21957",
+      "item_index": "4953",
+      "rothco_item_no": "52080",
+      "upc": "613902017559",
+      "inventory": "73",
+      "created_date": "2022-06-22 10:00:01",
+      "weight": "0.0000",
+      "image_filename": "52080-QA_RIGHT-B.jpg",
+      "catalog_page_no": "64",
+      "msrp": 46.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 20.95,
+      "case_price": 20.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21958",
+      "item_index": "4953",
+      "rothco_item_no": "52080",
+      "upc": "613902017566",
+      "inventory": "99",
+      "created_date": "2022-06-22 10:00:01",
+      "weight": "0.0000",
+      "image_filename": "52080-QA_RIGHT-B.jpg",
+      "catalog_page_no": "64",
+      "msrp": 46.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 20.95,
+      "case_price": 20.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21959",
+      "item_index": "4953",
+      "rothco_item_no": "52080",
+      "upc": "613902017573",
+      "inventory": "99",
+      "created_date": "2022-06-22 10:00:01",
+      "weight": "0.0000",
+      "image_filename": "52080-QA_RIGHT-B.jpg",
+      "catalog_page_no": "64",
+      "msrp": 46.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 20.95,
+      "case_price": 20.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21960",
+      "item_index": "4953",
+      "rothco_item_no": "52080",
+      "upc": "613902017580",
+      "inventory": "99",
+      "created_date": "2022-06-22 10:00:01",
+      "weight": "0.0000",
+      "image_filename": "52080-QA_RIGHT-B.jpg",
+      "catalog_page_no": "64",
+      "msrp": 46.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 20.95,
+      "case_price": 20.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21961",
+      "item_index": "4953",
+      "rothco_item_no": "52081",
+      "upc": "613902017597",
+      "inventory": "99",
+      "created_date": "2022-06-22 10:00:01",
+      "weight": "0.0000",
+      "image_filename": "52080-QA_RIGHT-B.jpg",
+      "catalog_page_no": "64",
+      "msrp": 48.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 21.95,
+      "case_price": 21.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21962",
+      "item_index": "4953",
+      "rothco_item_no": "52082",
+      "upc": "613902017603",
+      "inventory": "74",
+      "created_date": "2022-06-22 10:00:01",
+      "weight": "0.0000",
+      "image_filename": "52080-QA_RIGHT-B.jpg",
+      "catalog_page_no": "64",
+      "msrp": 50.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3XL"
+      },
+      "size": "3XL",
+      "price": 22.95,
+      "case_price": 22.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

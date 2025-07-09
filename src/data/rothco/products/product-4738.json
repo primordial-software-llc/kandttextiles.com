@@ -1,0 +1,47 @@
+{
+  "item_index": "4738",
+  "item_name": "Rothco Patriot US Flag T-Shirt - Black",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Prominently present your pride, patriotism, and enthusiasm for the United States of America with this American Flag T-shirt by Rothco.</p>",
+  "no_ratings": null,
+  "sort_order": "133051",
+  "description": "<p class=\"MsoNormal\">Prominently present your pride, patriotism, and enthusiasm for the United States of America with this American Flag T-shirt by Rothco. The patriotic t-shirt showcases one distressed American flag on the front, and another on the right sleeve. The lightweight cotton-blend on the flag shirt is perfect for casual wear while also being breathable enough to make an ideal workout shirt. Available in sizes small through 3XL.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "640"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19908",
+      "item_index": "4738",
+      "rothco_item_no": "1680",
+      "upc": "613902168015",
+      "inventory": "20",
+      "created_date": "2020-08-19 17:00:25",
+      "weight": "0.3500",
+      "image_filename": "1680-D-amazon1.jpg",
+      "catalog_page_no": "0",
+      "msrp": 17.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Black"
+      },
+      "size": "S",
+      "color": "Black",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

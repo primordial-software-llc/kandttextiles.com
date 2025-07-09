@@ -1,0 +1,100 @@
+{
+  "item_index": "4228",
+  "item_name": "Rothco Hard Back Gloves",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Hard Back Gloves feature a hard rubber backing.</p>",
+  "no_ratings": null,
+  "sort_order": "107",
+  "description": "<p>Rothco's Armored Hard Back Tactical Gloves are constructed from durable synthetic leather, polyester, and hard rubber materials. The fabrics on the back of the hands are polyester mesh, lined with open cell foam and the molded rubber element protects the back of the hands and fingers. The palm of these tactical gloves are made of synthetic leather, also lined with open cell foam, and knit fabric along the sides of the hands and fingers for breathability. At the wrist of these gloves is an adjustable hook and loop closure to make for the perfect fit.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "318",
+    "335"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16776",
+      "item_index": "4228",
+      "rothco_item_no": "3531",
+      "upc": "613902353121",
+      "inventory": "99",
+      "created_date": "2016-12-06 16:10:01",
+      "weight": "0.3000",
+      "image_filename": "3531-C-amazon.jpg",
+      "catalog_page_no": "191",
+      "msrp": 27.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Black"
+      },
+      "size": "M",
+      "color": "Black",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16777",
+      "item_index": "4228",
+      "rothco_item_no": "3531",
+      "upc": "613902353138",
+      "inventory": "20",
+      "created_date": "2016-12-06 16:10:01",
+      "weight": "0.3000",
+      "image_filename": "3531-C-amazon.jpg",
+      "catalog_page_no": "191",
+      "msrp": 27.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Black"
+      },
+      "size": "L",
+      "color": "Black",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16778",
+      "item_index": "4228",
+      "rothco_item_no": "3531",
+      "upc": "613902353145",
+      "inventory": "34",
+      "created_date": "2016-12-06 16:10:01",
+      "weight": "0.3000",
+      "image_filename": "3531-C-amazon.jpg",
+      "catalog_page_no": "191",
+      "msrp": 27.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Black"
+      },
+      "size": "XL",
+      "color": "Black",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

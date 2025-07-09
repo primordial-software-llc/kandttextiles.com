@@ -1,0 +1,44 @@
+{
+  "item_index": "3043",
+  "item_name": "Rothco Sportsman's Watchband Wrist Compass",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco Sportsman&rsquo;s Watchband Wrist Compass can slide onto most watchbands to make your watchband the perfect accessory while hiking or camping outdoors.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "1591",
+  "description": "<p>Rothco Sportsman&rsquo;s Watchband Wrist Compass can slide onto most watchbands to make your watchband the perfect accessory while hiking or camping outdoors. Made with a hard plastic case, the watchband compass is durable and built to last the long outdoor retreats. Hiking compass measures: 2.3cm X 2.3cm X 1.2cm.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "418",
+    "465"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1944",
+      "item_index": "3043",
+      "rothco_item_no": "331",
+      "upc": "613902033108",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0200",
+      "image_filename": "331-A-NOLOGO.jpg",
+      "catalog_page_no": "282",
+      "msrp": 2.99,
+      "ship_length": "2.0000",
+      "ship_width": "2.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

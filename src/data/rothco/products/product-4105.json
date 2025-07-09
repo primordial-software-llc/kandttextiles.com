@@ -1,0 +1,71 @@
+{
+  "item_index": "4105",
+  "item_name": "Rothco Deluxe EMS Shears",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Deluxe EMS Shears are the essential tool for medical professionals, first responders, and outdoor enthusiasts. Made from high-quality stainless steel, these trauma shears are designed to quickly and safely cut through clothing, bandages, and medical dressings in emergency situations. The wide, blunt tip ensures smooth gliding across the skin without causing injury, making them ideal for patient care. The ABS plastic handles are impact-resistant, providing a comfortable grip and control for precise cuts.</p>",
+  "no_ratings": null,
+  "sort_order": "479",
+  "description": "<p>Rothco's Deluxe EMS Shears are the essential tool for medical professionals, first responders, and outdoor enthusiasts. Made from high-quality stainless steel, these trauma shears are designed to quickly and safely cut through clothing, bandages, and medical dressings in emergency situations. The wide, blunt tip ensures smooth gliding across the skin without causing injury, making them ideal for patient care. The ABS plastic handles are impact-resistant, providing a comfortable grip and control for precise cuts. Available in 2 convenient sizes&mdash;5.5 inches and 7.25 inches&mdash;these shears are compact enough to fit into duty bags, tourniquet pouches, or first aid kits. Versatile in use, Rothco EMS Shears are also perfect for fishermen, hunters, and hikers, offering a reliable cutting tool for various situations. Pair them with Rothco's tourniquet and shear holder pouch (sold separately) for easy storage and accessibility.</p>",
+  "selection_groups": [
+    "length"
+  ],
+  "statuses": "",
+  "categories": [
+    "241"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16191",
+      "item_index": "4105",
+      "rothco_item_no": "10417",
+      "upc": "613902004177",
+      "inventory": "99",
+      "created_date": "2016-03-08 12:10:02",
+      "weight": "0.1500",
+      "image_filename": "10417-A-amazon.jpg",
+      "catalog_page_no": "252",
+      "msrp": 7.99,
+      "ship_length": "11.0000",
+      "ship_width": "6.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "length": "7.25 Inches"
+      },
+      "length": "7.25 Inches",
+      "price": 2.9,
+      "case_price": 2.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20093",
+      "item_index": "4105",
+      "rothco_item_no": "10416",
+      "upc": "613902166103",
+      "inventory": "99",
+      "created_date": "2021-01-04 11:00:10",
+      "weight": "0.1000",
+      "image_filename": "10416-A-NOLOGO.jpg",
+      "catalog_page_no": "252",
+      "msrp": 4.99,
+      "ship_length": "35.0000",
+      "ship_width": "21.0000",
+      "ship_height": "38.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "length": "5.50 Inches"
+      },
+      "color": "Black",
+      "length": "5.50 Inches",
+      "price": 1.95,
+      "case_price": 1.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

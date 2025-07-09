@@ -1,0 +1,40 @@
+{
+  "item_index": "1872",
+  "item_name": "Rothco Leather ID Badge Holder",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Carry both your badge and ID with Rothco's Leather ID Badge holder.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "942",
+  "description": "<p>Carry both your badge and ID with Rothco's Leather ID Badge holder.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "233"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "482",
+      "item_index": "1872",
+      "rothco_item_no": "1129",
+      "upc": "613902112902",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "1129-hr2-amazon.jpg",
+      "catalog_page_no": "221",
+      "msrp": 14.99,
+      "ship_length": "4.0000",
+      "ship_width": "6.5000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 5.7,
+      "case_price": 5.7,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

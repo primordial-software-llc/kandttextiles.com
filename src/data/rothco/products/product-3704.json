@@ -1,0 +1,41 @@
+{
+  "item_index": "3704",
+  "item_name": "Rothco Brown Leather Medic Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Brown Leather Medic Bag is made with a premium rugged leather that is both durable and stylish. The leather medic bag features a large main compartment w/interior zippered pocket, front flap w/leather strap closures, 1&frac12;\" wide adjustable leather shoulder strap, antique brass hardware, 12&frac12;\" x 11\" x 3&frac12;\"</p>",
+  "no_ratings": null,
+  "sort_order": "222",
+  "description": "<p>Rothco's Brown Leather Medic Bag is made with a premium rugged leather that is both durable and stylish. The leather medic bag features a large main compartment w/interior zippered pocket, front flap w/leather strap closures, 1&frac12;\" wide adjustable leather shoulder strap, antique brass hardware, 12&frac12;\" x 11\" x 3&frac12;\"</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "208",
+    "577"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14541",
+      "item_index": "3704",
+      "rothco_item_no": "81480",
+      "upc": "613902881488",
+      "inventory": "43",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3000",
+      "image_filename": "81480-C1.jpg",
+      "catalog_page_no": "360",
+      "msrp": 112.99,
+      "ship_length": "12.5000",
+      "ship_width": "11.0000",
+      "ship_height": "3.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 55.95,
+      "case_price": 55.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

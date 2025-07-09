@@ -1,0 +1,191 @@
+{
+  "item_index": "374",
+  "item_name": "Rothco Glow In The Dark Chemical Lightsticks",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Glow In The Dark Chemical Lightsticks are essential for any bug out bag, camping trip, or emergency preparedness kit. These lightsticks emit a steady glow for up to 12 hours, providing reliable illumination when you need it most. Available in a variety of colors, they are perfect for a range of uses, from outdoor adventures to Halloween costumes. Lightweight and easy to carry, these glow sticks are a convenient and safe light source that can be activated instantly.</p>",
+  "no_ratings": "0",
+  "sort_order": "3612",
+  "description": "<p>Rothco's Glow In The Dark Chemical Lightsticks are essential for any bug out bag, camping trip, or emergency preparedness kit. These lightsticks emit a steady glow for up to 12 hours, providing reliable illumination when you need it most. Available in a variety of colors, they are perfect for a range of uses, from outdoor adventures to Halloween costumes. Lightweight and easy to carry, these glow sticks are a convenient and safe light source that can be activated instantly. Whether you're navigating a trail at night, creating a fun atmosphere for a party, or preparing for unexpected emergencies, Rothco's Glow In The Dark Chemical Lightsticks are a versatile and dependable choice.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "542",
+    "274",
+    "398"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "7923",
+      "item_index": "374",
+      "rothco_item_no": "707",
+      "upc": "613902070707",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0600",
+      "image_filename": "707-A-amazon.jpg",
+      "catalog_page_no": "209",
+      "msrp": 2.99,
+      "ship_length": "7.5000",
+      "ship_width": "1.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Green"
+      },
+      "color": "Green",
+      "price": 0.85,
+      "case_price": 0.85,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7945",
+      "item_index": "374",
+      "rothco_item_no": "708",
+      "upc": "613902070806",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0600",
+      "image_filename": "708-A-amazon.jpg",
+      "catalog_page_no": "209",
+      "msrp": 2.99,
+      "ship_length": "7.5000",
+      "ship_width": "1.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red"
+      },
+      "color": "Red",
+      "price": 0.85,
+      "case_price": 0.85,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7960",
+      "item_index": "374",
+      "rothco_item_no": "709",
+      "upc": "613902607095",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0600",
+      "image_filename": "709-A-amazon.jpg",
+      "catalog_page_no": "209",
+      "msrp": 2.99,
+      "ship_length": "7.5000",
+      "ship_width": "1.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Blue"
+      },
+      "color": "Blue",
+      "price": 0.85,
+      "case_price": 0.85,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7961",
+      "item_index": "374",
+      "rothco_item_no": "710",
+      "upc": "613902071001",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0600",
+      "image_filename": "710-A-amazon.jpg",
+      "catalog_page_no": "209",
+      "msrp": 2.99,
+      "ship_length": "7.5000",
+      "ship_width": "1.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Yellow"
+      },
+      "color": "Yellow",
+      "price": 0.85,
+      "case_price": 0.85,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7980",
+      "item_index": "374",
+      "rothco_item_no": "712",
+      "upc": "613902617124",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0600",
+      "image_filename": "712-A-amazon.jpg",
+      "catalog_page_no": "209",
+      "msrp": 2.99,
+      "ship_length": "7.5000",
+      "ship_width": "1.5000",
+      "ship_height": "0.7500",
+      "eta_date": "10/04/2025",
+      "specs": {
+        "color": "Orange"
+      },
+      "color": "Orange",
+      "price": 0.85,
+      "case_price": 0.85,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7994",
+      "item_index": "374",
+      "rothco_item_no": "715",
+      "upc": "613902627154",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0600",
+      "image_filename": "715-A-amazon.jpg",
+      "catalog_page_no": "209",
+      "msrp": 2.99,
+      "ship_length": "7.5000",
+      "ship_width": "1.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "White"
+      },
+      "color": "White",
+      "price": 0.85,
+      "case_price": 0.85,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8212",
+      "item_index": "374",
+      "rothco_item_no": "725",
+      "upc": "613902637252",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0600",
+      "image_filename": "725-A-amazon.jpg",
+      "catalog_page_no": "209",
+      "msrp": 2.99,
+      "ship_length": "7.5000",
+      "ship_width": "1.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Purple"
+      },
+      "color": "Purple",
+      "price": 0.85,
+      "case_price": 0.85,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

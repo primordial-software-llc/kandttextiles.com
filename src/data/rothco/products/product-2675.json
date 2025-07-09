@@ -1,0 +1,95 @@
+{
+  "item_index": "2675",
+  "item_name": "Rothco Medical Rescue Response Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Medical Rescue Response Bag is designed for versatility and convenience, offering ample storage and organization for first responders on the go. Constructed from rugged polyester material, this emergency bag features a 3-section central compartment along with 2 zipper side pockets, 2 open top front pockets, and a zipper pocket inside the front flap with tool loops. The front flap is secured with a quick-release buckle and hook-and-loop closure for added protection of your medical supplies.</p>",
+  "no_ratings": "0",
+  "sort_order": "1171",
+  "description": "<p>Rothco&rsquo;s Medical Rescue Response Bag is designed for versatility and convenience, offering ample storage and organization for first responders on the go. Constructed from rugged polyester material, this emergency bag features a 3-section central compartment along with 2 zipper side pockets, 2 open top front pockets, and a zipper pocket inside the front flap with tool loops. The front flap is secured with a quick-release buckle and hook-and-loop closure for added protection of your supplies. For easy transport, the bag comes with a detachable and adjustable shoulder strap and a top carry handle. Additionally, the response bag includes a reflective Star of Life emblem for enhanced visibility in low-light conditions. This spacious medic bag measures 15 inch x 9 inch x 7 inch, providing ample room for all your essentials. Constructed from rugged polyester material, this emergency bag features a 3-section central compartment along with 2 zipper side pockets, 2v open top front pockets, and a zipper pocket inside the front flap with tool loops. The front flap is secured with a quick-release buckle and hook-and-loop closure for added protection of your medical supplies. For easy transport, the bag comes with a detachable and adjustable shoulder strap and a top carry handle. Additionally, the response bag includes a reflective Star of Life emblem for enhanced visibility in low-light conditions. This spacious medic bag measures 15 inch x 9 inch x 7 inch, providing ample room for all your essentials. Accessories sold separately.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "226",
+    "227",
+    "242"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1231",
+      "item_index": "2675",
+      "rothco_item_no": "2342",
+      "upc": "613902234208",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.5500",
+      "image_filename": "2342-hr1-amazon.jpg",
+      "catalog_page_no": "250",
+      "msrp": 48.99,
+      "ship_length": "14.0000",
+      "ship_width": "8.5000",
+      "ship_height": "8.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Orange"
+      },
+      "color": "Orange",
+      "price": 21.95,
+      "case_price": 21.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1966",
+      "item_index": "2675",
+      "rothco_item_no": "3342",
+      "upc": "613902334205",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.5500",
+      "image_filename": "3342-flat-hr1-amazon.jpg",
+      "catalog_page_no": "250",
+      "msrp": 48.99,
+      "ship_length": "14.0000",
+      "ship_width": "8.5000",
+      "ship_height": "8.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Blue"
+      },
+      "color": "Blue",
+      "price": 21.95,
+      "case_price": 21.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18671",
+      "item_index": "2675",
+      "rothco_item_no": "3522",
+      "upc": "613902035225",
+      "inventory": "99",
+      "created_date": "2018-10-04 10:47:03",
+      "weight": "1.5500",
+      "image_filename": "3522-A-amazon.jpg",
+      "catalog_page_no": "250",
+      "msrp": 48.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red"
+      },
+      "color": "Red",
+      "price": 21.95,
+      "case_price": 21.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

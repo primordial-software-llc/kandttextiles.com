@@ -1,0 +1,69 @@
+{
+  "item_index": "1956",
+  "item_name": "Rothco Deluxe ID Holder",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Deluxe ID Holder is designed for convenience, security, and durability. The holder features a clear vinyl window that allows for easy access and display of your identification card, making it perfect for travel, work, or any situation where quick ID access is necessary. Inside, you&rsquo;ll find multiple internal pockets to store important documents such as your passport, credit cards, or other small essentials. Additionally, the ID holder includes a zippered mesh pocket for securely holding a small phone or other valuables.</p>",
+  "no_ratings": "0",
+  "sort_order": "1038",
+  "description": "<p>Rothco&rsquo;s Deluxe ID Holder is designed for convenience, security, and durability. The holder features a clear vinyl window that allows for easy access and display of your identification card, making it perfect for travel, work, or any situation where quick ID access is necessary. Inside, you&rsquo;ll find multiple internal pockets to store important documents such as your passport, credit cards, or other small essentials. Additionally, the ID holder includes a zippered mesh pocket for securely holding a small phone, cash, or other valuables. Made from rugged denier polyester, this ID holder is built to withstand everyday use, while the adjustable neck cord ensures comfortable and easy wear. The hook and loop closures provide extra security, and a convenient pen holder allows you to keep writing instruments close at hand. Rothco&rsquo;s Deluxe ID Holder is the ideal accessory for those who need a reliable, organized way to keep their ID and other important items within easy reach.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "233"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "591",
+      "item_index": "1956",
+      "rothco_item_no": "1245",
+      "upc": "613902012455",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3750",
+      "image_filename": "1245-Open-HR2.jpg",
+      "catalog_page_no": "219",
+      "msrp": 14.99,
+      "ship_length": "7.5000",
+      "ship_width": "5.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 5.75,
+      "case_price": 5.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18626",
+      "item_index": "1956",
+      "rothco_item_no": "1246",
+      "upc": "613902012462",
+      "inventory": "99",
+      "created_date": "2018-08-24 16:10:01",
+      "weight": "0.3750",
+      "image_filename": "1246-A-amazon.jpg",
+      "catalog_page_no": "219",
+      "msrp": 14.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 5.75,
+      "case_price": 5.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

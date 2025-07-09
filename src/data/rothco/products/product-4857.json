@@ -1,0 +1,166 @@
+{
+  "item_index": "4857",
+  "item_name": "Rothco Army PT Compression Shorts",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Army PT Compression Shorts provide the same high-performance benefits of standard Physical Training shorts with the addition of a comfortable and breathable mesh compression inner liner.</p>",
+  "no_ratings": null,
+  "sort_order": "133170",
+  "description": "<p>Rothco&rsquo;s Army PT Compression Shorts provide the same high-performance benefits of standard Physical Training shorts with the addition of a comfortable and breathable mesh compression inner liner. The APFU (Army Physical Fitness Uniform) shorts feature gold &ldquo;ARMY&rdquo; print on the left leg. The mesh compression inner liner of the running shorts provides additional support during workouts. The athletic shorts feature a moisture wicking and breathable composition to keep you comfortable during intense workouts. The elastic waist is reinforced by a drawstring to secure the workout shorts reliably. The shorts also feature a tagless label for added comfort.&nbsp;</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "25",
+    "74"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20810",
+      "item_index": "4857",
+      "rothco_item_no": "46027",
+      "upc": "613902004078",
+      "inventory": "99",
+      "created_date": "2021-06-28 13:00:03",
+      "weight": "0.3500",
+      "image_filename": "46027-A-NOLOGO.jpg",
+      "catalog_page_no": "102",
+      "msrp": 32.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 14.9,
+      "case_price": 14.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20811",
+      "item_index": "4857",
+      "rothco_item_no": "46027",
+      "upc": "613902004085",
+      "inventory": "99",
+      "created_date": "2021-06-28 13:00:03",
+      "weight": "0.3500",
+      "image_filename": "46027-A-NOLOGO.jpg",
+      "catalog_page_no": "102",
+      "msrp": 32.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 14.9,
+      "case_price": 14.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20812",
+      "item_index": "4857",
+      "rothco_item_no": "46027",
+      "upc": "613902004092",
+      "inventory": "99",
+      "created_date": "2021-06-28 13:00:03",
+      "weight": "0.3500",
+      "image_filename": "46027-A-NOLOGO.jpg",
+      "catalog_page_no": "102",
+      "msrp": 32.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 14.9,
+      "case_price": 14.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20813",
+      "item_index": "4857",
+      "rothco_item_no": "46027",
+      "upc": "613902004115",
+      "inventory": "99",
+      "created_date": "2021-06-28 13:00:03",
+      "weight": "0.3500",
+      "image_filename": "46027-A-NOLOGO.jpg",
+      "catalog_page_no": "102",
+      "msrp": 32.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 14.9,
+      "case_price": 14.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20814",
+      "item_index": "4857",
+      "rothco_item_no": "46028",
+      "upc": "613902004054",
+      "inventory": "99",
+      "created_date": "2021-06-28 13:00:03",
+      "weight": "0.3500",
+      "image_filename": "46027-A-NOLOGO.jpg",
+      "catalog_page_no": "102",
+      "msrp": 35.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 15.9,
+      "case_price": 15.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20815",
+      "item_index": "4857",
+      "rothco_item_no": "46029",
+      "upc": "613902004047",
+      "inventory": "61",
+      "created_date": "2021-06-28 13:00:04",
+      "weight": "0.3500",
+      "image_filename": "46027-A-NOLOGO.jpg",
+      "catalog_page_no": "102",
+      "msrp": 37.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3XL"
+      },
+      "size": "3XL",
+      "price": 16.9,
+      "case_price": 16.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

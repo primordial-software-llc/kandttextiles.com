@@ -1,0 +1,75 @@
+{
+  "item_index": "4369",
+  "item_name": "Rothco Tactical Cover Up Sleeves",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Tactical Cover Up Sleeves are designed to provide a clean and professional look by covering tattoos with style and comfort. Made from breathable, moisture wicking performance material, these sleeves ensure all-day comfort in any environment. Ideal for jobs that require a neat appearance, the sleeves also offer protection against the sun and can be worn under uniforms for added warmth. The upper arm interior features a rubber field for a non-slip, secure fit, ensuring the sleeves stay in place throughout the day.</p>",
+  "no_ratings": null,
+  "sort_order": "3797",
+  "description": "<p>Rothco&rsquo;s Tactical Cover Up Sleeves are designed to provide a clean and professional look by covering tattoos with style and comfort. Made from breathable, moisture wicking performance material, these sleeves ensure all-day comfort in any environment. Ideal for jobs that require a neat appearance, the sleeves also offer protection against the sun and can be worn under uniforms for added warmth. The upper arm interior features a rubber field for a non-slip, secure fit, ensuring the sleeves stay in place throughout the day. Each package includes 2 sleeves, making it a convenient and practical addition to your work attire.</p>",
+  "selection_groups": [
+    "size",
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "255",
+    "318"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17619",
+      "item_index": "4369",
+      "rothco_item_no": "1199",
+      "upc": "613902011991",
+      "inventory": "99",
+      "created_date": "2017-10-02 10:10:01",
+      "weight": "0.1875",
+      "image_filename": "1199-A-amazon.jpg",
+      "catalog_page_no": "68",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S / M",
+        "color": "Black"
+      },
+      "size": "S / M",
+      "color": "Black",
+      "price": 8.9,
+      "case_price": 8.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17620",
+      "item_index": "4369",
+      "rothco_item_no": "1199",
+      "upc": "613902111998",
+      "inventory": "99",
+      "created_date": "2017-10-02 10:10:01",
+      "weight": "0.1875",
+      "image_filename": "1199-A-amazon.jpg",
+      "catalog_page_no": "68",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L / XL",
+        "color": "Black"
+      },
+      "size": "L / XL",
+      "color": "Black",
+      "price": 8.9,
+      "case_price": 8.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

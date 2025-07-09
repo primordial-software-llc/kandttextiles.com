@@ -1,0 +1,99 @@
+{
+  "item_index": "4327",
+  "item_name": "Rothco Rip Stop Operator Tactical Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Rip-Stop Operator Tactical Cap is designed for durability and comfort, making it an essential accessory for outdoor activities, tactical missions, and everyday wear. Made from 100% cotton rip-stop material, this rugged baseball hat is built to withstand the toughest conditions while providing long-lasting wear. The tactical baseball cap features a loop area on the front panel, perfect for attaching flag, unit, or morale patches. Additionally, the outdoor hat features a loop patch on top for added customization.</p>",
+  "no_ratings": null,
+  "sort_order": "43",
+  "description": "<p>Rothco&rsquo;s Rip-Stop Operator Tactical Cap is designed for durability and comfort, making it an essential accessory for outdoor activities, tactical missions, and everyday wear. Made from 100% cotton rip-stop material, this rugged baseball hat is built to withstand the toughest conditions while providing long-lasting wear. The tactical baseball cap features a loop area on the front panel, perfect for attaching flag, unit, or morale patches. Additionally, the outdoor hat features a loop patch on top for added customization. With 4 reinforced vent holes, the tactical cap ensures optimal airflow, keeping you cool during intense activities. The hook &amp; loop closure at the back allows for a secure and adjustable fit, accommodating most head sizes comfortably. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from military personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "521"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17202",
+      "item_index": "4327",
+      "rothco_item_no": "7213",
+      "upc": "613902172135",
+      "inventory": "99",
+      "created_date": "2017-05-15 11:10:01",
+      "weight": "0.2000",
+      "image_filename": "7213-A-amazon.jpg",
+      "catalog_page_no": "147",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17203",
+      "item_index": "4327",
+      "rothco_item_no": "7214",
+      "upc": "613902172142",
+      "inventory": "99",
+      "created_date": "2017-05-15 11:10:01",
+      "weight": "0.2000",
+      "image_filename": "7214-A-amazon.jpg",
+      "catalog_page_no": "147",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17423",
+      "item_index": "4327",
+      "rothco_item_no": "7244",
+      "upc": "613902072442",
+      "inventory": "99",
+      "created_date": "2017-06-05 10:10:02",
+      "weight": "0.2000",
+      "image_filename": "7244-A-amazon.jpg",
+      "catalog_page_no": "147",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

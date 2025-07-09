@@ -1,0 +1,42 @@
+{
+  "item_index": "3030",
+  "item_name": "Rothco Anti-Riot Police Shield",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Anti-Riot Police Shield is designed to offer maximum protection and durability in high-stress situations. Constructed from tough polycarbonate, this anti-riot shield provides full torso coverage, ensuring reliable defense against impacts. The tactical shield is equipped with a sturdy aluminum handle and a secure web arm strap, offering superior control and comfort during use. Weighing approximately 6 lbs, the shield is lightweight yet robust, making it easy to maneuver while providing the protection you need.</p>",
+  "no_ratings": null,
+  "sort_order": "264",
+  "description": "<p>Rothco&rsquo;s Anti-Riot Police Shield is designed to offer maximum protection and durability in high-stress situations. Constructed from tough polycarbonate, this anti-riot shield provides full torso coverage, ensuring reliable defense against impacts. The tactical shield is equipped with a sturdy aluminum handle and a secure web arm strap, offering superior control and comfort during use. Weighing approximately 6 lbs, the shield is lightweight yet robust, making it easy to maneuver while providing the protection you need. The riot shield also features bold \"POLICE\" lettering for clear identification. Whether used for crowd control or in training scenarios, Rothco&rsquo;s Anti-Riot Police Shield is built to withstand the demands of the job, providing peace of mind and security.</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "237"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "917",
+      "item_index": "3030",
+      "rothco_item_no": "1992",
+      "upc": "613902019928",
+      "inventory": "70",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "4.7000",
+      "image_filename": "JPEG_MASTER.psdt_.jpg",
+      "catalog_page_no": "256",
+      "msrp": 189.99,
+      "ship_length": "39.5000",
+      "ship_width": "20.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 75.95,
+      "case_price": 75.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

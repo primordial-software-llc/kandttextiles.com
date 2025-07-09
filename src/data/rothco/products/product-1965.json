@@ -1,0 +1,94 @@
+{
+  "item_index": "1965",
+  "item_name": "Rothco Commando Watchband",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Commando Watchband is designed to provide your watch with maximum protection against the elements while reducing glare, making it perfect for outdoor enthusiasts. The watchband features a hook &amp; loop cover that securely insulates the watch face from damage and harsh conditions. Constructed with a durable and moisture-wicking nylon composition, the watchband is comfortable to wear during any adventure and is easy to clean. Measuring 10.25 inch x 1.75 inch, it fits most standard-sized watches.</p>",
+  "no_ratings": "0",
+  "sort_order": "7590",
+  "description": "<p>Rothco&rsquo;s Commando Watchband is designed to provide your watch with maximum protection against the elements while reducing glare, making it perfect for outdoor enthusiasts. The watchband features a hook &amp; loop cover that securely insulates the watch face from damage and harsh conditions. Constructed with a durable and moisture-wicking nylon composition, the watchband is comfortable to wear during any adventure and is easy to clean. Measuring 10.25 inch x 1.75 inch, it fits most standard-sized watches. Whether you're trekking through the wilderness, hiking, or engaging in any outdoor activity, this watchband ensures your timepiece stays protected and functional. The reduced glare feature is ideal for staying discreet in bright conditions. One size fits most, making this watchband a versatile addition to your gear.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "143",
+    "418"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2815",
+      "item_index": "1965",
+      "rothco_item_no": "4101",
+      "upc": "613902410114",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0300",
+      "image_filename": "4101-E-OD.jpg",
+      "catalog_page_no": "205",
+      "msrp": 6.99,
+      "ship_length": "4.0000",
+      "ship_width": "2.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 3.25,
+      "case_price": 3.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2817",
+      "item_index": "1965",
+      "rothco_item_no": "4101",
+      "upc": "613902410107",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0300",
+      "image_filename": "4101-E-Black.jpg",
+      "catalog_page_no": "205",
+      "msrp": 6.99,
+      "ship_length": "4.0000",
+      "ship_width": "2.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 3.25,
+      "case_price": 3.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12287",
+      "item_index": "1965",
+      "rothco_item_no": "4101",
+      "upc": "613902410121",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0300",
+      "image_filename": "4101-E-Coyote.jpg",
+      "catalog_page_no": "205",
+      "msrp": 6.99,
+      "ship_length": "4.0000",
+      "ship_width": "2.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 3.25,
+      "case_price": 3.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "item_index": "1856",
+  "item_name": "Tracker IV Metal Detector",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Discover hidden treasures with our user-friendly, high-value metal detector designed for a variety of applications. Featuring two operating controls and Automatic Ground Trac, it adjusts effortlessly to mineral conditions, ensuring optimal performance even in extreme environments. Equipped with comfortable hand grips, padded armrests, and an 8\" waterproof interchangeable coil, this detector offers ease of use and versatility.</p>",
+  "no_ratings": "0",
+  "sort_order": "81",
+  "description": "<p>Discover hidden treasures with our user-friendly, high-value metal detector designed for a variety of applications. Featuring two operating controls and Automatic Ground Trac, it adjusts effortlessly to mineral conditions, ensuring optimal performance even in extreme environments. Equipped with comfortable hand grips, padded armrests, and an 8\" waterproof interchangeable coil, this detector offers ease of use and versatility.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "236"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "439",
+      "item_index": "1856",
+      "rothco_item_no": "11006",
+      "upc": "089723400045",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "4.2000",
+      "image_filename": "11006-hr1.jpg",
+      "catalog_page_no": "227",
+      "msrp": 374.99,
+      "ship_length": "28.5000",
+      "ship_width": "10.0000",
+      "ship_height": "6.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 149.95,
+      "case_price": 149.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

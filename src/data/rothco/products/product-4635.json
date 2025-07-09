@@ -1,0 +1,94 @@
+{
+  "item_index": "4635",
+  "item_name": "Rothco Vintage Canvas Sling Backpack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Vintage Canvas Sling Backpack combines timeless style with practical features, making it an ideal companion for travel, hiking, or everyday carry. Crafted from soft, washed canvas, this bag offers an authentic vintage look, enhanced by sleek leather and metal accents. The adjustable padded sling strap allows you to wear the backpack over either shoulder, ensuring comfort throughout the day. The spacious main compartment can easily store tablets and other essentials.</p>",
+  "no_ratings": null,
+  "sort_order": "132948",
+  "description": "<p>Rothco&rsquo;s Vintage Canvas Sling Backpack combines timeless style with practical features, making it an ideal companion for travel, hiking, or everyday carry. Crafted from soft, washed canvas, this bag offers an authentic vintage look, enhanced by sleek leather and metal accents. The adjustable padded sling strap allows you to wear the backpack over either shoulder, ensuring comfort throughout the day. The spacious main compartment can easily store tablets and other essentials, while internal pockets keep your items organized with ease. 2 side pockets, designed with elastic and mesh interiors, provide extra storage for items like sunglasses or water bottles. The magnetic flap closure, secured with leather accents, gives easy access to your belongings, while the double zipper closure ensures added security. A loop field on the front allows for customization with flags or patches, making this a stylish and functional bag for any adventure. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "204",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19290",
+      "item_index": "4635",
+      "rothco_item_no": "5968",
+      "upc": "613902059689",
+      "inventory": "99",
+      "created_date": "2019-11-12 19:00:03",
+      "weight": "1.3500",
+      "image_filename": "5968-A-amazon.jpg",
+      "catalog_page_no": "342",
+      "msrp": 34.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Vintage Olive Drab"
+      },
+      "color": "Vintage Olive Drab",
+      "price": 15.5,
+      "case_price": 15.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22506",
+      "item_index": "4635",
+      "rothco_item_no": "59680",
+      "upc": "613902024199",
+      "inventory": "99",
+      "created_date": "2022-12-06 17:00:15",
+      "weight": "0.0000",
+      "image_filename": "59680-A-Black.jpg",
+      "catalog_page_no": "342",
+      "msrp": 34.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 15.5,
+      "case_price": 15.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22507",
+      "item_index": "4635",
+      "rothco_item_no": "59681",
+      "upc": "613902024205",
+      "inventory": "99",
+      "created_date": "2022-12-06 17:00:15",
+      "weight": "0.0000",
+      "image_filename": "59680-A.jpg",
+      "catalog_page_no": "342",
+      "msrp": 34.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 15.5,
+      "case_price": 15.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

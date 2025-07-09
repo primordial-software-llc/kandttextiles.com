@@ -1,0 +1,133 @@
+{
+  "item_index": "3164",
+  "item_name": "Rothco Classic Camo Bandana",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Classic Camo Bandana is a versatile and essential accessory for anyone who loves the outdoors. Made from 100% cotton, this bandana offers the perfect blend of comfort and durability. Its multipurpose design allows it to be worn in various ways: as a skull cap, under a helmet, as a facemask, neck gaiter, tourniquet, or even a makeshift sling. The bandana measures 22 inches x 22 inches, making it large enough to provide adequate coverage for multiple uses.</p>",
+  "no_ratings": null,
+  "sort_order": "6846",
+  "description": "<p>Rothco&rsquo;s Classic Camo Bandana is a versatile and essential accessory for anyone who loves the outdoors. Made from 100% cotton, this bandana offers the perfect blend of comfort and durability. Its multipurpose design allows it to be worn in various ways: as a skull cap, under a helmet, as a facemask, neck gaiter, tourniquet, or even a makeshift sling. The bandana measures 22 inches x 22 inches, making it large enough to provide adequate coverage for multiple uses. Available in a variety of camo patterns, it adds a rugged and stylish touch to any outfit. Whether you&rsquo;re hiking, camping, or just need a reliable piece of cloth for everyday tasks, Rothco&rsquo;s Classic Camo Bandana is the perfect choice. Its lightweight and breathable fabric ensure comfort during prolonged use, making it an excellent addition to your gear collection.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "83",
+    "579",
+    "141",
+    "155",
+    "137",
+    "138",
+    "139",
+    "369",
+    "679"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2773",
+      "item_index": "3164",
+      "rothco_item_no": "4040",
+      "upc": "613902040403",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0700",
+      "image_filename": "4040-HR1.jpg",
+      "catalog_page_no": "165",
+      "msrp": 3.99,
+      "ship_length": "11.0000",
+      "ship_width": "11.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Tri-Color Desert Camo",
+        "size": "One Size"
+      },
+      "color": "Tri-Color Desert Camo",
+      "size": "One Size",
+      "price": 1.4,
+      "case_price": 1.4,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2827",
+      "item_index": "3164",
+      "rothco_item_no": "4139",
+      "upc": "613902413900",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0700",
+      "image_filename": "4139-HR1.jpg",
+      "catalog_page_no": "165",
+      "msrp": 3.99,
+      "ship_length": "11.0000",
+      "ship_width": "11.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "6-Color Desert Camo",
+        "size": "One Size"
+      },
+      "color": "6-Color Desert Camo",
+      "size": "One Size",
+      "price": 1.4,
+      "case_price": 1.4,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2829",
+      "item_index": "3164",
+      "rothco_item_no": "4140",
+      "upc": "613902414006",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0700",
+      "image_filename": "4140-HR1.jpg",
+      "catalog_page_no": "165",
+      "msrp": 3.99,
+      "ship_length": "11.0000",
+      "ship_width": "11.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Tiger Stripe Camo",
+        "size": "One Size"
+      },
+      "color": "Tiger Stripe Camo",
+      "size": "One Size",
+      "price": 1.4,
+      "case_price": 1.4,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2830",
+      "item_index": "3164",
+      "rothco_item_no": "4141",
+      "upc": "613902414105",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0700",
+      "image_filename": "4141-HR1.jpg",
+      "catalog_page_no": "165",
+      "msrp": 3.99,
+      "ship_length": "11.0000",
+      "ship_width": "11.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo",
+        "size": "One Size"
+      },
+      "color": "Woodland Camo",
+      "size": "One Size",
+      "price": 1.4,
+      "case_price": 1.4,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "item_index": "4483",
+  "item_name": "Scorpion Camo U.S. Air Force Branch Tape",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Scorpion Camo U.S. Air Force Branch Tape features &ldquo;Air Force&rdquo; embroidery with a hook field on the back.</p>",
+  "no_ratings": null,
+  "sort_order": "132796",
+  "description": "<p>Scorpion Camo U.S. Air Force Branch Tape features &ldquo;Air Force&rdquo; embroidery with a hook field on the back. The Air Force Branch Tape measures 5&rdquo; X 1&rdquo;.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "423",
+    "492",
+    "550"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18529",
+      "item_index": "4483",
+      "rothco_item_no": "1781",
+      "upc": "613902178106",
+      "inventory": "67",
+      "created_date": "2018-06-26 10:10:02",
+      "weight": "0.0106",
+      "image_filename": "1781-A-amazon.jpg",
+      "catalog_page_no": "217",
+      "msrp": 8.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Camo"
+      },
+      "color": "Camo",
+      "price": 4.15,
+      "case_price": 4.15,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

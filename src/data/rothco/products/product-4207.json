@@ -1,0 +1,48 @@
+{
+  "item_index": "4207",
+  "item_name": "Rothco Zipper Fly BDU Combat Shorts",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Zipper Fly BDU Combat Shorts feature all the essential elements of our classic military BDU Shorts but with a zipper fly, which makes it ideal for the public safety and uniform market. The cargo style shorts feature six utility pockets including two front slash pockets, two rear button down pockets and two large cargo pockets. For extra comfort and breathability, the shorts are constructed with a durable yet comfortable cotton/polyester material and feature adjustable waist tabs, for the perfect fit.</p>",
+  "no_ratings": null,
+  "sort_order": "158",
+  "description": "<p>Rothco&rsquo;s Zipper Fly BDU Combat Shorts feature all the essential elements of our classic military BDU Shorts but with a zipper fly, which makes it ideal for the public safety and uniform market. The cargo style shorts feature six utility pockets including two front slash pockets, two rear button down pockets and two large cargo pockets. For extra comfort and breathability, the shorts are constructed with a durable yet comfortable cotton/polyester material and feature adjustable waist tabs, for the perfect fit.</p>",
+  "selection_groups": [
+    "size",
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "22"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16630",
+      "item_index": "4207",
+      "rothco_item_no": "5903",
+      "upc": "613902590304",
+      "inventory": "30",
+      "created_date": "2016-10-25 17:10:01",
+      "weight": "1.0000",
+      "image_filename": "5903-C-amazon.jpg",
+      "catalog_page_no": null,
+      "msrp": 39.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Black"
+      },
+      "size": "S",
+      "color": "Black",
+      "price": 15.95,
+      "case_price": 15.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

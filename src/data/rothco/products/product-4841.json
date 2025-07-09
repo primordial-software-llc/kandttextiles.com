@@ -1,0 +1,44 @@
+{
+  "item_index": "4841",
+  "item_name": "Rothco Lightweight Fire Retardant Tactical Hood - Black",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Lightweight Fire Retardant Tactical Hood fits like a classic military balaclava and offers reliable protection against heat and flames. This insulating hood is ideal for use in warm climates.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133154",
+  "description": "<p>Rothco&rsquo;s Lightweight Fire Retardant Tactical Hood fits like a classic military balaclava and offers reliable protection against heat and flames. Meta aramid interlock materials assure heat and flame resistance up to 700 degrees. The heat resistant hood weighs just five ounces for comfortable long-term wear. The hood is sized to fit most users with a 15-inch length that covers your entire face and neck. For a heavier option, see item #11055.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "238",
+    "378"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20750",
+      "item_index": "4841",
+      "rothco_item_no": "11056",
+      "upc": "613902003422",
+      "inventory": "0",
+      "created_date": "2021-06-07 17:00:24",
+      "weight": "0.0000",
+      "image_filename": "11056-H-no-logo.jpg",
+      "catalog_page_no": "159",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": null,
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 9.75,
+      "case_price": 9.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "item_index": "3907",
+  "item_name": "Rothco Canvas Camo and Solid Tote Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Canvas Camo and Solid Tote Bag is the ideal carry-all solution for your everyday needs. Made from durable, lightweight cotton canvas, this tote bag is designed to withstand daily wear and tear while providing ample space for your items. Measuring 18 inches x 15 inches x 5 inches, it offers a roomy interior that can accommodate groceries, and more. Whether you're heading to the store, the library, or a casual outing, this versatile tote bag ensures you have everything you need within easy reach.</p>",
+  "no_ratings": null,
+  "sort_order": "342",
+  "description": "<p>Rothco's Canvas Camo and Solid Tote Bag is the ideal carry-all solution for your everyday needs. Made from durable, lightweight cotton canvas, this tote bag is designed to withstand daily wear and tear while providing ample space for your items. Measuring 18 inches x 15 inches x 5 inches, it offers a roomy interior that can accommodate groceries, and more. Whether you're heading to the store, the library, or a casual outing, this versatile tote bag ensures you have everything you need within easy reach. The sturdy construction and reinforced stitching guarantee long-lasting use, while the stylish camo and solid designs make it a fashionable accessory. Additionally, the bag's surface is perfect for custom printing and embroidery, allowing you to personalize it to your liking. Rothco's Canvas Tote Bag combines practicality, durability, and style, making it a must-have for anyone on the go.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15333",
+      "item_index": "3907",
+      "rothco_item_no": "2422",
+      "upc": "613902242203",
+      "inventory": "99",
+      "created_date": "2015-04-20 10:10:01",
+      "weight": "0.5200",
+      "image_filename": "2422-A-amazon.jpg",
+      "catalog_page_no": "348",
+      "msrp": 11.99,
+      "ship_length": "18.5000",
+      "ship_width": "10.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18647",
+      "item_index": "3907",
+      "rothco_item_no": "2492",
+      "upc": "613902249202",
+      "inventory": "99",
+      "created_date": "2018-09-17 16:10:00",
+      "weight": "0.5200",
+      "image_filename": "2492-A-amazon.jpg",
+      "catalog_page_no": "348",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18648",
+      "item_index": "3907",
+      "rothco_item_no": "2494",
+      "upc": "613902249400",
+      "inventory": "99",
+      "created_date": "2018-09-17 16:10:00",
+      "weight": "0.5200",
+      "image_filename": "2494-A-amazon.jpg",
+      "catalog_page_no": "348",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18649",
+      "item_index": "3907",
+      "rothco_item_no": "2493",
+      "upc": "613902249301",
+      "inventory": "99",
+      "created_date": "2018-09-17 16:10:00",
+      "weight": "0.5200",
+      "image_filename": "2493-A-amazon.jpg",
+      "catalog_page_no": "348",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Natural"
+      },
+      "color": "Natural",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

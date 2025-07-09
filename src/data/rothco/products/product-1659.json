@@ -1,0 +1,41 @@
+{
+  "item_index": "1659",
+  "item_name": "Rothco Raider II Boot Knife",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "Rothco's Raider II Boot Knife features 3\" stainless steel blade and measures overall 6 1/2\". Sheath is also included with the Raider Boot Knife. ",
+  "no_ratings": "0",
+  "sort_order": "585",
+  "description": "Rothco's Raider II Boot Knife features 3&quot; stainless steel blade and measures overall 6 1/2&quot;. Sheath is also included with the Raider Boot Knife.",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "294",
+    "297"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1766",
+      "item_index": "1659",
+      "rothco_item_no": "3042",
+      "upc": "613902304291",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3700",
+      "image_filename": "3042-A-amazon.jpg",
+      "catalog_page_no": "271",
+      "msrp": 24.99,
+      "ship_length": "7.5000",
+      "ship_width": "2.0000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

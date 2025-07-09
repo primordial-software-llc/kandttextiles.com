@@ -1,0 +1,93 @@
+{
+  "item_index": "4874",
+  "item_name": "Rothco Tactical Trauma Kit",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Tactical Trauma Kit features multiple pockets and a top carry handle for easy transportation and access to your essential medical supplies.</p>",
+  "no_ratings": null,
+  "sort_order": "133187",
+  "description": "<p>Rothco&rsquo;s Tactical Trauma Kit features multiple pockets and a top carry handle for easy transportation and access to your essential medical supplies.</p>\n<p>&nbsp;</p>\n<p>Tactical Trauma Kit Includes:</p>\n<ul>\n<li>2 - BleedStop Bandages</li>\n<li>2 - 2\" Elastic Bandages</li>\n<li>2 - 4\"x4\" Sterile Gauze pads</li>\n<li>16 - 1\"x3\" Bandage Strips</li>\n<li>12 - Antiseptic Wipes</li>\n<li>1 - Triangular Bandage</li>\n<li>5 - Butterfly Strips</li>\n<li>2 - Ammonia packs (ampules)</li>\n<li>1 - Burn Cream/First Aid Ointment</li>\n<li>1 - Sutures Package</li>\n<li>1 - 12\"x30\" Multi-Trauma Dressing&nbsp;</li>\n<li>1 - Hemostat</li>\n<li>12 - Povidone-Iodine Wipes</li>\n<li>1 - Stainless Steel Tweezers</li>\n<li>1 - EMT Shears</li>\n<li>3 - 5\"x9\" Abdominal Pads</li>\n<li>1 - Oral Airway Device</li>\n<li>2 - Pairs of Latex Exam Gloves</li>\n<li>10 - Pain Reliever (5 packs, 2pc each)</li>\n<li>1 - 1\" Tape</li>\n<li>1 - Rubber Tourniquet</li>\n<li>2 - 4\" Gauze Bandage Rolls</li>\n</ul>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "227"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20946",
+      "item_index": "4874",
+      "rothco_item_no": "3885",
+      "upc": "613902005983",
+      "inventory": "51",
+      "created_date": "2021-09-20 10:00:14",
+      "weight": "3.2000",
+      "image_filename": "3885-BLACK-A-NOLOGO.jpg",
+      "catalog_page_no": "297",
+      "msrp": 81.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 36.5,
+      "case_price": 36.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20947",
+      "item_index": "4874",
+      "rothco_item_no": "3885",
+      "upc": "613902005990",
+      "inventory": "20",
+      "created_date": "2021-09-20 10:00:14",
+      "weight": "3.2000",
+      "image_filename": "3885-OD-A-NOLOGO.jpg",
+      "catalog_page_no": "297",
+      "msrp": 81.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 36.5,
+      "case_price": 36.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20948",
+      "item_index": "4874",
+      "rothco_item_no": "3885",
+      "upc": "613902006133",
+      "inventory": "20",
+      "created_date": "2021-09-20 10:00:14",
+      "weight": "3.2000",
+      "image_filename": "3885-COYOTE-A-NOLOGO.jpg",
+      "catalog_page_no": "297",
+      "msrp": 81.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 36.5,
+      "case_price": 36.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

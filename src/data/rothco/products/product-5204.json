@@ -1,0 +1,37 @@
+{
+  "item_index": "5204",
+  "item_name": "Griffin Shoe Brush",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Griffin&rsquo;s Shoe Brush is built for uniformed professionals who demand precision, durability, and results. Crafted from real wood and 100% genuine horsehair, this premium shoe polish brush delivers a safe and effective shine for leather duty boots, dress shoes, and tactical footwear. The soft yet firm horsehair bristles lift dirt, evenly distribute polish, and leave a lasting gloss, ideal for maintaining a polished, inspection-ready appearance. Trusted by military personnel, police officers, and first responders.</p>",
+  "no_ratings": null,
+  "sort_order": null,
+  "description": "<p>Griffin&rsquo;s Shoe Brush is built for uniformed professionals who demand precision, durability, and results. Crafted from real wood and 100% genuine horsehair, this premium shoe polish brush delivers a safe and effective shine for leather duty boots, dress shoes, and tactical footwear. The soft yet firm horsehair bristles lift dirt, evenly distribute polish, and leave a lasting gloss, ideal for maintaining a polished, inspection-ready appearance. Trusted by military personnel, police officers, and first responders.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "variations": [
+    {
+      "item_variation_id": "31345",
+      "item_index": "5204",
+      "rothco_item_no": "20207",
+      "upc": "075914201010",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.2000",
+      "image_filename": "20207-A.jpg",
+      "catalog_page_no": null,
+      "msrp": 16.99,
+      "ship_length": "9.8750",
+      "ship_width": "3.8750",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

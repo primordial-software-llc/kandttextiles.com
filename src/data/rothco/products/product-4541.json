@@ -1,0 +1,94 @@
+{
+  "item_index": "4541",
+  "item_name": "Rothco MOLLE II 200 Round SAW Pouch ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s MOLLE II 200 Round SAW Pouch is a highly versatile and durable storage solution designed to seamlessly integrate with MOLLE-compatible gear, making it ideal for tactical professionals and outdoor enthusiasts. Measuring 9.5 inches x 7 inches x 3.25 inches, this pouch is perfectly sized to fit a 200-round SAW ammo box but can also hold various small gear or accessories. Its quick-release buckle closure ensures easy access while keeping your contents securely stored, even during dynamic movements.</p>",
+  "no_ratings": null,
+  "sort_order": "132854",
+  "description": "<p>Rothco&rsquo;s MOLLE II 200 Round SAW Pouch is a highly versatile and durable storage solution designed to seamlessly integrate with MOLLE-compatible gear, making it ideal for tactical professionals and outdoor enthusiasts. Measuring 9.5 inches x 7 inches x 3.25 inches, this pouch is perfectly sized to fit a 200-round SAW ammo box but can also hold various small gear or accessories. Its quick-release buckle closure ensures easy access while keeping your contents securely stored, even during dynamic movements. The reinforced hard plastic walls provide excellent structure and protection, allowing the pouch to maintain its shape and safeguard your gear. With 3 MOLLE straps on the back, this pouch can easily attach to plate carriers, tactical packs, and other MOLLE-compatible gear, offering flexibility and convenience. Built from rugged, long-lasting materials, the Rothco MOLLE II 200 Round SAW Pouch is designed to handle tough environments while offering reliable storage solutions.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "254",
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18665",
+      "item_index": "4541",
+      "rothco_item_no": "4653",
+      "upc": "613902046535",
+      "inventory": "99",
+      "created_date": "2018-09-20 11:10:00",
+      "weight": "0.7500",
+      "image_filename": "4653-A-amazon1.jpg",
+      "catalog_page_no": "245",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 11.95,
+      "case_price": 11.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19920",
+      "item_index": "4541",
+      "rothco_item_no": "4863",
+      "upc": "613902486300",
+      "inventory": "0",
+      "created_date": "2020-09-24 16:00:11",
+      "weight": "0.0000",
+      "image_filename": "4863-B-amazon1.jpg",
+      "catalog_page_no": "245",
+      "msrp": 43.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "07/17/2025",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 19.95,
+      "case_price": 19.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20894",
+      "item_index": "4541",
+      "rothco_item_no": "46530",
+      "upc": "613902004719",
+      "inventory": "99",
+      "created_date": "2021-07-27 15:00:10",
+      "weight": "0.7500",
+      "image_filename": "46530-A1.jpg",
+      "catalog_page_no": "245",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 11.95,
+      "case_price": 11.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

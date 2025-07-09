@@ -1,0 +1,40 @@
+{
+  "item_index": "2277",
+  "item_name": "Rothco GI Type LC-1 Kidney Pad",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s LC-1 Kidney Pad is designed to enhance comfort and stability when carrying heavy loads with your ALICE pack. The oversized kidney pad effectively distributes the weight over a larger area, reducing stress and pressure on your lower back. This fully adjustable pad fits most body types, allowing for a customized and comfortable fit. The quick-release buckle makes it easy to put on and take off, providing added convenience during outdoor activities.</p>",
+  "no_ratings": "0",
+  "sort_order": "344",
+  "description": "<p>Rothco&rsquo;s LC-1 Kidney Pad is designed to enhance comfort and stability when carrying heavy loads with your ALICE pack. The oversized kidney pad effectively distributes the weight over a larger area, reducing stress and pressure on your lower back. This fully adjustable pad fits most body types, allowing for a customized and comfortable fit. The quick-release buckle makes it easy to put on and take off, providing added convenience during outdoor activities. Measuring 17 inch x 5.5 inch, this durable kidney pad is a reliable addition to your pack setup, ensuring maximum comfort and load management. Whether you&rsquo;re hiking, camping, or traveling, the LC-1 Kidney Pad provides extra support to help you carry your gear with ease.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "202"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1180",
+      "item_index": "2277",
+      "rothco_item_no": "2263",
+      "upc": "613902522633",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6813",
+      "image_filename": "2263-A.jpg",
+      "catalog_page_no": "311",
+      "msrp": 25.99,
+      "ship_length": "17.0000",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 9.9,
+      "case_price": 9.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

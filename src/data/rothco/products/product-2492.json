@@ -1,0 +1,71 @@
+{
+  "item_index": "2492",
+  "item_name": "Rothco Canvas Trailblazer Laptop Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Trailblazer Laptop Bag is a perfect blend of durability and style, designed for the modern adventurer. Constructed from heavyweight washed canvas, this laptop bag is built to withstand the rigors of daily use while providing a vintage aesthetic. Leather accents add a touch of sophistication, making it suitable for both casual and professional settings. The padded interior features a stretch strap that securely holds your laptop or other electronic devices, ensuring they remain safe during transport.</p>",
+  "no_ratings": "0",
+  "sort_order": "789",
+  "description": "<p>Rothco's Trailblazer Laptop Bag is a perfect blend of durability and style, designed for the modern adventurer. Constructed from heavyweight washed canvas, this laptop bag is built to withstand the rigors of daily use while providing a vintage aesthetic. Leather accents add a touch of sophistication, making it suitable for both casual and professional settings. The padded interior features a stretch strap that securely holds your laptop or other electronic devices, ensuring they remain safe during transport. The front flap, equipped with 4 large brass grommets, adds a rugged touch while keeping the crossbody bag securely closed. Underneath the flap, you'll find 2 additional front pockets, perfect for organizing smaller items like chargers, notebooks, or your phone. A side pocket with a canvas brown leather flap and brass snap provides extra storage, making this bag as functional as it is stylish. The leather-topped carry handle and adjustable padded shoulder strap offer comfort and versatility, whether you're heading to work or exploring new trails. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "208",
+    "209",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10705",
+      "item_index": "2492",
+      "rothco_item_no": "9239",
+      "upc": "613902923997",
+      "inventory": "82",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.2500",
+      "image_filename": "9239-opened-HR.jpg",
+      "catalog_page_no": "365",
+      "msrp": 48.99,
+      "ship_length": "18.5000",
+      "ship_width": "15.5000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 21.9,
+      "case_price": 21.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12666",
+      "item_index": "2492",
+      "rothco_item_no": "9682",
+      "upc": "613902968295",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.2500",
+      "image_filename": "9682-A-amazon1.jpg",
+      "catalog_page_no": "365",
+      "msrp": 48.99,
+      "ship_length": "18.5000",
+      "ship_width": "15.5000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 21.9,
+      "case_price": 21.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

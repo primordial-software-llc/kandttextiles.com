@@ -1,0 +1,98 @@
+{
+  "item_index": "1224",
+  "item_name": "Rothco Concealed Carry Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=NfPwMlNQa_M",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Concealed Carry Bag is a covert tactical essential for the range. With a discreet carry pocket and rear zippered compartment for items, it ensures secure storage.</p>",
+  "no_ratings": "0",
+  "sort_order": "2751",
+  "description": "<p>Rothco's Concealed Carry Bag is a covert tactical essential for the range. With a discreet carry pocket and rear zippered compartment for items, it ensures secure storage. The main compartment features a U-shaped dual zippered flap for quick access, while side zippered pouches with MOLLE attachments offer additional storage options. Equipped with adjustable/removable shoulder straps and top carry handles for versatility. Constructed from heavyweight polyester with D-rings and MOLLE webbing for added functionality. This range bag measures 12 inch x 7 inch x 10 inch, providing ample space for all your shooting essentials.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "598",
+    "248",
+    "553",
+    "598",
+    "248",
+    "553"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1491",
+      "item_index": "1224",
+      "rothco_item_no": "2649",
+      "upc": "613902264908",
+      "inventory": "99",
+      "created_date": "2012-06-13 21:00:00",
+      "weight": "2.2500",
+      "image_filename": "2649-A-amazon.jpg",
+      "catalog_page_no": "323",
+      "msrp": 54.99,
+      "ship_length": "18.5000",
+      "ship_width": "14.0000",
+      "ship_height": "5.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 24.5,
+      "case_price": 24.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15145",
+      "item_index": "1224",
+      "rothco_item_no": "2653",
+      "upc": "613902926530",
+      "inventory": "99",
+      "created_date": "2015-03-19 16:10:02",
+      "weight": "2.2500",
+      "image_filename": "2653-B-amazon1.jpg",
+      "catalog_page_no": "323",
+      "msrp": 54.99,
+      "ship_length": "18.5000",
+      "ship_width": "14.0000",
+      "ship_height": "5.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 24.5,
+      "case_price": 24.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17266",
+      "item_index": "1224",
+      "rothco_item_no": "2657",
+      "upc": "613902026575",
+      "inventory": "99",
+      "created_date": "2017-05-19 14:10:01",
+      "weight": "2.2500",
+      "image_filename": "2657-A-amazon.jpg",
+      "catalog_page_no": "323",
+      "msrp": 54.99,
+      "ship_length": "18.5000",
+      "ship_width": "14.0000",
+      "ship_height": "5.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 24.5,
+      "case_price": 24.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "item_index": "1312",
+  "item_name": "Rothco Vintage Canvas Two-Tone Imprinted Map Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Travel back in time with Rothco's classic messenger bag inspired by vintage military document cases.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "486",
+  "description": "<p>Travel back in time with Rothco's classic messenger bag inspired by vintage military document cases.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "208",
+    "209",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10723",
+      "item_index": "1312",
+      "rothco_item_no": "9248",
+      "upc": "613902924802",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.0000",
+      "image_filename": "9248-OD.jpg",
+      "catalog_page_no": "362",
+      "msrp": 48.99,
+      "ship_length": "20.5000",
+      "ship_width": "15.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab / Tan"
+      },
+      "color": "Olive Drab / Tan",
+      "price": 21.5,
+      "case_price": 21.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10724",
+      "item_index": "1312",
+      "rothco_item_no": "9248",
+      "upc": "613902924819",
+      "inventory": "78",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.0000",
+      "image_filename": "9248-A-BLACK.jpg",
+      "catalog_page_no": "362",
+      "msrp": 48.99,
+      "ship_length": "20.5000",
+      "ship_width": "15.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Grey / Black"
+      },
+      "color": "Grey / Black",
+      "price": 21.5,
+      "case_price": 21.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

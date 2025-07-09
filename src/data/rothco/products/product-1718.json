@@ -1,0 +1,42 @@
+{
+  "item_index": "1718",
+  "item_name": "Shorty Ka-bar USMC Fighting Knife",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Shorty Ka-Bar USMC Fighting Knife is a compact version of the legendary Ka-Bar knife, featuring a 5 1/4-inch blade and measuring 9 1/4 inches overall. This knife retains the classic design and durability that Ka-Bar is known for, making it an essential tool for various cutting tasks. The blade is crafted from high-quality stainless steel, ensuring long-lasting sharpness and reliability. The handle is made from durable leather, providing a comfortable and secure grip.</p>",
+  "no_ratings": "0",
+  "sort_order": "122",
+  "description": "<p>The Shorty Ka-Bar USMC Fighting Knife is a compact version of the legendary Ka-Bar knife, featuring a 5 1/4-inch blade and measuring 9 1/4 inches overall. This knife retains the classic design and durability that Ka-Bar is known for, making it an essential tool for various cutting tasks. The blade is crafted from high-quality stainless steel, ensuring long-lasting sharpness and reliability. The handle is made from durable leather, providing a comfortable and secure grip. The included leather sheath offers convenient and safe storage, making it easy to carry the knife wherever you go. This versatile military knife is perfect for outdoor adventures, camping, and everyday use. Please note that this item is restricted for export and cannot be sold for use in some countries outside the U.S. Contact Rothco for details.</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "293"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1920",
+      "item_index": "1718",
+      "rothco_item_no": "3265",
+      "upc": "617717212505",
+      "inventory": "47",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5000",
+      "image_filename": "3265-hr1.jpg",
+      "catalog_page_no": "268",
+      "msrp": 185.99,
+      "ship_length": "11.5000",
+      "ship_width": "3.0000",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 92.95,
+      "case_price": 92.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "item_index": "5099",
+  "item_name": "Rothco X Bear Archery Fred Bear Camo Tactical Operator Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=-WS0355Q-hw",
+  "rating": "5",
+  "item_short_desc": "<p>In collaboration with Bear Archery, the revered Fred Bear camouflage pattern comes to life through Rothco&rsquo;s legendary outdoor apparel and gear, including our Tactical Operator Cap. Each item in the Fred Bear Camouflage collection has been crafted using the iconic Fred Bear camo pattern.</p>",
+  "no_ratings": null,
+  "sort_order": "133388",
+  "description": "<p>In collaboration with Bear Archery, the revered Fred Bear camouflage pattern comes to life through Rothco&rsquo;s legendary outdoor apparel and gear, including our Tactical Operator Cap. Each item in the Fred Bear Camouflage collection has been crafted using the iconic Fred Bear camo pattern. Field-Proven Design: In addition to shielding your eyes from the sun&rsquo;s rays, the Fred Bear Camo Tactical Operator Cap provides the tactical functionality you need in the field. This operator hat features 3 separate loop fields: the front is for displaying flag and morale patches, the top is for attaching an IR marker, and the back is for mounting name tape. Rugged &amp; Long-Lasting: These camouflage hats are built with a breathable 55% cotton / 45% polyester blend for unmatched resiliency and easy-to-care-for maintenance. These tactical field hats are not afraid to get down and dirty while out in the wilderness. Keep Cool, Stay Focused: This camo hat features 4 reinforced vents on the top to help circulate airflow around your head, allowing you to focus on the task at hand. The military-styled hat is great for hunters, tactical operators, security officials, airsoft players, and more. One Size Fits Most: Our tactical hats use an adjustable hook and loop strap for a snug fit that is perfect for most head sizes, ensuring the cap stays in place.</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Active"
+  ],
+  "categories": [
+    "736",
+    "2",
+    "83",
+    "521"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "23394",
+      "item_index": "5099",
+      "rothco_item_no": "19051",
+      "upc": "613902036109",
+      "inventory": "99",
+      "created_date": "2023-08-11 13:59:48",
+      "weight": "0.0000",
+      "image_filename": "19051-1.jpg",
+      "catalog_page_no": "146",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Fred Bear Camo"
+      },
+      "color": "Fred Bear Camo",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "item_index": "480",
+  "item_name": "Rothco Women's Adjustable Fatigue Cap - Pink Camo",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Inspired by classic military style, Rothco's Women's Adjustable Fatigue Cap in Pink Camo offers a sleek, low-profile design made from durable poly/cotton twill. The adjustable back ensures a secure, comfortable fit for most sizes, making it the perfect everyday cap for work, outdoor adventures, or casual wear.</p>\n<p>&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "1876",
+  "description": "<p>Inspired by classic military style, Rothco's Women's Adjustable Fatigue Cap in Pink Camo offers a sleek, low-profile design made from durable poly/cotton twill. The adjustable back ensures a secure, comfortable fit for most sizes, making it the perfect everyday cap for work, outdoor adventures, or casual wear.</p>\n<p>&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "83",
+    "137",
+    "150",
+    "537",
+    "370"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "496",
+      "item_index": "480",
+      "rothco_item_no": "1152",
+      "upc": "613902115200",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "1152-A.jpg",
+      "catalog_page_no": "127",
+      "msrp": 10.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.5000",
+      "ship_height": "4.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Pink Camo"
+      },
+      "color": "Pink Camo",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

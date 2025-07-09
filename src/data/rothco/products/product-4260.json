@@ -1,0 +1,151 @@
+{
+  "item_index": "4260",
+  "item_name": "Rothco Kids Thin Blue Line US Flag T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Let your child show their support for law enforcement with Rothco&rsquo;s Kids Thin Blue Line US Flag T-Shirt. This t-shirt is crafted from a soft cotton/polyester blend that ensures all-day comfort, perfect for active kids. The shirt features a bold US flag design with the iconic thin blue line, symbolizing respect and appreciation for police officers and law enforcement officials. A tag-less label adds an extra level of comfort, preventing irritation on your child&rsquo;s skin.</p>",
+  "no_ratings": null,
+  "sort_order": "198",
+  "description": "<p>Let your child show their support for law enforcement with Rothco&rsquo;s Kids Thin Blue Line US Flag T-Shirt. This t-shirt is crafted from a soft cotton/polyester blend that ensures all-day comfort, perfect for active kids. The shirt features a bold US flag design with the iconic thin blue line, symbolizing respect and appreciation for police officers and law enforcement officials. A tag-less label adds an extra level of comfort, preventing irritation on your child&rsquo;s skin. Ideal for casual wear or family outings, this t-shirt lets kids express their gratitude for first responders. Plus, proceeds from each purchase benefit families of fallen first responders, making it not only a stylish choice but also a meaningful one.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "121"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16933",
+      "item_index": "4260",
+      "rothco_item_no": "6869",
+      "upc": "613902068698",
+      "inventory": "99",
+      "created_date": "2017-02-15 16:10:02",
+      "weight": "0.2500",
+      "image_filename": "6869-B-amazon1.jpg",
+      "catalog_page_no": "135",
+      "msrp": 14.99,
+      "ship_length": "9.7500",
+      "ship_width": "12.7500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XS",
+        "color": "Black"
+      },
+      "size": "XS",
+      "color": "Black",
+      "price": 5.75,
+      "case_price": 5.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16934",
+      "item_index": "4260",
+      "rothco_item_no": "6869",
+      "upc": "613902168695",
+      "inventory": "99",
+      "created_date": "2017-02-15 16:10:02",
+      "weight": "0.2500",
+      "image_filename": "6869-B-amazon1.jpg",
+      "catalog_page_no": "135",
+      "msrp": 14.99,
+      "ship_length": "11.2500",
+      "ship_width": "13.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Black"
+      },
+      "size": "S",
+      "color": "Black",
+      "price": 5.75,
+      "case_price": 5.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16935",
+      "item_index": "4260",
+      "rothco_item_no": "6869",
+      "upc": "613902268692",
+      "inventory": "99",
+      "created_date": "2017-02-15 16:10:02",
+      "weight": "0.2500",
+      "image_filename": "6869-B-amazon1.jpg",
+      "catalog_page_no": "135",
+      "msrp": 14.99,
+      "ship_length": "12.0000",
+      "ship_width": "15.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Black"
+      },
+      "size": "M",
+      "color": "Black",
+      "price": 5.75,
+      "case_price": 5.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16936",
+      "item_index": "4260",
+      "rothco_item_no": "6869",
+      "upc": "613902368699",
+      "inventory": "99",
+      "created_date": "2017-02-15 16:10:02",
+      "weight": "0.2500",
+      "image_filename": "6869-B-amazon1.jpg",
+      "catalog_page_no": "135",
+      "msrp": 14.99,
+      "ship_length": "13.5000",
+      "ship_width": "17.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Black"
+      },
+      "size": "L",
+      "color": "Black",
+      "price": 5.75,
+      "case_price": 5.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16937",
+      "item_index": "4260",
+      "rothco_item_no": "6869",
+      "upc": "613902468696",
+      "inventory": "99",
+      "created_date": "2017-02-15 16:10:02",
+      "weight": "0.2500",
+      "image_filename": "6869-B-amazon1.jpg",
+      "catalog_page_no": "135",
+      "msrp": 14.99,
+      "ship_length": "14.0000",
+      "ship_width": "19.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Black"
+      },
+      "size": "XL",
+      "color": "Black",
+      "price": 5.75,
+      "case_price": 5.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

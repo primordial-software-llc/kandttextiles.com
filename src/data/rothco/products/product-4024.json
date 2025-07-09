@@ -1,0 +1,41 @@
+{
+  "item_index": "4024",
+  "item_name": "Rothco Lightweight Sniper Rifle Wrap",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Lightweight Rifle Rag Cover offers excellent coverage and camouflage for your rifle. The six-foot piece of OD elastic webbing with six different colors of synthetic strings (colors include olive drab, leaf green, tan, black &amp; brown) can be looped around a rifle or bow for optimal concealment. Thread pattern color matches most Ghillie Suits and is excellent for hunting, Airsoft or other outdoor activities.</p>",
+  "no_ratings": null,
+  "sort_order": "85",
+  "description": "<p>Rothco's Lightweight Rifle Rag Cover offers excellent coverage and camouflage for your rifle. The six-foot piece of OD elastic webbing with six different colors of synthetic strings (colors include olive drab, leaf green, tan, black &amp; brown) can be looped around a rifle or bow for optimal concealment. Thread pattern color matches most Ghillie Suits and is excellent for hunting, Airsoft or other outdoor activities.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "255",
+    "452"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15656",
+      "item_index": "4024",
+      "rothco_item_no": "95120",
+      "upc": "613902951204",
+      "inventory": "84",
+      "created_date": "2015-09-17 13:10:02",
+      "weight": "0.4100",
+      "image_filename": "95120-A3.jpg",
+      "catalog_page_no": "264",
+      "msrp": 17.99,
+      "ship_length": "9.0000",
+      "ship_width": "8.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

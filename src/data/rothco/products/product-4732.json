@@ -1,0 +1,43 @@
+{
+  "item_index": "4732",
+  "item_name": "Rothco Blank Branch Tape Roll - AR 670-1 Coyote Brown ",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s blank branch tape is perfect for displaying your name or branch on your military or tactical uniform.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133045",
+  "description": "<p>Rothco&rsquo;s blank branch tape is perfect for displaying your name or branch on your military or tactical uniform.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "492"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19858",
+      "item_index": "4732",
+      "rothco_item_no": "1103",
+      "upc": "613902011038",
+      "inventory": "99",
+      "created_date": "2020-07-23 14:00:15",
+      "weight": "0.6834",
+      "image_filename": "1103-B-amazon.jpg",
+      "catalog_page_no": "217",
+      "msrp": 32.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "AR 670-1 Coyote Brown"
+      },
+      "color": "AR 670-1 Coyote Brown",
+      "price": 14.9,
+      "case_price": 14.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

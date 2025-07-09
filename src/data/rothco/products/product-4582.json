@@ -1,0 +1,41 @@
+{
+  "item_index": "4582",
+  "item_name": "Rothco Coordinate Scale Protractor",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Coordinate Scale Protractor is an essential navigation tool for anyone who needs precise location and destination coordinates while working in the field. Designed to work seamlessly with various map scales, this 5 inches x 5 inches protractor provides accurate readings for Universal Transverse Mercator (UTM), United States National Grid (USNG), Military Grade Reference System (MGRS), and other metric-based coordinate systems.</p>",
+  "no_ratings": null,
+  "sort_order": "132895",
+  "description": "<p>Rothco&rsquo;s Coordinate Scale Protractor is an essential navigation tool for anyone who needs precise location and destination coordinates while working in the field. Designed to work seamlessly with various map scales, this 5 inches x 5 inches protractor provides accurate readings for Universal Transverse Mercator (UTM), United States National Grid (USNG), Military Grade Reference System (MGRS), and other metric-based coordinate systems. The protractor features triangular cut-outs to measure map scales of 1:25,000, 1:50,000, 1:100,000, or 1:250,000, ensuring precise readings in various terrains and scenarios. Its outer scale is marked in mils, the center scale in degrees, and the inner scale in back azimuths, offering a comprehensive navigation solution. The center hole allows for easy attachment of paracord or string for accurate mil or degree measurements. Compact and durable, Rothco&rsquo;s Coordinate Scale Protractor is the perfect tool for accurate, field-ready navigation.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "261",
+    "269"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12203",
+      "item_index": "4582",
+      "rothco_item_no": "1177",
+      "upc": "613902011779",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0563",
+      "image_filename": "1177-A-amazon.jpg",
+      "catalog_page_no": "282",
+      "msrp": 16.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.5000",
+      "ship_height": "4.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

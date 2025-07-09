@@ -1,0 +1,74 @@
+{
+  "item_index": "4643",
+  "item_name": "Rothco Waxed Canvas Shoulder Duffle Bag - 19 Inch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Waxed Canvas Shoulder Duffle Bag offers a modern, durable take on the classic duffle bag. Enhanced with a wax/oil treatment, the water-resistant canvas material protects your belongings from the elements, making it perfect for gym trips, weekend getaways, or daily use. Measuring 19 inch x 9 inch, this compact duffle bag provides ample space for your essentials while maintaining a sleek profile. The fully lined interior adds another layer of protection to keep your items secure.</p>",
+  "no_ratings": null,
+  "sort_order": "132956",
+  "description": "<p>Rothco&rsquo;s Waxed Canvas Shoulder Duffle Bag offers a modern, durable take on the classic duffle bag. Enhanced with a wax/oil treatment, the water-resistant canvas material protects your belongings from the elements, making it perfect for gym trips, weekend getaways, or daily use. Measuring 19 inch x 9 inch, this compact duffle bag provides ample space for your essentials while maintaining a sleek profile. The fully lined interior adds another layer of protection to keep your items secure. It features an adjustable, detachable shoulder strap for easy carrying, along with twin carry handles for added versatility. A zipper end pocket offers additional storage for smaller items, and a grab handle on the opposite end makes it convenient to lift and maneuver. Whether you're heading to the gym or embarking on a weekend adventure, Rothco's waxed canvas duffle bag is designed to provide rugged reliability and style. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "215",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19335",
+      "item_index": "4643",
+      "rothco_item_no": "2416",
+      "upc": "613902924161",
+      "inventory": "99",
+      "created_date": "2019-12-05 10:00:02",
+      "weight": "1.3500",
+      "image_filename": "2416-Brown-A-amazon.jpg",
+      "catalog_page_no": "334",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Brown",
+        "size": "19\" X 9\""
+      },
+      "color": "Brown",
+      "size": "19\" X 9\"",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19337",
+      "item_index": "4643",
+      "rothco_item_no": "2416",
+      "upc": "613902024168",
+      "inventory": "99",
+      "created_date": "2019-12-05 11:00:10",
+      "weight": "1.3500",
+      "image_filename": "2416-OD-A2.jpg",
+      "catalog_page_no": "334",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "19\" X 9\""
+      },
+      "color": "Olive Drab",
+      "size": "19\" X 9\"",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

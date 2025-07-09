@@ -1,0 +1,69 @@
+{
+  "item_index": "4818",
+  "item_name": "Rothco Moisture Wicking Headwrap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Moisture Wicking Headwrap features a high-performance breathable material that is perfect to wear under a helmet, hat, or on its own.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133131",
+  "description": "<p>Rothco's Moisture Wicking Headwrap features a high-performance breathable material that is perfect to wear under a helmet, hat, or on its own. The skull cap is one size fits most that ties in the back.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "683"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20628",
+      "item_index": "4818",
+      "rothco_item_no": "55188",
+      "upc": "613902001749",
+      "inventory": "99",
+      "created_date": "2021-05-03 13:00:08",
+      "weight": "0.0000",
+      "image_filename": "55188-HEAD-A-NOLOGO.jpg",
+      "catalog_page_no": "167",
+      "msrp": 7.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 2.9,
+      "case_price": 2.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20629",
+      "item_index": "4818",
+      "rothco_item_no": "55189",
+      "upc": "613902001756",
+      "inventory": "99",
+      "created_date": "2021-05-03 13:00:08",
+      "weight": "0.0500",
+      "image_filename": "55189-A-HEAD-NOLOGO.jpg",
+      "catalog_page_no": "167",
+      "msrp": 7.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 2.9,
+      "case_price": 2.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

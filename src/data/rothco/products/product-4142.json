@@ -1,0 +1,143 @@
+{
+  "item_index": "4142",
+  "item_name": "Rothco US Air Force Emblem T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show your pride with Rothco&rsquo;s US Air Force Emblem T-Shirt, featuring the iconic USAF emblem and name printed in bold white ink across the chest. This officially licensed shirt provides a sleek and professional look, perfect for any occasion where you want to display your support. Constructed from a high-quality poly-cotton blend, the shirt is both breathable and durable, offering comfort whether you&rsquo;re wearing it for a workout or just everyday casual wear.</p>",
+  "no_ratings": null,
+  "sort_order": "573",
+  "description": "<p>Show your pride with Rothco&rsquo;s US Air Force Emblem T-Shirt, featuring the iconic USAF emblem and name printed in bold white ink across the chest. This officially licensed shirt provides a sleek and professional look, perfect for any occasion where you want to display your support. Constructed from a high-quality poly-cotton blend, the shirt is both breathable and durable, offering comfort whether you&rsquo;re wearing it for a workout or just everyday casual wear. The tagless label design ensures an itch-free experience, making it comfortable for all-day wear. Its lightweight, soft material offers flexibility while retaining its shape after multiple washes. Rothco's US Air Force Emblem T-Shirt is the ideal blend of style and comfort, built to last through any activity and officially licensed by the United States Air Force for authenticity. Wear it with pride and make a statement with this essential USAF gear.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "640",
+    "42",
+    "550"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16402",
+      "item_index": "4142",
+      "rothco_item_no": "61620",
+      "upc": "613902616202",
+      "inventory": "76",
+      "created_date": "2016-05-19 16:10:02",
+      "weight": "0.3500",
+      "image_filename": "61620-RIGHT-C.jpg",
+      "catalog_page_no": "116",
+      "msrp": 20.99,
+      "ship_length": "14.0000",
+      "ship_width": "17.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16403",
+      "item_index": "4142",
+      "rothco_item_no": "61620",
+      "upc": "613902616219",
+      "inventory": "99",
+      "created_date": "2016-05-19 16:10:02",
+      "weight": "0.3500",
+      "image_filename": "61620-RIGHT-C.jpg",
+      "catalog_page_no": "116",
+      "msrp": 20.99,
+      "ship_length": "14.7500",
+      "ship_width": "12.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16404",
+      "item_index": "4142",
+      "rothco_item_no": "61620",
+      "upc": "613902616226",
+      "inventory": "99",
+      "created_date": "2016-05-19 16:10:02",
+      "weight": "0.3500",
+      "image_filename": "61620-RIGHT-C.jpg",
+      "catalog_page_no": "116",
+      "msrp": 20.99,
+      "ship_length": "15.5000",
+      "ship_width": "21.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16405",
+      "item_index": "4142",
+      "rothco_item_no": "61620",
+      "upc": "613902616233",
+      "inventory": "99",
+      "created_date": "2016-05-19 16:10:02",
+      "weight": "0.3500",
+      "image_filename": "61620-RIGHT-C.jpg",
+      "catalog_page_no": "116",
+      "msrp": 20.99,
+      "ship_length": "15.5000",
+      "ship_width": "22.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16406",
+      "item_index": "4142",
+      "rothco_item_no": "61621",
+      "upc": "613902616240",
+      "inventory": "99",
+      "created_date": "2016-05-19 16:10:02",
+      "weight": "0.4500",
+      "image_filename": "61620-RIGHT-C.jpg",
+      "catalog_page_no": "116",
+      "msrp": 23.99,
+      "ship_length": "17.0000",
+      "ship_width": "24.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 8,
+      "case_price": 8,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

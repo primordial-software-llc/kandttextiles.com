@@ -1,0 +1,147 @@
+{
+  "item_index": "3266",
+  "item_name": "Rothco Kid's Tactical Cross Draw Vest",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Introducing Rothco&rsquo;s Kid&rsquo;s Cross Draw Vest&mdash;crafted with the same precision as our adult version. Made from heavyweight polyester, this vest provides an authentic experience for every child.</p>",
+  "no_ratings": null,
+  "sort_order": "2182",
+  "description": "<p>Introducing Rothco&rsquo;s Kid&rsquo;s Cross Draw Vest&mdash;crafted with the same precision as our adult version. Made from heavyweight polyester, this vest provides an authentic experience for every child. The mesh material ensures ventilation, keeping them cool during play. MOLLE-compatible straps on the front and back allow customization with additional gear. Equipped with a MOLLE-compatible holster and two mag pouches, this vest mirrors adult functionality. On the right side, find two pouches, a large carrying pouch, and pad for added excitement. Interior document pockets offer storage convenience. Adjustable shoulder and waist straps ensure a perfect fit for every child, enhancing comfort and playability. The front zipper and quick-release buckle guarantee a secure fit, while the carrying handle adds portability. Ideal for paintball, this vest is a must-have for any young adventurer. Available in various solid and camouflage colors, Rothco&rsquo;s Kid&rsquo;s Cross Draw Vest brings tactical fun to a new generation.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "82",
+    "124",
+    "143",
+    "140",
+    "183",
+    "544",
+    "333"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12347",
+      "item_index": "3266",
+      "rothco_item_no": "5593",
+      "upc": "613902055933",
+      "inventory": "99",
+      "created_date": "2013-06-13 15:49:36",
+      "weight": "2.3000",
+      "image_filename": "5593-A-amazon.jpg",
+      "catalog_page_no": "237",
+      "msrp": 68.99,
+      "ship_length": "15.7500",
+      "ship_width": "11.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 30.95,
+      "case_price": 30.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12348",
+      "item_index": "3266",
+      "rothco_item_no": "5598",
+      "upc": "613902055988",
+      "inventory": "99",
+      "created_date": "2013-06-13 15:49:36",
+      "weight": "2.3000",
+      "image_filename": "5598-A-amazon.jpg",
+      "catalog_page_no": "237",
+      "msrp": 68.99,
+      "ship_length": "15.7500",
+      "ship_width": "11.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "ACU Digital Camo"
+      },
+      "color": "ACU Digital Camo",
+      "price": 30.95,
+      "case_price": 30.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14822",
+      "item_index": "3266",
+      "rothco_item_no": "5384",
+      "upc": "613902053847",
+      "inventory": "99",
+      "created_date": "2014-09-22 17:10:01",
+      "weight": "2.3000",
+      "image_filename": "5384-B2.jpg",
+      "catalog_page_no": "237",
+      "msrp": 92.99,
+      "ship_length": "15.7500",
+      "ship_width": "11.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 41.95,
+      "case_price": 41.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15408",
+      "item_index": "3266",
+      "rothco_item_no": "5293",
+      "upc": "613902052932",
+      "inventory": "99",
+      "created_date": "2015-05-01 17:10:01",
+      "weight": "2.3000",
+      "image_filename": "5293-A-amazon.jpg",
+      "catalog_page_no": "237",
+      "msrp": 68.99,
+      "ship_length": "15.7500",
+      "ship_width": "11.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 30.95,
+      "case_price": 30.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18628",
+      "item_index": "3266",
+      "rothco_item_no": "5294",
+      "upc": "613902052949",
+      "inventory": "99",
+      "created_date": "2018-08-24 16:10:01",
+      "weight": "2.3000",
+      "image_filename": "5294-A-amazon.jpg",
+      "catalog_page_no": "237",
+      "msrp": 68.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 30.95,
+      "case_price": 30.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

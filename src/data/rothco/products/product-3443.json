@@ -1,0 +1,70 @@
+{
+  "item_index": "3443",
+  "item_name": "Rothco Venturer Survivor Shoulder Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Venturer Survivor Shoulder Bag offers a compact yet versatile solution for those in need of a reliable everyday carry (EDC) companion. With its roomy main compartment measuring 10 inch x 8 inch x 5 inch, it&rsquo;s perfect for storing tablets, notebooks, and other essentials. The interior features a water-repellent nylon lining, ensuring your items stay protected even in damp conditions. The bag is equipped with multiple front pouches for easy access to smaller items.</p>",
+  "no_ratings": null,
+  "sort_order": "1829",
+  "description": "<p>Rothco&rsquo;s Venturer Survivor Shoulder Bag offers a compact yet versatile solution for those in need of a reliable everyday carry (EDC) companion. With its roomy main compartment measuring 10 inch x 8 inch x 5 inch, it&rsquo;s perfect for storing tablets, notebooks, and other essentials. The interior features a water-repellent nylon lining, ensuring your items stay protected even in damp conditions. The bag is equipped with multiple front pouches for easy access to smaller items, including 3 compact top pouches with snap and zipper closures, and a larger front pouch secured with 2 snaps and a hook &amp; loop closure. The main compartment is securely fastened with turn locks and an inner snap, providing extra protection for your belongings. Additional features include an adjustable shoulder strap that extends up to 54 inches, a utility side pocket for quick storage, and a durable material that ensures long-lasting use. Perfect for outdoor adventures or everyday use, this bag is designed to keep your essentials organized and easily accessible.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "208",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1276",
+      "item_index": "3443",
+      "rothco_item_no": "2396",
+      "upc": "613902239609",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2500",
+      "image_filename": "2396-OD-A-amazon.jpg",
+      "catalog_page_no": "359",
+      "msrp": 30.99,
+      "ship_length": "16.0000",
+      "ship_width": "12.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 13.5,
+      "case_price": 13.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1277",
+      "item_index": "3443",
+      "rothco_item_no": "2396",
+      "upc": "613902239616",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2500",
+      "image_filename": "2396-Black-A2.jpg",
+      "catalog_page_no": "359",
+      "msrp": 30.99,
+      "ship_length": "16.0000",
+      "ship_width": "12.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 13.5,
+      "case_price": 13.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

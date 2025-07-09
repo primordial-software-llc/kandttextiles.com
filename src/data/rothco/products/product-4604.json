@@ -1,0 +1,77 @@
+{
+  "item_index": "4604",
+  "item_name": "Rothco 4 Piece Canteen Kit With Cover, Aluminum Cup & Stove / Stand",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's 4 Piece Canteen Kit is the ultimate addition to your camping gear, designed to meet all your hydration and cooking needs in one convenient package. This comprehensive kit includes a 1-quart BPA-free plastic canteen, a felt-lined polyester cover, a heavy gauge aluminum cup, and an aluminum stove with stand. The canteen cover features a dual snap button closure and an external tab pouch for storing small survival gear like matches or fishing line.</p>",
+  "no_ratings": null,
+  "sort_order": "132917",
+  "description": "<p>Rothco's 4 Piece Canteen Kit is the ultimate addition to your camping gear, designed to meet all your hydration and cooking needs in one convenient package. This comprehensive kit includes a 1-quart BPA-free plastic canteen, a felt-lined polyester cover, a heavy gauge aluminum cup, and an aluminum stove with stand. The canteen cover features a dual snap button closure and an external tab pouch for storing small survival gear like matches or fishing line. The included canteen cup, which measures 5.2 inches x 3.4 inches at the top and 4.6 inches x 3 inches at the bottom with a height of 3.7 inches, has a 24oz capacity and a butterfly handle for easy use. It securely fits under the canteen, making it perfect for boiling water or heating meals. The canteen stand works in conjunction with the cup to heat liquids and rations. Equipped with Alice keeper clips, you can easily attach the canteen to your belt or pack. Rothco&rsquo;s 4 Piece Canteen Kit ensures you&rsquo;re well-prepared for your next outdoor adventure.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "281",
+    "284",
+    "542",
+    "499",
+    "500"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19202",
+      "item_index": "4604",
+      "rothco_item_no": "1144",
+      "upc": "613902011441",
+      "inventory": "57",
+      "created_date": "2019-08-02 17:10:00",
+      "weight": "1.2500",
+      "image_filename": "1144-A-amazon.jpg",
+      "catalog_page_no": "287",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19203",
+      "item_index": "4604",
+      "rothco_item_no": "1143",
+      "upc": "613902011434",
+      "inventory": "99",
+      "created_date": "2019-08-02 17:10:00",
+      "weight": "1.2500",
+      "image_filename": "1143-A-amazon.jpg",
+      "catalog_page_no": "287",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "item_index": "2878",
+  "item_name": "Rothco Military Type 7 x 50MM Binoculars",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Experience unparalleled clarity and durability with Rothco's 7 x 50MM Binoculars. These binoculars are designed to withstand the harshest environments with their waterproof and fog-proof construction. The buoyant design ensures they float if accidentally dropped in water, and they are O-ring sealed and nitrogen-filled for ultimate protection against moisture. With a 7X magnification and a 132m field of view at 1000m, you can easily spot distant objects.</p>",
+  "no_ratings": null,
+  "sort_order": "304",
+  "description": "<p>Experience unparalleled clarity and durability with Rothco's 7 x 50MM Binoculars. These binoculars are designed to withstand the harshest environments with their waterproof and fog-proof construction. The buoyant design ensures they float if accidentally dropped in water, and they are O-ring sealed and nitrogen-filled for ultimate protection against moisture. With a 7X magnification and a 132m field of view at 1000m, you can easily spot distant objects. The multi-coated lenses provide enhanced light transmission for brighter images. Additional features include a built-in compass, range finder, and illumination reading for precise navigation. The binoculars come with a carrying case, cleaning cloth, and 2 CX936 batteries, making them perfect for all your outdoor adventures.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "474"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "946",
+      "item_index": "2878",
+      "rothco_item_no": "20272",
+      "upc": "613902202726",
+      "inventory": "36",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.2000",
+      "image_filename": "20272-hr2-amazon.jpg",
+      "catalog_page_no": "267",
+      "msrp": 488.99,
+      "ship_length": "9.0000",
+      "ship_width": "9.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 195.5,
+      "case_price": 195.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "947",
+      "item_index": "2878",
+      "rothco_item_no": "20273",
+      "upc": "613902202733",
+      "inventory": "38",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.2000",
+      "image_filename": "20273-hr3-amazon.jpg",
+      "catalog_page_no": "267",
+      "msrp": 488.99,
+      "ship_length": "9.0000",
+      "ship_width": "9.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 195.5,
+      "case_price": 195.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

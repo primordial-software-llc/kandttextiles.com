@@ -1,0 +1,73 @@
+{
+  "item_index": "4301",
+  "item_name": "Rothco Lightweight Flannel Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Lightweight Flannel Shirt is a perfect option for hiking, camping or hunting without the bulk of a traditional flannel.</p>",
+  "no_ratings": null,
+  "sort_order": "33",
+  "description": "<p>Rothco's Lightweight Flannel Shirt is a perfect option for hiking, camping or hunting without the bulk and heavyweight of a traditional flannel. The flannel shirt is made of 100% brushed 4oz cotton fabric for lightweight comfort. Ideal for the fall or springtime, Rothco's flannel shirt is unlined for a breathable fit and features two breast pockets with single button closures, a button up front and button wrist cuffs.&nbsp;</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "591"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17343",
+      "item_index": "4301",
+      "rothco_item_no": "1190",
+      "upc": "613902119017",
+      "inventory": "45",
+      "created_date": "2017-05-26 18:10:01",
+      "weight": "1.2500",
+      "image_filename": "1190-A-amazon.jpg",
+      "catalog_page_no": "0",
+      "msrp": 39.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Red"
+      },
+      "size": "S",
+      "color": "Red",
+      "price": 15.9,
+      "case_price": 15.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17344",
+      "item_index": "4301",
+      "rothco_item_no": "1190",
+      "upc": "613902119024",
+      "inventory": "20",
+      "created_date": "2017-05-26 18:10:01",
+      "weight": "1.2500",
+      "image_filename": "1190-A-amazon.jpg",
+      "catalog_page_no": "0",
+      "msrp": 39.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Red"
+      },
+      "size": "M",
+      "color": "Red",
+      "price": 15.9,
+      "case_price": 15.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "item_index": "1071",
+  "item_name": "Rothco Lightweight Survival Blanket",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Lightweight Survival Blanket is an essential item for any survival kit, bug out bag, or car emergency pack. Made from metalized polyester, this blanket reflects 90% of body heat, making it indispensable in emergency situations where retaining body heat is crucial. The blanket is lightweight, weighing only 1.9 ounces, and compact, measuring 52 inches x 84 inches, making it easy to carry in your daypack, backpack, or car.</p>",
+  "no_ratings": "0",
+  "sort_order": "866",
+  "description": "<p>Rothco's Lightweight Survival Blanket is an essential item for any survival kit, bug out bag, or car emergency pack. Made from metalized polyester, this blanket reflects 90% of body heat, making it indispensable in emergency situations where retaining body heat is crucial. The blanket is lightweight, weighing only 1.9 ounces, and compact, measuring 52 inches x 84 inches, making it easy to carry in your daypack, backpack, or car. Its durable O.D. coating ensures it can withstand various conditions, providing reliable performance when you need it most. Whether you're hiking, camping, or facing an unexpected emergency, Rothco's Lightweight Survival Blanket is designed to keep you warm and safe.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "256",
+    "542"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10546",
+      "item_index": "1071",
+      "rothco_item_no": "9070",
+      "upc": "613902990708",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "9070-A-amazon.jpg",
+      "catalog_page_no": "306",
+      "msrp": 6.99,
+      "ship_length": "7.0000",
+      "ship_width": "3.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 2.75,
+      "case_price": 2.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

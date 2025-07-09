@@ -1,0 +1,73 @@
+{
+  "item_index": "576",
+  "item_name": "Rothco One-Hole Face Mask",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's One-Hole Face Mask is your go-to choice for extreme cold weather coverage. Crafted from double-layer acrylic knit fabric, the face covering provides unparalleled warmth and protection against freezing temperatures and wind. The single hole opening allows for full or partial face coverage, catering to your comfort needs. Ideal for avid outdoorsmen, hunters, skiers, and snowboarders, this face mask is made in the USA and designed to fit most head sizes.</p>",
+  "no_ratings": "0",
+  "sort_order": "3451",
+  "description": "<p>Rothco's One-Hole Face Mask is your go-to choice for extreme cold weather coverage. Crafted from double-layer acrylic knit fabric, the face covering provides unparalleled warmth and protection against freezing temperatures and wind. The single hole opening allows for full or partial face coverage, catering to your comfort needs. Ideal for avid outdoorsmen, hunters, skiers, and snowboarders, this face mask is made in the USA and designed to fit most head sizes. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "372"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5053",
+      "item_index": "576",
+      "rothco_item_no": "5501",
+      "upc": "613902550100",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "5501-HR1.jpg",
+      "catalog_page_no": "159",
+      "msrp": 8.99,
+      "ship_length": "9.0000",
+      "ship_width": "6.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 4.15,
+      "case_price": 4.15,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5056",
+      "item_index": "576",
+      "rothco_item_no": "5505",
+      "upc": "613902550506",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "5505_Black-HR.jpg",
+      "catalog_page_no": "159",
+      "msrp": 8.99,
+      "ship_length": "9.0000",
+      "ship_width": "6.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 4.15,
+      "case_price": 4.15,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

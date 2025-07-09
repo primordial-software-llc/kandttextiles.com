@@ -1,0 +1,127 @@
+{
+  "item_index": "4222",
+  "item_name": "Rothco Universal Triple Mag Rifle Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Universal Triple Rifle Magazine Pouch is a versatile solution for securing six M-16 or AK-47 magazines, ensuring readiness at the range or in the field. Constructed with MOLLE compatibility, elastic bands reinforced by hook and loop closures provide dependable retention for your magazines. Designed to fit up to six M-16 or AK-47 magazines, this pouch offers enhanced versatility for various firearms.</p>",
+  "no_ratings": null,
+  "sort_order": "54",
+  "description": "<p>Rothco&rsquo;s Universal Triple Rifle Magazine Pouch is a versatile solution for securing six M-16 or AK-47 magazines, ensuring readiness at the range or in the field. Constructed with MOLLE compatibility, elastic bands reinforced by hook and loop closures provide dependable retention for your magazines. Designed to fit up to six M-16 or AK-47 magazines, this pouch offers enhanced versatility for various firearms. The MOLLE-compatible design features six straps to securely mount the pouch on plate carrier vests, assault packs, or any gear with a MOLLE panel. Crafted from durable and reliable materials, this pouch is built to withstand rigorous use over time. Additionally, grommet drain holes at the bottom of each pouch prevent water accumulation, ensuring your magazines stay dry and protected. Measuring 7 7/8 inches by 11 7/8 inches, this pouch provides ample storage space while remaining compact and lightweight. Ideal for military personnel, tactical enthusiasts, and law enforcement officials, Rothco&rsquo;s Universal Triple Rifle Magazine Pouch offers convenience, durability, and versatility for all your ammunition storage needs.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "251",
+    "254",
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16761",
+      "item_index": "4222",
+      "rothco_item_no": "5093",
+      "upc": "613902050938",
+      "inventory": "99",
+      "created_date": "2016-11-29 16:10:01",
+      "weight": "0.8000",
+      "image_filename": "5093-Black-A-amazon.jpg",
+      "catalog_page_no": "243",
+      "msrp": 32.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 14.5,
+      "case_price": 14.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16762",
+      "item_index": "4222",
+      "rothco_item_no": "5093",
+      "upc": "613902509306",
+      "inventory": "99",
+      "created_date": "2016-11-29 16:10:01",
+      "weight": "0.8000",
+      "image_filename": "5093-Coyote-A-amazon.jpg",
+      "catalog_page_no": "243",
+      "msrp": 32.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 14.5,
+      "case_price": 14.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18627",
+      "item_index": "4222",
+      "rothco_item_no": "5093",
+      "upc": "613902550933",
+      "inventory": "0",
+      "created_date": "2018-08-24 16:10:01",
+      "weight": "0.8000",
+      "image_filename": "5093-OD-A-amazon.jpg",
+      "catalog_page_no": "243",
+      "msrp": 32.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": null,
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 14.5,
+      "case_price": 14.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19207",
+      "item_index": "4222",
+      "rothco_item_no": "5393",
+      "upc": "613902053939",
+      "inventory": "0",
+      "created_date": "2019-08-19 10:10:00",
+      "weight": "0.8000",
+      "image_filename": "5393-A-amazon.jpg",
+      "catalog_page_no": "243",
+      "msrp": 54.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "07/17/2025",
+      "specs": {
+        "color": "MultiCam",
+        "size": "One Size"
+      },
+      "color": "MultiCam",
+      "size": "One Size",
+      "price": 24.5,
+      "case_price": 24.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

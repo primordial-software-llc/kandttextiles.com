@@ -1,0 +1,40 @@
+{
+  "item_index": "791",
+  "item_name": "Rothco Deluxe Swat Belt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's lightweight and durable SWAT Belt features several removal pouches allowing you to customize the duty belt as you see fit.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "1021",
+  "description": "<p>Rothco's lightweight and durable SWAT Belt features several removal pouches allowing you to customize the duty belt as you see fit.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "238"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2987",
+      "item_index": "791",
+      "rothco_item_no": "4240",
+      "upc": "613902424005",
+      "inventory": "99",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "0.4000",
+      "image_filename": "4240-A.jpg",
+      "catalog_page_no": "310",
+      "msrp": 18.99,
+      "ship_length": "10.0000",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

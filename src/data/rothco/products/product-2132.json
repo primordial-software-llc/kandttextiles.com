@@ -1,0 +1,167 @@
+{
+  "item_index": "2132",
+  "item_name": "Rothco Woodland Camo T-Shirt With Pocket",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Woodland Camo T-Shirt is designed for those who value comfort and style in their everyday wear. Made from a long-lasting cotton / polyester fabric blend, this lightweight t-shirt offers a super soft feel while maintaining durability. The classic woodland camouflage pattern is complemented by a convenient pocket on the left chest, perfect for carrying small essentials. Whether you're out in the field, enjoying outdoor activities, or simply running errands, this camo tee provides a comfortable fit and a rugged look.</p>",
+  "no_ratings": "0",
+  "sort_order": "3704",
+  "description": "<p>Rothco's Woodland Camo T-Shirt is designed for those who value comfort and style in their everyday wear. Made from a long-lasting cotton / polyester fabric blend, this lightweight t-shirt offers a super soft feel while maintaining durability. The classic woodland camouflage pattern is complemented by a convenient pocket on the left chest, perfect for carrying small essentials. Whether you're out in the field, enjoying outdoor activities, or simply running errands, this camo tee provides a comfortable fit and a rugged look. The high-quality material ensures that the shirt withstands frequent wear and washing, making it a reliable addition to your wardrobe. With its timeless design and practical features, the Rothco Woodland Camo T-Shirt is a must-have for anyone who appreciates both functionality and fashion.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "40",
+    "80",
+    "137"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "7253",
+      "item_index": "2132",
+      "rothco_item_no": "6667",
+      "upc": "613902666719",
+      "inventory": "95",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "6667-RIGHT-C.jpg",
+      "catalog_page_no": "105",
+      "msrp": 17.99,
+      "ship_length": "14.0000",
+      "ship_width": "18.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7254",
+      "item_index": "2132",
+      "rothco_item_no": "6667",
+      "upc": "613902666726",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "6667-RIGHT-C.jpg",
+      "catalog_page_no": "105",
+      "msrp": 17.99,
+      "ship_length": "14.5000",
+      "ship_width": "18.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7255",
+      "item_index": "2132",
+      "rothco_item_no": "6667",
+      "upc": "613902666733",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "6667-RIGHT-C.jpg",
+      "catalog_page_no": "105",
+      "msrp": 17.99,
+      "ship_length": "15.0000",
+      "ship_width": "21.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7256",
+      "item_index": "2132",
+      "rothco_item_no": "6667",
+      "upc": "613902666740",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "6667-RIGHT-C.jpg",
+      "catalog_page_no": "105",
+      "msrp": 17.99,
+      "ship_length": "15.0000",
+      "ship_width": "21.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7295",
+      "item_index": "2132",
+      "rothco_item_no": "6680",
+      "upc": "613902668003",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5500",
+      "image_filename": "6667-RIGHT-C.jpg",
+      "catalog_page_no": "105",
+      "msrp": 18.99,
+      "ship_length": "16.2500",
+      "ship_width": "18.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 7,
+      "case_price": 7,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7308",
+      "item_index": "2132",
+      "rothco_item_no": "6681",
+      "upc": "613902668102",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5500",
+      "image_filename": "6667-RIGHT-C.jpg",
+      "catalog_page_no": "105",
+      "msrp": 19.99,
+      "ship_length": "16.5000",
+      "ship_width": "17.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3XL"
+      },
+      "size": "3XL",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

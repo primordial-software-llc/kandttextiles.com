@@ -1,0 +1,45 @@
+{
+  "item_index": "3534",
+  "item_name": "Rothco Come and Take It Morale Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco Come and Take It Patch is embroidered with the text \"Come and Take It\".&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "2315",
+  "description": "<p>Rothco Come and Take It Patch is embroidered with the text \"Come and Take It\". The morale patch features a hook backing which makes it ideal for attaching to our Special Ops Jackets, Transport Packs, Tactical Vest and more.</p>",
+  "selection_groups": [
+    "packaging"
+  ],
+  "statuses": "",
+  "categories": [
+    "424"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12866",
+      "item_index": "3534",
+      "rothco_item_no": "72196",
+      "upc": "613902721968",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0094",
+      "image_filename": "72196-A-amazon.jpg",
+      "catalog_page_no": "214",
+      "msrp": 3.99,
+      "ship_length": "3.0000",
+      "ship_width": "2.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "packaging": "Bulk Packaging"
+      },
+      "packaging": "Bulk Packaging",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

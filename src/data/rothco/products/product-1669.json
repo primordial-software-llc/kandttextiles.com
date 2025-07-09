@@ -1,0 +1,42 @@
+{
+  "item_index": "1669",
+  "item_name": "Smith & Wesson Ultimate Survival Knife – 7 Inches",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>A modern twist on a classic design, this knife is ready for your most challenging tasks. With an ergonomic rubberized handle and a sturdy steel blade, this knife is ready for whatever comes your way.</p>",
+  "no_ratings": "0",
+  "sort_order": "3",
+  "description": "<p>A modern twist on a classic design, this knife is ready for your most challenging tasks. With an ergonomic rubberized handle and a sturdy steel blade, this knife is ready for whatever comes your way.</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "513"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1783",
+      "item_index": "1669",
+      "rothco_item_no": "3079",
+      "upc": "661120080749",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2200",
+      "image_filename": "3079-B-amazon.jpg",
+      "catalog_page_no": "269",
+      "msrp": 69.99,
+      "ship_length": "1.0000",
+      "ship_width": "1.3750",
+      "ship_height": "4.3750",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 27.95,
+      "case_price": 27.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

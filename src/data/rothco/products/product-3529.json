@@ -1,0 +1,46 @@
+{
+  "item_index": "3529",
+  "item_name": "Rothco Embroidered Airforce Military Watch Cap ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Embroidered Watch Caps feature officially licensed by the US Air Force and feature their iconic Wing emblem. The beanie style watch caps are made from 100% Acrylic fabric.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "889",
+  "description": "<p>Rothco's Embroidered Watch Caps feature officially licensed by the US Air Force and feature their iconic Wing emblem. The beanie style watch caps are made from 100% Acrylic fabric.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "367",
+    "374",
+    "547",
+    "550"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12811",
+      "item_index": "3529",
+      "rothco_item_no": "5008",
+      "upc": "613902050082",
+      "inventory": "99",
+      "created_date": "2013-08-23 10:35:00",
+      "weight": "0.1813",
+      "image_filename": "5008-A.jpg",
+      "catalog_page_no": "157",
+      "msrp": 13.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "emblem": "Air Force"
+      },
+      "emblem": "Air Force",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

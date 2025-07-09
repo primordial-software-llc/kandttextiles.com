@@ -1,0 +1,48 @@
+{
+  "item_index": "4204",
+  "item_name": "Rothco Technician Pistol Range Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Technician Pistol Range Bag is designed to provide practical storage and ease of transport for your firearm and essential gear. Measuring 14.5 inch x 7 inch x 7.75 inch, this versatile range bag features a top carry handle and adjustable shoulder strap, making it convenient to carry whether you're heading to the range or using it for everyday needs. The CCW bag comes with soft removable dividers, allowing you to customize the internal storage to fit your equipment.</p>",
+  "no_ratings": null,
+  "sort_order": "128",
+  "description": "<p>Rothco&rsquo;s Technician Pistol Range Bag is designed to provide practical storage and ease of transport for your firearm and essential gear. Measuring 14.5 inch x 7 inch x 7.75 inch, this versatile range bag features a top carry handle and adjustable shoulder strap, making it convenient to carry whether you're heading to the range or using it for everyday needs. The CCW bag comes with soft removable dividers, allowing you to customize the internal storage to fit your equipment. With a double zipper handle closure and MOLLE webbing on the side, the carry bag ensures secure storage and quick access to your gear. 2 outer top zipper compartments measuring 14.5 inch x 7 inch offer additional storage space for smaller accessories, while the removable \"gun rugs\" provide added protection for delicate items. Durable and functional, this range bag offers a blend of comfort, organization, and utility for both enthusiasts and professionals.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "223",
+    "248",
+    "496",
+    "223",
+    "248",
+    "496"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16612",
+      "item_index": "4204",
+      "rothco_item_no": "2809",
+      "upc": "613902128095",
+      "inventory": "99",
+      "created_date": "2016-10-19 17:10:01",
+      "weight": "1.6500",
+      "image_filename": "2809-A-amazon.jpg",
+      "catalog_page_no": "323",
+      "msrp": 48.99,
+      "ship_length": "11.0000",
+      "ship_width": "15.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 21.95,
+      "case_price": 21.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

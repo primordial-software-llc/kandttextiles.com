@@ -1,0 +1,40 @@
+{
+  "item_index": "1823",
+  "item_name": "Rothco Standard Handcuff Key",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Standard Handcuff Key is a reliable tool for law enforcement and security professionals. Crafted with a sleek silver-plated finish, this handcuff key is designed to fit universally with most standard handcuffs, providing seamless compatibility. Its lightweight yet durable construction ensures it&rsquo;s easy to carry and always accessible when needed. The added pin feature enables the double-locking mechanism for extra security, ensuring cuffs remain locked until intentionally opened.</p>",
+  "no_ratings": "0",
+  "sort_order": "2738",
+  "description": "<p>Rothco&rsquo;s Standard Handcuff Key is a reliable tool for law enforcement and security professionals. Crafted with a sleek silver-plated finish, this handcuff key is designed to fit universally with most standard handcuffs, providing seamless compatibility. Its lightweight yet durable construction ensures it&rsquo;s easy to carry and always accessible when needed. The added pin feature enables the double-locking mechanism for extra security, ensuring cuffs remain locked until intentionally opened. Whether for daily duty use or as part of your essential equipment, this key is an indispensable tool that gets the job done with ease. Compact, convenient, and effective, Rothco&rsquo;s handcuff key is a practical addition to any security kit.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "234"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "50",
+      "item_index": "1823",
+      "rothco_item_no": "10094",
+      "upc": "613902100947",
+      "inventory": "99",
+      "created_date": "2002-04-21 21:00:00",
+      "weight": "0.0070",
+      "image_filename": "10094-A-amazon.jpg",
+      "catalog_page_no": "225",
+      "msrp": 1.99,
+      "ship_length": "1.7500",
+      "ship_width": "0.7500",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 0.6,
+      "case_price": 0.6,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

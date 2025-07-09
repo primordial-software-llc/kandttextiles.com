@@ -1,0 +1,77 @@
+{
+  "item_index": "4922",
+  "item_name": "Rothco Black Camo \"Booty Camp\" Booty Shorts",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco Black Camo \"Booty Camp\" Booty Shorts feature \"Booty Camp\" text on the rear.</p>",
+  "no_ratings": null,
+  "sort_order": "133235",
+  "description": "<p>Rothco Black Camo \"Booty Camp\" Booty Shorts feature \"Booty Camp\" text on the rear.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "95"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20715",
+      "item_index": "4922",
+      "rothco_item_no": "3715",
+      "upc": "613902002890",
+      "inventory": "20",
+      "created_date": "2021-05-24 17:00:16",
+      "weight": "0.0000",
+      "image_filename": "3715-A5.jpg",
+      "catalog_page_no": "128",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XS",
+        "piece_": "Bottom",
+        "color": "Black Camo"
+      },
+      "size": "XS",
+      "piece_": "Bottom",
+      "color": "Black Camo",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20720",
+      "item_index": "4922",
+      "rothco_item_no": "3715",
+      "upc": "613902002999",
+      "inventory": "55",
+      "created_date": "2021-05-24 17:00:16",
+      "weight": "0.0000",
+      "image_filename": "3715-A5.jpg",
+      "catalog_page_no": "128",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL",
+        "piece_": "Bottom",
+        "color": "Black Camo"
+      },
+      "size": "2XL",
+      "piece_": "Bottom",
+      "color": "Black Camo",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

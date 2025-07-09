@@ -9,7 +9,9 @@
     "lint": "next lint",
     "generate-favicons": "node scripts/generate-favicon.js",
     "generate-sitemap": "node scripts/generate-sitemap.js",
-    "rothco-lookup": "node scripts/rothco-lookup.js"
+    "rothco-populate": "node scripts/populate-rothco-items.js",
+    "rothco-lookup": "node scripts/rothco-lookup.js",
+    "rothco-full-sync": "node scripts/rothco-full-sync.js"
   },
   "dependencies": {
     "@neondatabase/serverless": "^1.0.0",

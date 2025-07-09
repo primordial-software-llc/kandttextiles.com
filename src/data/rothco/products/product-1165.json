@@ -1,0 +1,42 @@
+{
+  "item_index": "1165",
+  "item_name": "Potable Aqua Water Purification Tablets",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Potable Aqua Water Purification Tablets are a must-have for any emergency situation. These tables contaminated water safe to drink within 35 minutes, and are trusted by military personnel and emergency organizations worldwide. They are made in the USA, ensuring high-quality craftsmanship. They are good for 4 year, and are ideal for campers, survivalists, and preppers, easily fitting inside a backpack or bug out bag.</p>",
+  "no_ratings": "0",
+  "sort_order": "1465",
+  "description": "<p>The Potable Aqua Water Purification Tablets are a must-have for any emergency situation. These tables contaminated water safe to drink within 35 minutes, and are trusted by military personnel and emergency organizations worldwide. They are made in the USA, ensuring high-quality craftsmanship. They are good for 4 year, and are ideal for campers, survivalists, and preppers, easily fitting inside a backpack or bug out bag.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "286",
+    "277",
+    "258"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8704",
+      "item_index": "1165",
+      "rothco_item_no": "7740",
+      "upc": "368093003019",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "7740-A1.jpg",
+      "catalog_page_no": "289",
+      "msrp": 19.99,
+      "ship_length": "5.5000",
+      "ship_width": "3.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 7.95,
+      "case_price": 7.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "item_index": "1050",
+  "item_name": "Rothco US Navy Military Insignia Fleece Blanket",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay warm, while showing off your military pride with Rothco's cozy US Navy Fleece Blanket.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "1407",
+  "description": "<p>Stay warm, while showing off your military pride with Rothco's cozy US Navy Fleece Blanket.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "272",
+    "547",
+    "549"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1215",
+      "item_index": "1050",
+      "rothco_item_no": "2301",
+      "upc": "613902230125",
+      "inventory": "99",
+      "created_date": "2004-09-16 21:00:00",
+      "weight": "1.1500",
+      "image_filename": "2301navy-hr11.jpg",
+      "catalog_page_no": "306",
+      "msrp": 28.99,
+      "ship_length": "15.0000",
+      "ship_width": "14.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "emblem": "Navy"
+      },
+      "emblem": "Navy",
+      "price": 12.9,
+      "case_price": 12.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

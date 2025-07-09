@@ -1,0 +1,43 @@
+{
+  "item_index": "1320",
+  "item_name": "Rothco Vintage Canvas Wayfarer Backpack With Leather Accents",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Rothco Vintage Canvas Wayfarer Backpack with Leather Accents is the perfect blend of rugged durability and classic style. Made from heavy-weight cotton canvas, this backpack features a sturdy leather bottom and elegant leather flap accents.&nbsp; Ideal for everyday use, travel, or outdoor adventures, this backpack seamlessly combines functionality and timeless design.</p>",
+  "no_ratings": "0",
+  "sort_order": "361",
+  "description": "<p>The Rothco Vintage Canvas Wayfarer Backpack with Leather Accents is the perfect blend of rugged durability and classic style. Made from heavy-weight cotton canvas, this backpack features a sturdy leather bottom and elegant leather flap accents. The spacious main compartment with a top flap and drawstring closure, along with three additional pockets with antique brass closures, offers ample and secure storage for all your essentials. Ideal for everyday use, travel, or outdoor adventures, this backpack seamlessly combines functionality and timeless design.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "204"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "11204",
+      "item_index": "1320",
+      "rothco_item_no": "9693",
+      "upc": "613902969308",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.0000",
+      "image_filename": "9693.jpg",
+      "catalog_page_no": "343",
+      "msrp": 50.99,
+      "ship_length": "20.0000",
+      "ship_width": "18.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Brown"
+      },
+      "color": "Brown",
+      "price": 22.5,
+      "case_price": 22.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

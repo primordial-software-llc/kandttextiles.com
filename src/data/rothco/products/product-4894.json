@@ -1,0 +1,69 @@
+{
+  "item_index": "4894",
+  "item_name": "Rothco US Stick Flag",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Highlight your patriotism for America by proudly displaying the U.S. Flag. Flags are sold as singles and as a six-pack.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133207",
+  "description": "<p>Highlight your patriotism for America by proudly displaying the U.S. Flag. This American Flag, made from durable Polyester material, is perfect for displaying in parades and decorating. Flag measures 12&rdquo; x 18&rdquo; and is 30&rdquo; in length.&nbsp;</p>",
+  "selection_groups": [
+    "options"
+  ],
+  "statuses": "",
+  "categories": [
+    "428"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "21017",
+      "item_index": "4894",
+      "rothco_item_no": "15223",
+      "upc": "613902007178",
+      "inventory": "99",
+      "created_date": "2021-11-15 15:00:18",
+      "weight": "0.0400",
+      "image_filename": "15223-A3.jpg",
+      "catalog_page_no": "217",
+      "msrp": 4.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "options": "One Piece"
+      },
+      "options": "One Piece",
+      "price": 1.75,
+      "case_price": 1.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21018",
+      "item_index": "4894",
+      "rothco_item_no": "15224",
+      "upc": "613902007246",
+      "inventory": "99",
+      "created_date": "2021-11-15 15:00:18",
+      "weight": "0.2400",
+      "image_filename": "15224-A3.jpg",
+      "catalog_page_no": "217",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "options": "Six Pieces"
+      },
+      "options": "Six Pieces",
+      "price": 8.9,
+      "case_price": 8.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

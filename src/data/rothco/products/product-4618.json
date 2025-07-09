@@ -1,0 +1,48 @@
+{
+  "item_index": "4618",
+  "item_name": "Rothco R.E.D. (Remember Everyone Deployed) Flag Patch With Hook Back",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s R.E.D. (Remember Everyone Deployed) Flag Patch symbolizes support and remembrance for deployed service personnel.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "132931",
+  "description": "<p>Rothco&rsquo;s R.E.D. (Remember Everyone Deployed) Flag Patch symbolizes support and remembrance for deployed service personnel. Measuring 3 &frac12;&rdquo; X 2&rdquo;, the military patch features a hooked back so you can attach it to a variety of gear, including tactical caps and military backpacks. Constructed with durable high-quality material, the RED patch features a black background, red stripes, and white &ldquo;Remember Everyone Deployed&rdquo; lettering and stars.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "420",
+    "423",
+    "424",
+    "641"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19263",
+      "item_index": "4618",
+      "rothco_item_no": "1877",
+      "upc": "613902018778",
+      "inventory": "99",
+      "created_date": "2019-11-06 17:00:18",
+      "weight": "0.0094",
+      "image_filename": "1877-A-amazon.jpg",
+      "catalog_page_no": "214",
+      "msrp": 3.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black / Red",
+        "size": "One Size"
+      },
+      "color": "Black / Red",
+      "size": "One Size",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

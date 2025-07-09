@@ -1,0 +1,70 @@
+{
+  "item_index": "3289",
+  "item_name": "Rothco Triple Retention Tactical Duty Belt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Triple Retention Tactical Duty Belt combines strength and functionality, making it a reliable choice for on-the-job use. The 2-inch-wide belt is made with durable poly webbing and a plastic-bonded sandwich design for added rigidity, ensuring it holds its shape under heavy loads. The triple retention buckle and hook &amp; loop closure provide a secure fit, while the inner hook &amp; loop feature allows seamless compatibility with inner duty belts for enhanced stability.</p>",
+  "no_ratings": null,
+  "sort_order": "615",
+  "description": "<p>Rothco&rsquo;s Triple Retention Tactical Duty Belt combines strength and functionality, making it a reliable choice for on-the-job use. The 2-inch-wide belt is made with durable poly webbing and a plastic-bonded sandwich design for added rigidity, ensuring it holds its shape under heavy loads. The triple retention buckle and hook &amp; loop closure provide a secure fit, while the inner hook &amp; loop feature allows seamless compatibility with inner duty belts for enhanced stability. Whether carrying gear or performing active tasks, this belt delivers dependable support and versatility for professionals.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "238",
+    "383"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12193",
+      "item_index": "3289",
+      "rothco_item_no": "10775",
+      "upc": "613902907751",
+      "inventory": "93",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7000",
+      "image_filename": "10775-HR2.jpg",
+      "catalog_page_no": "228",
+      "msrp": 24.99,
+      "ship_length": "11.0000",
+      "ship_width": "3.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M / L"
+      },
+      "size": "M / L",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18629",
+      "item_index": "3289",
+      "rothco_item_no": "10775",
+      "upc": "613902997752",
+      "inventory": "87",
+      "created_date": "2018-08-27 16:10:01",
+      "weight": "0.7000",
+      "image_filename": "10775-HR2.jpg",
+      "catalog_page_no": "228",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL / 2XL"
+      },
+      "size": "XL / 2XL",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

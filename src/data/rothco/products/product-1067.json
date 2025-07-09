@@ -1,0 +1,40 @@
+{
+  "item_index": "1067",
+  "item_name": "Rothco G.I. Type Oversized Folding Cot",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Oversized Folding Cot features heavy-duty aluminum legs and center support bars to accommodate 300 lbs of weight capacity. The emergency cot provides a comfortable night's sleep no matter where you are.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "419",
+  "description": "<p>The Oversized Folding Cot features heavy-duty aluminum legs and center support bars to accommodate 300 lbs of weight capacity. The emergency cot provides a comfortable night's sleep no matter where you are.&nbsp; When opened this foldable cot measures 80\" X 32\" X 18.5\" and when folded is 8\" X 4.5\" X 39\".&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "266"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3549",
+      "item_index": "1067",
+      "rothco_item_no": "4599",
+      "upc": "613902459908",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "15.1500",
+      "image_filename": "4599-A-amazon.jpg",
+      "catalog_page_no": "300",
+      "msrp": 173.99,
+      "ship_length": "40.0000",
+      "ship_width": "9.0000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 78.95,
+      "case_price": 78.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "item_index": "2064",
+  "item_name": "Rothco Yellow Rain Jacket",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay dry and protected from the elements with Rothco&rsquo;s Yellow Rain Jacket, designed for durability and practicality in any wet weather conditions. Made from a heavy-duty .32 mM PVC and polyester blend, this rain jacket is built to withstand rain, wind, and unpredictable outdoor environments. The drawstring adjustable hood provides added protection and a secure fit, while the snap closure ensures easy on-and-off functionality. 2 large front pockets allow for convenient storage of your essential items.</p>",
+  "no_ratings": "0",
+  "sort_order": "1442",
+  "description": "<p>Stay dry and protected from the elements with Rothco&rsquo;s Yellow Rain Jacket, designed for durability and practicality in any wet weather conditions. Made from a heavy-duty .32 mM PVC and polyester blend, this rain jacket is built to withstand rain, wind, and unpredictable outdoor environments. The drawstring adjustable hood provides added protection and a secure fit, while the snap closure ensures easy on-and-off functionality. 2 large front pockets allow for convenient storage of your essential items, keeping them dry and within easy reach. Whether you're hiking, working outside, or simply braving a downpour, this waterproof rain jacket is the perfect solution. Compact and versatile, it&rsquo;s also a great addition to any emergency preparedness kit.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "192"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2371",
+      "item_index": "2064",
+      "rothco_item_no": "3614",
+      "upc": "613902361416",
+      "inventory": "36",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.0000",
+      "image_filename": "3614-A-AMAZON.jpg",
+      "catalog_page_no": "95",
+      "msrp": 28.99,
+      "ship_length": "13.5000",
+      "ship_width": "10.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2372",
+      "item_index": "2064",
+      "rothco_item_no": "3614",
+      "upc": "613902361423",
+      "inventory": "90",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.0000",
+      "image_filename": "3614-A-AMAZON.jpg",
+      "catalog_page_no": "95",
+      "msrp": 28.99,
+      "ship_length": "13.5000",
+      "ship_width": "10.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2373",
+      "item_index": "2064",
+      "rothco_item_no": "3614",
+      "upc": "613902361430",
+      "inventory": "96",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.0000",
+      "image_filename": "3614-A-AMAZON.jpg",
+      "catalog_page_no": "95",
+      "msrp": 28.99,
+      "ship_length": "13.5000",
+      "ship_width": "10.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2374",
+      "item_index": "2064",
+      "rothco_item_no": "3614",
+      "upc": "613902361447",
+      "inventory": "72",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.0000",
+      "image_filename": "3614-A-AMAZON.jpg",
+      "catalog_page_no": "95",
+      "msrp": 28.99,
+      "ship_length": "13.5000",
+      "ship_width": "10.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2376",
+      "item_index": "2064",
+      "rothco_item_no": "3615",
+      "upc": "613902361508",
+      "inventory": "50",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.2500",
+      "image_filename": "3614-A-AMAZON.jpg",
+      "catalog_page_no": "95",
+      "msrp": 30.99,
+      "ship_length": "14.2500",
+      "ship_width": "11.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 13.5,
+      "case_price": 13.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

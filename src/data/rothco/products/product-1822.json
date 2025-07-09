@@ -1,0 +1,71 @@
+{
+  "item_index": "1822",
+  "item_name": "Rothco Professional Detective Handcuffs",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's handcuffs are crafted from sturdy nickel-plated steel with a double lock feature for enhanced security. Perfect for public safety and security professionals, these robust handcuffs come with 2 standard police cuff keys.</p>",
+  "no_ratings": "0",
+  "sort_order": "3039",
+  "description": "<p>Rothco's handcuffs are crafted from sturdy nickel-plated steel with a double lock feature for enhanced security. Perfect for public safety and security professionals, these robust handcuffs come with 2 standard police cuff keys.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "234"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "48",
+      "item_index": "1822",
+      "rothco_item_no": "10091",
+      "upc": "613902100916",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6000",
+      "image_filename": "10091-HR.jpg",
+      "catalog_page_no": "224",
+      "msrp": 20.99,
+      "ship_length": "4.5000",
+      "ship_width": "3.2500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Silver"
+      },
+      "color": "Silver",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "49",
+      "item_index": "1822",
+      "rothco_item_no": "10092",
+      "upc": "613902100923",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6000",
+      "image_filename": "10092-handcuff.jpg",
+      "catalog_page_no": "224",
+      "msrp": 20.99,
+      "ship_length": "4.5000",
+      "ship_width": "3.2500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

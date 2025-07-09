@@ -1,0 +1,41 @@
+{
+  "item_index": "1931",
+  "item_name": "Rothco Collapsible Tactical Goggles",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": "0",
+  "sort_order": "806",
+  "description": "<p>Rothco's Collapsible Tactical Goggles eliminates the bulk of your typical goggles by having the ability to fold up when not in use. The tactical goggles feature a lightweight padded frame for comfort and extended&nbsp;wear and feature a durable lens that is not only shatterproof but features anti-fog and anti-scratch&nbsp;properties. CE Approved, UV 400 Protection.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "335",
+    "395"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "192",
+      "item_index": "1931",
+      "rothco_item_no": "10367",
+      "upc": "613902103672",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1700",
+      "image_filename": "10367-A-amazon.jpg",
+      "catalog_page_no": "198",
+      "msrp": 15.99,
+      "ship_length": "6.7500",
+      "ship_width": "2.7500",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 5.9,
+      "case_price": 5.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

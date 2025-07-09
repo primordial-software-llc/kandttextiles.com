@@ -1,0 +1,47 @@
+{
+  "item_index": "4612",
+  "item_name": "Rothco Easy Access Glove Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Easy Access Glove Pouch gives you quick and efficient access to your disposable latex gloves. This MOLLE medical pouch is ideal for all emergency personnel and first responders.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "132925",
+  "description": "<p>Rothco's Easy Access Glove Pouch gives you quick and efficient access to your disposable latex gloves. This MOLLE medical pouch is ideal for all emergency personnel and first responders.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "306",
+    "318",
+    "319"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19242",
+      "item_index": "4612",
+      "rothco_item_no": "2014",
+      "upc": "613902020146",
+      "inventory": "99",
+      "created_date": "2019-11-05 19:00:19",
+      "weight": "0.2000",
+      "image_filename": "2014-Black-A-amazon.jpg",
+      "catalog_page_no": "248",
+      "msrp": 16.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

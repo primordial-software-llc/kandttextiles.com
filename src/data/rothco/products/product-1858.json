@@ -1,0 +1,42 @@
+{
+  "item_index": "1858",
+  "item_name": "Sabre Pepper Gas w/ Hard Case ''Special Formula'' HC-14-US",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Sabre Pepper Gas with Hard Case features a special formula designed for maximum stopping power.&nbsp;Legal for sale in 50 States. NY, MA and HI require FFL for purchase.</p>",
+  "no_ratings": "0",
+  "sort_order": "614",
+  "description": "<p>Sabre Pepper Gas with Hard Case features a special formula designed for maximum stopping power. With a ballistic stream&nbsp;and range of 8 - 10 feet, this pepper spray decreases wind blow-back for optimal effectiveness. Features a hard case with quick release key ring for easy access and hands-free carry. Sabre Pepper Gas holds approximately 25 shots, has a shelf life of 4 years and is ISO 9001 Certified.&nbsp;&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "244"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "441",
+      "item_index": "1858",
+      "rothco_item_no": "11009",
+      "upc": "023063105413",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "11009-B.jpg",
+      "catalog_page_no": "222",
+      "msrp": "18.99",
+      "ship_length": "9.5000",
+      "ship_width": "5.0000",
+      "ship_height": "1.5000",
+      "eta_date": null,
+      "specs": [],
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": null,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "item_index": "583",
+  "item_name": "Rothco Black Polyester Balaclava With Dickie",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": "0",
+  "sort_order": "1119",
+  "description": "<p>Adjustable Eye Opening Our Balaclava (5510) With A Dickie To Add Extra Warmth To Neck And Shoulders</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "57",
+    "378",
+    "683"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5077",
+      "item_index": "583",
+      "rothco_item_no": "5522",
+      "upc": "613902552203",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3000",
+      "image_filename": "5522.jpg",
+      "catalog_page_no": "161",
+      "msrp": 15.99,
+      "ship_length": "13.0000",
+      "ship_width": "12.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 5.9,
+      "case_price": 5.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

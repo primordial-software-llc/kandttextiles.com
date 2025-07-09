@@ -1,0 +1,94 @@
+{
+  "item_index": "3293",
+  "item_name": "Rothco Don't Tread On Me Flag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's \"Don't Tread On Me\" Flag proudly displays the iconic Gadsden symbol, making a strong statement with its historical significance. The flag features the well-known snake and \"Don't Tread On Me\" image printed on a bright yellow background, ensuring visibility and impact. Made from durable polyester, this flag is designed to withstand outdoor elements while retaining its vibrant colors. Available in 2 sizes, 2 feet x 3 feet, 3 feet x 5 feet, and 5 feet x 8 feet it offers options for various display needs.</p>",
+  "no_ratings": null,
+  "sort_order": "3369",
+  "description": "<p>Rothco's \"Don't Tread On Me\" Flag proudly displays the iconic Gadsden symbol, making a strong statement with its historical significance. The flag features the well-known snake and \"Don't Tread On Me\" image printed on a bright yellow background, ensuring visibility and impact. Made from durable polyester, this flag is designed to withstand outdoor elements while retaining its vibrant colors. Available in 2 sizes, 2 feet x 3 feet, 3 feet x 5 feet, and 5 feet x 8 feet it offers options for various display needs. The grommets on the left side of the flag provide easy hanging on a flagpole, allowing you to showcase this powerful symbol with ease. Perfect for expressing your spirit of independence and resilience, the Rothco \"Don't Tread On Me\" Flag is a must-have for any patriotic display.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "428",
+    "428"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12205",
+      "item_index": "3293",
+      "rothco_item_no": "1546",
+      "upc": "613902154698",
+      "inventory": "99",
+      "created_date": "2013-06-13 15:48:01",
+      "weight": "0.2500",
+      "image_filename": "1546-A-amazon.jpg",
+      "catalog_page_no": "210",
+      "msrp": 8.99,
+      "ship_length": "10.0000",
+      "ship_width": "8.2500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3' x 5'"
+      },
+      "size": "3' x 5'",
+      "price": 3.75,
+      "case_price": 3.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14806",
+      "item_index": "3293",
+      "rothco_item_no": "1567",
+      "upc": "613902915671",
+      "inventory": "99",
+      "created_date": "2014-09-18 17:10:02",
+      "weight": "0.1000",
+      "image_filename": "1546-A-amazon.jpg",
+      "catalog_page_no": "211",
+      "msrp": 5.99,
+      "ship_length": "10.5000",
+      "ship_width": "8.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2' x 3'"
+      },
+      "size": "2' x 3'",
+      "price": 2.75,
+      "case_price": 2.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20879",
+      "item_index": "3293",
+      "rothco_item_no": "15661",
+      "upc": "613902004641",
+      "inventory": "99",
+      "created_date": "2021-07-20 13:00:12",
+      "weight": "1.2500",
+      "image_filename": "15661-A-amazon1.jpg",
+      "catalog_page_no": "211",
+      "msrp": 35.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "5' x 8'"
+      },
+      "size": "5' x 8'",
+      "price": 15.9,
+      "case_price": 15.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

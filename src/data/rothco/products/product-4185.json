@@ -1,0 +1,75 @@
+{
+  "item_index": "4185",
+  "item_name": "Rothco Tactical Mesh Back Cap With Embroidered US Flag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Tactical Mesh Back Cap with an embroidered US Flag is the perfect blend of style, comfort, and functionality. Featuring a prominently displayed embroidered US Flag on the front panel, this baseball cap showcases your American spirit. The mesh back design includes 4 polyester mesh panels, providing superior breathability to keep you cool, even during the hottest days. 2 reinforced vent holes further enhance airflow, ensuring maximum comfort during extended wear.</p>",
+  "no_ratings": null,
+  "sort_order": "317",
+  "description": "<p>Rothco&rsquo;s Tactical Mesh Back Cap with an embroidered US Flag is the perfect blend of style, comfort, and functionality. Featuring a prominently displayed embroidered US Flag on the front panel, this baseball cap showcases your American spirit. The mesh back design includes 4 polyester mesh panels, providing superior breathability to keep you cool, even during the hottest days. 2 reinforced vent holes further enhance airflow, ensuring maximum comfort during extended wear. The tactical hat&rsquo;s hook &amp; loop closure on the back allows for easy adjustment, giving you a secure and personalized fit. Whether you&rsquo;re out on the range, enjoying outdoor activities, or just looking for a classic everyday cap, Rothco&rsquo;s Tactical Mesh Back Cap with the US Flag embroidery is your go-to choice. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from military personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "140",
+    "674",
+    "521"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16560",
+      "item_index": "4185",
+      "rothco_item_no": "9955",
+      "upc": "613902099555",
+      "inventory": "99",
+      "created_date": "2016-09-14 12:10:01",
+      "weight": "0.1900",
+      "image_filename": "9955-B-amazon.jpg",
+      "catalog_page_no": "145",
+      "msrp": 17.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam",
+        "size": "One Size"
+      },
+      "color": "MultiCam",
+      "size": "One Size",
+      "price": 7.1,
+      "case_price": 7.1,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18262",
+      "item_index": "4185",
+      "rothco_item_no": "5224",
+      "upc": "613902152243",
+      "inventory": "99",
+      "created_date": "2018-04-16 11:10:05",
+      "weight": "0.1875",
+      "image_filename": "5224-A-amazon1.jpg",
+      "catalog_page_no": "145",
+      "msrp": 14.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 5.75,
+      "case_price": 5.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

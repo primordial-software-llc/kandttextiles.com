@@ -1,0 +1,48 @@
+{
+  "item_index": "4309",
+  "item_name": "Rothco Come and Take It Morale Patch Black",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>A morale patch featuring the phrase \"Come and Take It\" as well as the outline of a rifle. &nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "57",
+  "description": "<p>A morale patch measuring (1 7/8\" x 3\") that features the phrase \"Come and Take It\" as well as the outline of a rifle. &nbsp;Show people you're not one to be messed with while wearing this morale patch. &nbsp;The nylon hook back allows the morale patch to easily attach to your favorite hat or tactical jacket.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "331",
+    "420",
+    "423",
+    "424"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17196",
+      "item_index": "4309",
+      "rothco_item_no": "1892",
+      "upc": "613902018921",
+      "inventory": "99",
+      "created_date": "2017-05-15 10:10:02",
+      "weight": "0.0094",
+      "image_filename": "1892-A-amazon.jpg",
+      "catalog_page_no": "214",
+      "msrp": 3.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black / Silver",
+        "size": "One Size"
+      },
+      "color": "Black / Silver",
+      "size": "One Size",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

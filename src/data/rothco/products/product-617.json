@@ -1,0 +1,42 @@
+{
+  "item_index": "617",
+  "item_name": "Rothco Deluxe Camo Skull Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Deluxe Skull Cap features 100% acrylic woodland camo fabric to keep you warm all winter long.</p>",
+  "no_ratings": "0",
+  "sort_order": "663",
+  "description": "<p>Rothco's Deluxe Skull Cap features 100% acrylic camo fabric to keep you warm all winter long.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "83",
+    "137",
+    "367"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5423",
+      "item_index": "617",
+      "rothco_item_no": "5709",
+      "upc": "613902570900",
+      "inventory": "0",
+      "created_date": "2005-06-21 21:00:00",
+      "weight": "0.1500",
+      "image_filename": "5709-A-amazon.jpg",
+      "catalog_page_no": "154",
+      "msrp": 8.99,
+      "ship_length": "7.7500",
+      "ship_width": "7.7500",
+      "ship_height": "0.5000",
+      "eta_date": "07/13/2025",
+      "specs": [],
+      "price": 3.25,
+      "case_price": 3.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

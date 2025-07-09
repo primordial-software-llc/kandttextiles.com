@@ -1,0 +1,94 @@
+{
+  "item_index": "438",
+  "item_name": "Rothco Cut Resistant Lined Leather Gloves",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Cut Resistant Lined Leather Gloves offer the perfect combination of protection and comfort. Made with high-quality cowhide aniline leather, these gloves are both soft and durable. The interior is lined with cut-resistant material, providing an extra layer of safety when handling sharp objects, ensuring your hands remain protected. Ideal for professionals in public safety, construction, or anyone needing added security in their day-to-day tasks, these gloves offer long-lasting durability without compromising on comfort.</p>",
+  "no_ratings": "0",
+  "sort_order": "313",
+  "description": "<p>Rothco's Cut Resistant Lined Leather Gloves offer the perfect combination of protection and comfort. Made with high-quality cowhide aniline leather, these gloves are both soft and durable. The interior is lined with cut-resistant material, providing an extra layer of safety when handling sharp objects, ensuring your hands remain protected. Ideal for professionals in public safety, construction, or anyone needing added security in their day-to-day tasks, these gloves offer long-lasting durability without compromising on comfort. The sleek design ensures a snug fit while maintaining dexterity for precision tasks. Whether you're on duty or tackling home improvement projects, Rothco's Cut Resistant Lined Leather Gloves offer the protection you need without sacrificing comfort.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "317",
+    "239"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2202",
+      "item_index": "438",
+      "rothco_item_no": "3467",
+      "upc": "613902346734",
+      "inventory": "99",
+      "created_date": "2008-07-09 21:00:00",
+      "weight": "0.2900",
+      "image_filename": "3467-A1.jpg",
+      "catalog_page_no": "190",
+      "msrp": 49.99,
+      "ship_length": "11.0000",
+      "ship_width": "4.5000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 19.9,
+      "case_price": 19.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2203",
+      "item_index": "438",
+      "rothco_item_no": "3467",
+      "upc": "613902346741",
+      "inventory": "55",
+      "created_date": "2008-07-09 21:00:00",
+      "weight": "0.2900",
+      "image_filename": "3467-A1.jpg",
+      "catalog_page_no": "190",
+      "msrp": 49.99,
+      "ship_length": "12.5000",
+      "ship_width": "4.5000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 19.9,
+      "case_price": 19.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2204",
+      "item_index": "438",
+      "rothco_item_no": "3467",
+      "upc": "613902346703",
+      "inventory": "20",
+      "created_date": "2008-07-09 21:00:00",
+      "weight": "0.2900",
+      "image_filename": "3467-A1.jpg",
+      "catalog_page_no": "190",
+      "msrp": 49.99,
+      "ship_length": "10.0000",
+      "ship_width": "4.5000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 19.9,
+      "case_price": 19.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

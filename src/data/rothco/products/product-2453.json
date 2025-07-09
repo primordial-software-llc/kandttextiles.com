@@ -1,0 +1,94 @@
+{
+  "item_index": "2453",
+  "item_name": "Rothco Flyers Helmet Shoulder Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Flyers Helmet Shoulder Bag (19&rdquo; X 19&rdquo;) is the ultimate travel companion for professionals needing to transport their helmet and essential gear securely. Constructed with long-lasting polyester material, this durable bag features a padded interior to ensure your helmet remains protected during travel. The spacious design of the pilot helmet bag (19&rdquo; X 19&rdquo;) provides ample room to store not only your helmet but also helmet attachments and other crucial items.</p>",
+  "no_ratings": "0",
+  "sort_order": "1422",
+  "description": "<p>Rothco&rsquo;s Flyers Helmet Shoulder Bag (19&rdquo; X 19&rdquo;) is the ultimate travel companion for professionals needing to transport their helmet and essential gear securely. Constructed with long-lasting polyester material, this durable bag features a padded interior to ensure your helmet remains protected during travel. The spacious design of the pilot helmet bag (19&rdquo; X 19&rdquo;) provides ample room to store not only your helmet but also helmet attachments and other crucial items. For additional storage, the bag includes 2 outside hook &amp; loop pockets with snap closures, perfect for quick access to smaller essentials. The adjustable and removable shoulder strap, along with 2 sturdy top carry handles, offers versatile carrying options to suit your preference. The brass zipper closure ensures your contents remain secure and easily accessible. Whether you're a professional pilot or need a reliable bag for your gear, Rothco&rsquo;s Flyers Helmet Shoulder Bag combines durability, convenience, and ample storage space in one essential package.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "222",
+    "325"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1295",
+      "item_index": "2453",
+      "rothco_item_no": "2439",
+      "upc": "613902243903",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.0000",
+      "image_filename": "2439-Black-amazon.jpg",
+      "catalog_page_no": "366",
+      "msrp": 39.99,
+      "ship_length": "17.0000",
+      "ship_width": "19.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 17.95,
+      "case_price": 17.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1299",
+      "item_index": "2453",
+      "rothco_item_no": "2449",
+      "upc": "613902244900",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.0000",
+      "image_filename": "2439-OD-amazon.jpg",
+      "catalog_page_no": "366",
+      "msrp": 39.99,
+      "ship_length": "17.0000",
+      "ship_width": "19.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 17.95,
+      "case_price": 17.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19014",
+      "item_index": "2453",
+      "rothco_item_no": "2430",
+      "upc": "613902024304",
+      "inventory": "99",
+      "created_date": "2019-05-13 17:10:00",
+      "weight": "1.0000",
+      "image_filename": "2430-A-amazon1.jpg",
+      "catalog_page_no": "366",
+      "msrp": 39.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 17.95,
+      "case_price": 17.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

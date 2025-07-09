@@ -1,0 +1,77 @@
+{
+  "item_index": "5090",
+  "item_name": "Rothco Midnight Camo Adjustable Boonie Hat",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=mi96injXyFc",
+  "rating": "5",
+  "item_short_desc": "<p>Dominate the sun and great outdoors with our Midnight Camo Adjustable Boonie Hat. With a wide, structured brim, these rugged sun hats provide 360-degree coverage from the sun while shading your neck and face, keeping you cool when out in the field. These boonie bucket hats are great for fishing, hunting, camping, hiking, and other outdoor activities.</p>",
+  "no_ratings": null,
+  "sort_order": "133379",
+  "description": "<p>Dominate the sun and great outdoors with our Midnight Camo Adjustable Boonie Hat. With a wide, structured brim, these rugged sun hats provide 360-degree coverage from the sun while shading your neck and face, keeping you cool when out in the field. These boonie bucket hats are great for fishing, hunting, camping, hiking, and other outdoor activities. Ultimate Stealth Ops Camo: Inspired by stealth operations that require zero visibility to the opposition, Rothco has reinvented the classic Woodland Camouflage Pattern as well as our bestselling Black Camouflage Pattern to bring you the Midnight Camo Collection. The subdued color combinations offer a true stealth, sharp and sleek appearance whether on mission or off. Rugged &amp; Long-Lasting: These adjustable bucket hats are built with a breathable 55% cotton / 45% polyester blend for unmatched resiliency and easy-to-care for maintenance. These boonie hats easily withstand rigorous outdoor use and sun exposure while providing a comfortable fit and feel. Utility at the Forefront: This fishing hat features 4 screen side vents that keep you cool by circulating hot or humid air away from your head, allowing you to focus on the task at hand. The internal map pocket provides a place to store maps, paperwork, and extra money. One Size Fits Most: Our outdoor bucket hats use an adjustable elastic cord with a cord lock that cinches at the crown for a perfect fit that accommodates most hat sizes (6 3/4 &ndash; 7 3/4). In addition, the adjustable chin strap ensures the boonie stays in place during a windy day or when you&rsquo;re on-the-go.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": [
+    "Active"
+  ],
+  "categories": [
+    "737",
+    "2",
+    "375"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "23239",
+      "item_index": "5090",
+      "rothco_item_no": "12106",
+      "upc": "613902034471",
+      "inventory": "99",
+      "created_date": "2023-08-03 16:59:54",
+      "weight": "0.0000",
+      "image_filename": "12106-A.jpg",
+      "catalog_page_no": "151",
+      "msrp": 20.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Midnight Woodland Camo",
+        "size": "One Size"
+      },
+      "color": "Midnight Woodland Camo",
+      "size": "One Size",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "23261",
+      "item_index": "5090",
+      "rothco_item_no": "12006",
+      "upc": "613902034297",
+      "inventory": "99",
+      "created_date": "2023-08-03 16:59:54",
+      "weight": "0.2500",
+      "image_filename": "12006-B.jpg",
+      "catalog_page_no": "151",
+      "msrp": 20.99,
+      "ship_length": "8.5000",
+      "ship_width": "4.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Midnight Black Camo",
+        "size": "One Size"
+      },
+      "color": "Midnight Black Camo",
+      "size": "One Size",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

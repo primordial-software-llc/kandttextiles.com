@@ -1,0 +1,120 @@
+{
+  "item_index": "1302",
+  "item_name": "Rothco Excursion Organizer Shoulder Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Embark on any adventure with our Excursion Organizer Shoulder Bag. The travel crossbody bag features 2 large main zipper compartments for outdoor accessories and EDC essentials. The canvas shoulder bag has a 2L capacity and measures 6.5 inch x 6 inch x 2.25 inch for a compact design that is ideal for outdoor expeditions, travel, work, everyday use, and more. Rothco&rsquo;s Excursion Organizer Shoulder Bag keeps your gear organized and within reach.</p>",
+  "no_ratings": "0",
+  "sort_order": "2411",
+  "description": "<p>Embark on any adventure with our Excursion Organizer Shoulder Bag. The travel crossbody bag features 2 large main zipper compartments for outdoor accessories and EDC essentials. The canvas shoulder bag has a 2L capacity and measures 6.5 inch x 6 inch x 2.25 inch for a compact design that is ideal for outdoor expeditions, travel, work, everyday use, and more. Rothco&rsquo;s Excursion Organizer Shoulder Bag keeps your gear organized and within reach. Ample Storage: One of the crossbody bag&rsquo;s main compartments comes equipped with an interior hideaway zipper pocket for securing travel essentials. In addition, the organizer bag features a front zipper pocket and an exterior pen pouch for extra storage, and a gusseted cargo pouch with a hook &amp; loop closure for quick access to your phone. Carry Options: The cross-shoulder bag features an adjustable and removable shoulder strap that extends up to 58 inches. Keep the outdoor bag safe and at your side by securing it to your belt with belt loops on the back. Tackle the Great Outdoors: Whether you&rsquo;re out traveling or camping in the woods, the Excursion Bag ensures your possessions are safe and secure. The crossbody organizer bag is great for outdoor enthusiasts, hikers, travelers, commuters, and more. Top Grade Canvas: Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul, allowing the travel shoulder bag to withstand outdoor adventures or frequent trips. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "2",
+    "138",
+    "650",
+    "208"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1226",
+      "item_index": "1302",
+      "rothco_item_no": "2327",
+      "upc": "613902232716",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7000",
+      "image_filename": "2327-A.jpg",
+      "catalog_page_no": "356",
+      "msrp": 21.99,
+      "ship_length": "9.0000",
+      "ship_width": "8.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 8.95,
+      "case_price": 8.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1227",
+      "item_index": "1302",
+      "rothco_item_no": "2327",
+      "upc": "613902232709",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7000",
+      "image_filename": "2327-OD-A2.jpg",
+      "catalog_page_no": "356",
+      "msrp": 21.99,
+      "ship_length": "9.0000",
+      "ship_width": "8.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 8.95,
+      "case_price": 8.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1472",
+      "item_index": "1302",
+      "rothco_item_no": "2627",
+      "upc": "613902262706",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7000",
+      "image_filename": "2627-A1.jpg",
+      "catalog_page_no": "356",
+      "msrp": 21.99,
+      "ship_length": "9.0000",
+      "ship_width": "8.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Brown"
+      },
+      "color": "Brown",
+      "price": 8.95,
+      "case_price": 8.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30235",
+      "item_index": "1302",
+      "rothco_item_no": "23270",
+      "upc": "613902049604",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.7000",
+      "image_filename": "23270-A.jpg",
+      "catalog_page_no": "356",
+      "msrp": 21.99,
+      "ship_length": "9.0000",
+      "ship_width": "8.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Green / Tiger Stripe"
+      },
+      "color": "Green / Tiger Stripe",
+      "price": 8.95,
+      "case_price": 8.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

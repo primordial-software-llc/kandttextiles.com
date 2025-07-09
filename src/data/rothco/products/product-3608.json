@@ -1,0 +1,93 @@
+{
+  "item_index": "3608",
+  "item_name": "Rothco 3-In-1 Convertible Mission Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://youtu.be/GxAx5zHDLmw",
+  "rating": "5",
+  "item_short_desc": "<p>Our 3-in-1 Convertible Mission Duffle Bag is the ultimate go anywhere tactical bag. It has a 60L capacity, and measures 26 inch x 13 inch x 11 inch. The main compartment utilizes an interlocking u-shaped zipper, and easily holds clothing, boots, outdoor gear, field equipment, survival essentials, and more. The tactical military duffle bag features an interior top flap with 2 zipper mesh pockets for securing loose items. The zippered dividers allow you to separate your gear into 3 compartments for additional organization.</p>",
+  "no_ratings": null,
+  "sort_order": "392",
+  "description": "<p>Our 3-in-1 Convertible Mission Duffle Bag is the ultimate go anywhere tactical bag. It has a 60L capacity, and measures 26 inch x 13 inch x 11 inch. The main compartment utilizes an interlocking u-shaped zipper, and easily holds clothing, boots, outdoor gear, field equipment, survival essentials, and more. The tactical military duffle bag features an interior top flap with 2 zipper mesh pockets for securing loose items. The zippered dividers allow you to separate your gear into 3 compartments for additional organization. Mission Ready: The rugged utility bag converts into a backpack with the hidden dual straps, providing enhanced stability and even weight distribution. It can also be carried as a messenger bag by using the detachable shoulder strap that extend ups to 69 inches. The top and 2 side grab handles offer quick and easy handling, especially when you&rsquo;re on the go. These dependable shoulder bags are great for active-duty personnel, outdoor enthusiasts, preppers, gym-goers, and more! Designed for the Long-Haul: The convertible duffle backpack features several padded straps, including the top grab handle, backpack straps, and shoulder strap. The breathable mesh padding on the backpack straps allows the bag to feel more comfortable when carrying, and easily stores in the back zipper pocket when not in use. The single shoulder strap comes with a removeable pad with a gridded friction bottom that holds the strap in place when in travel. The adjustable shoulder strap can also be removed by detaching the 2 side clips. Durable Material Construction: Made of 900D polyester with polyurethane coating, these rugged backpack duffle bags are built tough and will traverse any terrain without issue. Whether you&rsquo;re rucking along a trail, lugging around sports equipment, or traveling cross-county, these tactical backpacks have your back, every step of the way. Utility at the Forefront: These MOLLE compatible duffle bags include PALS webbing on the outside, backpack straps, and shoulder strap for mounting and securing additional items. The convertible bag also features front and rear zipper pockets with mesh dividers, along with a top zipper compartment to store smaller items like sunglasses, cell phone, wallet, and keys. The quick-release sinch straps ensures everything stays together, while the bottom drain hole helps dispel water or debris from the back zipper pocket. The d-rings help secure the padded backpack and shoulder straps, and can be used for adding accessories.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "201"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "13345",
+      "item_index": "3608",
+      "rothco_item_no": "23500",
+      "upc": "613902235007",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "5.1000",
+      "image_filename": "23500-B-amazon.jpg",
+      "catalog_page_no": "325",
+      "msrp": 126.99,
+      "ship_length": "25.0000",
+      "ship_width": "21.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 62.95,
+      "case_price": 62.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16192",
+      "item_index": "3608",
+      "rothco_item_no": "23501",
+      "upc": "613902023505",
+      "inventory": "99",
+      "created_date": "2016-03-08 12:10:02",
+      "weight": "5.1000",
+      "image_filename": "23501-A-amazon.jpg",
+      "catalog_page_no": "325",
+      "msrp": 126.99,
+      "ship_length": "25.0000",
+      "ship_width": "21.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 62.95,
+      "case_price": 62.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22733",
+      "item_index": "3608",
+      "rothco_item_no": "23502",
+      "upc": "613902028142",
+      "inventory": "99",
+      "created_date": "2023-04-04 11:00:15",
+      "weight": "0.0000",
+      "image_filename": "23502-A.jpg",
+      "catalog_page_no": "325",
+      "msrp": 126.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 62.95,
+      "case_price": 62.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

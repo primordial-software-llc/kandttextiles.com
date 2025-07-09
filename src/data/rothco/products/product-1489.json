@@ -1,0 +1,69 @@
+{
+  "item_index": "1489",
+  "item_name": "Rothco Brigadier General Insignia Stars",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Brigadier General Insignia Stars are certified by The Institute Of Heraldry and are ideal for officers in the United States Army, Marine Corps, Air Force, and Space Force.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "1082",
+  "description": "<p>Rothco&rsquo;s Brigadier General Insignia Stars are certified by The Institute Of Heraldry and are ideal for officers in the United States Army, Marine Corps, Air Force, and Space Force.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "422"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "793",
+      "item_index": "1489",
+      "rothco_item_no": "1706",
+      "upc": "613902017061",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0275",
+      "image_filename": "1706-hr1-amazon.jpg",
+      "catalog_page_no": "212",
+      "msrp": 16.99,
+      "ship_length": "4.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Silver"
+      },
+      "color": "Silver",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "796",
+      "item_index": "1489",
+      "rothco_item_no": "1716",
+      "upc": "613902017160",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0275",
+      "image_filename": "1716-hr3-amazon.jpg",
+      "catalog_page_no": "212",
+      "msrp": 19.99,
+      "ship_length": "4.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Gold"
+      },
+      "color": "Gold",
+      "price": 9.55,
+      "case_price": 9.55,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "item_index": "4316",
+  "item_name": "Womens Camo Workout Performance Capris",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Camo Workout Performance Capris&nbsp;are ideal for working out or just lounging around.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "100",
+  "description": "<p>Rothco&rsquo;s Camo Workout Performance Capris&nbsp;are ideal for working out or just lounging around. The performance fabric wicks away moisture from the body to keep you cool and dry during any activity. A hidden waistband pocket makes it easy to store important items during a workout, like a house key or a credit card.&nbsp;The lightweight poly/spandex construction allows for a full range of motion, ideal for stretching. Rothco's workout camo leggings are a perfect match to our performance tank top.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "629",
+    "137"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17401",
+      "item_index": "4316",
+      "rothco_item_no": "4471",
+      "upc": "613902044715",
+      "inventory": "99",
+      "created_date": "2017-06-02 09:10:01",
+      "weight": "0.2500",
+      "image_filename": "4471-C-amazon.jpg",
+      "catalog_page_no": "0",
+      "msrp": 29.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XS",
+        "color": "Woodland Camo"
+      },
+      "size": "XS",
+      "color": "Woodland Camo",
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17404",
+      "item_index": "4316",
+      "rothco_item_no": "4471",
+      "upc": "613902544710",
+      "inventory": "20",
+      "created_date": "2017-06-02 09:10:01",
+      "weight": "0.2500",
+      "image_filename": "4471-C-amazon.jpg",
+      "catalog_page_no": "0",
+      "msrp": 29.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL",
+        "color": "Woodland Camo"
+      },
+      "size": "2XL",
+      "color": "Woodland Camo",
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17406",
+      "item_index": "4316",
+      "rothco_item_no": "4471",
+      "upc": "613902744714",
+      "inventory": "33",
+      "created_date": "2017-06-02 09:10:01",
+      "weight": "0.2500",
+      "image_filename": "4471-C-amazon.jpg",
+      "catalog_page_no": "0",
+      "msrp": 29.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Woodland Camo"
+      },
+      "size": "XL",
+      "color": "Woodland Camo",
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

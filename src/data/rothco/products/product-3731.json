@@ -1,0 +1,41 @@
+{
+  "item_index": "3731",
+  "item_name": "Ben's 30 Spray Pump Insect Repellent",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Ben's 30 Tick &amp; Insect Repellent offers reliable protection against ticks and insects that may carry harmful diseases such as West Nile Virus, Lyme disease, Malaria, Eastern Equine Encephalitis, and Zika Virus. With a 30% DEET formula, this water-based repellent provides up to 8 hours of effective defense, ensuring your skin stays protected throughout the day. The water-based formulation remains on the skin's surface rather than being absorbed, providing long-lasting protection without the sticky residue.</p>",
+  "no_ratings": null,
+  "sort_order": "365",
+  "description": "<p>Ben's 30 Tick &amp; Insect Repellent offers reliable protection against ticks and insects that may carry harmful diseases such as West Nile Virus, Lyme disease, Malaria, Eastern Equine Encephalitis, and Zika Virus. With a 30% DEET formula, this water-based repellent provides up to 8 hours of effective defense, ensuring your skin stays protected throughout the day. The water-based formulation remains on the skin's surface rather than being absorbed, providing long-lasting protection without the sticky residue. Fragrance-free, Ben's 30 is ideal for those with sensitive skin or who prefer unscented products. Its TSA-compliant 3.4oz travel size allows you to carry the maximum amount of insect repellent with you wherever you go, ensuring you're always prepared.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "270",
+    "600"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14605",
+      "item_index": "3731",
+      "rothco_item_no": "7724",
+      "upc": "044224071873",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3000",
+      "image_filename": "7724-A2.jpg",
+      "catalog_page_no": "299",
+      "msrp": 13.99,
+      "ship_length": "6.5000",
+      "ship_width": "4.0000",
+      "ship_height": "6.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 5.6,
+      "case_price": 5.6,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

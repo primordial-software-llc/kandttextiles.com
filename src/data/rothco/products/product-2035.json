@@ -1,0 +1,41 @@
+{
+  "item_index": "2035",
+  "item_name": "Rothco Carabiner Compass",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's metal Carabiner compass is the perfect compass for someone on the go! The compass is great for outdoor enthusiasts.</p>",
+  "no_ratings": "0",
+  "sort_order": "1162",
+  "description": "<p>Rothco's metal Carabiner compass is the perfect compass for someone on the go! The compass is great for outdoor enthusiasts.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "269",
+    "490"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1492",
+      "item_index": "2035",
+      "rothco_item_no": "265",
+      "upc": "613902002654",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "265-A.jpg",
+      "catalog_page_no": "282",
+      "msrp": 14.99,
+      "ship_length": "7.0000",
+      "ship_width": "3.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 5.75,
+      "case_price": 5.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

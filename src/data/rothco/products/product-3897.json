@@ -1,0 +1,41 @@
+{
+  "item_index": "3897",
+  "item_name": "Rothco Skull/Knife Deluxe Low Profile Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Rothco Skull/Knife Deluxe Low Profile Cap, made from durable 100% brushed cotton twill, showcases a striking military-style skull with a knife design. Featuring an adjustable hook and loop closure, this low-profile cap offers a comfortable, secure fit.&nbsp;&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "386",
+  "description": "<p>The Rothco Skull/Knife Deluxe Low Profile Cap, made from durable 100% brushed cotton twill, showcases a striking military-style skull with a knife design. Featuring an adjustable hook and loop closure, this low-profile cap offers a comfortable, secure fit.&nbsp;&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "374",
+    "522"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15268",
+      "item_index": "3897",
+      "rothco_item_no": "9813",
+      "upc": "613902098138",
+      "inventory": "99",
+      "created_date": "2015-04-15 16:10:01",
+      "weight": "0.2300",
+      "image_filename": "9813-A1.jpg",
+      "catalog_page_no": "139",
+      "msrp": 18.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.0000",
+      "ship_height": "5.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 7.25,
+      "case_price": 7.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

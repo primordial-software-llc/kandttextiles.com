@@ -1,0 +1,125 @@
+{
+  "item_index": "449",
+  "item_name": "Rothco Fingerless Biker Gloves",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Fingerless Biker Gloves are expertly crafted from 100% genuine leather, designed to provide both durability and comfort for every ride. These tactical gloves feature extra padding on the palms, offering superior comfort and added protection, making them ideal for long rides or heavy-duty use. The knuckle vents are strategically placed to increase airflow, ensuring breathability even during intense activities. The fingerless gloves are equipped with adjustable hook &amp; loop wrist straps, allowing you to secure the perfect fit.</p>",
+  "no_ratings": "0",
+  "sort_order": "2417",
+  "description": "<p>Rothco&rsquo;s Fingerless Biker Gloves are expertly crafted from 100% genuine leather, designed to provide both durability and comfort for every ride. These tactical gloves feature extra padding on the palms, offering superior comfort and added protection, making them ideal for long rides or heavy-duty use. The knuckle vents are strategically placed to increase airflow, ensuring breathability even during intense activities. The fingerless gloves are equipped with adjustable hook &amp; loop wrist straps, allowing you to secure the perfect fit every time. Whether you're on the road, at work, or just need a reliable pair of gloves, our Fingerless Biker Gloves are designed to meet the demands of any situation. Their fingerless design offers freedom of movement while still providing essential hand protection, making them a versatile choice for bikers and outdoor enthusiasts alike.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "318"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2313",
+      "item_index": "449",
+      "rothco_item_no": "3498",
+      "upc": "613902349810",
+      "inventory": "99",
+      "created_date": "2010-12-13 21:00:00",
+      "weight": "0.1900",
+      "image_filename": "3498-hr2.jpg",
+      "catalog_page_no": "192",
+      "msrp": 12.99,
+      "ship_length": "9.2500",
+      "ship_width": "4.2500",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Black"
+      },
+      "size": "S",
+      "color": "Black",
+      "price": 4.9,
+      "case_price": 4.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2314",
+      "item_index": "449",
+      "rothco_item_no": "3498",
+      "upc": "613902349827",
+      "inventory": "99",
+      "created_date": "2010-12-13 21:00:00",
+      "weight": "0.1900",
+      "image_filename": "3498-hr2.jpg",
+      "catalog_page_no": "192",
+      "msrp": 12.99,
+      "ship_length": "9.2500",
+      "ship_width": "4.2500",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Black"
+      },
+      "size": "M",
+      "color": "Black",
+      "price": 4.9,
+      "case_price": 4.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2315",
+      "item_index": "449",
+      "rothco_item_no": "3498",
+      "upc": "613902349834",
+      "inventory": "99",
+      "created_date": "2010-12-13 21:00:00",
+      "weight": "0.1900",
+      "image_filename": "3498-hr2.jpg",
+      "catalog_page_no": "192",
+      "msrp": 12.99,
+      "ship_length": "9.2500",
+      "ship_width": "4.5000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Black"
+      },
+      "size": "L",
+      "color": "Black",
+      "price": 4.9,
+      "case_price": 4.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2316",
+      "item_index": "449",
+      "rothco_item_no": "3498",
+      "upc": "613902349841",
+      "inventory": "99",
+      "created_date": "2010-12-13 21:00:00",
+      "weight": "0.1900",
+      "image_filename": "3498-hr2.jpg",
+      "catalog_page_no": "192",
+      "msrp": 12.99,
+      "ship_length": "9.2500",
+      "ship_width": "4.5000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Black"
+      },
+      "size": "XL",
+      "color": "Black",
+      "price": 4.9,
+      "case_price": 4.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "item_index": "4680",
+  "item_name": "Rothco Mini US Flag Patch With Hook Back",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Mini American Flag Patch features a smaller design compared to our standard U.S. flag patches and a hook back so you can attach the patch to your tactical gear.</p>",
+  "no_ratings": null,
+  "sort_order": "132993",
+  "description": "<p>Rothco&rsquo;s Mini American Flag Patch features a smaller design compared to our standard U.S. flag patches and a hook back so you can attach the patch to your tactical gear.&nbsp;Measuring 1.5&rdquo; X 2&rdquo; and built with a high-quality construction, the small U.S. flag patches are available in a variety of colors and orientations.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "423",
+    "641"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19505",
+      "item_index": "4680",
+      "rothco_item_no": "1320",
+      "upc": "613902013209",
+      "inventory": "99",
+      "created_date": "2020-04-06 12:00:10",
+      "weight": "0.0094",
+      "image_filename": "1320-A-amazon1.jpg",
+      "catalog_page_no": null,
+      "msrp": 2.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Black / Silver",
+        "orientation": "Normal"
+      },
+      "size": "One Size",
+      "color": "Black / Silver",
+      "orientation": "Normal",
+      "price": 0.8,
+      "case_price": 0.8,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "item_index": "2827",
+  "item_name": "Rothco GI Style Quick Release Pistol Belt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Quick Release Tactical Belt is built for convenience and durability, making it an essential accessory for outdoor and tactical enthusiasts. Crafted from tough polyester yarn, this belt withstands demanding conditions, providing a reliable solution for various activities. Its quick-release buckle allows for effortless fastening and unfastening, ensuring security and ease of use. Designed to adapt to diverse environments, this belt is perfect for outdoor activities, hiking, and tactical missions.</p>",
+  "no_ratings": "0",
+  "sort_order": "1649",
+  "description": "<p>Rothco&rsquo;s Quick Release Tactical Belt is built for convenience and durability, making it an essential accessory for outdoor and tactical enthusiasts. Crafted from tough polyester yarn, this belt withstands demanding conditions, providing a reliable solution for various activities. Its quick-release buckle allows for effortless fastening and unfastening, ensuring security and ease of use. Designed to adapt to diverse environments, this belt is perfect for outdoor activities, hiking, and tactical missions. Easily adjustable for a comfortable and secure fit, Rothco&rsquo;s Quick Release Pistol Belt is versatile enough for any adventure. With sturdy construction and a classic design, this belt keeps your essentials secure and accessible when it matters most.</p>",
+  "selection_groups": [
+    "size",
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "384"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10522",
+      "item_index": "2827",
+      "rothco_item_no": "9034",
+      "upc": "613902903401",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6150",
+      "image_filename": "9054-hr11.jpg",
+      "catalog_page_no": "310",
+      "msrp": 16.99,
+      "ship_length": "16.7500",
+      "ship_width": "1.5000",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Olive Drab"
+      },
+      "size": "L",
+      "color": "Olive Drab",
+      "price": 6.2,
+      "case_price": 6.2,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10536",
+      "item_index": "2827",
+      "rothco_item_no": "9054",
+      "upc": "613902905405",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5750",
+      "image_filename": "9054-hr11.jpg",
+      "catalog_page_no": "310",
+      "msrp": 15.99,
+      "ship_length": "9.2500",
+      "ship_width": "3.0000",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Olive Drab"
+      },
+      "size": "M",
+      "color": "Olive Drab",
+      "price": 5.95,
+      "case_price": 5.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "item_index": "3603",
+  "item_name": "Rothco Tactical MOLLE Breakaway Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=mqp4b94kEgI",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Tactical MOLLE Breakaway Pouch offers quick and easy access to tactical gear and emergency supplies. With a trifold design, the MOLLE pouch unfolds for ample storage and organization, then refolds for compact transportation. The main pouch tears away from the MOLLE loop platform for swift access in any situation. Featuring 3 rows of MOLLE webbing on the front and 2 MOLLE straps with snap closures on the back, the tactical pouch offers versatile mounting options.</p>",
+  "no_ratings": null,
+  "sort_order": "1551",
+  "description": "<p>Rothco's Tactical MOLLE Breakaway Pouch offers quick and easy access to tactical gear and emergency supplies. With a trifold design, the MOLLE pouch unfolds for ample storage and organization, then refolds for compact transportation. The main pouch tears away from the MOLLE loop platform for swift access in any situation. Featuring 3 rows of MOLLE webbing on the front and 2 MOLLE straps with snap closures on the back, the tactical pouch offers versatile mounting options. The platform includes D-rings, a cinch strap with a quick-release buckle, and a loop field on the front. Inside, you'll find 3 open top pockets, 1 with a hook &amp; loop strap closure, a zippered mesh pocket, and 13 elastic straps to secure your gear. Ideal for tactical vests, packs, or any MOLLE panel-equipped gear, this pouch ensures readiness and organization for tactical professionals.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "504",
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "13334",
+      "item_index": "3603",
+      "rothco_item_no": "15975",
+      "upc": "613902159754",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7500",
+      "image_filename": "15975-A-amazon.jpg",
+      "catalog_page_no": "249",
+      "msrp": 30.99,
+      "ship_length": "10.5000",
+      "ship_width": "7.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 13.5,
+      "case_price": 13.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "13335",
+      "item_index": "3603",
+      "rothco_item_no": "15976",
+      "upc": "613902159761",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7500",
+      "image_filename": "15976-B-amazon.jpg",
+      "catalog_page_no": "249",
+      "msrp": 30.99,
+      "ship_length": "10.5000",
+      "ship_width": "7.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 13.5,
+      "case_price": 13.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17183",
+      "item_index": "3603",
+      "rothco_item_no": "15977",
+      "upc": "613902159778",
+      "inventory": "99",
+      "created_date": "2017-05-02 17:10:01",
+      "weight": "0.7500",
+      "image_filename": "15977-A-amazon.jpg",
+      "catalog_page_no": "249",
+      "msrp": 30.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 13.5,
+      "case_price": 13.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18279",
+      "item_index": "3603",
+      "rothco_item_no": "15978",
+      "upc": "613902159785",
+      "inventory": "99",
+      "created_date": "2018-04-19 16:10:04",
+      "weight": "0.7500",
+      "image_filename": "15978-Red-B-amazon.jpg",
+      "catalog_page_no": "249",
+      "msrp": 30.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red"
+      },
+      "color": "Red",
+      "price": 13.5,
+      "case_price": 13.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20301",
+      "item_index": "3603",
+      "rothco_item_no": "15979",
+      "upc": "613902159792",
+      "inventory": "99",
+      "created_date": "2021-02-01 11:00:20",
+      "weight": "0.7500",
+      "image_filename": "15979-A-no-logo.jpg",
+      "catalog_page_no": "249",
+      "msrp": 43.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 19.5,
+      "case_price": 19.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

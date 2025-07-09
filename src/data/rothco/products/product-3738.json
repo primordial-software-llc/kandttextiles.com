@@ -1,0 +1,141 @@
+{
+  "item_index": "3738",
+  "item_name": "Rothco GI Type Beret Without Flash",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Crafted from a resilient blend of 95% wool, Rothco's Beret without Flash embodies timeless elegance. This classic military beret, devoid of eyelets, exudes a sleek and sophisticated aesthetic, making it a versatile accessory for various occasions. Whether worn for casual use or for uniform purposes, the wool beret&rsquo;s durable construction ensures lasting quality. Elevate your ensemble with this iconic piece that transcends time and exudes understated sophistication.</p>",
+  "no_ratings": null,
+  "sort_order": "2764",
+  "description": "<p>Crafted from a resilient blend of 95% wool, Rothco's Beret without Flash embodies timeless elegance. This classic military beret, devoid of eyelets, exudes a sleek and sophisticated aesthetic, making it a versatile accessory for various occasions. Whether worn for casual use or for uniform purposes, the wool beret&rsquo;s durable construction ensures lasting quality. Elevate your ensemble with this iconic piece that transcends time and exudes understated sophistication. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "head_size"
+  ],
+  "statuses": "",
+  "categories": [
+    "376"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3687",
+      "item_index": "3738",
+      "rothco_item_no": "4718",
+      "upc": "613902471801",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "4718-a.jpg",
+      "catalog_page_no": "149",
+      "msrp": 18.99,
+      "ship_length": "16.0000",
+      "ship_width": "5.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "head_size": "7"
+      },
+      "head_size": "7",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3688",
+      "item_index": "3738",
+      "rothco_item_no": "4718",
+      "upc": "613902471818",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "4718-a.jpg",
+      "catalog_page_no": "149",
+      "msrp": 18.99,
+      "ship_length": "16.0000",
+      "ship_width": "5.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "head_size": "7 1/4"
+      },
+      "head_size": "7 1/4",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3689",
+      "item_index": "3738",
+      "rothco_item_no": "4718",
+      "upc": "613902471825",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "4718-a.jpg",
+      "catalog_page_no": "149",
+      "msrp": 18.99,
+      "ship_length": "16.0000",
+      "ship_width": "5.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "head_size": "7 1/2"
+      },
+      "head_size": "7 1/2",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3690",
+      "item_index": "3738",
+      "rothco_item_no": "4718",
+      "upc": "613902471832",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "4718-a.jpg",
+      "catalog_page_no": "149",
+      "msrp": 18.99,
+      "ship_length": "16.0000",
+      "ship_width": "5.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "head_size": "7 3/4"
+      },
+      "head_size": "7 3/4",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14611",
+      "item_index": "3738",
+      "rothco_item_no": "4718",
+      "upc": "613902471849",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "4718-a.jpg",
+      "catalog_page_no": "149",
+      "msrp": 18.99,
+      "ship_length": "16.0000",
+      "ship_width": "5.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "head_size": "6 3/4"
+      },
+      "head_size": "6 3/4",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

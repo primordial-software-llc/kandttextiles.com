@@ -1,0 +1,41 @@
+{
+  "item_index": "4469",
+  "item_name": "Ben's Clothing And Gear Continuous Insect Repellent 6oz",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Ben&rsquo;s Clothing And Gear Insect Repellent contains a 0.5% fragrance-free permethrin formula that bonds to fabric fibers to repel and kill insects on contact for up to two weeks.</p>",
+  "no_ratings": null,
+  "sort_order": "132782",
+  "description": "<p>Ben's Clothing And Gear Continuous Insect Repellent contains a 0.5% fragrance-free permethrin formula to repel and kill insects on contact. Easily apply to your clothes and gear with the 6oz eco-spray can to keep disease-carrying insects at bay (Do not apply to skin). The permethrin formula bonds to fabric fibers for up to two weeks to give long-lasting protection. Whether you are hiking, fishing, camping, or hunting, Ben&rsquo;s bug repellent is the optimal choice for insect protection.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "270",
+    "600"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18492",
+      "item_index": "4469",
+      "rothco_item_no": "7729",
+      "upc": "044224076007",
+      "inventory": "99",
+      "created_date": "2018-05-21 17:10:02",
+      "weight": "0.5000",
+      "image_filename": "7729-A-amazon1.jpg",
+      "catalog_page_no": "299",
+      "msrp": 16.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 6.65,
+      "case_price": 6.65,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

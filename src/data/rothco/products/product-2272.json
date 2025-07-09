@@ -1,0 +1,40 @@
+{
+  "item_index": "2272",
+  "item_name": "Rothco G.I. Style Mini Alice Pack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s G.I. Style Mini Alice Pack is modeled after the historic 1960&rsquo;s U.S. Army Design that was utilized by soldiers during the Vietnam War. This tactical pack is perfect for MilSim players.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "304",
+  "description": "<p>Rothco's G.I. Style Mini Alice Pack features shoulder straps, 3 outside pockets and measures 14 1/2\" x 12\" x 7\". ALICE stands for All-Purpose Lightweight Individual Carrying Equipment system and was adopted by the United States Army in the 1960's to help soldiers carry large heavy packs.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "202"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1172",
+      "item_index": "2272",
+      "rothco_item_no": "2245",
+      "upc": "613902522459",
+      "inventory": "78",
+      "created_date": "2002-05-27 21:00:00",
+      "weight": "1.8500",
+      "image_filename": "2245-B1.jpg",
+      "catalog_page_no": "312",
+      "msrp": 79.99,
+      "ship_length": "15.0000",
+      "ship_width": "14.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 35.5,
+      "case_price": 35.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

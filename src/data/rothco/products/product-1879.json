@@ -1,0 +1,69 @@
+{
+  "item_index": "1879",
+  "item_name": "Rothco Security Officer Badge With Flags",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Security Officer badge is constructed with a durable Zinc Alloy and available in either gold plating or silver plating.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "433",
+  "description": "<p>The Security Officer badge is constructed with a durable Zinc Alloy and available in either gold plating or silver plating.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "233"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "881",
+      "item_index": "1879",
+      "rothco_item_no": "1913",
+      "upc": "613902191303",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "1913-a.jpg",
+      "catalog_page_no": "220",
+      "msrp": 18.99,
+      "ship_length": "5.5000",
+      "ship_width": "3.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Silver"
+      },
+      "color": "Silver",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "882",
+      "item_index": "1879",
+      "rothco_item_no": "1914",
+      "upc": "613902191402",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "1914-a.jpg",
+      "catalog_page_no": "220",
+      "msrp": 18.99,
+      "ship_length": "5.5000",
+      "ship_width": "3.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Gold"
+      },
+      "color": "Gold",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

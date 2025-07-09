@@ -1,0 +1,95 @@
+{
+  "item_index": "2395",
+  "item_name": "Rothco G.I. Type Enhanced Nylon 1qt. Canteen Cover",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Enhanced Nylon 1 Qt. Canteen Cover is designed to provide convenience and durability for those on the go. Featuring 2 secure ALICE keeper clips on the back, this canteen cover easily attaches to your ALICE pack or tactical belt, making it simple to carry your canteen wherever you need it. The front hook &amp; loop pouch offers a handy spot to store water purification tablets, ensuring you're always prepared for outdoor adventures. Please note that canteen is not included.</p>",
+  "no_ratings": "0",
+  "sort_order": "1268",
+  "description": "<p>Rothco&rsquo;s Enhanced Nylon 1 Qt. Canteen Cover is designed to provide convenience and durability for those on the go. Featuring 2 secure ALICE keeper clips on the back, this canteen cover easily attaches to your ALICE pack or tactical belt, making it simple to carry your canteen wherever you need it. The front hook &amp; loop pouch offers a handy spot to store water purification tablets, ensuring you're always prepared for outdoor adventures. Crafted from highly durable, water-resistant nylon, this canteen cover is built to withstand years of rugged use in various environments. A grommet drainage hole at the bottom prevents water buildup, keeping the cover dry and functional. Whether you&rsquo;re hiking, camping, or working outdoors, Rothco&rsquo;s enhanced canteen cover provides reliable protection for your canteen. Please note that canteen is not included.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "284",
+    "500"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2695",
+      "item_index": "2395",
+      "rothco_item_no": "40010",
+      "upc": "613902400108",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3000",
+      "image_filename": "40010od-HR1.jpg",
+      "catalog_page_no": "285",
+      "msrp": 19.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.7500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 7.95,
+      "case_price": 7.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2696",
+      "item_index": "2395",
+      "rothco_item_no": "40010",
+      "upc": "613902400115",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3000",
+      "image_filename": "40010blk-HR1.jpg",
+      "catalog_page_no": "285",
+      "msrp": 19.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.7500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 7.95,
+      "case_price": 7.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2698",
+      "item_index": "2395",
+      "rothco_item_no": "40012",
+      "upc": "613902400122",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "40012-A.jpg",
+      "catalog_page_no": "285",
+      "msrp": 24.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.7500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "item_index": "1305",
+  "item_name": "Rothco Heavyweight Classic Canvas Passport Travel Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Looking for a portable military style travel bag? Look no further! Our Heavyweight Classic Canvas Passport Travel Pouch offers an all-in-one place to organize and carry your small travel essentials. This compact crossbody bag features an easy-to-reach identification window underneath the front flap. The utility bag measures 9 inch x 7 inch x 4 inch overall, and keeps your possessions close to you through a crossbody design. It&rsquo;s also great for travel, work, everyday use, and more.</p>",
+  "no_ratings": "0",
+  "sort_order": "1215",
+  "description": "<p>Looking for a portable military style travel bag? Look no further! Our Heavyweight Classic Canvas Passport Travel Pouch offers an all-in-one place to organize and carry your small travel essentials. This compact crossbody bag features an easy-to-reach identification window underneath the front flap. This utility bag measures 9 inch x 7 inch x 4 inch overall, and keeps your possessions close to you through a crossbody design. It&rsquo;s also great for travel, work, everyday use, and more. Durable Material Construction: Consisting of 22 oz. heavyweight, double-stitched cotton canvas material, these passport pouches are built tough and will withstand consistent use. The brass zippers provide additional strength while emulating a time-less look and feel. Safe and Secure: Designed to keep your travel gear organized, the rear zipper utility compartment contains 2 open top pockets for a passport or pamphlet sized documents, 4 pen holders, a hook &amp; loop closure pocket for small or loose items, and a d-ring for carabiners and other fasteners. Spacious Storage Compartments: The neck wallet&rsquo;s main zipper compartment is perfect for storing bulkier items like a camera or water bottle. Along with 2 external pen holders, the crossbody travel bag features a side zipper compartment that&rsquo;s idea for notepads, maps, and other paperwork. Keep your phone, wallet, and keys secure underneath the open top buckle closure, and earbuds or loose change inside the front flap&rsquo;s zipper pocket. Various Carrying Options: These heavy-duty canvas bags come equipped with an adjustable shoulder strap that extends up to 56 inches, giving you the option to wear as a crossbody bag, or either around your neck or shoulder. The straps can be removed by detaching the 2 side clips, allowing you to easily store it in your car or larger bag. There&rsquo;s also a belt loop sewn on the back for additional mobility. Top Grade Canvas: Made from Rothco&rsquo;s rugged, durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "208",
+    "212"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10614",
+      "item_index": "1305",
+      "rothco_item_no": "9146",
+      "upc": "613902914605",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7000",
+      "image_filename": "9146-OD-A-amazon.jpg",
+      "catalog_page_no": "355",
+      "msrp": 24.99,
+      "ship_length": "10.0000",
+      "ship_width": "8.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 10.5,
+      "case_price": 10.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14534",
+      "item_index": "1305",
+      "rothco_item_no": "99146",
+      "upc": "613902991460",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7000",
+      "image_filename": "99146-B-amazon.jpg",
+      "catalog_page_no": "355",
+      "msrp": 24.99,
+      "ship_length": "10.0000",
+      "ship_width": "8.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 10.5,
+      "case_price": 10.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22761",
+      "item_index": "1305",
+      "rothco_item_no": "91460",
+      "upc": "613902028739",
+      "inventory": "99",
+      "created_date": "2023-04-05 16:00:10",
+      "weight": "0.0000",
+      "image_filename": "91460-A.jpg",
+      "catalog_page_no": "355",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 10.5,
+      "case_price": 10.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

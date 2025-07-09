@@ -1,0 +1,40 @@
+{
+  "item_index": "3936",
+  "item_name": "Shoo Goo",
+  "has_restrictions": "1",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Shoe GOO is the #1 shoe repair adhesive! It&rsquo;s ideal for fixing worn soles or damaged heels, coating shoes to prevent premature wear and sealing galoshes, waders or rubber boots. The unique formula is designed for strong abrasion resistance and better adhesion to flexible materials.</p>",
+  "no_ratings": null,
+  "sort_order": "540",
+  "description": "<p>Shoe GOO is the #1 shoe repair adhesive! It&rsquo;s ideal for fixing worn soles or damaged heels, coating shoes to prevent premature wear and sealing galoshes, waders or rubber boots. The unique formula is designed for strong abrasion resistance and better adhesion to flexible materials.This CA Proposition 65 Warning is to provide notice that this product contains chemicals known to the State of California to cause cancer and birth defects or other reproductive harm.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "362"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15409",
+      "item_index": "3936",
+      "rothco_item_no": "10012",
+      "upc": "076818010012",
+      "inventory": "99",
+      "created_date": "2015-05-04 12:10:02",
+      "weight": "0.3000",
+      "image_filename": "10012-A1.jpg",
+      "catalog_page_no": "184",
+      "msrp": 13.99,
+      "ship_length": "8.5000",
+      "ship_width": "4.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

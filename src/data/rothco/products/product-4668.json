@@ -1,0 +1,74 @@
+{
+  "item_index": "4668",
+  "item_name": "Rothco SWAT Patch With Hook Back",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s SWAT Patch With Hook Back is great for attaching to a variety of law enforcement gear, including police vests and tactical operator caps.</p>",
+  "no_ratings": null,
+  "sort_order": "132981",
+  "description": "<p>Rothco&rsquo;s SWAT Patch With Hook Back is great for attaching to a variety of law enforcement gear, including police vests and tactical operator caps. Featuring a black background and white &ldquo;SWAT&rdquo; lettering, the police patch is made of a high-quality construction for long-lasting durability. The SWAT vest patch is available in small (2 &frac12;&rdquo; X 5 &frac34;&rdquo;) and large (4&rdquo; X 10 &frac34;&rdquo;).</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "239",
+    "420",
+    "424",
+    "543"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12208",
+      "item_index": "4668",
+      "rothco_item_no": "1911",
+      "upc": "613902019119",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1063",
+      "image_filename": "1911-A-amazon1.jpg",
+      "catalog_page_no": "256",
+      "msrp": 10.99,
+      "ship_length": "10.7500",
+      "ship_width": "4.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "Set: 1 Small & 1 Large"
+      },
+      "size": "Set: 1 Small & 1 Large",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19471",
+      "item_index": "4668",
+      "rothco_item_no": "2841",
+      "upc": "613902028418",
+      "inventory": "99",
+      "created_date": "2020-02-11 17:00:47",
+      "weight": "0.0625",
+      "image_filename": "2841-A-amazon2.jpg",
+      "catalog_page_no": "256",
+      "msrp": 6.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Black / White"
+      },
+      "size": "L",
+      "color": "Black / White",
+      "price": 2.75,
+      "case_price": 2.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

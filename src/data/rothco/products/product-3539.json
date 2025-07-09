@@ -1,0 +1,47 @@
+{
+  "item_index": "3539",
+  "item_name": "Rothco If You Can Read This Morale Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Let your foe know where you stand with Rothco's \"If You Can Read This, You Are Within Range\" Patch. The 2.5\" X 3.5\" patch features a hook backing for easy attaching to tactical caps or combat shirts.</p>",
+  "no_ratings": null,
+  "sort_order": "1294",
+  "description": "<p>Let your foe know where you stand with Rothco's \"If You Can Read This, You Are Within Range\" Patch. The 2.5\" X 3.5\" patch features a hook backing for easy attaching to tactical caps or combat shirts.Patches with the item #&rsquo;s starting with &lsquo;P&rsquo; are individually packaged with a header card.&nbsp;</p>",
+  "selection_groups": [
+    "packaging"
+  ],
+  "statuses": "",
+  "categories": [
+    "331",
+    "420",
+    "424"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "28582",
+      "item_index": "3539",
+      "rothco_item_no": "72202",
+      "upc": "613902722026",
+      "inventory": "99",
+      "created_date": "2023-11-07 03:00:15",
+      "weight": "0.0094",
+      "image_filename": "72202-A-amazon.jpg",
+      "catalog_page_no": "215",
+      "msrp": 3.99,
+      "ship_length": "3.5000",
+      "ship_width": "2.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "packaging": "Bulk Packaging"
+      },
+      "packaging": "Bulk Packaging",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

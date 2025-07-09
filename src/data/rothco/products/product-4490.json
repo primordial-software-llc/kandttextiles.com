@@ -1,0 +1,43 @@
+{
+  "item_index": "4490",
+  "item_name": "Military Zipper First Aid Kit Contents",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Military Zipper First Aid Kit Contents features 15 essential first aid items.</p>",
+  "no_ratings": null,
+  "sort_order": "132803",
+  "description": "<p>Rothco's Military Zipper First Aid Kit Contents features 15 essential first aid items. Contents of this military first aid kit include a 2\" Steripad, an Adhesive Tape Roll, 4 Bandages, a 2\" Conforming Bandage, 2 Alcohol Prep Pads, 2 BZK Towelettes, 1 Small Sugar Pack, 1 Soap Bar, 1 Package of Aspirin, and Instructions. These are the same contents used in Rothco's Military Zipper First Aid Kit (8318 &amp; 8328)</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "271"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18569",
+      "item_index": "4490",
+      "rothco_item_no": "1707",
+      "upc": "613902170704",
+      "inventory": "99",
+      "created_date": "2018-07-26 13:10:03",
+      "weight": "0.1500",
+      "image_filename": "1707-A-amazon.jpg",
+      "catalog_page_no": "295",
+      "msrp": 7.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size"
+      },
+      "size": "One Size",
+      "price": 2.95,
+      "case_price": 2.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

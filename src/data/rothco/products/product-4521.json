@@ -1,0 +1,73 @@
+{
+  "item_index": "4521",
+  "item_name": "Rothco Pink Silicone Ring",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Pink Silicone Ring offers a safe and functional alternative to a traditional metal wedding ring.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "132834",
+  "description": "<p>Rothco's Pink Silicone Ring offers a safe and functional alternative to a traditional metal wedding ring. Rothco's Silicone Rings are ideal for military and law enforcement professionals looking to prevent finger injuries caused&nbsp;by&nbsp;wearing a metal ring. This pink ring is made of a medical grade silicone that is non-conductive, providing maximum protection for any work condition. It also features a thinner profile, 2mm thick and 5.5mm wide, ideal for women or small hands.&nbsp;</p>",
+  "selection_groups": [
+    "ring_size"
+  ],
+  "statuses": "",
+  "categories": [
+    "419"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18608",
+      "item_index": "4521",
+      "rothco_item_no": "863",
+      "upc": "613902008632",
+      "inventory": "99",
+      "created_date": "2018-08-15 13:10:03",
+      "weight": "0.0625",
+      "image_filename": "863-A-amazon1.jpg",
+      "catalog_page_no": "207",
+      "msrp": 13.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Pink",
+        "ring_size": "10"
+      },
+      "color": "Pink",
+      "ring_size": "10",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18610",
+      "item_index": "4521",
+      "rothco_item_no": "863",
+      "upc": "613902086395",
+      "inventory": "61",
+      "created_date": "2018-08-15 13:10:03",
+      "weight": "0.0625",
+      "image_filename": "863-A-amazon1.jpg",
+      "catalog_page_no": "207",
+      "msrp": 13.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Pink",
+        "ring_size": "9"
+      },
+      "color": "Pink",
+      "ring_size": "9",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

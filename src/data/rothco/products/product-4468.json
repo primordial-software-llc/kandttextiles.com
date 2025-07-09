@@ -1,0 +1,41 @@
+{
+  "item_index": "4468",
+  "item_name": "Ben's Clothing And Gear Insect Repellent 24oz",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Ben&rsquo;s Clothing And Gear Insect Repellent contains a 0.5% permethrin formula that bonds to fabric fibers to repel and kill insects on contact for up to six weeks.</p>",
+  "no_ratings": null,
+  "sort_order": "132781",
+  "description": "<p>Ben&rsquo;s Clothing And Gear Insect Repellent contains a 0.5% permethrin formula to repel and kill insects on contact. Easily apply to your clothes and gear with the 24oz ergonomic grip spray bottle to keep disease-carrying insects at bay (Do not apply to skin). The permethrin formula bonds to fabric fibers for up to six weeks to give long-lasting protection. Whether you are hiking, fishing, camping, or hunting, Ben&rsquo;s bug repellent is the optimal choice for insect protection.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "270",
+    "600"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18493",
+      "item_index": "4468",
+      "rothco_item_no": "7734",
+      "upc": "044224076014",
+      "inventory": "99",
+      "created_date": "2018-05-21 18:10:02",
+      "weight": "1.7500",
+      "image_filename": "7734-A1.jpg",
+      "catalog_page_no": "299",
+      "msrp": 35.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 14.35,
+      "case_price": 14.35,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

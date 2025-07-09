@@ -1,0 +1,40 @@
+{
+  "item_index": "2435",
+  "item_name": "Silva Starter 1-2-3 Compass",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Silva Starter Model 1-2-3 compass is the perfect beginner compass to understand working with maps and orienteering.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "268",
+  "description": "<p>The Silva Starter Model 1-2-3 compass is the perfect beginner compass to understand working with maps and orienteering.&nbsp;The 2\"x3\" base plate is a great size for mapwork and is pocket-sized for convenient storage. The Lanyard hole allows you to wear the compass around your neck for quick and easy access when you are on the go.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "269"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3095",
+      "item_index": "2435",
+      "rothco_item_no": "432",
+      "upc": "7318860198564",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1100",
+      "image_filename": "432-A.jpg",
+      "catalog_page_no": "281",
+      "msrp": 37.99,
+      "ship_length": "8.0000",
+      "ship_width": "3.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 14.95,
+      "case_price": 14.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "item_index": "2496",
+  "item_name": "Rothco M-16 Clip Pouches",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s M-16 Clip Pouches offer a reliable and durable solution for carrying your .556 caliber magazines during range sessions. Featuring belt clips for easy attachment to your range or duty belt, these pouches provide quick access to your magazines when you need them most. The pouch is made from durable nylon to withstand years of use, ensuring your gear stays secure. A sure-lock pouch clip keeps your magazines in place, even during movement, while 2 additional side strap snaps allow for attaching extra accessories or gear.</p>",
+  "no_ratings": "0",
+  "sort_order": "398",
+  "description": "<p>Rothco&rsquo;s M-16 Clip Pouches offer a reliable and durable solution for carrying your .556 caliber magazines during range sessions. Featuring belt clips for easy attachment to your range or duty belt, these pouches provide quick access to your magazines when you need them most. The pouch is made from durable nylon to withstand years of use, ensuring your gear stays secure. A sure-lock pouch clip keeps your magazines in place, even during movement, while 2 additional side strap snaps allow for attaching extra accessories or gear. Designed to hold your magazines securely and with an 8 inch x 4 inch x 3.5 inch size, this mag pouch delivers practical functionality and long-lasting performance on the range. It&rsquo;s an essential accessory for any range day, combining toughness and accessibility into one compact design.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "505"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "11520",
+      "item_index": "2496",
+      "rothco_item_no": "9947",
+      "upc": "613902994706",
+      "inventory": "99",
+      "created_date": "2002-04-21 21:00:00",
+      "weight": "0.3500",
+      "image_filename": "9947-A-OD.jpg",
+      "catalog_page_no": "368",
+      "msrp": 23.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.2500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 9.25,
+      "case_price": 9.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "item_index": "3620",
+  "item_name": "Rothco Pocket Knife Multi Tool",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Pocket Knife Multi Tool is a versatile, compact solution for all your outdoor and everyday tasks. Featuring high-quality stainless steel components, this multi tool comes with a durable plastic handle for a comfortable grip. The tool includes a 3 inch half-serrated blade, perfect for cutting through tough materials, along with needle nose pliers and regular pliers for grabbing and manipulating objects.</p>",
+  "no_ratings": null,
+  "sort_order": "359",
+  "description": "<p>Rothco&rsquo;s Pocket Knife Multi Tool is a versatile, compact solution for all your outdoor and everyday tasks. Featuring high-quality stainless steel components, this multi tool comes with a durable plastic handle for a comfortable grip. The tool includes a 3 inch half-serrated blade, perfect for cutting through tough materials, along with needle nose pliers and regular pliers for grabbing and manipulating objects. It also offers wire cutters, a Phillips and flathead screwdriver, a bottle opener, and a can opener, making it an essential companion for any situation. The multi tool comes with a rugged polyester sheath, complete with a belt loop and snap closure for secure, hands-free carrying. Whether you're camping, working around the house, or out on an adventure, this tool is designed to provide reliable performance and excellent value.</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "538"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "13363",
+      "item_index": "3620",
+      "rothco_item_no": "5256",
+      "upc": "613902525696",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6250",
+      "image_filename": "5256-A.jpg",
+      "catalog_page_no": "272",
+      "msrp": 31.99,
+      "ship_length": "5.5000",
+      "ship_width": "2.2500",
+      "ship_height": "1.7500",
+      "eta_date": null,
+      "specs": [],
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

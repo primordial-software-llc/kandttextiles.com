@@ -1,0 +1,70 @@
+{
+  "item_index": "4775",
+  "item_name": "Rothco MOLLE Baton Holder",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s MOLLE Baton Holder is designed for law enforcement and public safety professionals on-the-job. This convenient accessory is optimized for 21 inch batons, but can also accommodate 26 and 31 inch batons.</p>",
+  "no_ratings": null,
+  "sort_order": "133088",
+  "description": "<p>Rothco&rsquo;s MOLLE Baton Holder is designed for law enforcement and public safety professionals on-the-job. This convenient accessory is optimized for 21 inch batons, but can also accommodate 26 and 31 inch batons. The baton pouch features an elastic band in the center and a hook and loop web strap at the top to secure your baton reliably. Two 5 inch vertical and two smaller horizontal hook and loop MOLLE straps on the back enable you to attach the baton holder to MOLLE belts, tactical vests, and assault packs. MOLLE attachment measures 7.5 inches X 2.25 inches.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "235",
+    "238"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20097",
+      "item_index": "4775",
+      "rothco_item_no": "3195",
+      "upc": "613902931954",
+      "inventory": "99",
+      "created_date": "2021-01-04 12:00:29",
+      "weight": "0.2500",
+      "image_filename": "3195-A-NOLOGO1.jpg",
+      "catalog_page_no": "241",
+      "msrp": 13.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20098",
+      "item_index": "4775",
+      "rothco_item_no": "3197",
+      "upc": "613902831971",
+      "inventory": "99",
+      "created_date": "2021-01-04 12:00:29",
+      "weight": "0.2500",
+      "image_filename": "3197-A-no-logo.jpg",
+      "catalog_page_no": "241",
+      "msrp": 13.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

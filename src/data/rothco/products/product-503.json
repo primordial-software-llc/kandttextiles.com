@@ -1,0 +1,76 @@
+{
+  "item_index": "503",
+  "item_name": "Rothco U.S. Flag Bandana",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's U.S. Flag Bandana combines style, comfort, and functionality with its iconic American flag design. Made from 100% durable cotton, this bandana is perfect for a variety of uses, from wearing under a helmet to protecting your face from dust or keeping your neck warm in chilly weather. Available in 2 convenient sizes, 22 inch x 22 inch and 27 inch x 27 inch, it offers a comfortable fit for multiple purposes, including as a handkerchief, facemask, or washcloth.</p>",
+  "no_ratings": "0",
+  "sort_order": "2167",
+  "description": "<p>Rothco's U.S. Flag Bandana combines style, comfort, and functionality with its iconic American flag design. Made from 100% durable cotton, this bandana is perfect for a variety of uses, from wearing under a helmet to protecting your face from dust or keeping your neck warm in chilly weather. Available in 2 convenient sizes, 22 inch x 22 inch and 27 inch x 27 inch, it offers a comfortable fit for multiple purposes, including as a handkerchief, facemask, or washcloth. Whether you're outdoors, working, or adding a patriotic touch to your outfit, this bandana is a practical and stylish accessory. Lightweight and breathable, it&rsquo;s designed for everyday comfort while offering long-lasting durability.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "369",
+    "679",
+    "369",
+    "679"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2847",
+      "item_index": "503",
+      "rothco_item_no": "4150",
+      "upc": "613902415003",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0700",
+      "image_filename": "4150-A-amazon.jpg",
+      "catalog_page_no": "164",
+      "msrp": 3.99,
+      "ship_length": "11.0000",
+      "ship_width": "11.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "22 x 22 Inches",
+        "color": "Red / White / Blue"
+      },
+      "size": "22 x 22 Inches",
+      "color": "Red / White / Blue",
+      "price": 1.4,
+      "case_price": 1.4,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12336",
+      "item_index": "503",
+      "rothco_item_no": "4950",
+      "upc": "613902495098",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0900",
+      "image_filename": "4950-A-amazon.jpg",
+      "catalog_page_no": "166",
+      "msrp": 4.99,
+      "ship_length": "13.5000",
+      "ship_width": "13.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "27 x 27 Inches",
+        "color": "Red / White / Blue"
+      },
+      "size": "27 x 27 Inches",
+      "color": "Red / White / Blue",
+      "price": 1.8,
+      "case_price": 1.8,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

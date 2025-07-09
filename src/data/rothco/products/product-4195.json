@@ -1,0 +1,76 @@
+{
+  "item_index": "4195",
+  "item_name": "Rothco Thin Red Line Flag Low Profile Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show your unwavering support for firefighters and first responders with Rothco&rsquo;s Thin Red Line Flag Low Profile Cap. This baseball-styled hat is constructed from durable brushed cotton twill, ensuring long-lasting wear and comfort. The front panel features the Thin Red Line flag, a powerful symbol of respect and support for our brave firefighters. Designed with practicality in mind, the rugged cap includes a hook &amp; loop closure for an adjustable fit, accommodating various head sizes.</p>",
+  "no_ratings": null,
+  "sort_order": "582",
+  "description": "<p>Show your unwavering support for firefighters and first responders with Rothco&rsquo;s Thin Red Line Flag Low Profile Cap. This baseball-styled hat is constructed from durable brushed cotton twill, ensuring long-lasting wear and comfort. The front panel features the Thin Red Line flag, a powerful symbol of respect and support for our brave firefighters. Designed with practicality in mind, the rugged cap includes a hook &amp; loop closure for an adjustable fit, accommodating various head sizes. The inner sweatband helps keep you cool and dry, even during the most demanding activities. By purchasing this tactical hat, you're not only showing your support but also contributing to a meaningful cause, as proceeds benefit families of fallen first responders. Whether you're wearing it to honor the heroes in your community or simply as a stylish accessory, Rothco's Thin Red Line Flag Low Profile Cap is a great addition to any wardrobe. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from military personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "374",
+    "674",
+    "674",
+    "374"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16577",
+      "item_index": "4195",
+      "rothco_item_no": "9896",
+      "upc": "613902989603",
+      "inventory": "99",
+      "created_date": "2016-10-07 13:10:01",
+      "weight": "0.2500",
+      "image_filename": "9896-B-amazon.jpg",
+      "catalog_page_no": "138",
+      "msrp": 16.99,
+      "ship_length": "9.0000",
+      "ship_width": "8.5000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17678",
+      "item_index": "4195",
+      "rothco_item_no": "7659",
+      "upc": "613902076594",
+      "inventory": "99",
+      "created_date": "2017-10-06 10:10:03",
+      "weight": "0.2500",
+      "image_filename": "7659-A-amazon.jpg",
+      "catalog_page_no": "138",
+      "msrp": 16.99,
+      "ship_length": "9.0000",
+      "ship_width": "8.5000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue",
+        "size": "One Size"
+      },
+      "color": "Navy Blue",
+      "size": "One Size",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

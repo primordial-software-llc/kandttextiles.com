@@ -1,0 +1,40 @@
+{
+  "item_index": "803",
+  "item_name": "Marksman Slingshot Replacement Kit",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>&nbsp;</p>\n<p>Keep your slingshot in top condition with the Marksman Slingshot Replacement Kit, compatible with Marksman and other tubular slingshots. This replacement kit ensures precise performance and durability for outdoor adventures or target practice. Designed for easy installation, it&rsquo;s an essential accessory for maintaining your slingshot&rsquo;s functionality.</p>",
+  "no_ratings": "0",
+  "sort_order": "379",
+  "description": "<p>&nbsp;</p>\n<p>Keep your slingshot in top condition with the Marksman Slingshot Replacement Kit, compatible with Marksman and other tubular slingshots. This replacement kit ensures precise performance and durability for outdoor adventures or target practice. Designed for easy installation, it&rsquo;s an essential accessory for maintaining your slingshot&rsquo;s functionality.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "345"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3693",
+      "item_index": "803",
+      "rothco_item_no": "4725",
+      "upc": "026785033309",
+      "inventory": "99",
+      "created_date": "2002-05-29 21:00:00",
+      "weight": "0.1000",
+      "image_filename": "4725-new-hr11.jpg",
+      "catalog_page_no": "266",
+      "msrp": 8.99,
+      "ship_length": "6.0000",
+      "ship_width": "5.7500",
+      "ship_height": "6.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 3.5,
+      "case_price": 3.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

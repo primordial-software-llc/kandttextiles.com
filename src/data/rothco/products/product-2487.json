@@ -1,0 +1,119 @@
+{
+  "item_index": "2487",
+  "item_name": "Rothco Mechanics Tool Bag With Brass Zipper",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Explore durability with Rothco's Mechanics Tool Bag. Crafted from heavyweight cotton canvas, it features 2 snap pockets outside, 8 tool organizer pockets inside, and a robust brass zipper. Ideal for securing and organizing your tools and more! Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "no_ratings": "0",
+  "sort_order": "4160",
+  "description": "<p>Explore durability with Rothco's Mechanics Tool Bag. Crafted from heavyweight cotton canvas, it features 2 snap pockets outside, 8 tool organizer pockets inside, and a robust brass zipper. Ideal for securing and organizing your tools and more! Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "143",
+    "503",
+    "221"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10649",
+      "item_index": "2487",
+      "rothco_item_no": "9182",
+      "upc": "613902918207",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.1500",
+      "image_filename": "9182-B.jpg",
+      "catalog_page_no": "337",
+      "msrp": 26.99,
+      "ship_length": "12.5000",
+      "ship_width": "7.5000",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 10.25,
+      "case_price": 10.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10668",
+      "item_index": "2487",
+      "rothco_item_no": "9192",
+      "upc": "613902919211",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.1500",
+      "image_filename": "9192-A-amazon.jpg",
+      "catalog_page_no": "337",
+      "msrp": 26.99,
+      "ship_length": "12.5000",
+      "ship_width": "7.5000",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 10.25,
+      "case_price": 10.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14403",
+      "item_index": "2487",
+      "rothco_item_no": "91920",
+      "upc": "613902919204",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.1500",
+      "image_filename": "91920-C-amazon.jpg",
+      "catalog_page_no": "337",
+      "msrp": 24.99,
+      "ship_length": "12.5000",
+      "ship_width": "7.5000",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "ACU Digital Camo"
+      },
+      "color": "ACU Digital Camo",
+      "price": 10.25,
+      "case_price": 10.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15118",
+      "item_index": "2487",
+      "rothco_item_no": "91820",
+      "upc": "613902091825",
+      "inventory": "99",
+      "created_date": "2015-03-10 17:10:02",
+      "weight": "1.1500",
+      "image_filename": "91820-B-amazon1.jpg",
+      "catalog_page_no": "337",
+      "msrp": 26.99,
+      "ship_length": "12.5000",
+      "ship_width": "7.5000",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 10.25,
+      "case_price": 10.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

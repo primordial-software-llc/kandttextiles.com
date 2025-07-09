@@ -1,0 +1,96 @@
+{
+  "item_index": "3609",
+  "item_name": "Rothco Global Assault Pack ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=_tHLd6WZ9_A",
+  "rating": "5",
+  "item_short_desc": "<p>Embark on outdoor adventures with confidence using Rothco's Global Assault Pack. Boasting a massive storage capacity and numerous extra-large compartments, this pack is a must-have for hikers, hunters, and camping enthusiasts alike. The hydration-bladder compatible main zipper pocket features 2 interior zippered pockets, ensuring quick access to survival gear, rations, and tactical essentials during your expeditions. Additionally, an interior open-top pocket equipped with 3 quick-release cinch straps allows for rapid retrieval of your gear.</p>",
+  "no_ratings": null,
+  "sort_order": "1025",
+  "description": "<p>Embark on outdoor adventures with confidence using Rothco's Global Assault Pack. Boasting a massive storage capacity and numerous extra-large compartments, this pack is a must-have for hikers, hunters, and camping enthusiasts alike. The hydration-bladder compatible main zipper pocket features 2 interior zippered pockets, ensuring quick access to survival gear, rations, and tactical essentials during your expeditions. Additionally, an interior open-top pocket equipped with 3 quick-release cinch straps allows for rapid retrieval of your gear, enhancing convenience on the go. The front zip-pocket provides additional space for outdoor necessities and includes an inner loop patch for attaching additional gear or accessories. Moreover, a compact interior zippered mesh pocket within the front zip-pocket is perfect for storing small items securely. Designed for extended carrying comfort, this pack features a breathable padded mesh back with a sturdy removable plastic frame, adjustable sternum strap, and removable kidney pad with a quick-release strap for optimal weight distribution. Adjustable MOLLE shoulder straps offer 11 height options to further optimize weight distribution and ensure a personalized fit. For added versatility, strategically placed d-rings on the tactical backpack allow for additional attachments, while 2 bottom straps facilitate the attachment of rolled blankets, sleeping pads, and other large items. With 18 rows of MOLLE webbing around the pack, you can easily mount additional attachments as needed. Furthermore, 2 removable side zip-pouches, secured with MOLLE straps and quick-release cinch straps, are ideal for keeping gear readily accessible. The top carry handle and quick-release cinch strap enable easy transport and secure storage of your gear, while an exterior loop field allows for the addition of flags, morale patches, and attachments to personalize your pack. Measuring 25 inch x 14.5 inch x 10 inch, Rothco's Global Pack is your ultimate companion for conquering the great outdoors with ease and efficiency.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "598",
+    "201",
+    "305",
+    "553"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "13346",
+      "item_index": "3609",
+      "rothco_item_no": "23510",
+      "upc": "613902235106",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "5.8500",
+      "image_filename": "23510-B-amazon.jpg",
+      "catalog_page_no": "320",
+      "msrp": 158.99,
+      "ship_length": "26.5000",
+      "ship_width": "19.0000",
+      "ship_height": "5.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 71.85,
+      "case_price": 71.85,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "13347",
+      "item_index": "3609",
+      "rothco_item_no": "23520",
+      "upc": "613902235205",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "5.8500",
+      "image_filename": "23520-E-amazon.jpg",
+      "catalog_page_no": "320",
+      "msrp": 158.99,
+      "ship_length": "26.5000",
+      "ship_width": "19.0000",
+      "ship_height": "5.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 71.85,
+      "case_price": 71.85,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20582",
+      "item_index": "3609",
+      "rothco_item_no": "23511",
+      "upc": "613902000889",
+      "inventory": "99",
+      "created_date": "2021-04-15 15:00:07",
+      "weight": "5.8500",
+      "image_filename": "23511-C-NOLOGO.jpg",
+      "catalog_page_no": "320",
+      "msrp": 158.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 71.85,
+      "case_price": 71.85,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

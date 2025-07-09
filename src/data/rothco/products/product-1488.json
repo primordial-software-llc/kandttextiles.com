@@ -1,0 +1,45 @@
+{
+  "item_index": "1488",
+  "item_name": "Rothco Colonel Insignia Pin - Silver",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Colonel Rank Pin ideal for wearing on service uniforms.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "667",
+  "description": "<p>Colonel Rank Pin ideal for wearing on service uniforms.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "422"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "792",
+      "item_index": "1488",
+      "rothco_item_no": "1705",
+      "upc": "613902017054",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0450",
+      "image_filename": "1705-A.jpg",
+      "catalog_page_no": "212",
+      "msrp": 14.99,
+      "ship_length": "4.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Silver",
+        "size": "One Size"
+      },
+      "color": "Silver",
+      "size": "One Size",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

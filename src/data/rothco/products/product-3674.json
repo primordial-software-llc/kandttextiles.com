@@ -1,0 +1,102 @@
+{
+  "item_index": "3674",
+  "item_name": "Rothco Digital Camo Shemagh Tactical Desert Keffiyeh Scarf",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Digital Camo Shemagh is the ultimate tactical desert keffiyeh scarf for versatile protection in extreme conditions. Crafted with breathable woven cotton, it offers comfort and resilience while shielding your head and neck from harmful sunrays, snow, sand, and debris. Measuring approximately 42 inches x 42 inches, this scarf can be worn in various ways - as a face mask, balaclava, neck gaiter, and more, adapting to your needs in any situation.</p>",
+  "no_ratings": null,
+  "sort_order": "4070",
+  "description": "<p>Rothco's Digital Camo Shemagh is the ultimate tactical desert keffiyeh scarf for versatile protection in extreme conditions. Crafted with breathable woven cotton, it offers comfort and resilience while shielding your head and neck from harmful sunrays, snow, sand, and debris. Measuring approximately 42 inches x 42 inches, this scarf can be worn in various ways - as a face mask, balaclava, neck gaiter, and more, adapting to your needs in any situation. Its versatility extends beyond mere protection; it doubles as a survival tool, serving as a makeshift sling, tourniquet, pouch, and more, making it indispensable for your bug out bag or 72-hour kit. Trusted by active-duty personnel worldwide, the camo shemagh not only offers practical utility but also serves as a stylish fashion accessory. Whether you're traversing deserts, facing snowstorms, or navigating any extreme environment, the Rothco Digital Camo Shemagh ensures you're prepared for whatever challenges come your way. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "143",
+    "414",
+    "369",
+    "681"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14156",
+      "item_index": "3674",
+      "rothco_item_no": "88537",
+      "upc": "613902895379",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "88537-A-amazon.jpg",
+      "catalog_page_no": "162",
+      "msrp": 16.99,
+      "ship_length": "12.0000",
+      "ship_width": "12.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "ACU Digital Camo",
+        "size": "One Size"
+      },
+      "color": "ACU Digital Camo",
+      "size": "One Size",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15946",
+      "item_index": "3674",
+      "rothco_item_no": "88538",
+      "upc": "613902885387",
+      "inventory": "99",
+      "created_date": "2015-11-23 09:10:01",
+      "weight": "0.4500",
+      "image_filename": "88538-C-amazon.jpg",
+      "catalog_page_no": "162",
+      "msrp": 16.99,
+      "ship_length": "12.0000",
+      "ship_width": "12.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Desert Digital Camo",
+        "size": "One Size"
+      },
+      "color": "Desert Digital Camo",
+      "size": "One Size",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16053",
+      "item_index": "3674",
+      "rothco_item_no": "88539",
+      "upc": "613902883215",
+      "inventory": "99",
+      "created_date": "2015-12-30 10:10:01",
+      "weight": "0.4500",
+      "image_filename": "88539-SubduedUrban-A-amazon.jpg",
+      "catalog_page_no": "162",
+      "msrp": 16.99,
+      "ship_length": "12.0000",
+      "ship_width": "12.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Subdued Urban Digital Camo",
+        "size": "One Size"
+      },
+      "color": "Subdued Urban Digital Camo",
+      "size": "One Size",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

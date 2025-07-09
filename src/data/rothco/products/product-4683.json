@@ -1,0 +1,45 @@
+{
+  "item_index": "4683",
+  "item_name": "Rothco 74 Inch Military Web Belts",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Web Belts are constructed from resilient high-density cotton canvas, these belts are fully adjustable up to 74 inches. Easily customize the length by cutting for a perfect fit. The secure metal buckle ensures reliability, and the detachable buckle allows for personalized style. Measuring 1.25&rdquo; wide, these belts are versatile, fitting BDU pants, cargo shorts, uniforms, jeans, and more.</p>",
+  "no_ratings": null,
+  "sort_order": "132996",
+  "description": "<p>Rothco's Web Belts are constructed from resilient high-density cotton canvas, these belts are fully adjustable up to 74 inches. Easily customize the length by cutting for a perfect fit. The secure metal buckle ensures reliability, and the detachable buckle allows for personalized style. Measuring 1.25&rdquo; wide, these belts are versatile, fitting BDU pants, cargo shorts, uniforms, jeans, and more.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "3"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19542",
+      "item_index": "4683",
+      "rothco_item_no": "1724",
+      "upc": "613902017245",
+      "inventory": "99",
+      "created_date": "2020-04-29 17:00:09",
+      "weight": "0.2188",
+      "image_filename": "1724-Black-Gold-A.jpg",
+      "catalog_page_no": "193",
+      "msrp": 8.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "buckle": "Gold"
+      },
+      "color": "Black",
+      "buckle": "Gold",
+      "price": 3.75,
+      "case_price": 3.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

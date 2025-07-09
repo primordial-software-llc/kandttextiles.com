@@ -1,0 +1,42 @@
+{
+  "item_index": "125",
+  "item_name": "Rothco Quick Draw Tactical Vest",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay ready for action with Rothco&rsquo;s Quick Draw Tactical Vest, designed for efficiency and comfort. The left-side universal pistol holder ensures a quick right-hand draw and accommodates most full-size handguns. 3 rifle magazine pouches and a triple pistol magazine pouch provide ample storage for your gear, while 5 shotgun shell loops add extra convenience. Dual padded shoulder straps enhance comfort, with the right shoulder reinforced for weapon bracing.</p>",
+  "no_ratings": "0",
+  "sort_order": "316",
+  "description": "<p>Stay ready for action with Rothco&rsquo;s Quick Draw Tactical Vest, designed for efficiency and comfort. The left-side universal pistol holder ensures a quick right-hand draw and accommodates most full-size handguns. 3 rifle magazine pouches and a triple pistol magazine pouch provide ample storage for your gear, while 5 shotgun shell loops add extra convenience. Dual padded shoulder straps enhance comfort, with the right shoulder reinforced for weapon bracing. The vest also features a hidden pocket for a spare cuff key, inside pouches for additional storage, and hook &amp; loop back panels for ID attachments. Crafted from durable 600D polyester with breathable nylon mesh, this vest is built for rugged use. Adjustable sides and belt straps ensure a secure fit for most users.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "183",
+    "544",
+    "333"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "6895",
+      "item_index": "125",
+      "rothco_item_no": "6594",
+      "upc": "613902659407",
+      "inventory": "52",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.2500",
+      "image_filename": "6594-A1.jpg",
+      "catalog_page_no": "237",
+      "msrp": 153.99,
+      "ship_length": "21.0000",
+      "ship_width": "20.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 69.95,
+      "case_price": 69.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

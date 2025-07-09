@@ -1,0 +1,40 @@
+{
+  "item_index": "2999",
+  "item_name": "Rothco Stainless Steel Jerry Can Flask",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Stainless Steel Jerry Can Flask is an excellent replica of a G.I. gas can and is made of long lasting stainless steel, holding up to 6 oz of liquid. This unique flask makes for a great novelty gift idea.</p>",
+  "no_ratings": null,
+  "sort_order": "529",
+  "description": "<p>Rothco&rsquo;s Stainless Steel Jerry Can Flask is an excellent replica of a G.I. gas can and is made of long lasting stainless steel, holding up to 6 oz of liquid. This unique flask makes for a great novelty gift idea.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "285"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "6612",
+      "item_index": "2999",
+      "rothco_item_no": "643",
+      "upc": "613902064300",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "643-A-no-logo.jpg",
+      "catalog_page_no": "206",
+      "msrp": 19.99,
+      "ship_length": "4.0000",
+      "ship_width": "3.0000",
+      "ship_height": "1.0000",
+      "eta_date": "07/12/2025",
+      "specs": [],
+      "price": 7.7,
+      "case_price": 7.7,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

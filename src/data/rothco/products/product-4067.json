@@ -1,0 +1,42 @@
+{
+  "item_index": "4067",
+  "item_name": "Rothco Concealed Carry Holster Panel",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Concealed Carry Holster Panel has been designed to fit sub-compact to full-framed pistols and is padded to protect the weapon.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "584",
+  "description": "<p>Rothco's Concealed Carry Holster Panel has been designed to fit sub-compact to full-framed pistols and is padded to protect the weapon. For stability and versatility, the gun holster panel features a full hook &amp; loop back panel that can attach to any bag, vest or jacket with loop paneling, the holster panel is ambidextrous allowing both right-hand and left-hand draw. The panel works get with our Advanced Tactical Bag, Tactisling Transport Pack and more!</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "248",
+    "255",
+    "555"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15945",
+      "item_index": "4067",
+      "rothco_item_no": "10859",
+      "upc": "613902108592",
+      "inventory": "99",
+      "created_date": "2015-11-23 09:10:01",
+      "weight": "0.1875",
+      "image_filename": "10859-A-amazon.jpg",
+      "catalog_page_no": "231",
+      "msrp": 13.99,
+      "ship_length": "6.0000",
+      "ship_width": "7.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

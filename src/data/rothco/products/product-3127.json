@@ -1,0 +1,40 @@
+{
+  "item_index": "3127",
+  "item_name": "Rothco Portable Camp Toilet Replacement Bags",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Replacement bags for Rothco's portable camping toilet is perfect for camping.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "1191",
+  "description": "<p>Replacement bags for Rothco's portable camping toilet is perfect for camping. The replacement bags come 10 per pack.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "261"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5191",
+      "item_index": "3127",
+      "rothco_item_no": "561",
+      "upc": "613902056107",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "561-A1.jpg",
+      "catalog_page_no": "303",
+      "msrp": 6.99,
+      "ship_length": "5.7500",
+      "ship_width": "5.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 2.5,
+      "case_price": 2.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

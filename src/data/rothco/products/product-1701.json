@@ -1,0 +1,51 @@
+{
+  "item_index": "1701",
+  "item_name": "Rothco Deluxe Adventurer Survival Kit Knife",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Deluxe Adventurer Survival Kit Knife is the ultimate tool for any emergency situation, combining practicality with durability. The knife features a robust 5 1/2 inch stainless steel blade that ensures reliable performance and a total length of 10 1/2 inches for optimal handling. This survival knife is packed with essential tools, including a fishing line, hooks, sinkers, a striking flint, a sewing kit, and a compass, all stored conveniently within the hollow handle.</p>",
+  "no_ratings": "0",
+  "sort_order": "1949",
+  "description": "<p>Rothco's Deluxe Adventurer Survival Kit Knife is the ultimate tool for any emergency situation, combining practicality with durability. The knife features a robust 5 1/2 inch stainless steel blade that ensures reliable performance and a total length of 10 1/2 inches for optimal handling. This survival knife is packed with essential tools, including a fishing line, hooks, sinkers, a striking flint, a sewing kit, and a compass, all stored conveniently within the hollow handle. The sawtooth back edge enhances versatility, allowing for cutting and sawing tasks. The outdoor knife also includes a durable sheath with a built-in sharpening stone to maintain the blade's edge. Whether you're an adventurer, camper, or outdoor enthusiast, this survival kit knife is designed to help you navigate and survive in the wild. Please note that this item is restricted for export and cannot be sold for use in some countries outside the U.S. Contact Rothco for more details on international availability.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": [
+    "Restricted",
+    "Restricted",
+    "Restricted"
+  ],
+  "categories": [
+    "297",
+    "499",
+    "542"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12684",
+      "item_index": "1701",
+      "rothco_item_no": "3335",
+      "upc": "613902033351",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2000",
+      "image_filename": "3335-a.jpg",
+      "catalog_page_no": "269",
+      "msrp": 35.99,
+      "ship_length": "13.0000",
+      "ship_width": "2.7500",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 15.5,
+      "case_price": 15.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

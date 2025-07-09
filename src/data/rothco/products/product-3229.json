@@ -1,0 +1,141 @@
+{
+  "item_index": "3229",
+  "item_name": "Rothco Kill 'Em All T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Embrace a bold statement with Rothco&rsquo;s Kill 'Em All T-Shirt, featuring a striking graphic design inspired by a historical phrase. The front of the shirt displays a vivid image of a skull wearing a green beret, holding a knife between its teeth, and framed by wings. Accompanying the graphic, the iconic text reads &ldquo;Kill 'Em All&rdquo; and &ldquo;Let God Sort 'Em Out!&rdquo; Made from a soft and durable cotton-polyester blend, this graphic tee is perfect for those who want to express a fearless attitude.</p>",
+  "no_ratings": null,
+  "sort_order": "1851",
+  "description": "<p>Embrace a bold statement with Rothco&rsquo;s Kill 'Em All T-Shirt, featuring a striking graphic design inspired by a historical phrase. The front of the shirt displays a vivid image of a skull wearing a green beret, holding a knife between its teeth, and framed by wings. Accompanying the graphic, the iconic text reads &ldquo;Kill 'Em All&rdquo; and &ldquo;Let God Sort 'Em Out!&rdquo; Made from a soft and durable cotton-polyester blend, this graphic tee is perfect for those who want to express a fearless attitude. The fabric ensures all-day comfort and durability, making it suitable for everyday wear or outdoor adventures. The tagless label design adds an extra layer of comfort, eliminating any irritation caused by traditional tags. With its unique design and comfortable fit, this t-shirt is a bold addition to any casual wardrobe.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "42"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12415",
+      "item_index": "3229",
+      "rothco_item_no": "66160",
+      "upc": "613902966109",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "66160-A1.jpg",
+      "catalog_page_no": "116",
+      "msrp": 19.99,
+      "ship_length": "14.0000",
+      "ship_width": "17.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12416",
+      "item_index": "3229",
+      "rothco_item_no": "66160",
+      "upc": "613902966161",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "66160-A1.jpg",
+      "catalog_page_no": "116",
+      "msrp": 19.99,
+      "ship_length": "14.7500",
+      "ship_width": "12.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12417",
+      "item_index": "3229",
+      "rothco_item_no": "66160",
+      "upc": "613902966185",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "66160-A1.jpg",
+      "catalog_page_no": "116",
+      "msrp": 19.99,
+      "ship_length": "15.5000",
+      "ship_width": "21.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12418",
+      "item_index": "3229",
+      "rothco_item_no": "66160",
+      "upc": "613902966178",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "66160-A1.jpg",
+      "catalog_page_no": "116",
+      "msrp": 19.99,
+      "ship_length": "15.5000",
+      "ship_width": "22.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12419",
+      "item_index": "3229",
+      "rothco_item_no": "66161",
+      "upc": "613902966116",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "66160-A1.jpg",
+      "catalog_page_no": "116",
+      "msrp": 20.99,
+      "ship_length": "17.0000",
+      "ship_width": "24.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 8,
+      "case_price": 8,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

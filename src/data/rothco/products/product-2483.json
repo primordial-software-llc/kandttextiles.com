@@ -1,0 +1,151 @@
+{
+  "item_index": "2483",
+  "item_name": "Rothco Vintage Canvas Paratrooper Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Discover the versatility and durability of Rothco&rsquo;s Vintage Canvas Paratrooper Bag. Crafted from rugged washed cotton canvas, this military bag is designed to withstand the rigors of daily use. With dimensions measuring 15 inch x 11 inch x 4 inch, the canvas offers high-capacity space to accommodate your essential gear, including laptops, books, and other supplies. The bag features 3 divider sections, ensuring that your items remain organized and easily accessible at all times.</p>",
+  "no_ratings": "0",
+  "sort_order": "5278",
+  "description": "<p>Discover the versatility and durability of Rothco&rsquo;s Vintage Canvas Paratrooper Bag. Crafted from rugged washed cotton canvas, this military bag is designed to withstand the rigors of daily use. With dimensions measuring 15 inch x 11 inch x 4 inch, the canvas offers high-capacity space to accommodate your essential gear, including laptops, books, and other supplies. The bag features 3 divider sections, ensuring that your items remain organized and easily accessible at all times. Constructed with a focus on longevity, the paratrooper bag's durable material ensures that it can withstand frequent use without showing signs of wear and tear. The outer snap compartment is equipped with 2 rows of shell loops, providing convenient storage for writing utensils. Additionally, the large flap closure, secured with a metal clip, keeps your contents safe and secure while you're on the move. For added convenience, the bag is equipped with an adjustable shoulder strap that can extend up to 40 inches, allowing you to carry it comfortably in the style that suits you best. Whether you're commuting to work, running errands, or embarking on outdoor adventures, Rothco's Vintage Canvas Paratrooper Bag is the perfect companion for keeping your gear organized and accessible while on the go. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "205",
+    "208",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10593",
+      "item_index": "2483",
+      "rothco_item_no": "9128",
+      "upc": "613902912809",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3500",
+      "image_filename": "9128-AA.jpg",
+      "catalog_page_no": "362",
+      "msrp": 32.99,
+      "ship_length": "17.2500",
+      "ship_width": "13.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Vintage Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Vintage Olive Drab",
+      "size": "One Size",
+      "price": 14.95,
+      "case_price": 14.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10606",
+      "item_index": "2483",
+      "rothco_item_no": "9138",
+      "upc": "613902913806",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3500",
+      "image_filename": "9728-A.jpg",
+      "catalog_page_no": "362",
+      "msrp": 32.99,
+      "ship_length": "17.2500",
+      "ship_width": "13.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki",
+        "size": "One Size"
+      },
+      "color": "Khaki",
+      "size": "One Size",
+      "price": 14.95,
+      "case_price": 14.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "11090",
+      "item_index": "2483",
+      "rothco_item_no": "9558",
+      "upc": "613902955806",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2000",
+      "image_filename": "9558-AA.jpg",
+      "catalog_page_no": "362",
+      "msrp": 32.99,
+      "ship_length": "17.2500",
+      "ship_width": "13.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 14.95,
+      "case_price": 14.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "11227",
+      "item_index": "2483",
+      "rothco_item_no": "9728",
+      "upc": "613902097285",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3500",
+      "image_filename": "9728-AA.jpg",
+      "catalog_page_no": "362",
+      "msrp": 32.99,
+      "ship_length": "17.2500",
+      "ship_width": "13.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Brown",
+        "size": "One Size"
+      },
+      "color": "Brown",
+      "size": "One Size",
+      "price": 14.95,
+      "case_price": 14.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22760",
+      "item_index": "2483",
+      "rothco_item_no": "91280",
+      "upc": "613902028692",
+      "inventory": "99",
+      "created_date": "2023-04-05 16:00:10",
+      "weight": "0.0000",
+      "image_filename": "91280-A.jpg",
+      "catalog_page_no": "362",
+      "msrp": 32.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 14.95,
+      "case_price": 14.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

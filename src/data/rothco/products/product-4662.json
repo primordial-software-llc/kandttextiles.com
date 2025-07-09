@@ -1,0 +1,104 @@
+{
+  "item_index": "4662",
+  "item_name": "Rothco 95lb Micro Cord 100ft Spool",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's 95lb Micro Cord is a compact and versatile tool designed to handle countless outdoor and survival applications. Originating from parachute suspension lines, this Type I paracord measures approximately 1/16 inch in diameter and comes on a 100ft spool, making it easy to store and carry. With a tensile strength of 95lb, the durable cord is perfect for tying gear, creating traps, or even serving as a fishing line. Made in the USA, this micro cord is crafted for quality and reliability, ensuring it holds up during critical tasks.</p>",
+  "no_ratings": null,
+  "sort_order": "132975",
+  "description": "<p>Rothco's 95lb Micro Cord is a compact and versatile tool designed to handle countless outdoor and survival applications. Originating from parachute suspension lines, this Type I paracord measures approximately 1/16 inch in diameter and comes on a 100ft spool, making it easy to store and carry. With a tensile strength of 95lb, the durable cord is perfect for tying gear, creating traps, or even serving as a fishing line. Made in the USA, this micro cord is crafted for quality and reliability, ensuring it holds up during critical tasks. Whether you're camping, hiking, or preparing for emergencies, Rothco&rsquo;s micro cord is a must-have addition to your survival gear.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "256",
+    "542",
+    "261",
+    "443",
+    "466",
+    "444"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19432",
+      "item_index": "4662",
+      "rothco_item_no": "85",
+      "upc": "613902000858",
+      "inventory": "99",
+      "created_date": "2020-01-14 10:00:40",
+      "weight": "0.2000",
+      "image_filename": "85-A-amazon.jpg",
+      "catalog_page_no": "309",
+      "msrp": 8.99,
+      "ship_length": "2.0000",
+      "ship_width": "2.0000",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "length": "100 Feet"
+      },
+      "color": "Black",
+      "length": "100 Feet",
+      "price": 3.35,
+      "case_price": 3.35,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19444",
+      "item_index": "4662",
+      "rothco_item_no": "86",
+      "upc": "613902111868",
+      "inventory": "99",
+      "created_date": "2020-01-14 12:00:01",
+      "weight": "0.2000",
+      "image_filename": "86-A-amazon.jpg",
+      "catalog_page_no": "309",
+      "msrp": 8.99,
+      "ship_length": "2.0000",
+      "ship_width": "2.0000",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "length": "100 Feet"
+      },
+      "color": "Olive Drab",
+      "length": "100 Feet",
+      "price": 3.35,
+      "case_price": 3.35,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19445",
+      "item_index": "4662",
+      "rothco_item_no": "87",
+      "upc": "613902000872",
+      "inventory": "99",
+      "created_date": "2020-01-14 12:00:01",
+      "weight": "0.2000",
+      "image_filename": "87-A-amazon.jpg",
+      "catalog_page_no": "309",
+      "msrp": 8.99,
+      "ship_length": "2.0000",
+      "ship_width": "2.0000",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "length": "100 Feet"
+      },
+      "color": "Coyote Brown",
+      "length": "100 Feet",
+      "price": 3.35,
+      "case_price": 3.35,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

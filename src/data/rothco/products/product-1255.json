@@ -1,0 +1,119 @@
+{
+  "item_index": "1255",
+  "item_name": "Rothco MOLLE Double Pistol Mag Pouch With Insert",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=PbTPkvcGLX8",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s MOLLE Double Pistol Mag Pouch with Inserts is designed to offer secure storage and quick access to your extra pistol magazines. Built with durable inserts, this mag pouch adds a layer of friction to keep your magazines safely in place while maintaining the shape of the pouch for easy reloads. The MOLLE-compatible design makes it perfect for attaching to tactical vests, belts, or any gear equipped with a MOLLE panel.</p>",
+  "no_ratings": "0",
+  "sort_order": "877",
+  "description": "<p>Rothco&rsquo;s MOLLE Double Pistol Mag Pouch with Inserts is designed to offer secure storage and quick access to your extra pistol magazines. Built with durable inserts, this mag pouch adds a layer of friction to keep your magazines safely in place while maintaining the shape of the pouch for easy reloads. The MOLLE-compatible design makes it perfect for attaching to tactical vests, belts, or any gear equipped with a MOLLE panel. Each pouch comfortably fits most standard pistol magazines, including 9mm and .40 caliber, and features a sturdy hook-&amp;-loop closure with quick-release pull tabs for rapid access. When needed, the hook-&amp;-loop closures can be secured to the front of the pouch, keeping it open for faster reloads at the range. Designed with grommet drain holes at the bottom of each pouch, the durable construction ensures longevity in the field, offering reliable performance for public safety professionals, shooting enthusiasts, and more.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "4517",
+      "item_index": "1255",
+      "rothco_item_no": "51001",
+      "upc": "613902951013",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3000",
+      "image_filename": "51001-A-NOLOGO1.jpg",
+      "catalog_page_no": "245",
+      "msrp": 25.99,
+      "ship_length": "8.0000",
+      "ship_width": "5.7500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 9.9,
+      "case_price": 9.9,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "4518",
+      "item_index": "1255",
+      "rothco_item_no": "51001",
+      "upc": "613902051010",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3000",
+      "image_filename": "51001_opened-Coyote-HR.jpg",
+      "catalog_page_no": "245",
+      "msrp": 25.99,
+      "ship_length": "8.0000",
+      "ship_width": "5.7500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 9.9,
+      "case_price": 9.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21004",
+      "item_index": "1255",
+      "rothco_item_no": "51001",
+      "upc": "613902006997",
+      "inventory": "99",
+      "created_date": "2021-11-09 16:00:09",
+      "weight": "0.3000",
+      "image_filename": "51001-A2.jpg",
+      "catalog_page_no": "245",
+      "msrp": 25.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 9.9,
+      "case_price": 9.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21005",
+      "item_index": "1255",
+      "rothco_item_no": "51018",
+      "upc": "613902007048",
+      "inventory": "0",
+      "created_date": "2021-11-09 16:00:09",
+      "weight": "0.3000",
+      "image_filename": "51018-A.jpg",
+      "catalog_page_no": "245",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "07/17/2025",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

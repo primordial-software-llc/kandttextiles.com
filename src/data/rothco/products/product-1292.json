@@ -1,0 +1,119 @@
+{
+  "item_index": "1292",
+  "item_name": "Rothco Canvas M-51 Engineers Field Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Canvas M-51 Engineers Field Bag is a versatile carry-all suitable for business, travel, or school. Crafted from durable heavyweight cotton canvas, this bag features a main compartment measuring 10.5 inches x 10.5 inches with a large flap secured by a metal turning lock closure, ensuring the safety of your belongings. The back panel boasts a 3/4 zipper opening, providing access to numerous storage pockets for organizing various items.</p>",
+  "no_ratings": "0",
+  "sort_order": "3323",
+  "description": "<p>Rothco's Canvas M-51 Engineers Field Bag is a versatile carry-all suitable for business, travel, or school. Crafted from durable heavyweight cotton canvas, this bag features a main compartment measuring 10.5 inches x 10.5 inches with a large flap secured by a metal turning lock closure, ensuring the safety of your belongings. The back panel boasts a 3/4 zipper opening, providing access to numerous storage pockets for organizing various items. 2 side pockets with mesh corners and a hook-and-loop closure, are ideal for storing small electronic devices or accessories. The bag also features a plastic document pocket with a hook-and-loop closure under the main flap, offering additional storage space. For enhanced convenience, the main front flap is equipped with a zipper closure. This engineers field bag comes with multiple gear storage options, including 1 small hook-and-loop pocket, 1 small open-top pocket, 5 pen holder loops, and 1 large hook-and-loop pocket. Measuring 12 inches x 14 inches x 5.75 inches overall, the Canvas M-51 Engineers Field bag provides ample room for your essentials. Additionally, it features a top carry handle and a detachable, adjustable shoulder strap that extends to 59 inches when fully extended, allowing for comfortable carrying options. Whether you're heading to work, embarking on a journey, or attending classes, this field bag ensures you have everything you need within easy reach. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "208",
+    "209",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9316",
+      "item_index": "1292",
+      "rothco_item_no": "8112",
+      "upc": "613902811201",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.2500",
+      "image_filename": "8112-A.jpg",
+      "catalog_page_no": "358",
+      "msrp": 50.99,
+      "ship_length": "17.0000",
+      "ship_width": "14.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 22.95,
+      "case_price": 22.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9986",
+      "item_index": "1292",
+      "rothco_item_no": "8612",
+      "upc": "613902861206",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.2000",
+      "image_filename": "8612-A-amazon.jpg",
+      "catalog_page_no": "358",
+      "msrp": 50.99,
+      "ship_length": "17.0000",
+      "ship_width": "14.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 22.95,
+      "case_price": 22.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10007",
+      "item_index": "1292",
+      "rothco_item_no": "8622",
+      "upc": "613902862234",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.2000",
+      "image_filename": "8622-A-amazon.jpg",
+      "catalog_page_no": "358",
+      "msrp": 50.99,
+      "ship_length": "17.0000",
+      "ship_width": "14.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Earth Brown"
+      },
+      "color": "Earth Brown",
+      "price": 22.95,
+      "case_price": 22.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10083",
+      "item_index": "1292",
+      "rothco_item_no": "8672",
+      "upc": "613902867208",
+      "inventory": "90",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.5000",
+      "image_filename": "8672-A-amazon.jpg",
+      "catalog_page_no": "358",
+      "msrp": 50.99,
+      "ship_length": "17.0000",
+      "ship_width": "14.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki"
+      },
+      "color": "Khaki",
+      "price": 22.95,
+      "case_price": 22.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

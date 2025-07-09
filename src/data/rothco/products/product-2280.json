@@ -1,0 +1,151 @@
+{
+  "item_index": "2280",
+  "item_name": "Rothco Heavyweight Mini Alice Pack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Inspired by the time-tested military Alice backpack design, our Mini Alice Pack is the go-to bag for outdoor action and adventure. With heavy-duty 18 OZ cotton canvas fabric and reinforced stitching throughout the body, straps, and pockets, this rucksack easily overcomes any challenge. With a 20L storage capacity, this canvas backpack also makes for a great portable bugout bag.</p>",
+  "no_ratings": "0",
+  "sort_order": "3369",
+  "description": "<p>Inspired by the time-tested military Alice backpack design, our Mini Alice Pack is the go-to bag for outdoor action and adventure. With heavy-duty 18 OZ cotton canvas fabric and reinforced stitching throughout the body, straps, and pockets, this rucksack easily overcomes any challenge. With a 20L storage capacity, this canvas backpack also makes for a great portable bugout bag.</p>\n<p>&nbsp;</p>\n<p><strong>Top Grade Canvas:</strong></p>\n<ul>\n<li>Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Spacious Main Compartment:</strong></p>\n<ul>\n<li>The hiking backpack measures 12.75 inch x 5.75 inch x 16 inch, and features a top loading design that makes packing gear and equipment simple, easy, and straightforward. The main compartment is ideal for carrying extra clothing, mess kit, lantern, and other outdoor essentials. In addition, the drawstring closure keeps your items tucked away inside.</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Exterior Utility Pockets:</strong></p>\n<ul>\n<li>The travel backpack features three flap closure pockets for organizing your survival tools and camping supplies while shielding them from the elements. These pockets are great for carrying additional outdoor accessories, emergency equipment, and everyday carry items.</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Designed for Adventure:</strong></p>\n<ul>\n<li>The adjustable front flap closure allows you to easily carry a tent or sleeping bag on top for convenience and weight distribution. The canvas loop straps on the front flap and between the utility pockets offer space for mounting additional emergency gear. The adjustable double-layer shoulder straps provide for a comfortable and sturdy carry.</li>\n</ul>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "202",
+    "204"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1312",
+      "item_index": "2280",
+      "rothco_item_no": "2477",
+      "upc": "613902247710",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.1500",
+      "image_filename": "2477-A-no-logo.jpg",
+      "catalog_page_no": "340",
+      "msrp": 37.99,
+      "ship_length": "20.0000",
+      "ship_width": "13.7500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 16.95,
+      "case_price": 16.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1316",
+      "item_index": "2280",
+      "rothco_item_no": "2487",
+      "upc": "613902248700",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.1000",
+      "image_filename": "2487-A2.jpg",
+      "catalog_page_no": "340",
+      "msrp": 37.99,
+      "ship_length": "20.0000",
+      "ship_width": "13.7500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 16.95,
+      "case_price": 16.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14460",
+      "item_index": "2280",
+      "rothco_item_no": "2697",
+      "upc": "613902026971",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.1000",
+      "image_filename": "2697-A-amazon.jpg",
+      "catalog_page_no": "340",
+      "msrp": 37.99,
+      "ship_length": "20.0000",
+      "ship_width": "13.7500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Earth Brown",
+        "size": "One Size"
+      },
+      "color": "Earth Brown",
+      "size": "One Size",
+      "price": 16.95,
+      "case_price": 16.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14461",
+      "item_index": "2280",
+      "rothco_item_no": "2897",
+      "upc": "613902028975",
+      "inventory": "43",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.1000",
+      "image_filename": "2897-A-amazon.jpg",
+      "catalog_page_no": "340",
+      "msrp": 37.99,
+      "ship_length": "20.0000",
+      "ship_width": "13.7500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo",
+        "size": "One Size"
+      },
+      "color": "Woodland Camo",
+      "size": "One Size",
+      "price": 16.95,
+      "case_price": 16.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18987",
+      "item_index": "2280",
+      "rothco_item_no": "2898",
+      "upc": "613902289802",
+      "inventory": "99",
+      "created_date": "2019-04-29 15:10:00",
+      "weight": "2.1500",
+      "image_filename": "2898-A-amazon.jpg",
+      "catalog_page_no": "340",
+      "msrp": 37.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 16.95,
+      "case_price": 16.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

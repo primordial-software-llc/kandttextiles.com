@@ -1,0 +1,95 @@
+{
+  "item_index": "2475",
+  "item_name": "Rothco Enhanced Aviator Kit Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Originally designed to carry flying equipment and helmets, Rothco's Enhanced Aviator Kit Bag has been adapted for outdoor enthusiasts. The equipment bag&rsquo;s full-length zipper with snap flap cover ensures quick and easy access to your gear and supplies. Crafted from durable heavyweight nylon material, this bag features sturdy carry handles with reinforced stitching for added durability. Measuring 22 inches x 20 inches x 12 inches, the rugged bag offers ample storage space for all your camping or outdoor essentials.</p>",
+  "no_ratings": "0",
+  "sort_order": "527",
+  "description": "<p>Originally designed to carry flying equipment and helmets, Rothco's Enhanced Aviator Kit Bag has been adapted for outdoor enthusiasts. The equipment bag&rsquo;s full-length zipper with snap flap cover ensures quick and easy access to your gear and supplies. Crafted from durable heavyweight nylon material, this bag features sturdy carry handles with reinforced stitching for added durability. Measuring 22 inches x 20 inches x 12 inches, the rugged bag offers ample storage space for all your camping or outdoor essentials. Built to withstand rugged use, this aviator bag is a reliable companion for any adventure.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "143",
+    "221",
+    "223"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9352",
+      "item_index": "2475",
+      "rothco_item_no": "8160",
+      "upc": "613902816008",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.5000",
+      "image_filename": "8160-A-amazon.jpg",
+      "catalog_page_no": "324",
+      "msrp": 63.99,
+      "ship_length": "16.0000",
+      "ship_width": "14.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 28.95,
+      "case_price": 28.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9354",
+      "item_index": "2475",
+      "rothco_item_no": "8163",
+      "upc": "613902816305",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.7000",
+      "image_filename": "8163-A-amazon.jpg",
+      "catalog_page_no": "324",
+      "msrp": 63.99,
+      "ship_length": "16.0000",
+      "ship_width": "14.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 28.95,
+      "case_price": 28.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19501",
+      "item_index": "2475",
+      "rothco_item_no": "8162",
+      "upc": "613902981621",
+      "inventory": "99",
+      "created_date": "2020-03-17 13:01:04",
+      "weight": "1.5000",
+      "image_filename": "8162-A-amazon1.jpg",
+      "catalog_page_no": "324",
+      "msrp": 63.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 28.95,
+      "case_price": 28.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

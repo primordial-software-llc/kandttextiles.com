@@ -1,0 +1,46 @@
+{
+  "item_index": "1836",
+  "item_name": "Rothco Whistle Lanyards",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Whistle Lanyards are offered 12 per display card, priced per each, in assorted colors or all black.</p>",
+  "no_ratings": "0",
+  "sort_order": "616",
+  "description": "<p>Rothco's Whistle Lanyards are offered 12 per display card, priced per each, in assorted colors or all black.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "243",
+    "490"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "215",
+      "item_index": "1836",
+      "rothco_item_no": "10399",
+      "upc": "613902103993",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0140",
+      "image_filename": "10399-HR.jpg",
+      "catalog_page_no": "218",
+      "msrp": 1.99,
+      "ship_length": "1.2500",
+      "ship_width": "0.7500",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 0.6,
+      "case_price": 0.6,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

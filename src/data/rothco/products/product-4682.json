@@ -1,0 +1,101 @@
+{
+  "item_index": "4682",
+  "item_name": "Rothco USMC Eagle, Globe and Anchor / US Flag Deluxe Fine Knit Watch Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay warm and show your support for the US service members with Rothco&rsquo;s Deluxe Knit USMC Eagle, Globe and Anchor Watch Cap with US Flag. This patriotic winter hat features a unique military design with a diagonally-split USMC Eagle, Globe and Anchor insignia paired with the American Flag, making it a perfect choice for those proud of their country. Crafted from lightweight yet durable finely knit fabric, this beanie hat retains its shape and color while providing powerful warmth in cold weather conditions.</p>",
+  "no_ratings": null,
+  "sort_order": "132995",
+  "description": "<p>Stay warm and show your support for the US service members with Rothco&rsquo;s Deluxe Knit USMC Eagle, Globe and Anchor Watch Cap with US Flag. This patriotic winter hat features a unique military design with a diagonally-split USMC Eagle, Globe and Anchor insignia paired with the American Flag, making it a perfect choice for those proud of their country. Crafted from lightweight yet durable finely knit fabric, this beanie hat retains its shape and color while providing powerful warmth in cold weather conditions. The double-layer construction offers reinforced protection from the elements, ensuring you stay cozy and comfortable during outdoor activities like shoveling snow or raking leaves. Versatile and practical, this beanie cap is suitable for various cold weather endeavors, making it an ideal accessory for your winter wardrobe. With its one-size-fits-most design, it offers a comfortable and snug fit for wearers of all sizes. Whether you're a US Marine Corps enthusiast, a patriot, or simply someone who appreciates quality winter gear, Rothco&rsquo;s USMC Eagle, Globe and Anchor Watch Cap is a must-have addition to your collection. Show your allegiance to the US while staying warm and stylish during the chilly months. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "367",
+    "374",
+    "547"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19503",
+      "item_index": "4682",
+      "rothco_item_no": "5428",
+      "upc": "613902054288",
+      "inventory": "99",
+      "created_date": "2020-04-03 16:00:09",
+      "weight": "0.1563",
+      "image_filename": "5428-A1.jpg",
+      "catalog_page_no": "157",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 8.9,
+      "case_price": 8.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19504",
+      "item_index": "4682",
+      "rothco_item_no": "5498",
+      "upc": "613902054981",
+      "inventory": "99",
+      "created_date": "2020-04-03 16:00:09",
+      "weight": "0.1563",
+      "image_filename": "5498-A1.jpg",
+      "catalog_page_no": "157",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 8.9,
+      "case_price": 8.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21694",
+      "item_index": "4682",
+      "rothco_item_no": "54980",
+      "upc": "613902014558",
+      "inventory": "99",
+      "created_date": "2022-04-05 10:00:07",
+      "weight": "0.1563",
+      "image_filename": "54980-B1.jpg",
+      "catalog_page_no": "157",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Olive Drab"
+      },
+      "size": "One Size",
+      "color": "Olive Drab",
+      "price": 8.9,
+      "case_price": 8.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

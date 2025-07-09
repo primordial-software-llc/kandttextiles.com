@@ -1,0 +1,93 @@
+{
+  "item_index": "4830",
+  "item_name": "Rothco Skirmish 3 Day Assault Backpack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=l7OdSPeJhHw",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Skirmish 3 Day Assault Backpack offers ample storage, comfort, and mobility. This versatile tactical pack is ideal for military, tactical, public safety professionals, and survivalists.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133143",
+  "description": "<p>Rothco's Skirmish 3 Day Assault Backpack offers ample storage, comfort, and mobility. This versatile tactical pack is ideal for military, tactical, public safety professionals, and survivalists with 3 storage compartments, including one large main compartment and two additional compartments that feature pockets for storing small tools and gear (measuring 20\" X 15\" X 7.75\").&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "201"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20684",
+      "item_index": "4830",
+      "rothco_item_no": "2641",
+      "upc": "613902002487",
+      "inventory": "67",
+      "created_date": "2021-05-24 13:00:15",
+      "weight": "4.5000",
+      "image_filename": "2641-B-no-logo.jpg",
+      "catalog_page_no": "319",
+      "msrp": 85.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 38.5,
+      "case_price": 38.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20697",
+      "item_index": "4830",
+      "rothco_item_no": "2640",
+      "upc": "613902002630",
+      "inventory": "99",
+      "created_date": "2021-05-24 15:00:06",
+      "weight": "1.0000",
+      "image_filename": "2640-B-NOLOGO.jpg",
+      "catalog_page_no": "319",
+      "msrp": 85.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 38.5,
+      "case_price": 38.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20857",
+      "item_index": "4830",
+      "rothco_item_no": "26490",
+      "upc": "613902004610",
+      "inventory": "99",
+      "created_date": "2021-07-14 09:00:00",
+      "weight": "2.1500",
+      "image_filename": "26490-A-NOLOGO.jpg",
+      "catalog_page_no": "319",
+      "msrp": 153.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 69.9,
+      "case_price": 69.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

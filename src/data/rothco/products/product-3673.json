@@ -1,0 +1,102 @@
+{
+  "item_index": "3673",
+  "item_name": "Rothco Spartan Shemagh Tactical Desert Keffiyeh Scarf",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Spartan Shemagh Tactical Desert Keffiyeh Scarf takes the classic design to the next level with a bold Spartan helmet pattern. Made from breathable woven cotton, this tactical scarf is designed to protect your head and neck from harsh elements like sun, snow, and debris, making it ideal for travel through various extreme weather conditions. The versatile 42 inch x 42 inch size allows it to be worn in multiple ways, including as a face covering, neck gaiter, or headwrap.</p>",
+  "no_ratings": null,
+  "sort_order": "2354",
+  "description": "<p>Rothco&rsquo;s Spartan Shemagh Tactical Desert Keffiyeh Scarf takes the classic design to the next level with a bold Spartan helmet pattern. Made from breathable woven cotton, this tactical scarf is designed to protect your head and neck from harsh elements like sun, snow, and debris, making it ideal for travel through various extreme weather conditions. The versatile 42 inch x 42 inch size allows it to be worn in multiple ways, including as a face covering, neck gaiter, or headwrap. Beyond its style and protection, the Spartan Shemagh is also a practical survival tool. It can be transformed into a makeshift sling, tourniquet, or pouch, making it a must-have for anyone preparing for outdoor adventures or emergency situations. Its functional design makes it great for both practical use and fashion, while remaining a key accessory for survivalists and outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "333",
+    "414",
+    "413",
+    "681"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14155",
+      "item_index": "3673",
+      "rothco_item_no": "88533",
+      "upc": "613902885332",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "88533_LI.jpg",
+      "catalog_page_no": "162",
+      "msrp": 16.99,
+      "ship_length": "12.0000",
+      "ship_width": "12.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15095",
+      "item_index": "3673",
+      "rothco_item_no": "88534",
+      "upc": "613902885349",
+      "inventory": "99",
+      "created_date": "2015-03-09 13:10:02",
+      "weight": "0.4500",
+      "image_filename": "88534-A-amazon1.jpg",
+      "catalog_page_no": "162",
+      "msrp": 16.99,
+      "ship_length": "12.0000",
+      "ship_width": "12.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Tan",
+        "size": "One Size"
+      },
+      "color": "Tan",
+      "size": "One Size",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20095",
+      "item_index": "3673",
+      "rothco_item_no": "88535",
+      "upc": "613902188532",
+      "inventory": "99",
+      "created_date": "2021-01-04 11:00:10",
+      "weight": "0.4200",
+      "image_filename": "88535-A-amazon.jpg",
+      "catalog_page_no": "162",
+      "msrp": 16.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Coyote Brown"
+      },
+      "size": "One Size",
+      "color": "Coyote Brown",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

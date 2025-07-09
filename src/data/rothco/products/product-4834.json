@@ -1,0 +1,94 @@
+{
+  "item_index": "4834",
+  "item_name": "Rothco MOLLE Triple Kangaroo Rifle and Pistol Mag Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=aAkAuOd-6ek",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s MOLLE Triple Kangaroo Rifle and Pistol Mag pouch is six mag pouches in one with three open-top rifle mag slots and an additional three hook and loop pistol mag pouches. This multipurpose MOLLE mag pouch can be mounted onto tactical vests via six MOLLE straps on the back.&nbsp;&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133147",
+  "description": "<p>Keep your reloads close at hand at the range with Rothco&rsquo;s MOLLE Triple Mag Pouch. This multipurpose mag pouch holds a total of six magazines: three pistol and three rifle mags. The pistol mag pouches are secured with hook and loop closures and are compatible with most standard sized pistol mags including .40 Cal and 9mm. The open top rifle mag pouches are secured with elastic cords with pull tabs and are designed to fit most standard sized rifle mags including AK-47 and M-16 mags. This MOLLE compatible mag pouch is great for mounting on tactical vests, assault packs, battle belts, and more. The MOLLE magazine pouch is made from durable materials for years of use and measures 10 inches x 6.75 inches x 2 inches.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "254",
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20730",
+      "item_index": "4834",
+      "rothco_item_no": "41008",
+      "upc": "613902003125",
+      "inventory": "99",
+      "created_date": "2021-05-25 11:00:05",
+      "weight": "0.7500",
+      "image_filename": "41008-A-no-logo.jpg",
+      "catalog_page_no": "243",
+      "msrp": 32.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 14.9,
+      "case_price": 14.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20731",
+      "item_index": "4834",
+      "rothco_item_no": "41009",
+      "upc": "613902003132",
+      "inventory": "99",
+      "created_date": "2021-05-25 11:00:05",
+      "weight": "0.7500",
+      "image_filename": "41009-A-no-logo.jpg",
+      "catalog_page_no": "243",
+      "msrp": 32.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 14.9,
+      "case_price": 14.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20859",
+      "item_index": "4834",
+      "rothco_item_no": "41010",
+      "upc": "613902004597",
+      "inventory": "99",
+      "created_date": "2021-07-14 09:00:00",
+      "weight": "0.7500",
+      "image_filename": "41010-A-NOLOG.jpg",
+      "catalog_page_no": "243",
+      "msrp": 43.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 19.9,
+      "case_price": 19.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "item_index": "3044",
+  "item_name": "Rothco Orienteering Ranger Type Compass",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Orienteering Ranger Type Compass is lightweight for easy travel and features a large easy-to-turn dial, magnifying glass, and ruler graduation to help determine distance.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "816",
+  "description": "<p>Rothco&rsquo;s Orienteering Ranger Type Compass is made of lightweight and durable plastic to help last your next outdoor venture. Ruler graduations along the sides used in conjunction with a map&rsquo;s scale will help determine distances. Featuring a liquid filled luminous pointer, magnifying glass, a transparent base, and a sighting mirror, Rothco&rsquo;s survival compass is built easy to use and yields accurate results. This ranger compass measures 4 3/4&rdquo; (7 3/4&rdquo; Open) X 2 5/8&rdquo; X 3/4&rdquo; and has a large easy-to-turn dial.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "269"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2007",
+      "item_index": "3044",
+      "rothco_item_no": "337",
+      "upc": "613902033702",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "337-hr2.jpg",
+      "catalog_page_no": "281",
+      "msrp": 14.99,
+      "ship_length": "11.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

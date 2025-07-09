@@ -1,0 +1,152 @@
+{
+  "item_index": "4055",
+  "item_name": "Rothco Thin Blue Line Flag Low Profile Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show your respect and support for first responders, public safety officials, and police with Rothco&rsquo;s Thin Blue Line Cap. Crafted from soft brushed cotton twill, the baseball hat features the Thin Blue Line flag. Adjustable for all, proceeds aid fallen first responders' families. Join us in honoring their sacrifice.</p>",
+  "no_ratings": null,
+  "sort_order": "3957",
+  "description": "<p>Show your respect and support for first responders, public safety officials, and police with Rothco&rsquo;s Thin Blue Line Cap. Crafted from soft brushed cotton twill, the baseball hat features the Thin Blue Line flag. Adjustable for all, proceeds aid fallen first responders' families. Join us in honoring their sacrifice. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "674",
+    "374"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15876",
+      "item_index": "4055",
+      "rothco_item_no": "99885",
+      "upc": "613902998858",
+      "inventory": "99",
+      "created_date": "2015-10-28 13:10:01",
+      "weight": "0.2500",
+      "image_filename": "99885-A-amazon.jpg",
+      "catalog_page_no": "138",
+      "msrp": 16.99,
+      "ship_length": "9.0000",
+      "ship_width": "8.5000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Black"
+      },
+      "size": "One Size",
+      "color": "Black",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16552",
+      "item_index": "4055",
+      "rothco_item_no": "4425",
+      "upc": "613902144255",
+      "inventory": "99",
+      "created_date": "2016-08-29 12:10:03",
+      "weight": "0.2500",
+      "image_filename": "4425-B-amazon1.jpg",
+      "catalog_page_no": "138",
+      "msrp": 16.99,
+      "ship_length": "9.0000",
+      "ship_width": "8.5000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18183",
+      "item_index": "4055",
+      "rothco_item_no": "4372",
+      "upc": "613902043725",
+      "inventory": "99",
+      "created_date": "2018-04-05 16:10:02",
+      "weight": "0.2500",
+      "image_filename": "4372-A-amazon.jpg",
+      "catalog_page_no": "138",
+      "msrp": 16.99,
+      "ship_length": "9.0000",
+      "ship_width": "8.5000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19553",
+      "item_index": "4055",
+      "rothco_item_no": "99887",
+      "upc": "613902998872",
+      "inventory": "99",
+      "created_date": "2020-05-05 15:00:01",
+      "weight": "0.2500",
+      "image_filename": "99887-MidNavy-A-amazon.jpg",
+      "catalog_page_no": "138",
+      "msrp": 16.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Navy Blue"
+      },
+      "size": "One Size",
+      "color": "Navy Blue",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20996",
+      "item_index": "4055",
+      "rothco_item_no": "99888",
+      "upc": "613902006669",
+      "inventory": "99",
+      "created_date": "2021-11-04 16:00:16",
+      "weight": "0.2500",
+      "image_filename": "99888-A.jpg",
+      "catalog_page_no": "138",
+      "msrp": 16.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Grey"
+      },
+      "size": "One Size",
+      "color": "Grey",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

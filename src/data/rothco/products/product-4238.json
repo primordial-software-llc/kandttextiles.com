@@ -1,0 +1,70 @@
+{
+  "item_index": "4238",
+  "item_name": "Rothco Canvas Extended Stay Travel Duffle Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Canvas Extended Stay Travel Duffle Bag offers versatile carrying options, serving as both a duffle bag and a backpack. Crafted from heavyweight cotton canvas with leather accents, the convertible backpack ensures long-lasting durability for extended travels. This travel bag features a spacious main compartment with a zippered flap top and side access zipper, providing easy access to your belongings.</p>",
+  "no_ratings": null,
+  "sort_order": "45",
+  "description": "<p>Rothco's Canvas Extended Stay Travel Duffle Bag offers versatile carrying options, serving as both a duffle bag and a backpack. Crafted from heavyweight cotton canvas with leather accents, the convertible backpack ensures long-lasting durability for extended travels. This travel bag features a spacious main compartment with a zippered flap top and side access zipper, providing easy access to your belongings. Additionally, the canvas duffle bag includes 2 large side zippered pockets, as well as front and back zippered pockets with flap and push-button buckle closures for organizing smaller items securely. For added convenience, the bag boasts hideaway padded backpack straps, allowing you to convert it into a backpack effortlessly. It also includes adjustable and detachable shoulder straps, offering customizable carrying options based on your preference. Finished with antique brass hardware, this travel duffle bag exudes a timeless aesthetic while providing functionality for all your travel needs. Whether you're embarking on a weekend getaway or an extended journey, this versatile bag ensures you're prepared for any adventure. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "215",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16855",
+      "item_index": "4238",
+      "rothco_item_no": "8779",
+      "upc": "613902877900",
+      "inventory": "42",
+      "created_date": "2016-12-28 17:10:01",
+      "weight": "3.7000",
+      "image_filename": "8779-A-amazon.jpg",
+      "catalog_page_no": "335",
+      "msrp": 87.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Brown"
+      },
+      "color": "Brown",
+      "price": 39.95,
+      "case_price": 39.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21734",
+      "item_index": "4238",
+      "rothco_item_no": "87790",
+      "upc": "613902015043",
+      "inventory": "49",
+      "created_date": "2022-04-05 15:00:20",
+      "weight": "3.7000",
+      "image_filename": "87790-A.jpg",
+      "catalog_page_no": "335",
+      "msrp": 87.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 39.95,
+      "case_price": 39.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

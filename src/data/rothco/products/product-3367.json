@@ -1,0 +1,93 @@
+{
+  "item_index": "3367",
+  "item_name": "Rothco MOLLE Compatible Machete Sheath - 18 Inch ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p class=\"MsoNormal\">Rothco&rsquo;s MOLLE Compatible 18-Inch Machete Sheath is the ultimate solution for safely transporting your machete during outdoor adventures. Constructed from durable yet lightweight polyester, this machete sheath is designed for long-lasting use. The sheath features multiple carry options, including 2 D-rings and four MOLLE straps, allowing you to attach it to various gear configurations securely. Inside, a sturdy plastic reinforcement ensures that your machete is held securely and remains protected.</p>",
+  "no_ratings": null,
+  "sort_order": "3932",
+  "description": "<p class=\"MsoNormal\">Rothco&rsquo;s MOLLE Compatible 18-Inch Machete Sheath is the ultimate solution for safely transporting your machete during outdoor adventures. Constructed from durable yet lightweight polyester, this machete sheath is designed for long-lasting use. The sheath features multiple carry options, including 2 D-rings and four MOLLE straps, allowing you to attach it to various gear configurations securely. Inside, a sturdy plastic reinforcement ensures that your machete is held securely and remains protected. The sheath also includes 2 hook and loop closure pouches, perfect for carrying small tools like a machete sharpener. A tight snap loop fits around the machete handle, holding it firmly in place as you hike, camp, or explore the wilderness. With Rothco&rsquo;s MOLLE Compatible Machete Sheath, you have a reliable and versatile tool to enhance your outdoor experience.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "300"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12451",
+      "item_index": "3367",
+      "rothco_item_no": "835",
+      "upc": "613902008359",
+      "inventory": "99",
+      "created_date": "2013-06-13 15:51:29",
+      "weight": "0.2500",
+      "image_filename": "835-A-OD.jpg",
+      "catalog_page_no": "274",
+      "msrp": 25.99,
+      "ship_length": "23.2500",
+      "ship_width": "5.2500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 9.9,
+      "case_price": 9.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14761",
+      "item_index": "3367",
+      "rothco_item_no": "836",
+      "upc": "613902008366",
+      "inventory": "99",
+      "created_date": "2014-09-12 16:10:02",
+      "weight": "0.2500",
+      "image_filename": "836-A.jpg",
+      "catalog_page_no": "274",
+      "msrp": 25.99,
+      "ship_length": "23.2500",
+      "ship_width": "5.2500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 9.9,
+      "case_price": 9.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16324",
+      "item_index": "3367",
+      "rothco_item_no": "895",
+      "upc": "613902008953",
+      "inventory": "83",
+      "created_date": "2016-05-09 16:10:02",
+      "weight": "0.2500",
+      "image_filename": "895-A-amazon.jpg",
+      "catalog_page_no": "274",
+      "msrp": 25.99,
+      "ship_length": "895.0000",
+      "ship_width": "5.2500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 9.9,
+      "case_price": 9.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

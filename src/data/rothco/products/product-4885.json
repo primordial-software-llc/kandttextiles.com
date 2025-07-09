@@ -1,0 +1,94 @@
+{
+  "item_index": "4885",
+  "item_name": "Rothco MOLLE Front Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p class=\"MsoNormal\">Rothco&rsquo;s MOLLE Front Pouch helps you to hold and access what you need, when you want it.</p>",
+  "no_ratings": null,
+  "sort_order": "133198",
+  "description": "<p class=\"MsoNormal\">An essential for the soldiers and tactical gear enthusiasts, Rothco&rsquo;s Plate Carrier Front MOLLE Pouch helps you to hold and access what you need, when you want it. The MOLLE accessory is designed to sit just under the front flap of most plate carriers, attaching quickly and securely via a hook and loop fastening system. The possibilities of this gear continue with its interior features: a row of elastic loops, as well as a large loop field. This tactical must-have is built with a zipper closure, meaning your items will stay safe, no matter the mission or adventure. This pouch features multiple rows of 1&rdquo; MOLLE and hook &amp; loop M.O.L.L.E. webbing on the front side. This plate carrier pouch measures 9.5\" X 7\" X 2\", making it the optimal size choice for storing your necessities.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "306",
+    "238"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20982",
+      "item_index": "4885",
+      "rothco_item_no": "42011",
+      "upc": "613902006546",
+      "inventory": "99",
+      "created_date": "2021-10-21 13:00:13",
+      "weight": "0.2500",
+      "image_filename": "42011-A1.jpg",
+      "catalog_page_no": "246",
+      "msrp": 20.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20984",
+      "item_index": "4885",
+      "rothco_item_no": "42012",
+      "upc": "613902006553",
+      "inventory": "99",
+      "created_date": "2021-10-21 14:00:22",
+      "weight": "0.2500",
+      "image_filename": "42012-A.jpg",
+      "catalog_page_no": "246",
+      "msrp": 20.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20985",
+      "item_index": "4885",
+      "rothco_item_no": "42013",
+      "upc": "613902006560",
+      "inventory": "99",
+      "created_date": "2021-10-21 17:00:14",
+      "weight": "0.2500",
+      "image_filename": "42013-A1.jpg",
+      "catalog_page_no": "246",
+      "msrp": 23.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 10.5,
+      "case_price": 10.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

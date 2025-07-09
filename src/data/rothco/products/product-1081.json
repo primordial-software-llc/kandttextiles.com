@@ -1,0 +1,72 @@
+{
+  "item_index": "1081",
+  "item_name": "Rothco 3 Piece Canteen Kit With Cover & Aluminum Cup",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Prepare for your outdoor adventure with Rothco&rsquo;s 3 Piece Canteen Kit. Includes a 1-quart plastic canteen, felt-lined cover, and aluminum cup for all your hydration and cooking needs. Easily store this canteen kit inside your pack for the next camping trip or add it to your bug-out bag as an essential.</p>",
+  "no_ratings": "0",
+  "sort_order": "4884",
+  "description": "<p>Prepare for your outdoor adventure with Rothco&rsquo;s 3 Piece Canteen Kit. Includes a 1-quart plastic canteen, felt-lined cover, and aluminum cup for all your hydration and cooking needs. Easily store this canteen kit inside your pack for the next camping trip or add it to your bug-out bag as an essential.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "281",
+    "284",
+    "500",
+    "542"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "491",
+      "item_index": "1081",
+      "rothco_item_no": "1140",
+      "upc": "613902114005",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.0000",
+      "image_filename": "1140-B-flat.jpg",
+      "catalog_page_no": "287",
+      "msrp": 23.99,
+      "ship_length": "8.5000",
+      "ship_width": "5.5000",
+      "ship_height": "3.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 9.25,
+      "case_price": 9.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "492",
+      "item_index": "1081",
+      "rothco_item_no": "1141",
+      "upc": "613902011410",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.0000",
+      "image_filename": "1141-BB.jpg",
+      "catalog_page_no": "287",
+      "msrp": 23.99,
+      "ship_length": "8.5000",
+      "ship_width": "5.5000",
+      "ship_height": "3.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 9.25,
+      "case_price": 9.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "item_index": "2043",
+  "item_name": "Rothco 80MM Locking Carabiner",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's 80MM Locking Carabiner is a versatile and reliable tool for securing your outdoor essentials. Made from high-strength aluminum, this carabiner is designed to withstand heavy loads while remaining lightweight and easy to carry. The secure threaded barrel lock ensures that your items stay safely attached, making it ideal for carrying keys, securing accessories, and adding to your camping gear. The durable aluminum construction offers long-lasting performance, resisting wear and tear even in harsh outdoor conditions.</p>",
+  "no_ratings": "0",
+  "sort_order": "2701",
+  "description": "<p>Rothco's 80MM Locking Carabiner is a versatile and reliable tool for securing your outdoor essentials. Made from high-strength aluminum, this carabiner is designed to withstand heavy loads while remaining lightweight and easy to carry. The secure threaded barrel lock ensures that your items stay safely attached, making it ideal for carrying keys, securing accessories, and adding to your camping gear. The durable aluminum construction offers long-lasting performance, resisting wear and tear even in harsh outdoor conditions. Whether you're hiking, camping, or just organizing your gear, this carabiner provides a dependable solution for all your needs. Its compact size makes it easy to attach to belts, bags, or other equipment, ensuring that your items are always within reach. Rothco's 80MM Locking Carabiner is the perfect addition to any outdoor enthusiast's kit, combining strength, convenience, and security in one handy tool. Enhance your outdoor experience with a carabiner you can trust to keep your gear secure and accessible.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "397"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1059",
+      "item_index": "2043",
+      "rothco_item_no": "214",
+      "upc": "613902021402",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0550",
+      "image_filename": "214-new-HR11.jpg",
+      "catalog_page_no": "208",
+      "msrp": 5.99,
+      "ship_length": "3.0000",
+      "ship_width": "1.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 2.1,
+      "case_price": 2.1,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1644",
+      "item_index": "2043",
+      "rothco_item_no": "294",
+      "upc": "613902002944",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0550",
+      "image_filename": "294-HR1.jpg",
+      "catalog_page_no": "208",
+      "msrp": 5.99,
+      "ship_length": "3.0000",
+      "ship_width": "1.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 2.1,
+      "case_price": 2.1,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

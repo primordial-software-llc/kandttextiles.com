@@ -1,0 +1,102 @@
+{
+  "item_index": "2057",
+  "item_name": "Rothco Multi-Colored Paracord Bracelet",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Multi-Colored Paracord Bracelet is a versatile and essential accessory for any outdoor enthusiast and survivalist. Made from strong and durable 7-strand polyester paracord, this outdoor bracelet is designed to provide reliable performance in various survival situations. The paracord can be unraveled when needed, offering you approximately 7 feet of high-tensile strength cordage that can be used for a multitude of tasks such as building shelters, securing gear, or even as an emergency tourniquet.</p>",
+  "no_ratings": "0",
+  "sort_order": "7650",
+  "description": "<p>Rothco's Multi-Colored Paracord Bracelet is a versatile and essential accessory for any outdoor enthusiast and survivalist. Made from strong and durable 7-strand polyester paracord, this outdoor bracelet is designed to provide reliable performance in various survival situations. The paracord can be unraveled when needed, offering you approximately 7 feet of high-tensile strength cordage that can be used for a multitude of tasks such as building shelters, securing gear, or even as an emergency tourniquet. The quick-release side buckle ensures that the bracelet is easy to put on and take off, while also providing a secure closure that won't accidentally come undone. The multi-colored design adds a touch of style, making it not only a practical survival tool but also rugged accessory for everyday wear. Whether you're hiking, camping, or simply exploring the great outdoors, Rothco's Paracord Bracelet is a must-have item that combines functionality, durability, and style in one compact package.</p>",
+  "selection_groups": [
+    "length",
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "445",
+    "446"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10810",
+      "item_index": "2057",
+      "rothco_item_no": "933",
+      "upc": "613902933026",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "933-HR1.jpg",
+      "catalog_page_no": "308",
+      "msrp": 5.99,
+      "ship_length": "9.7500",
+      "ship_width": "2.0000",
+      "ship_height": "0.5000",
+      "eta_date": null,
+      "specs": {
+        "length": "9 Inches",
+        "color": "Woodland Camo"
+      },
+      "length": "9 Inches",
+      "color": "Woodland Camo",
+      "price": 2.1,
+      "case_price": 2.1,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10960",
+      "item_index": "2057",
+      "rothco_item_no": "941",
+      "upc": "613902994102",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "941-HR.jpg",
+      "catalog_page_no": "308",
+      "msrp": 5.99,
+      "ship_length": "9.0000",
+      "ship_width": "2.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Vietnam Pattern",
+        "length": "8 Inches"
+      },
+      "color": "Vietnam Pattern",
+      "length": "8 Inches",
+      "price": 2.1,
+      "case_price": 2.1,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10961",
+      "item_index": "2057",
+      "rothco_item_no": "941",
+      "upc": "613902909410",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "941-HR.jpg",
+      "catalog_page_no": "308",
+      "msrp": 5.99,
+      "ship_length": "9.7500",
+      "ship_width": "2.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Vietnam Pattern",
+        "length": "9 Inches"
+      },
+      "color": "Vietnam Pattern",
+      "length": "9 Inches",
+      "price": 2.1,
+      "case_price": 2.1,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

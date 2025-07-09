@@ -1,0 +1,74 @@
+{
+  "item_index": "873",
+  "item_name": "Rothco Infant Camo Crib Caps",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": "0",
+  "sort_order": "2184",
+  "description": "<p>Rothco's Infant Camo Crib Caps are made of a comfortable ripped cotton material. The infant caps are available in several camouflage colors including pink and woodland camo.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "83",
+    "113",
+    "137",
+    "143",
+    "450",
+    "377"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "4067",
+      "item_index": "873",
+      "rothco_item_no": "5045",
+      "upc": "613902504509",
+      "inventory": "25",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "5045-woodland-hr11.jpg",
+      "catalog_page_no": "135",
+      "msrp": 4.99,
+      "ship_length": "6.7500",
+      "ship_width": "6.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 1.75,
+      "case_price": 1.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "4069",
+      "item_index": "873",
+      "rothco_item_no": "5045",
+      "upc": "613902504523",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "5045-acu-hr11.jpg",
+      "catalog_page_no": "135",
+      "msrp": 4.99,
+      "ship_length": "6.7500",
+      "ship_width": "6.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "ACU Digital Camo"
+      },
+      "color": "ACU Digital Camo",
+      "price": 1.75,
+      "case_price": 1.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

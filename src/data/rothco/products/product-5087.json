@@ -1,0 +1,195 @@
+{
+  "item_index": "5087",
+  "item_name": "Rothco X Bear Archery Fred Bear Camo Moisture Wicking T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=-WS0355Q-hw",
+  "rating": "5",
+  "item_short_desc": "<p>In collaboration with Bear Archery, the revered Fred Bear camouflage pattern comes to life through Rothco&rsquo;s legendary outdoor apparel and gear, including our rugged Moisture Wicking T-Shirts. Each item in the Fred Bear Camouflage collection has been crafted using the iconic Fred Bear camo pattern.</p>",
+  "no_ratings": null,
+  "sort_order": "133376",
+  "description": "<p>In collaboration with Bear Archery, the revered Fred Bear camouflage pattern comes to life through Rothco&rsquo;s legendary outdoor apparel and gear, including our rugged Moisture Wicking T-Shirts. Each item in the Fred Bear Camouflage collection has been crafted using the iconic Fred Bear camo pattern. Advanced Moisture Wicking: Engineered with 100% performance polyester, the Fred Bear Camo Moisture Wicking T-Shirt wicks sweat and wetness away for optimum comfort. Featuring our rapid moisture control fabric, sweat is swiftly transferred to the top layer, allowing for a quick dry. This prevents sweat from soaking through these hunting shirts so that they won&rsquo;t stick to your skin while you are on the hunt. Built for Action and Adventure: These crewneck tees feature a double-needle stitched neck that enhances the bowhunting t-shirt&rsquo;s longevity for repeated wear. With a tag-less neck label, you are free to move around without any itches or scratches. Standard Fit: These camo t-shirts are standard fit, giving you the perfect amount of room and flexibility as you hunt. Their length should go past the waist, providing you with additional coverage. We&rsquo;ve Got You Covered: Complete your bowhunting wardrobe with a matching pair of Fred Bear Camo Tactical BDU Pants and Fred Bear Camo BDU Shirt.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": [
+    "Active"
+  ],
+  "categories": [
+    "736",
+    "2",
+    "80",
+    "47",
+    "40"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "23395",
+      "item_index": "5087",
+      "rothco_item_no": "19045",
+      "upc": "613902036055",
+      "inventory": "99",
+      "created_date": "2023-08-11 13:59:48",
+      "weight": "0.0000",
+      "image_filename": "19045-RIGHT-B.jpg",
+      "catalog_page_no": "34",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Fred Bear Camo"
+      },
+      "size": "L",
+      "color": "Fred Bear Camo",
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "23397",
+      "item_index": "5087",
+      "rothco_item_no": "19047",
+      "upc": "613902036086",
+      "inventory": "86",
+      "created_date": "2023-08-11 13:59:48",
+      "weight": "0.0000",
+      "image_filename": "19045-RIGHT-B.jpg",
+      "catalog_page_no": "34",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3XL",
+        "color": "Fred Bear Camo"
+      },
+      "size": "3XL",
+      "color": "Fred Bear Camo",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "23400",
+      "item_index": "5087",
+      "rothco_item_no": "19045",
+      "upc": "613902036062",
+      "inventory": "99",
+      "created_date": "2023-08-11 13:59:48",
+      "weight": "0.0000",
+      "image_filename": "19045-RIGHT-B.jpg",
+      "catalog_page_no": "34",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Fred Bear Camo"
+      },
+      "size": "XL",
+      "color": "Fred Bear Camo",
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "23402",
+      "item_index": "5087",
+      "rothco_item_no": "19046",
+      "upc": "613902036079",
+      "inventory": "99",
+      "created_date": "2023-08-11 13:59:48",
+      "weight": "0.0000",
+      "image_filename": "19045-RIGHT-B.jpg",
+      "catalog_page_no": "34",
+      "msrp": 23.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL",
+        "color": "Fred Bear Camo"
+      },
+      "size": "2XL",
+      "color": "Fred Bear Camo",
+      "price": 10.5,
+      "case_price": 10.5,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "23404",
+      "item_index": "5087",
+      "rothco_item_no": "19045",
+      "upc": "613902036031",
+      "inventory": "99",
+      "created_date": "2023-08-11 13:59:48",
+      "weight": "0.0000",
+      "image_filename": "19045-RIGHT-B.jpg",
+      "catalog_page_no": "34",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Fred Bear Camo"
+      },
+      "size": "S",
+      "color": "Fred Bear Camo",
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "23407",
+      "item_index": "5087",
+      "rothco_item_no": "19045",
+      "upc": "613902036048",
+      "inventory": "99",
+      "created_date": "2023-08-11 13:59:48",
+      "weight": "0.0000",
+      "image_filename": "19045-RIGHT-B.jpg",
+      "catalog_page_no": "34",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Fred Bear Camo"
+      },
+      "size": "M",
+      "color": "Fred Bear Camo",
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    }
+  ]
+}

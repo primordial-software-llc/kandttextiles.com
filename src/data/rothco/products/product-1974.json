@@ -1,0 +1,69 @@
+{
+  "item_index": "1974",
+  "item_name": "Smith & Wesson Military Watch Set",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Smith &amp; Wesson Military Watch Set is designed for those who demand both style and durability. This versatile watch set includes 3 interchangeable heavy-duty canvas watch bands in olive drab, black, and khaki, allowing you to maintain a professional look that matches your uniform or outfit. The watch features a round face with a black backing, showcasing the well-respected Smith &amp; Wesson name and logo. It includes 3 luminous hands that display hours, minutes, and seconds, as well as a date display to keep you punctual.</p>",
+  "no_ratings": "0",
+  "sort_order": "951",
+  "description": "<p>The Smith &amp; Wesson Military Watch Set is designed for those who demand both style and durability. This versatile watch set includes 3 interchangeable heavy-duty canvas watch bands in olive drab, black, and khaki, allowing you to maintain a professional look that matches your uniform or outfit. The watch features a round face with a black backing, showcasing the well-respected Smith &amp; Wesson name and logo. It includes 3 luminous hands that display hours, minutes, and seconds, as well as a date display to keep you punctual. Constructed with a durable stainless-steel back and protected by a hardened mineral glass crystal, the watch is built to withstand rugged use. It operates on precision Japanese quartz movement and is powered by a long-lasting silver oxide battery. Water-resistant up to 30 meters, this watch is a reliable companion for adventurers and professionals alike.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "418"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3090",
+      "item_index": "1974",
+      "rothco_item_no": "4314",
+      "upc": "810112981346",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2125",
+      "image_filename": "4314-hr1.jpg",
+      "catalog_page_no": "205",
+      "msrp": 58.99,
+      "ship_length": "3.5000",
+      "ship_width": "3.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 23.5,
+      "case_price": 23.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3097",
+      "item_index": "1974",
+      "rothco_item_no": "4321",
+      "upc": "810112981339",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2125",
+      "image_filename": "4321-B.jpg",
+      "catalog_page_no": "205",
+      "msrp": 58.99,
+      "ship_length": "3.5000",
+      "ship_width": "3.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 23.5,
+      "case_price": 23.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

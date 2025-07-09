@@ -1,0 +1,41 @@
+{
+  "item_index": "3134",
+  "item_name": "Rothco M-1 Jungle First Aid Kit Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s M-1 Jungle First Aid Kit Pouch is constructed with durable canvas material and is made portable with belt clips. The double buttons on the front of the pouch allows for a secure closure. This compact first aid kit measure 5 &frac14;&rdquo; wide and 5 &frac12;&rdquo; high. This pouch is sold without the first aid items.</p>",
+  "no_ratings": null,
+  "sort_order": "454",
+  "description": "<p>Rothco&rsquo;s M-1 Jungle First Aid Kit Pouch is constructed with durable canvas material and is made portable with belt clips. The double buttons on the front of the pouch allows for a secure closure. This compact first aid kit measure 5 &frac14;&rdquo; wide and 5 &frac12;&rdquo; high. This pouch is sold without the first aid items.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "256",
+    "499"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9533",
+      "item_index": "3134",
+      "rothco_item_no": "8326",
+      "upc": "613902832602",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "8326-A-amazon.jpg",
+      "catalog_page_no": "295",
+      "msrp": 7.99,
+      "ship_length": "6.5000",
+      "ship_width": "7.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 2.95,
+      "case_price": 2.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

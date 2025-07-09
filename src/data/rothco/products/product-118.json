@@ -1,0 +1,73 @@
+{
+  "item_index": "118",
+  "item_name": "Rothco 5-point Breakaway Safety Vest",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's 5-Point Breakaway Safety Vest is designed for optimal visibility and safety in high-risk environments. Constructed from 100% polyester, this lightweight vest features 2-inch-wide reflective tape along the chest, waist, and shoulders for maximum visibility in low-light conditions. The innovative 5-point breakaway design with hook &amp; loop closures on the front, sides, and shoulders allows the vest to tear away easily in emergencies, reducing the risk of entanglement.</p>",
+  "no_ratings": "0",
+  "sort_order": "411",
+  "description": "<p>Rothco's 5-Point Breakaway Safety Vest is designed for optimal visibility and safety in high-risk environments. Constructed from 100% polyester, this lightweight vest features 2-inch-wide reflective tape along the chest, waist, and shoulders for maximum visibility in low-light conditions. The innovative 5-point breakaway design with hook &amp; loop closures on the front, sides, and shoulders allows the vest to tear away easily in emergencies, reducing the risk of entanglement. Perfect for crossing guards, roadside workers, or event staff, this vest is available in 2 sizes&mdash;Regular and Oversized&mdash;to ensure a comfortable and secure fit. Enhance your safety gear with this durable and practical vest, designed to meet demanding work environments while offering maximum flexibility.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "183"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "11098",
+      "item_index": "118",
+      "rothco_item_no": "9564",
+      "upc": "613902095649",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3813",
+      "image_filename": "9564-A-amazon.jpg",
+      "catalog_page_no": "76",
+      "msrp": 24.99,
+      "ship_length": "8.0000",
+      "ship_width": "10.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "Regular",
+        "color": "Neon Yellow"
+      },
+      "size": "Regular",
+      "color": "Neon Yellow",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16858",
+      "item_index": "118",
+      "rothco_item_no": "9568",
+      "upc": "613902095687",
+      "inventory": "99",
+      "created_date": "2017-01-03 16:10:03",
+      "weight": "0.3813",
+      "image_filename": "9564-A-amazon.jpg",
+      "catalog_page_no": "76",
+      "msrp": 26.99,
+      "ship_length": "8.0000",
+      "ship_width": "10.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL / 3XL",
+        "color": "Neon Yellow"
+      },
+      "size": "2XL / 3XL",
+      "color": "Neon Yellow",
+      "price": 10.5,
+      "case_price": 10.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

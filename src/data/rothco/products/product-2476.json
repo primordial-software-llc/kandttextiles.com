@@ -1,0 +1,100 @@
+{
+  "item_index": "2476",
+  "item_name": "Rothco Canvas Tanker Style Tool Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Canvas Tanker Style Tool Bag offers versatile storage for tools, survival gear, gym clothes, and more. Constructed from unwashed heavyweight cotton canvas, it can support heavy loads. With its 19 inches X 9 inches X 6 inches main zipper compartment, durable cross-hatched stitched dual carry handles, and canvas loops for shoulder strap attachment, it provides ample space and carrying options. Perfect for mechanics, plumbers, electricians, athletes, and anyone in need of a heavy-duty multipurpose bag.</p>",
+  "no_ratings": "0",
+  "sort_order": "3271",
+  "description": "<p>Rothco&rsquo;s Canvas Tanker Style Tool Bag offers versatile storage for tools, survival gear, gym clothes, and more. Constructed from unwashed heavyweight cotton canvas, it can support heavy loads. With its 19 inches X 9 inches X 6 inches main zipper compartment, durable cross-hatched stitched dual carry handles, and canvas loops for shoulder strap attachment, it provides ample space and carrying options. Perfect for mechanics, plumbers, electricians, athletes, and anyone in need of a heavy-duty multipurpose bag. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "503",
+    "221"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9366",
+      "item_index": "2476",
+      "rothco_item_no": "8182",
+      "upc": "613902818200",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2500",
+      "image_filename": "8182-B-nologo.jpg",
+      "catalog_page_no": "338",
+      "msrp": 20.99,
+      "ship_length": "18.0000",
+      "ship_width": "7.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9367",
+      "item_index": "2476",
+      "rothco_item_no": "8183",
+      "upc": "613902818316",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2500",
+      "image_filename": "8183-B-nologo.jpg",
+      "catalog_page_no": "338",
+      "msrp": 20.99,
+      "ship_length": "18.0000",
+      "ship_width": "7.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17172",
+      "item_index": "2476",
+      "rothco_item_no": "8062",
+      "upc": "613902080621",
+      "inventory": "99",
+      "created_date": "2017-04-27 16:10:01",
+      "weight": "1.2500",
+      "image_filename": "8062-B-amazon.jpg",
+      "catalog_page_no": "338",
+      "msrp": 20.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

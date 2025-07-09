@@ -1,0 +1,127 @@
+{
+  "item_index": "4637",
+  "item_name": "Rothco Deluxe Canvas Travel Kit",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Deluxe Canvas Travel Kit is your go-to solution for keeping travel essentials organized and accessible. Constructed from rugged materials and lined for added durability, this toiletry bag is built to withstand the demands of travel. The main compartment features a double zipper and hook-and-loop closure, providing easy access to your travel essentials. The bottom of the main compartment has a water-resistant liner, perfect for storing liquids like soap, shaving cream, and mouthwash.</p>",
+  "no_ratings": null,
+  "sort_order": "132950",
+  "description": "<p>Rothco&rsquo;s Deluxe Canvas Travel Kit is your go-to solution for keeping travel essentials organized and accessible. Constructed from rugged materials and lined for added durability, this toiletry bag is built to withstand the demands of travel. The main compartment features a double zipper and hook-and-loop closure, providing easy access to your travel essentials. The bottom of the main compartment has a water-resistant liner, perfect for storing liquids like soap, shaving cream, and mouthwash. A side zippered pocket in the main compartment offers additional storage for smaller accessories such as contact cases, tweezers, and jewelry. The separate zippered bottom compartment includes 2 open mesh pockets and 1 zippered mesh pocket, ideal for travel-sized goods. An elastic strap in the bottom compartment securely holds toiletries in place. The dopp kit also features an outside carry handle for grab-and-go convenience. Measuring 10.5 inches x 5.5 inches x 6.25 inches, Rothco&rsquo;s Deluxe Canvas Travel Kit is the ultimate companion for organized and efficient travel. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color",
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "199",
+    "363"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19285",
+      "item_index": "4637",
+      "rothco_item_no": "1854",
+      "upc": "613902018549",
+      "inventory": "99",
+      "created_date": "2019-11-12 19:00:02",
+      "weight": "0.5000",
+      "image_filename": "1854-A-Black-amazon.jpg",
+      "catalog_page_no": "351",
+      "msrp": 17.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 6.75,
+      "case_price": 6.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19286",
+      "item_index": "4637",
+      "rothco_item_no": "1854",
+      "upc": "613902118546",
+      "inventory": "99",
+      "created_date": "2019-11-12 19:00:02",
+      "weight": "0.5000",
+      "image_filename": "1854-A-OD-amazon.jpg",
+      "catalog_page_no": "351",
+      "msrp": 17.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 6.75,
+      "case_price": 6.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19287",
+      "item_index": "4637",
+      "rothco_item_no": "1854",
+      "upc": "613902218543",
+      "inventory": "99",
+      "created_date": "2019-11-12 19:00:02",
+      "weight": "0.5000",
+      "image_filename": "1854-A-Coyote-amazon.jpg",
+      "catalog_page_no": "351",
+      "msrp": 17.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 6.75,
+      "case_price": 6.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20548",
+      "item_index": "4637",
+      "rothco_item_no": "1854",
+      "upc": "613902000360",
+      "inventory": "99",
+      "created_date": "2021-04-13 15:00:12",
+      "weight": "0.5000",
+      "image_filename": "1854-A-EarthBrown-no-logo.jpg",
+      "catalog_page_no": "351",
+      "msrp": 17.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Earth Brown"
+      },
+      "size": "One Size",
+      "color": "Earth Brown",
+      "price": 6.75,
+      "case_price": 6.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "item_index": "2766",
+  "item_name": "Rothco Dog Tag Chain",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Wear your dog tags with pride and security with Rothco's Dog Tag Chain 2 Piece set. This set includes a longer 24 inch chain and a shorter 4.5 inch chain for versatility and convenience. Please note, the pictured tag is not included. This item is for the chains only. The chains are made from high-quality, durable stainless steel, ensuring they withstand everyday wear and tear while maintaining their sleek appearance. Our Dog Tag Chains offer a secure way to display your dog tags, making them ideal for both daily use and special occasions.</p>",
+  "no_ratings": "0",
+  "sort_order": "3954",
+  "description": "<p>Wear your dog tags with pride and security with Rothco's Dog Tag Chain 2 Piece set. This set includes a longer 24 inch chain and a shorter 4.5 inch chain for versatility and convenience. Please note, the pictured tag is not included. This item is for the chains only. The chains are made from high-quality, durable stainless steel, ensuring they withstand everyday wear and tear while maintaining their sleek appearance. Our Dog Tag Chains offer a secure way to display your dog tags, making them ideal for both daily use and special occasions. Whether you&rsquo;re honoring someone special or simply need a reliable chain for your dog tags, this set is an excellent choice. The polished finish adds a touch of elegance, making it suitable for any attire. Designed to be the perfect gift for anyone looking to replace old or rusted chains, this set combines practicality with style. With Rothco's commitment to quality, you can trust that this dog tag chain will deliver both durability and style.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "417"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9617",
+      "item_index": "2766",
+      "rothco_item_no": "8384",
+      "upc": "613902838406",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0175",
+      "image_filename": "8384-A-amazon.jpg",
+      "catalog_page_no": "207",
+      "msrp": 1.99,
+      "ship_length": "3.5000",
+      "ship_width": "2.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Silver",
+        "size": "One Size"
+      },
+      "color": "Silver",
+      "size": "One Size",
+      "price": 0.8,
+      "case_price": 0.8,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9625",
+      "item_index": "2766",
+      "rothco_item_no": "8394",
+      "upc": "613902083943",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0625",
+      "image_filename": "8394-A-amazon.jpg",
+      "catalog_page_no": "207",
+      "msrp": 2.99,
+      "ship_length": "3.5000",
+      "ship_width": "2.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 1.05,
+      "case_price": 1.05,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "item_index": "3548",
+  "item_name": "Rothco Sheep Dog Morale Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Are you a sheep or a sheepdog? Rothco's Sheep Dog Patch features a hook back and embroidered Sheep Dog Patch image and text.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "2726",
+  "description": "<p>Are you a sheep or a sheepdog? Rothco's Sheep Dog Patch features a hook back and embroidered Sheep Dog Patch image and text; The Sheepdog patch represents those that protect people (the sheep) from evil (the wolves). The patches are designed with a hook backing which makes it ideal for attaching to our Special Ops Jackets, Transport Packs, Tactical Vest and more.&nbsp;Patches with the item #&rsquo;s starting with &lsquo;P&rsquo; are individually packaged with a header card.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "424"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12874",
+      "item_index": "3548",
+      "rothco_item_no": "72206",
+      "upc": "613902722064",
+      "inventory": "99",
+      "created_date": "2013-08-30 16:21:13",
+      "weight": "0.0094",
+      "image_filename": "72206-A-amazon.jpg",
+      "catalog_page_no": "215",
+      "msrp": 3.99,
+      "ship_length": "2.5000",
+      "ship_width": "2.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "packaging": "Bulk Packaging"
+      },
+      "packaging": "Bulk Packaging",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "item_index": "698",
+  "item_name": "Rothco Deluxe Navy Low Profile Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show your support for the United States Navy with Rothco&rsquo;s Deluxe Navy Low Profile Cap. Made of 100% brushed cotton twill, the baseball hat features raised embroidered \"Navy\" text on the front panel and upper brim, woven \"Navy\" labels, and adjustable hook and loop closure. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions.</p>",
+  "no_ratings": "0",
+  "sort_order": "2325",
+  "description": "<p>Show your support for the United States Navy with Rothco&rsquo;s Deluxe Navy Low Profile Cap. Made of 100% brushed cotton twill, the baseball hat features raised embroidered \"Navy\" text on the front panel and upper brim, woven \"Navy\" labels, and adjustable hook and loop closure. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "374",
+    "674",
+    "549"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10933",
+      "item_index": "698",
+      "rothco_item_no": "9393",
+      "upc": "613902939301",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "9393-Navy-A-amazon.jpg",
+      "catalog_page_no": "142",
+      "msrp": 20.99,
+      "ship_length": "8.7500",
+      "ship_width": "8.7500",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue",
+        "size": "One Size"
+      },
+      "color": "Navy Blue",
+      "size": "One Size",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19049",
+      "item_index": "698",
+      "rothco_item_no": "3625",
+      "upc": "613902036253",
+      "inventory": "0",
+      "created_date": "2019-05-22 13:10:00",
+      "weight": "0.2500",
+      "image_filename": "3625-A-amazon.jpg",
+      "catalog_page_no": "142",
+      "msrp": 20.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "08/10/2025",
+      "specs": {
+        "color": "White",
+        "size": "One Size"
+      },
+      "color": "White",
+      "size": "One Size",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19056",
+      "item_index": "698",
+      "rothco_item_no": "3941",
+      "upc": "613902039414",
+      "inventory": "99",
+      "created_date": "2019-05-23 10:10:00",
+      "weight": "0.2500",
+      "image_filename": "3941-A-amazon1.jpg",
+      "catalog_page_no": "142",
+      "msrp": 20.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

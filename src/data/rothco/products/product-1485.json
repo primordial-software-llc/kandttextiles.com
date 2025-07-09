@@ -1,0 +1,73 @@
+{
+  "item_index": "1485",
+  "item_name": "Rothco Captain Rank Insignia",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Captain Rank Insignia pins are crafted with precision and durability, made from high-quality brass and available in both gold and silver finishes. These insignia pins are manufactured in a U.S. facility certified by the Institute of Heraldry, ensuring they meet the highest standards of authenticity and craftsmanship. Sold as a pair, the Captain Rank Insignia pins are the perfect way to signify your status and rank. Designed for long-lasting wear, these insignia pins are ideal for formal uniforms, ceremonies, or display purposes.</p>",
+  "no_ratings": "0",
+  "sort_order": "2053",
+  "description": "<p>Rothco&rsquo;s Captain Rank Insignia pins are crafted with precision and durability, made from high-quality brass and available in both gold and silver finishes. These insignia pins are manufactured in a U.S. facility certified by the Institute of Heraldry, ensuring they meet the highest standards of authenticity and craftsmanship. Sold as a pair, the Captain Rank Insignia pins are the perfect way to signify your status and rank. Designed for long-lasting wear, these insignia pins are ideal for formal uniforms, ceremonies, or display purposes. Whether you're looking to complete a uniform or celebrate a promotion, Rothco&rsquo;s Captain Rank Insignia pins offer a polished and professional look. Their elegant design and top-tier quality make them a timeless addition to any uniform.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "422"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "789",
+      "item_index": "1485",
+      "rothco_item_no": "1702",
+      "upc": "613902170278",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0413",
+      "image_filename": "1702-hr1-amazon.jpg",
+      "catalog_page_no": "212",
+      "msrp": 16.99,
+      "ship_length": "4.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Silver",
+        "size": "One Size"
+      },
+      "color": "Silver",
+      "size": "One Size",
+      "price": 8.4,
+      "case_price": 8.4,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "795",
+      "item_index": "1485",
+      "rothco_item_no": "1712",
+      "upc": "613902017122",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0413",
+      "image_filename": "1712-hr1-amazon.jpg",
+      "catalog_page_no": "212",
+      "msrp": 16.99,
+      "ship_length": "4.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Gold",
+        "size": "One Size"
+      },
+      "color": "Gold",
+      "size": "One Size",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

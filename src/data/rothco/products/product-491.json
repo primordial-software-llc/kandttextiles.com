@@ -1,0 +1,74 @@
+{
+  "item_index": "491",
+  "item_name": "Rothco WWII Style Leather Pilot Helmet",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Embrace the spirit of aviation with Rothco's WWII Style Leather Pilot Helmet. This meticulously crafted replica of the classic Type-B pilot helmet is perfect for Halloween costumes, historical reenactments, and vintage aviation enthusiasts. Made from genuine goatskin leather, the helmet's outer shell offers an authentic look and feel, while being soft to the touch. The comfortable synthetic suede lining ensures a pleasant wearing experience during extended use.</p>",
+  "no_ratings": "0",
+  "sort_order": "2820",
+  "description": "<p>Embrace the spirit of aviation with Rothco's WWII Style&nbsp;Leather Pilot Helmet. This meticulously crafted replica of the classic Type-B pilot helmet is perfect for Halloween costumes, historical reenactments, and vintage aviation enthusiasts. Made from genuine goatskin leather, the helmet's outer shell offers an authentic look and feel, while being soft to the touch. The comfortable synthetic suede lining ensures a pleasant wearing experience during extended use. Adjustable leather straps on the chin, forehead, and back of the neck provide a secure and customizable fit for all head sizes. The helmet also features covered ear vents with zippers, a remarkable reproduction detail designed to hold earphones as the original aviation gear did. Whether you're aiming for historical accuracy in a reenactment or adding a unique touch to your costume, Rothco's Vintage Leather Pilot Helmet is the perfect choice. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "523",
+    "323"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2335",
+      "item_index": "491",
+      "rothco_item_no": "3569",
+      "upc": "613902356900",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3125",
+      "image_filename": "3569-B.jpg",
+      "catalog_page_no": "153",
+      "msrp": 30.99,
+      "ship_length": "10.0000",
+      "ship_width": "10.2500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M / L",
+        "color": "Brown"
+      },
+      "size": "M / L",
+      "color": "Brown",
+      "price": 13.9,
+      "case_price": 13.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2336",
+      "item_index": "491",
+      "rothco_item_no": "3569",
+      "upc": "613902356917",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3125",
+      "image_filename": "3569-B.jpg",
+      "catalog_page_no": "153",
+      "msrp": 30.99,
+      "ship_length": "11.0000",
+      "ship_width": "10.2500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL / 2XL",
+        "color": "Brown"
+      },
+      "size": "XL / 2XL",
+      "color": "Brown",
+      "price": 13.9,
+      "case_price": 13.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

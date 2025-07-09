@@ -1,0 +1,75 @@
+{
+  "item_index": "567",
+  "item_name": "Rothco Deluxe Public Safety Embroidered Watch Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay warm while on duty with Rothco&rsquo;s Deluxe Embroidered Watch Cap. These cold weather hats feature a high-quality construction and professional design, making them essential winter accessories. The 3D embroidered branch lettering on the folded front brim allows for easy identification. The lightweight acrylic fabric provides warmth without being bulky, ensuring comfort during extended wear while on the job. The double-layer construction enhances insulation, making them ideal for cold weather conditions.</p>",
+  "no_ratings": "0",
+  "sort_order": "5013",
+  "description": "<p>Stay warm while on duty with Rothco&rsquo;s Deluxe Embroidered Watch Cap. These cold weather hats feature a high-quality construction and professional design, making them essential winter accessories. The 3D embroidered branch lettering on the folded front brim allows for easy identification. The lightweight acrylic fabric provides warmth without being bulky, ensuring comfort during extended wear while on the job. The double-layer construction enhances insulation, making them ideal for cold weather conditions. Designed to fit most head sizes, these caps offer versatility for various individuals. From street patrols to rapid responses, these caps keep you warm and stylish. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "emblem"
+  ],
+  "statuses": "",
+  "categories": [
+    "367",
+    "547",
+    "549"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "4807",
+      "item_index": "567",
+      "rothco_item_no": "5342",
+      "upc": "613902534209",
+      "inventory": "99",
+      "created_date": "2008-07-16 21:00:00",
+      "weight": "0.1813",
+      "image_filename": "5342-A-amazon.jpg",
+      "catalog_page_no": "157",
+      "msrp": 13.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "emblem": "Security",
+        "color": "Black"
+      },
+      "emblem": "Security",
+      "color": "Black",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "4961",
+      "item_index": "567",
+      "rothco_item_no": "5449",
+      "upc": "613902544901",
+      "inventory": "99",
+      "created_date": "2008-07-16 21:00:00",
+      "weight": "0.1813",
+      "image_filename": "5449-A-amazon1.jpg",
+      "catalog_page_no": "157",
+      "msrp": 13.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "emblem": "Police",
+        "color": "Black"
+      },
+      "emblem": "Police",
+      "color": "Black",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "item_index": "5057",
+  "item_name": "Rothco 925 Lunch Cooler",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Keep your food and drinks cold with our &ldquo;925&rdquo; Lunch Cooler. Whether it&rsquo;s a long day at work or an outdoor adventure, the insulated cooler ensures your meals, beverages, and snacks stay cool. This reuseable cooler is ready for lunch, anywhere, any day, anytime.</p>",
+  "no_ratings": null,
+  "sort_order": "133366",
+  "description": "<p>Keep your food and drinks cold with our &ldquo;925&rdquo; Lunch Cooler. Whether it&rsquo;s a long day at work or an outdoor adventure, the insulated cooler ensures your meals, beverages, and snacks stay cool. This reuseable cooler is ready for lunch, anywhere, any day, anytime. Dual Insulated Compartments: The lunch bag cooler features 2 insulated compartments for keeping your belongings organized. The main compartment easily carries a 6-pack of your favorite drink with some room to spare. The upper compartment uses a separate zipper closure and a mesh bottom for keeping your sandwich and chips from being crushed. On-the-Job Defense: Crafted with a rugged construction and a tough waterproof bottom, these portable coolers confidently withstand rigorous outdoor use. In addition to keeping your lunchtime favorites cold with foam insulation and taped seams, the waterproof liner is easy to clean. Additional Storage Pockets: The 2 side mesh pockets are great for carrying smaller drinks, condiment packets, and other necessities, while the front zipper pocket is perfect for storing napkins, straws, and utensils. Multiple Carry Options: Our &ldquo;925&rdquo; Cooler features a removeable shoulder strap that adjusts up to 46 inches in length for comfortable crossbody wear. The padded top handle offers quick and easy handling, especially when you&rsquo;re on the go.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "2",
+    "214"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "23539",
+      "item_index": "5057",
+      "rothco_item_no": "29090",
+      "upc": "613902037700",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.6000",
+      "image_filename": "29090-B.jpg",
+      "catalog_page_no": "349",
+      "msrp": 27.99,
+      "ship_length": "11.0000",
+      "ship_width": "8.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "23540",
+      "item_index": "5057",
+      "rothco_item_no": "29091",
+      "upc": "613902037762",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.6000",
+      "image_filename": "29091-B.jpg",
+      "catalog_page_no": "349",
+      "msrp": 27.99,
+      "ship_length": "11.0000",
+      "ship_width": "8.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "23541",
+      "item_index": "5057",
+      "rothco_item_no": "29092",
+      "upc": "613902037786",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.6000",
+      "image_filename": "29092-B.jpg",
+      "catalog_page_no": "349",
+      "msrp": 27.99,
+      "ship_length": "11.0000",
+      "ship_width": "8.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Work Brown"
+      },
+      "color": "Work Brown",
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "item_index": "4669",
+  "item_name": "Rothco Security Patch With Hook Back",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Security Patch with Hook Back is designed to provide a clear and professional identifier for security personnel. Featuring a black background with bold white &ldquo;Security&rdquo; lettering, this patch ensures visibility and recognition. The hook back allows for easy attachment to various gear, including tactical jackets, vests, and operator baseball caps. Constructed with high-quality materials, this patch is built to last through rigorous use.</p>",
+  "no_ratings": null,
+  "sort_order": "132982",
+  "description": "<p>Rothco&rsquo;s Security Patch with Hook Back is designed to provide a clear and professional identifier for security personnel. Featuring a black background with bold white &ldquo;Security&rdquo; lettering, this patch ensures visibility and recognition. The hook back allows for easy attachment to various gear, including tactical jackets, vests, and operator baseball caps. Constructed with high-quality materials, this patch is built to last through rigorous use. Available in 2 sizes, small (2 &frac12; inches X 5 &frac34; inches) and large (4 inches X 10 &frac34; inches), this patch set includes 1 of each size, offering versatility for different applications. Enhance your law enforcement or security uniform with Rothco&rsquo;s durable and functional security patch.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "239",
+    "420",
+    "424",
+    "543"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17197",
+      "item_index": "4669",
+      "rothco_item_no": "1912",
+      "upc": "613902019126",
+      "inventory": "99",
+      "created_date": "2017-05-15 10:10:02",
+      "weight": "0.1250",
+      "image_filename": "1912-A1.jpg",
+      "catalog_page_no": "256",
+      "msrp": 10.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "Set: 1 Small & 1 Large"
+      },
+      "size": "Set: 1 Small & 1 Large",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19473",
+      "item_index": "4669",
+      "rothco_item_no": "2858",
+      "upc": "613902028586",
+      "inventory": "99",
+      "created_date": "2020-02-11 17:00:47",
+      "weight": "0.0625",
+      "image_filename": "2858-A-amazon.jpg",
+      "catalog_page_no": "256",
+      "msrp": 6.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Black / White"
+      },
+      "size": "L",
+      "color": "Black / White",
+      "price": 2.75,
+      "case_price": 2.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19474",
+      "item_index": "4669",
+      "rothco_item_no": "2859",
+      "upc": "613902028593",
+      "inventory": "99",
+      "created_date": "2020-02-11 17:00:47",
+      "weight": "0.0625",
+      "image_filename": "2859-A-amazon.jpg",
+      "catalog_page_no": "256",
+      "msrp": 4.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Black / White"
+      },
+      "size": "S",
+      "color": "Black / White",
+      "price": 2.25,
+      "case_price": 2.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

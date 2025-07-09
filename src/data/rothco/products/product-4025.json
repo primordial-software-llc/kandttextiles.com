@@ -1,0 +1,70 @@
+{
+  "item_index": "4025",
+  "item_name": "Rothco Lightweight Ghillie Jacket",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Lightweight Ghillie Jacket is the ultimate solution for blending seamlessly into your surroundings during hunting, recreational outdoor sports, or other tactical activities. Crafted from a lightweight, synthetic material, this ghillie jacket offers superior mobility without compromising on durability. The jacket is water and mildew-resistant, ensuring it stands up to the harshest conditions while keeping you comfortable. Its 0.75 inch netting shell allows for the easy insertion of natural vegetation or additional material.</p>",
+  "no_ratings": null,
+  "sort_order": "55",
+  "description": "<p>Rothco's Lightweight Ghillie Jacket is the ultimate solution for blending seamlessly into your surroundings during hunting, recreational outdoor sports, or other tactical activities. Crafted from a lightweight, synthetic material, this ghillie jacket offers superior mobility without compromising on durability. The jacket is water and mildew-resistant, ensuring it stands up to the harshest conditions while keeping you comfortable. Its 0.75 inch netting shell allows for the easy insertion of natural vegetation or additional material, enhancing your camouflage to perfectly match your environment. The hunting jacket's design includes a convenient snap closure, cord locks for secure adjustments, elastic-cuffed sleeves, and an attached hood for complete coverage. Available in Medium/Large, fitting up to a 48 inch chest, and XL/XXL, fitting up to a 54 inch chest, this ghillie suit is designed for every outdoor enthusiast seeking effective concealment and performance.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "339"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15657",
+      "item_index": "4025",
+      "rothco_item_no": "95128",
+      "upc": "613902951211",
+      "inventory": "21",
+      "created_date": "2015-09-17 13:10:02",
+      "weight": "4.4000",
+      "image_filename": "95128-A-amazon.jpg",
+      "catalog_page_no": "264",
+      "msrp": 101.99,
+      "ship_length": "18.0000",
+      "ship_width": "14.2500",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M / L"
+      },
+      "size": "M / L",
+      "price": 45.5,
+      "case_price": 45.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15658",
+      "item_index": "4025",
+      "rothco_item_no": "95128",
+      "upc": "613902951228",
+      "inventory": "20",
+      "created_date": "2015-09-17 13:10:02",
+      "weight": "4.4000",
+      "image_filename": "95128-A-amazon.jpg",
+      "catalog_page_no": "264",
+      "msrp": 101.99,
+      "ship_length": "18.0000",
+      "ship_width": "14.2500",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL / 2XL"
+      },
+      "size": "XL / 2XL",
+      "price": 45.5,
+      "case_price": 45.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

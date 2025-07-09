@@ -1,0 +1,74 @@
+{
+  "item_index": "1511",
+  "item_name": "Rothco U.S.M.C. Cap Pin",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s U.S.M.C. Cap Pin is U.S. made and can be pinned on shirts, pants, bags, sweaters, hats, ect. The military pin features the Marine Corps emblem of the Eagle, Globe and Anchor. This insignia pin measures approximately 1 21/32&rdquo; x 1 9/19&rdquo; and has a mirror-like, polished finish.</p>",
+  "no_ratings": "0",
+  "sort_order": "1757",
+  "description": "<p>Rothco&rsquo;s U.S.M.C. Cap Pin is U.S. made and can be pinned on shirts, pants, bags, sweaters, hats, ect. The military pin features the Marine Corps emblem of the Eagle, Globe and Anchor. This insignia pin measures approximately 1 21/32&rdquo; x 1 9/19&rdquo; and has a mirror-like, polished finish. &nbsp;WARNING: &nbsp;This product contains a chemical known to the State of California to cause cancer, birth defects and other reproductive harm.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "494",
+    "547"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "818",
+      "item_index": "1511",
+      "rothco_item_no": "1753",
+      "upc": "613902417533",
+      "inventory": "45",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0313",
+      "image_filename": "1753-HR2.jpg",
+      "catalog_page_no": "212",
+      "msrp": 12.99,
+      "ship_length": "4.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Bronze",
+        "size": "One Size"
+      },
+      "color": "Bronze",
+      "size": "One Size",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1541",
+      "item_index": "1511",
+      "rothco_item_no": "2754",
+      "upc": "613902127548",
+      "inventory": "61",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0031",
+      "image_filename": "2754_Big-amazon.jpg",
+      "catalog_page_no": "212",
+      "msrp": 12.99,
+      "ship_length": "4.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Gold",
+        "size": "One Size"
+      },
+      "color": "Gold",
+      "size": "One Size",
+      "price": 6.4,
+      "case_price": 6.4,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

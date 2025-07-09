@@ -1,0 +1,46 @@
+{
+  "item_index": "1184",
+  "item_name": "Rothco General Purpose First Aid Kit",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's General Purpose First Aid Kit offers over 60 essential emergency supplies in a compact, high-impact waterproof case, ensuring you&rsquo;re prepared for any situation. Designed with a moisture-resistant gasket, the case keeps out water and moisture, providing protection for your first aid essentials. The medical kit includes over 30 adhesive bandages, various types of bandages and tape, along with disinfectants like antibiotic ointment, alcohol prep pads, iodine wipes, and a bottle of peroxide.</p>",
+  "no_ratings": "0",
+  "sort_order": "571",
+  "description": "<p>Rothco's General Purpose First Aid Kit offers over 60 essential emergency supplies in a compact, high-impact waterproof case, ensuring you&rsquo;re prepared for any situation. Designed with a moisture-resistant gasket, the case keeps out water and moisture, providing protection for your first aid essentials. The medical kit includes over 30 adhesive bandages, various types of bandages and tape, along with disinfectants like antibiotic ointment, alcohol prep pads, iodine wipes, and a bottle of peroxide. This medic kit is an essential companion for tactical packs, bug-out bags, camping trips, or any outdoor activity where safety is a priority. The case measures approximately 7.5 inch x 4.5 inch x 2.75 inch, making it compact and easy to carry. The emergency kit is proudly made in the USA, offering superior craftsmanship and durability. Please note that this item has export restrictions and is adapted for air shipment when needed.</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "499",
+    "271"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9537",
+      "item_index": "1184",
+      "rothco_item_no": "8335",
+      "upc": "613902833500",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3000",
+      "image_filename": "8335-A1.jpg",
+      "catalog_page_no": "295",
+      "msrp": 48.99,
+      "ship_length": "5.0000",
+      "ship_width": "8.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "options": "Domestic Only"
+      },
+      "options": "Domestic Only",
+      "price": 21.9,
+      "case_price": 21.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

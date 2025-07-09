@@ -1,0 +1,166 @@
+{
+  "item_index": "141",
+  "item_name": "Rothco Security Mock Turtleneck",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Security Mock Turtleneck is the ideal base layer for professionals who need to stay warm while on duty. This classic law enforcement-style turtleneck is constructed from 100% cotton, providing exceptional warmth and comfort. The collar is embroidered with \"SECURITY,\" adding a professional touch to your attire. The collar and cuffs are made from a cotton/spandex blend, offering a comfortable fit that stretches with your movements. Whether worn alone or layered under your uniform, this turtleneck is perfect for cold weather.</p>",
+  "no_ratings": "0",
+  "sort_order": "1183",
+  "description": "<p>Rothco&rsquo;s Security Mock Turtleneck is the ideal base layer for professionals who need to stay warm while on duty. This classic law enforcement-style turtleneck is constructed from 100% cotton, providing exceptional warmth and comfort. The collar is embroidered with \"SECURITY,\" adding a professional touch to your attire. The collar and cuffs are made from a cotton/spandex blend, offering a comfortable fit that stretches with your movements. Whether worn alone or layered under your uniform, this turtleneck is perfect for cold weather environments. Its durable construction ensures long-lasting use, making it a reliable addition to your duty wardrobe. Stay comfortable and professional with Rothco&rsquo;s Security Mock Turtleneck, designed to meet the needs of those who serve in challenging conditions.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "36",
+    "638"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2071",
+      "item_index": "141",
+      "rothco_item_no": "3413",
+      "upc": "613902341319",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8500",
+      "image_filename": "3413-RIGHT-C.jpg",
+      "catalog_page_no": "68",
+      "msrp": 24.99,
+      "ship_length": "14.0000",
+      "ship_width": "10.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2072",
+      "item_index": "141",
+      "rothco_item_no": "3413",
+      "upc": "613902341326",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8500",
+      "image_filename": "3413-RIGHT-C.jpg",
+      "catalog_page_no": "68",
+      "msrp": 24.99,
+      "ship_length": "14.0000",
+      "ship_width": "10.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2073",
+      "item_index": "141",
+      "rothco_item_no": "3413",
+      "upc": "613902341333",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8500",
+      "image_filename": "3413-RIGHT-C.jpg",
+      "catalog_page_no": "68",
+      "msrp": 24.99,
+      "ship_length": "14.0000",
+      "ship_width": "10.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2074",
+      "item_index": "141",
+      "rothco_item_no": "3413",
+      "upc": "613902341340",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8500",
+      "image_filename": "3413-RIGHT-C.jpg",
+      "catalog_page_no": "68",
+      "msrp": 24.99,
+      "ship_length": "14.0000",
+      "ship_width": "10.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2075",
+      "item_index": "141",
+      "rothco_item_no": "3414",
+      "upc": "613902341401",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8500",
+      "image_filename": "3413-RIGHT-C.jpg",
+      "catalog_page_no": "68",
+      "msrp": 26.99,
+      "ship_length": "15.0000",
+      "ship_width": "10.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2076",
+      "item_index": "141",
+      "rothco_item_no": "3415",
+      "upc": "613902341500",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.9000",
+      "image_filename": "3413-RIGHT-C.jpg",
+      "catalog_page_no": "68",
+      "msrp": 28.99,
+      "ship_length": "15.0000",
+      "ship_width": "11.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3XL"
+      },
+      "size": "3XL",
+      "price": 12.9,
+      "case_price": 12.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

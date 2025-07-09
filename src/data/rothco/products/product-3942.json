@@ -1,0 +1,71 @@
+{
+  "item_index": "3942",
+  "item_name": "Rothco Extreme Cold Weather Hiking Boots - 8 Inch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Extreme Cold Weather Hiking Boots are designed to keep your feet extra warm and dry in cold, snowy, wet conditions.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "708",
+  "description": "<p>Rothco's Extreme Cold Weather Hiking Boots are designed to keep your feet extra warm and dry in cold, snowy, wet conditions. The boot features 600 gram Thermoblock insulation for long-lasting warmth and protection while the Thermoplastic rubber outsole stays pliable even in the coldest conditions. With taped seams and waterproof suede, these boots are sure to keep you warm and dry. Rothco's Extreme Cold Weather Boots are also ISO 9001 Certified.&nbsp;</p>",
+  "selection_groups": [
+    "shoe_size"
+  ],
+  "statuses": "",
+  "categories": [
+    "354",
+    "351",
+    "350"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15461",
+      "item_index": "3942",
+      "rothco_item_no": "5659",
+      "upc": "613902656598",
+      "inventory": "20",
+      "created_date": "2015-05-20 11:10:01",
+      "weight": "4.0000",
+      "image_filename": "5659-A-amazon.jpg",
+      "catalog_page_no": "0",
+      "msrp": 89.99,
+      "ship_length": "12.5000",
+      "ship_width": "12.0000",
+      "ship_height": "5.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "shoe_size": "6"
+      },
+      "shoe_size": "6",
+      "price": 35.95,
+      "case_price": 35.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15462",
+      "item_index": "3942",
+      "rothco_item_no": "5659",
+      "upc": "613902756595",
+      "inventory": "20",
+      "created_date": "2015-05-20 11:10:01",
+      "weight": "4.0000",
+      "image_filename": "5659-A-amazon.jpg",
+      "catalog_page_no": "0",
+      "msrp": 89.99,
+      "ship_length": "12.5000",
+      "ship_width": "12.0000",
+      "ship_height": "5.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "shoe_size": "7"
+      },
+      "shoe_size": "7",
+      "price": 35.95,
+      "case_price": 35.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

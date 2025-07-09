@@ -1,0 +1,152 @@
+{
+  "item_index": "4699",
+  "item_name": "Rothco Laser Cut MOLLE Lightweight Armor Carrier Vest",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=gI5BveDnJl8",
+  "rating": "5",
+  "item_short_desc": "<p>Gear up for tactical excellence with Rothco's Laser Cut MOLLE Lightweight Armor Carrier Vest. Featuring over 20 rows of laser-cut MOLLE slots, this vest offers unparalleled versatility for attaching various accessories and gear. Its skeletonized cummerbund design reduces overall weight while improving ventilation, ensuring comfort during extended wear.</p>",
+  "no_ratings": null,
+  "sort_order": "133012",
+  "description": "<p>Gear up for tactical excellence with Rothco's Laser Cut MOLLE Lightweight Armor Carrier Vest. Featuring over 20 rows of laser-cut MOLLE slots, this vest offers unparalleled versatility for attaching various accessories and gear. The vest's skeletonized cummerbund design reduces overall weight while improving ventilation, ensuring comfort during extended wear. The customizable plate carrier vest accommodates medium to large plates securely, with an adjustable waist size ranging from approximately 39 inches to 49 inches. Designed for convenience and accessibility, the vest includes 3rifle mag pouches near the waist with hook-and-loop closures and elastic cords for rapid access to additional ammo. Furthermore, 3 integrated pistol mag pockets on the chest provide easy storage and retrieval of essential items. Inside the vest carrier, stretch material and mesh padding optimize cooling airflow, enhancing wearer comfort even in demanding situations. For added versatility, the vest features removable hook-and-loop sealed shoulder pads with hydration hose loops and air mesh padding. Additionally, a loop panel on the chest allows for the attachment of flags and morale patches, enabling personalization and identification on the battlefield. The vest comes equipped with 2 slide adjustment buckles for optional single-strap closures and a drag handle on the back for ease of movement and extraction in emergencies. Please note that this item is restricted for export and may not be sold for use in certain countries outside the U.S. Contact Rothco for more details.</p>",
+  "selection_groups": [
+    "color",
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "307"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19672",
+      "item_index": "4699",
+      "rothco_item_no": "1528",
+      "upc": "613902015289",
+      "inventory": "99",
+      "created_date": "2020-06-22 14:00:22",
+      "weight": "1.5000",
+      "image_filename": "1528-A-amazon.jpg",
+      "catalog_page_no": "236",
+      "msrp": 72.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "Regular"
+      },
+      "color": "Coyote Brown",
+      "size": "Regular",
+      "price": 32.9,
+      "case_price": 32.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19673",
+      "item_index": "4699",
+      "rothco_item_no": "1529",
+      "upc": "613902015296",
+      "inventory": "99",
+      "created_date": "2020-06-22 14:00:22",
+      "weight": "2.0000",
+      "image_filename": "1529-A-amazon.jpg",
+      "catalog_page_no": "236",
+      "msrp": 72.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "Regular"
+      },
+      "color": "Black",
+      "size": "Regular",
+      "price": 32.9,
+      "case_price": 32.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19810",
+      "item_index": "4699",
+      "rothco_item_no": "1526",
+      "upc": "613902015265",
+      "inventory": "0",
+      "created_date": "2020-07-02 13:00:11",
+      "weight": "0.0100",
+      "image_filename": "1526-A-amazon.jpg",
+      "catalog_page_no": "236",
+      "msrp": 138.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "07/17/2025",
+      "specs": {
+        "color": "MultiCam",
+        "size": "Regular"
+      },
+      "color": "MultiCam",
+      "size": "Regular",
+      "price": 62.9,
+      "case_price": 62.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22183",
+      "item_index": "4699",
+      "rothco_item_no": "15290",
+      "upc": "613902020566",
+      "inventory": "99",
+      "created_date": "2022-09-08 12:00:16",
+      "weight": "0.0000",
+      "image_filename": "15290-A.jpg",
+      "catalog_page_no": "236",
+      "msrp": 72.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "Regular",
+        "color": "Olive Drab"
+      },
+      "size": "Regular",
+      "color": "Olive Drab",
+      "price": 32.9,
+      "case_price": 32.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22473",
+      "item_index": "4699",
+      "rothco_item_no": "15261",
+      "upc": "613902023727",
+      "inventory": "50",
+      "created_date": "2022-11-23 10:00:02",
+      "weight": "0.0000",
+      "image_filename": "1526-A-amazon.jpg",
+      "catalog_page_no": "236",
+      "msrp": 158.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam",
+        "size": "2XL / 3XL"
+      },
+      "color": "MultiCam",
+      "size": "2XL / 3XL",
+      "price": 71.9,
+      "case_price": 71.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

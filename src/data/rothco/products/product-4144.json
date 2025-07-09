@@ -1,0 +1,70 @@
+{
+  "item_index": "4144",
+  "item_name": "Rothco OCP American Flag Patch With Hook Back",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s OCP American Flag Patch with Hook Backing is meticulously designed to seamlessly integrate with Scorpion (OCP) camouflage and MultiCam uniforms. Manufactured by a U.S. factory certified by The Institute of Heraldry, this patch ensures quality and authenticity. The durable construction guarantees long-lasting wear, even in challenging environments. The hook backing allows for easy attachment and removal, providing versatility and convenience for various applications. The subdued color scheme maintains integrity of your camouflage.</p>",
+  "no_ratings": null,
+  "sort_order": "902",
+  "description": "<p>Rothco&rsquo;s OCP American Flag Patch with Hook Backing is meticulously designed to seamlessly integrate with Scorpion (OCP) camouflage and MultiCam uniforms. Manufactured by a U.S. factory certified by The Institute of Heraldry, this patch ensures quality and authenticity. The durable construction guarantees long-lasting wear, even in challenging environments. The hook backing allows for easy attachment and removal, providing versatility and convenience for various applications. The subdued color scheme maintains the integrity of your camouflage, ensuring you remain inconspicuous. Whether for uniform compliance or to showcase your patriotic spirit, Rothco&rsquo;s American Flag Patch is an essential accessory for those who require reliable and authentic uniform enhancements.</p>",
+  "selection_groups": [
+    "orientation"
+  ],
+  "statuses": "",
+  "categories": [
+    "423",
+    "641"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16415",
+      "item_index": "4144",
+      "rothco_item_no": "17790",
+      "upc": "613902177901",
+      "inventory": "99",
+      "created_date": "2016-05-25 14:10:01",
+      "weight": "0.0069",
+      "image_filename": "17790-A-amazon.jpg",
+      "catalog_page_no": "213",
+      "msrp": 5.99,
+      "ship_length": "3.5000",
+      "ship_width": "2.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "orientation": "Reverse"
+      },
+      "orientation": "Reverse",
+      "price": 2.25,
+      "case_price": 2.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16416",
+      "item_index": "4144",
+      "rothco_item_no": "17791",
+      "upc": "613902177918",
+      "inventory": "99",
+      "created_date": "2016-05-25 14:10:01",
+      "weight": "0.0069",
+      "image_filename": "17791-A-amazon.jpg",
+      "catalog_page_no": "213",
+      "msrp": 5.99,
+      "ship_length": "3.5000",
+      "ship_width": "2.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "orientation": "Normal"
+      },
+      "orientation": "Normal",
+      "price": 2.25,
+      "case_price": 2.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

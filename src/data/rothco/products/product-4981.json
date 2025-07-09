@@ -1,0 +1,93 @@
+{
+  "item_index": "4981",
+  "item_name": "Rothco Utility Pouch with Survival Kit Essentials",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Utility Pouch with Survival Kit Essentials is perfect for the great outdoors with over 10 survival items for emergency situations.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133294",
+  "description": "<p>Kit includes:&nbsp;</p>\n<p>1 - 5 in 1 Whistle, Flint, Compass, Mirror, Waterproof Capsule<br />1 - Emergency Blanket <br />1 - Emergency Poncho<br />1 - Aluminum Carabiner w/Compass &amp; LED Light (batteries included)<br />1 - RED 80mm Carabiner<br />1 - Multi-Tool (Knife, File, Scissors)<br />1 - Compressed Non-Woven Towel <br />1 - Sewing Kit (1 needle, 2 buttons, 1 safety pin, 6 lengths of thread)<br />1 - Paracord Spool - Black - 10 meters / 33 ft. Length (330LB MAX - Emergency Cord)<br />2 - Adhesive Bandages&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "271"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "22237",
+      "item_index": "4981",
+      "rothco_item_no": "10189",
+      "upc": "613902021273",
+      "inventory": "20",
+      "created_date": "2022-11-02 11:00:05",
+      "weight": "0.3500",
+      "image_filename": "10189-A-BLK.jpg",
+      "catalog_page_no": "284",
+      "msrp": 37.99,
+      "ship_length": "10.0000",
+      "ship_width": "8.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 16.95,
+      "case_price": 16.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22238",
+      "item_index": "4981",
+      "rothco_item_no": "10189",
+      "upc": "613902021310",
+      "inventory": "25",
+      "created_date": "2022-11-02 11:00:05",
+      "weight": "0.3500",
+      "image_filename": "10189-A-Coyote.jpg",
+      "catalog_page_no": "284",
+      "msrp": 37.99,
+      "ship_length": "10.0000",
+      "ship_width": "8.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 16.95,
+      "case_price": 16.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22240",
+      "item_index": "4981",
+      "rothco_item_no": "10189",
+      "upc": "613902021327",
+      "inventory": "20",
+      "created_date": "2022-11-02 12:00:27",
+      "weight": "0.3500",
+      "image_filename": "10189-A-OD.jpg",
+      "catalog_page_no": "284",
+      "msrp": 37.99,
+      "ship_length": "10.0000",
+      "ship_width": "8.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 16.95,
+      "case_price": 16.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

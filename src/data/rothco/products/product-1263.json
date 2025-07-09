@@ -1,0 +1,169 @@
+{
+  "item_index": "1263",
+  "item_name": "Rothco Vintage Canvas Tech Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Vintage Canvas Tech Bag offers a rugged and functional solution for carrying your tablet and essential tech gear. Crafted from durable vintage canvas, this bag is designed to withstand daily wear and tear while providing high-capacity protection for your electronic devices. Featuring a padded interior, the bag ensures that your tablet and other gadgets stay safe and secure during all-day carry.</p>",
+  "no_ratings": "0",
+  "sort_order": "5069",
+  "description": "<p>Rothco's Vintage Canvas Tech Bag offers a rugged and functional solution for carrying your tablet and essential tech gear. Crafted from durable vintage canvas, this bag is designed to withstand daily wear and tear while providing high-capacity protection for your electronic devices. Featuring a padded interior, the bag ensures that your tablet and other gadgets stay safe and secure during all-day carry. The 1.5 inch wide adjustable shoulder strap allows for comfortable wear, while the front pocket and interior zippered pouch provide convenient storage for smaller accessories, such as chargers, cables, and earphones. With its top zippered closure and front flap, the bag offers added security for your larger gear, keeping everything organized and easily accessible. Whether you're commuting to work, traveling, or simply running errands, the Rothco Vintage Canvas Tech Bag combines style and functionality to meet your everyday needs. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "208",
+    "507",
+    "224",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5533",
+      "item_index": "1263",
+      "rothco_item_no": "5795",
+      "upc": "613902579507",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6813",
+      "image_filename": "5795-A-Khaki.jpg",
+      "catalog_page_no": "357",
+      "msrp": 24.99,
+      "ship_length": "15.2500",
+      "ship_width": "8.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki"
+      },
+      "color": "Khaki",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5534",
+      "item_index": "1263",
+      "rothco_item_no": "5795",
+      "upc": "613902579514",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6813",
+      "image_filename": "5795-A-OD.jpg",
+      "catalog_page_no": "357",
+      "msrp": 24.99,
+      "ship_length": "15.2500",
+      "ship_width": "8.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Vintage Olive Drab"
+      },
+      "color": "Vintage Olive Drab",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5535",
+      "item_index": "1263",
+      "rothco_item_no": "5795",
+      "upc": "613902579521",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6813",
+      "image_filename": "5795-A-Black.jpg",
+      "catalog_page_no": "357",
+      "msrp": 24.99,
+      "ship_length": "15.2500",
+      "ship_width": "8.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12745",
+      "item_index": "1263",
+      "rothco_item_no": "5798",
+      "upc": "613902057982",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6813",
+      "image_filename": "5798-A-amazon.jpg",
+      "catalog_page_no": "357",
+      "msrp": 24.99,
+      "ship_length": "15.2500",
+      "ship_width": "8.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14530",
+      "item_index": "1263",
+      "rothco_item_no": "5795",
+      "upc": "613902579538",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6813",
+      "image_filename": "5795-A-Brown.jpg",
+      "catalog_page_no": "357",
+      "msrp": 24.99,
+      "ship_length": "15.2500",
+      "ship_width": "8.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Brown"
+      },
+      "color": "Brown",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22759",
+      "item_index": "1263",
+      "rothco_item_no": "57951",
+      "upc": "613902028685",
+      "inventory": "99",
+      "created_date": "2023-04-05 16:00:10",
+      "weight": "0.0000",
+      "image_filename": "57951-A-CoyoteBrown.jpg",
+      "catalog_page_no": "357",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

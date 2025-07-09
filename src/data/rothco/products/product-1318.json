@@ -1,0 +1,94 @@
+{
+  "item_index": "1318",
+  "item_name": "Rothco Vintage Canvas Flight Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Explore the skies in style with Rothco's Vintage Canvas Flight Bag. This spacious bag measures 19.5 inches X 15 inches X 4.5 inches, offering ample room for all your essential gear. It features a zippered main compartment, perfect for storing larger items, while an inner zippered pocket keeps valuables secure. Additionally, there's a metal clasp closure front pocket and a small hook and loop side pocket for easy access to smaller items.</p>",
+  "no_ratings": "0",
+  "sort_order": "2969",
+  "description": "<p>Explore the skies in style with Rothco's Vintage Canvas Flight Bag. This spacious bag measures 19.5 inches X 15 inches X 4.5 inches, offering ample room for all your essential gear. It features a zippered main compartment, perfect for storing larger items, while an inner zippered pocket keeps valuables secure. Additionally, there's a metal clasp closure front pocket and a small hook and loop side pocket for easy access to smaller items. Crafted from durable cotton canvas, this flight bag ensures long-lasting durability, while the adjustable padded shoulder straps and top carry handle provide comfortable carrying options. The gold poly strap and lettering on the front add a touch of vintage-inspired flair, making it the perfect travel companion for any adventure. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "204",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "11267",
+      "item_index": "1318",
+      "rothco_item_no": "9763",
+      "upc": "613902976597",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3000",
+      "image_filename": "9763-A.jpg",
+      "catalog_page_no": "343",
+      "msrp": 48.99,
+      "ship_length": "21.0000",
+      "ship_width": "15.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Brown"
+      },
+      "color": "Brown",
+      "price": 21.95,
+      "case_price": 21.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "11268",
+      "item_index": "1318",
+      "rothco_item_no": "9764",
+      "upc": "613902976405",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.8000",
+      "image_filename": "9764-A1.jpg",
+      "catalog_page_no": "343",
+      "msrp": 48.99,
+      "ship_length": "21.0000",
+      "ship_width": "15.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 21.95,
+      "case_price": 21.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "11269",
+      "item_index": "1318",
+      "rothco_item_no": "9765",
+      "upc": "613902976504",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3000",
+      "image_filename": "9765-A.jpg",
+      "catalog_page_no": "343",
+      "msrp": 48.99,
+      "ship_length": "21.0000",
+      "ship_width": "15.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 21.95,
+      "case_price": 21.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

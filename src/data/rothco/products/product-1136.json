@@ -1,0 +1,120 @@
+{
+  "item_index": "1136",
+  "item_name": "Rothco G.I. Style Canteen Cover",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Get your gear situated with Rothco&rsquo;s G.I. Style Canteen Cover. Crafted with rugged materials, this outdoor essential is ready to tackle any mission or adventure. The durable cover features dual snap closures for secure canteen storage, ALICE keeper clips for attachment, and a convenient side pocket for water purification tablets. With its fleece lining for insulation, this cover is designed to last and accommodate Rothco&rsquo;s 1 QT canteens. The cover is perfect for outdoor enthusiasts, survivalists, and more. Canteen not included.</p>",
+  "no_ratings": "0",
+  "sort_order": "3883",
+  "description": "<p>Get your gear situated with Rothco&rsquo;s G.I. Style Canteen Cover. Crafted with rugged materials, this outdoor essential is ready to tackle any mission or adventure. The durable cover features dual snap closures for secure canteen storage, ALICE keeper clips for attachment, and a convenient side pocket for water purification tablets. With its fleece lining for insulation, this cover is designed to last and accommodate Rothco&rsquo;s 1 QT canteens. The cover is perfect for outdoor enthusiasts, survivalists, and active-duty personnel. Please note that a canteen is not included.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "143",
+    "144",
+    "284"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5300",
+      "item_index": "1136",
+      "rothco_item_no": "565",
+      "upc": "613902565999",
+      "inventory": "99",
+      "created_date": "2010-06-30 21:00:00",
+      "weight": "0.2500",
+      "image_filename": "565-A-amazon.jpg",
+      "catalog_page_no": "285",
+      "msrp": 14.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Digital Camo"
+      },
+      "color": "Woodland Digital Camo",
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6169",
+      "item_index": "1136",
+      "rothco_item_no": "615",
+      "upc": "613902061507",
+      "inventory": "99",
+      "created_date": "2002-04-17 21:00:00",
+      "weight": "0.2500",
+      "image_filename": "615-A-amazon.jpg",
+      "catalog_page_no": "285",
+      "msrp": 9.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 3.9,
+      "case_price": 3.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6193",
+      "item_index": "1136",
+      "rothco_item_no": "616",
+      "upc": "613902061606",
+      "inventory": "99",
+      "created_date": "2002-04-17 21:00:00",
+      "weight": "0.2500",
+      "image_filename": "616-A-amazon1.jpg",
+      "catalog_page_no": "285",
+      "msrp": 9.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 3.9,
+      "case_price": 3.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6203",
+      "item_index": "1136",
+      "rothco_item_no": "617",
+      "upc": "613902061705",
+      "inventory": "99",
+      "created_date": "2002-04-17 21:00:00",
+      "weight": "0.2500",
+      "image_filename": "617-A-amazon.jpg",
+      "catalog_page_no": "285",
+      "msrp": 9.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 3.9,
+      "case_price": 3.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

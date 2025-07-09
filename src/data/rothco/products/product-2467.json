@@ -1,0 +1,171 @@
+{
+  "item_index": "2467",
+  "item_name": "Rothco MOLLE II 3-Day Assault Pack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s MOLLE II 3-Day Assault Tactical Pack is your go-to solution for extended excursions. With a large main compartment and external zippered pouch, it offers ample space for all your gear.</p>",
+  "no_ratings": "0",
+  "sort_order": "3746",
+  "description": "<p>Rothco&rsquo;s MOLLE II 3-Day Assault Tactical Pack is your go-to solution for extended excursions. With a large main compartment and external zippered pouch, it offers ample space for all your gear. The internal hydration pocket and hydration hose port ensure easy access to water (hydration bladder not included). Constructed from rugged denier polyester (denier nylon for MultiCam), it withstands long journeys. Featuring MOLLE compatible straps on the front and sides, you can attach additional gear as needed. The adjustable padded shoulder straps and quick-release buckles provide a secure and comfortable carry, while the sternum strap and adjustable waist belt keep the pack stable on the move. With a sturdy top carry handle and foam panel for added support, this pack is designed for reliability and comfort.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "143",
+    "144",
+    "140",
+    "201",
+    "204",
+    "223",
+    "305"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2741",
+      "item_index": "2467",
+      "rothco_item_no": "40125",
+      "upc": "613902401259",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.8500",
+      "image_filename": "40125-hr1.jpg",
+      "catalog_page_no": "314",
+      "msrp": 156.99,
+      "ship_length": "22.0000",
+      "ship_width": "18.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 77.4,
+      "case_price": 77.4,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2743",
+      "item_index": "2467",
+      "rothco_item_no": "40129",
+      "upc": "613902401297",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.8500",
+      "image_filename": "40129-Flat-HR1.jpg",
+      "catalog_page_no": "314",
+      "msrp": 83.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "ACU Digital Camo"
+      },
+      "color": "ACU Digital Camo",
+      "price": 37.95,
+      "case_price": 37.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2745",
+      "item_index": "2467",
+      "rothco_item_no": "40139",
+      "upc": "613902401396",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.0000",
+      "image_filename": "40139-flat-HR1.jpg",
+      "catalog_page_no": "314",
+      "msrp": 83.99,
+      "ship_length": "22.0000",
+      "ship_width": "18.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 37.95,
+      "case_price": 37.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2754",
+      "item_index": "2467",
+      "rothco_item_no": "40239",
+      "upc": "613902402393",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.8500",
+      "image_filename": "40239-hr1.jpg",
+      "catalog_page_no": "314",
+      "msrp": 83.99,
+      "ship_length": "22.0000",
+      "ship_width": "18.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 37.95,
+      "case_price": 37.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12688",
+      "item_index": "2467",
+      "rothco_item_no": "41129",
+      "upc": "613902411296",
+      "inventory": "45",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.8500",
+      "image_filename": "41129-A-amazon.jpg",
+      "catalog_page_no": "314",
+      "msrp": 83.99,
+      "ship_length": "22.0000",
+      "ship_width": "18.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Digital Camo"
+      },
+      "color": "Woodland Digital Camo",
+      "price": 37.95,
+      "case_price": 37.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15110",
+      "item_index": "2467",
+      "rothco_item_no": "40169",
+      "upc": "613902401693",
+      "inventory": "99",
+      "created_date": "2015-03-10 16:10:02",
+      "weight": "2.8500",
+      "image_filename": "40169-A-amazon1.jpg",
+      "catalog_page_no": "314",
+      "msrp": 83.99,
+      "ship_length": "22.0000",
+      "ship_width": "18.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 37.95,
+      "case_price": 37.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

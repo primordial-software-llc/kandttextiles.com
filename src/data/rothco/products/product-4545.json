@@ -1,0 +1,152 @@
+{
+  "item_index": "4545",
+  "item_name": "Rothco AR 670-1 Coyote Brown Army Physical Training T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s AR 670-1 Coyote Brown Physical Training T-Shirt is designed for maximum comfort and performance. Constructed with a 60% cotton / 40% polyester blend, this shirt provides the perfect combination of breathability and durability, making it ideal for intense training sessions, workouts, or even daily wear. Its tagless label ensures added comfort, eliminating irritation during physical activity.</p>",
+  "no_ratings": null,
+  "sort_order": "132858",
+  "description": "<p>Rothco&rsquo;s AR 670-1 Coyote Brown Physical Training T-Shirt is designed for maximum comfort and performance. Constructed with a 60% cotton / 40% polyester blend, this shirt provides the perfect combination of breathability and durability, making it ideal for intense training sessions, workouts, or even daily wear. Its tagless label ensures added comfort, eliminating irritation during physical activity. Whether you're pushing through a challenging workout or looking for a comfortable everyday shirt, Rothco's Physical Training T-Shirt has you covered. The fabric blend wicks moisture away, helping to keep you cool and comfortable, while the AR 670-1 Coyote Brown color ensures uniform compliance.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "45",
+    "73"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18871",
+      "item_index": "4545",
+      "rothco_item_no": "3872",
+      "upc": "613902338722",
+      "inventory": "99",
+      "created_date": "2019-01-29 10:10:00",
+      "weight": "0.4000",
+      "image_filename": "3872-RIGHT-C.jpg",
+      "catalog_page_no": "103",
+      "msrp": 16.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "AR 670-1 Coyote Brown"
+      },
+      "size": "XL",
+      "color": "AR 670-1 Coyote Brown",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18872",
+      "item_index": "4545",
+      "rothco_item_no": "3872",
+      "upc": "613902238725",
+      "inventory": "99",
+      "created_date": "2019-01-29 10:10:00",
+      "weight": "0.4000",
+      "image_filename": "3872-RIGHT-C.jpg",
+      "catalog_page_no": "103",
+      "msrp": 16.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "AR 670-1 Coyote Brown"
+      },
+      "size": "L",
+      "color": "AR 670-1 Coyote Brown",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18873",
+      "item_index": "4545",
+      "rothco_item_no": "3872",
+      "upc": "613902538726",
+      "inventory": "99",
+      "created_date": "2019-01-29 10:10:00",
+      "weight": "0.4000",
+      "image_filename": "3872-RIGHT-C.jpg",
+      "catalog_page_no": "103",
+      "msrp": 16.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "AR 670-1 Coyote Brown"
+      },
+      "size": "S",
+      "color": "AR 670-1 Coyote Brown",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18874",
+      "item_index": "4545",
+      "rothco_item_no": "3873",
+      "upc": "613902638723",
+      "inventory": "99",
+      "created_date": "2019-01-29 10:10:00",
+      "weight": "0.5500",
+      "image_filename": "3872-RIGHT-C.jpg",
+      "catalog_page_no": "103",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL",
+        "color": "AR 670-1 Coyote Brown"
+      },
+      "size": "2XL",
+      "color": "AR 670-1 Coyote Brown",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18875",
+      "item_index": "4545",
+      "rothco_item_no": "3872",
+      "upc": "613902138728",
+      "inventory": "99",
+      "created_date": "2019-01-29 10:10:00",
+      "weight": "0.4000",
+      "image_filename": "3872-RIGHT-C.jpg",
+      "catalog_page_no": "103",
+      "msrp": 16.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "AR 670-1 Coyote Brown"
+      },
+      "size": "M",
+      "color": "AR 670-1 Coyote Brown",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

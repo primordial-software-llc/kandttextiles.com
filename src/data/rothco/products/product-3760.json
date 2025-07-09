@@ -1,0 +1,40 @@
+{
+  "item_index": "3760",
+  "item_name": "Rothco Noise Reduction Ear Muffs",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Noise Reduction Ear Muffs are essential for hunters, outdoor enthusiasts, and range professionals. With a Noise Reduction Rating (NRR) of 28 (+/- 3db), these ear muffs provide excellent hearing protection from loud sounds, ensuring a safer experience. The lightweight and durable plastic construction make them comfortable to wear for extended periods, while the padded headband enhances long-term comfort. Designed with slide-adjusting earcups, these earmuffs can be customized to fit a wide range of head sizes.</p>",
+  "no_ratings": null,
+  "sort_order": "302",
+  "description": "<p>Rothco&rsquo;s Noise Reduction Ear Muffs are essential for hunters, outdoor enthusiasts, and range professionals. With a Noise Reduction Rating (NRR) of 28 (+/- 3db), these ear muffs provide excellent hearing protection from loud sounds, ensuring a safer experience. The lightweight and durable plastic construction make them comfortable to wear for extended periods, while the padded headband enhances long-term comfort. Designed with slide-adjusting earcups, these earmuffs can be customized to fit a wide range of head sizes, providing a secure and snug fit for everyone. Whether you're out in the field or at the range, these noise-reducing ear muffs are a crucial accessory to have in your tactical gear. Lightweight and built to last, they are perfect for ensuring hearing protection during hunting and other outdoor activities.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "252"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14753",
+      "item_index": "3760",
+      "rothco_item_no": "40805",
+      "upc": "613902408050",
+      "inventory": "99",
+      "created_date": "2014-08-26 12:10:01",
+      "weight": "0.6250",
+      "image_filename": "40805-A-amazon.jpg",
+      "catalog_page_no": "263",
+      "msrp": 25.99,
+      "ship_length": "10.5000",
+      "ship_width": "9.0000",
+      "ship_height": "3.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

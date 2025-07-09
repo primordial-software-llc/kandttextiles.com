@@ -1,0 +1,47 @@
+{
+  "item_index": "3910",
+  "item_name": "Hero's Pride Shirt Tailor Rubber Belt ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Maintain a clean and professional look with the Hero&rsquo;s Pride Shirt Tailor Rubber Belt.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "1721",
+  "description": "<p class=\"MsoNormal\">&nbsp;</p>\n<p class=\"MsoNormal\">Maintain a clean and professional look with the Hero&rsquo;s Pride Shirt Tailor Rubber Belt. This functional accessory is specially designed to keep your shirt tucked into your pants all day long. The belt is worn under your pants and over your shirt to provide traction that dependably secures your shirt tuck thanks to its pegged design. It is a great solution for firefighters, police officers, EMS professionals, or anybody looking for a worry-free way to retain their shirt tuck.&nbsp;</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "382"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15356",
+      "item_index": "3910",
+      "rothco_item_no": "7186",
+      "upc": "849204002096",
+      "inventory": "99",
+      "created_date": "2015-04-22 12:10:02",
+      "weight": "0.4130",
+      "image_filename": "7186-A2.jpg",
+      "catalog_page_no": "197",
+      "msrp": 21.99,
+      "ship_length": "5.0000",
+      "ship_width": "3.5000",
+      "ship_height": "15.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "44 Inches",
+        "color": "White"
+      },
+      "size": "44 Inches",
+      "color": "White",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "item_index": "1709",
+  "item_name": "Rothco Vietnam Combat Knife",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Vietnam Combat Knife is a military knife that features a 6 1/4 inch blade with \"Grip-Tite\" handle and nylon sheath.</p>",
+  "no_ratings": "0",
+  "sort_order": "675",
+  "description": "<p>Rothco's Vietnam Combat Knife is a combat knife that features a 6 1/4 inch blade with \"Grip-Tite\" handle and nylon sheath.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "294"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1911",
+      "item_index": "1709",
+      "rothco_item_no": "3250",
+      "upc": "613902532502",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7500",
+      "image_filename": "3250-A.jpg",
+      "catalog_page_no": "269",
+      "msrp": 28.99,
+      "ship_length": "13.0000",
+      "ship_width": "2.7500",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 12.95,
+      "case_price": 12.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

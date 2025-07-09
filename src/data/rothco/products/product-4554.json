@@ -1,0 +1,45 @@
+{
+  "item_index": "4554",
+  "item_name": "Rothco 10-Watt Cree Flashlight",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s 10-Watt Cree Flashlight is engineered for superior brightness and versatility, making it ideal for tactical, outdoor, and everyday applications. Featuring a powerful 10-watt Cree LED, this flashlight offers 5 light modes: High for maximum visibility, Mid, Low, Flare, and SOS for emergency signaling. The light mode button is conveniently located on the opposite end for easy cycling through modes. Constructed from resilient and lightweight aluminum alloy, this flashlight is both durable and easy to carry.</p>",
+  "no_ratings": null,
+  "sort_order": "132867",
+  "description": "<p>Rothco&rsquo;s 10-Watt Cree Flashlight is engineered for superior brightness and versatility, making it ideal for tactical, outdoor, and everyday applications. Featuring a powerful 10-watt Cree LED, this flashlight offers 5 light modes: High for maximum visibility, Mid, Low, Flare, and SOS for emergency signaling. The light mode button is conveniently located on the opposite end for easy cycling through modes. Constructed from resilient and lightweight aluminum alloy, this flashlight is both durable and easy to carry. The built-in metal pocket clip ensures secure placement, making it perfect for on-the-go use. Measuring 5 1/4 inches x 1 3/8 inches, this compact flashlight requires 3 AAA batteries (not included) and delivers reliable performance whenever you need it.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "310",
+    "470",
+    "274"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19012",
+      "item_index": "4554",
+      "rothco_item_no": "864",
+      "upc": "613902128644",
+      "inventory": "99",
+      "created_date": "2019-05-10 13:10:00",
+      "weight": "0.3125",
+      "image_filename": "864-A-amazon.jpg",
+      "catalog_page_no": "279",
+      "msrp": 28.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 12.9,
+      "case_price": 12.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

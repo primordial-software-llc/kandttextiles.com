@@ -1,0 +1,45 @@
+{
+  "item_index": "4655",
+  "item_name": "Rothco BDU Sewing Repair Kit",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Designed specifically to repair BDU pants Rothco's sewing kit is equipped with needles, threads, buttons and more.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "132968",
+  "description": "<p>Designed specifically to repair BDU pants Rothco's sewing kit is equipped with needles, threads, buttons and more.&nbsp;&nbsp;</p>\n<p>Contents of the MOLLE Sewing Repair Kit for BDU Pants Include:</p>\n<ul>\n<li>Khaki Thread Spool</li>\n<li>Olive Drab Thread Spool&nbsp;</li>\n<li>Light Brown Thread Spool</li>\n<li>Thread Puller</li>\n<li>2 Safety Pins</li>\n<li>Scissors</li>\n<li>Thimble&nbsp;</li>\n<li>3 Needles&nbsp;</li>\n</ul>\n<p>&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "634"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19389",
+      "item_index": "4655",
+      "rothco_item_no": "1197",
+      "upc": "613902011977",
+      "inventory": "99",
+      "created_date": "2020-01-09 12:00:34",
+      "weight": "0.1250",
+      "image_filename": "1197-A-amazon.jpg",
+      "catalog_page_no": "204",
+      "msrp": 12.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Woodland Camo"
+      },
+      "size": "One Size",
+      "color": "Woodland Camo",
+      "price": 4.9,
+      "case_price": 4.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

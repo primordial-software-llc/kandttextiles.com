@@ -1,0 +1,48 @@
+{
+  "item_index": "4723",
+  "item_name": "Rothco US Flag Trucker Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's US Flag Trucker Cap provides breathability, adjustable features, and representation of US pride as your go-to piece of headwear.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133036",
+  "description": "<p>Rothco's US Flag Trucker Cap provides breathability, adjustable features, and representation of US pride as your go-to piece of headwear. Featuring a cotton front panel and lightweight materials to provide all-day comfort. Built with mesh side and back panels for breathability. Trucker Cap features snap closure with 7 adjustments points for your ideal fit.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "674",
+    "522"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19823",
+      "item_index": "4723",
+      "rothco_item_no": "3698",
+      "upc": "613902036987",
+      "inventory": "95",
+      "created_date": "2020-07-08 12:00:08",
+      "weight": "0.1000",
+      "image_filename": "3698-B-AMAZON.jpg",
+      "catalog_page_no": "139",
+      "msrp": 17.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "White / Black",
+        "size": "One Size"
+      },
+      "color": "White / Black",
+      "size": "One Size",
+      "price": 6.9,
+      "case_price": 6.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

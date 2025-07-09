@@ -1,0 +1,93 @@
+{
+  "item_index": "2950",
+  "item_name": "Rothco NATO Camo Paint Stick",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Camo Paint Sticks offer a quick and effective solution for camouflage with their dual-color design. Available in Woodland, Jungle, and Foliage sets, each stick provides two complementary colors for optimal blending into various environments. The sticks are designed for quick and simple application directly from the stick or with fingers, ensuring easy use even in the field. They are lightweight and compact, fitting conveniently into your pocket for transportation during outdoor activities.</p>",
+  "no_ratings": null,
+  "sort_order": "8657",
+  "description": "<p>Rothco's Camo Paint Sticks offer a quick and effective solution for camouflage with their dual-color design. Available in Woodland, Jungle, and Foliage sets, each stick provides two complementary colors for optimal blending into various environments. The sticks are designed for quick and simple application directly from the stick or with fingers, ensuring easy use even in the field. They are lightweight and compact, fitting conveniently into your pocket for transportation during outdoor activities. These camo face paint sticks are sweat-resistant and durable, capable of withstanding rigorous activities without smudging or fading. Additionally, they are easy to remove with soap and water, facilitating hassle-free cleanup after use. While perfect for tactical and military operations, they are also versatile for hunting, MilSim events, Halloween costumes, and more. Ensure effective concealment in any situation with Rothco's NATO Camo Paint Sticks.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "343"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9386",
+      "item_index": "2950",
+      "rothco_item_no": "8214",
+      "upc": "613902821408",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0850",
+      "image_filename": "8214-A-amazon.jpg",
+      "catalog_page_no": "265",
+      "msrp": 4.99,
+      "ship_length": "2.7500",
+      "ship_width": "2.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Foliage Green & Urban"
+      },
+      "color": "Foliage Green & Urban",
+      "price": 1.95,
+      "case_price": 1.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9519",
+      "item_index": "2950",
+      "rothco_item_no": "8301",
+      "upc": "613902083011",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0850",
+      "image_filename": "8301-C.jpg",
+      "catalog_page_no": "265",
+      "msrp": 4.99,
+      "ship_length": "2.7500",
+      "ship_width": "2.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 1.95,
+      "case_price": 1.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9631",
+      "item_index": "2950",
+      "rothco_item_no": "8401",
+      "upc": "613902084018",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0850",
+      "image_filename": "8301-A-amazon.jpg",
+      "catalog_page_no": "265",
+      "msrp": 4.99,
+      "ship_length": "2.7500",
+      "ship_width": "2.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Jungle"
+      },
+      "color": "Jungle",
+      "price": 1.95,
+      "case_price": 1.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

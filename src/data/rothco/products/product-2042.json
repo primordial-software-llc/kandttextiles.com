@@ -1,0 +1,70 @@
+{
+  "item_index": "2042",
+  "item_name": "Rothco Jumbo 80MM Carabiner With Web Strap Key Ring",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Jumbo 80MM Carabiner with Web Strap Key Ring is the perfect solution for anyone needing a convenient and secure way to carry their keys and small items. This heavy-duty carabiner comes with a sturdy web strap and circular key ring, offering versatile usage in a variety of settings. Available in black, olive drab, and woodland camo, the carabiner&rsquo;s robust design ensures durability while its lightweight structure makes it easy to carry without adding bulk.</p>",
+  "no_ratings": "0",
+  "sort_order": "3886",
+  "description": "<p>Rothco&rsquo;s Jumbo 80MM Carabiner with Web Strap Key Ring is the perfect solution for anyone needing a convenient and secure way to carry their keys and small items. This heavy-duty carabiner comes with a sturdy web strap and circular key ring, offering versatile usage in a variety of settings. Available in black, olive drab, and woodland camo, the carabiner&rsquo;s robust design ensures durability while its lightweight structure makes it easy to carry without adding bulk. Whether you're attaching keys to your belt loop, bag, or other gear, this carabiner provides quick access and secure attachment. Ideal for outdoor enthusiasts, travelers, or anyone who needs a reliable and functional keychain solution, Rothco 80MM Carabiner offers both style and practicality.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "490"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1634",
+      "item_index": "2042",
+      "rothco_item_no": "291",
+      "upc": "613902002913",
+      "inventory": "99",
+      "created_date": "2004-02-23 21:00:00",
+      "weight": "0.0500",
+      "image_filename": "291-HR1.jpg",
+      "catalog_page_no": "208",
+      "msrp": 6.99,
+      "ship_length": "5.7500",
+      "ship_width": "2.2500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 2.5,
+      "case_price": 2.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1635",
+      "item_index": "2042",
+      "rothco_item_no": "291",
+      "upc": "613902012912",
+      "inventory": "99",
+      "created_date": "2004-02-23 21:00:00",
+      "weight": "0.0500",
+      "image_filename": "291blk-HR1.jpg",
+      "catalog_page_no": "208",
+      "msrp": 6.99,
+      "ship_length": "5.7500",
+      "ship_width": "2.2500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 2.5,
+      "case_price": 2.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

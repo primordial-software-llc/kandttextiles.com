@@ -1,0 +1,45 @@
+{
+  "item_index": "3485",
+  "item_name": "Rothco Woodland Camo 2 QT Desert Canteen",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Woodland Camo 2 QT Desert Canteen is an essential item for your outdoor adventures. Constructed with a sturdy plastic/polyethylene inner body and a tinplate outer body, this canteen ensures durability and longevity. The outer cover, made from soft terylene and acrylic material, adds a touch of comfort and style to your gear. This BPA-free canteen is safe for use, making it an ideal choice for campers, hikers, and outdoor enthusiasts. The screw-on cap is securely attached to the bottle to prevent any leaks.</p>",
+  "no_ratings": null,
+  "sort_order": "1611",
+  "description": "<p>Rothco&rsquo;s Woodland Camo 2 QT Desert Canteen is an essential item for your outdoor adventures. Constructed with a sturdy plastic/polyethylene inner body and a tinplate outer body, this canteen ensures durability and longevity. The outer cover, made from soft terylene and acrylic material, adds a touch of comfort and style to your gear. This BPA-free canteen is safe for use, making it an ideal choice for campers, hikers, and outdoor enthusiasts. The screw-on cap is securely attached to the bottle to prevent any leaks, while the adjustable web shoulder strap allows for easy carrying and customized length. With its practical design and robust construction, Rothco&rsquo;s Woodland Camo 2 QT Desert Canteen is a reliable companion for any outdoor excursion.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "137",
+    "281",
+    "500"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "813",
+      "item_index": "3485",
+      "rothco_item_no": "174",
+      "upc": "613902174566",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6500",
+      "image_filename": "174-A.jpg",
+      "catalog_page_no": "289",
+      "msrp": 19.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.5000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 7.75,
+      "case_price": 7.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

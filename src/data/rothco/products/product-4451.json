@@ -1,0 +1,71 @@
+{
+  "item_index": "4451",
+  "item_name": "Rothco LACV (Lightweight Armor Carrier Vest) Side Armor Pouch Set",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's LACV (Lightweight Armor Carrier Vest) Side Armor Pouch Set is designed to work with our Lightweight Amor Plate Carrier Vests, the pouches feature two 6\" straps that attached to the armor plate pouches to the cummerbund of the tactical vest.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "132764",
+  "description": "<p>Rothco's LACV (Lightweight Armor Carrier Vest) Side Armor Pouch Set is designed to work with our Lightweight Amor Plate Carrier Vests, the pouches feature two 6\" straps that attached to the armor plate pouches to the cummerbund of the tactical vest, a fold over hook and loop flap&nbsp;secures the plates. The tactical plate carrier pouch measures&nbsp;5.75\" X 5.75\" X .5\" and is sold two per set.&nbsp;&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "254",
+    "255",
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18335",
+      "item_index": "4451",
+      "rothco_item_no": "5728",
+      "upc": "613902057289",
+      "inventory": "20",
+      "created_date": "2018-04-23 09:10:04",
+      "weight": "0.3000",
+      "image_filename": "5728-Black-A-amazon.jpg",
+      "catalog_page_no": "0",
+      "msrp": 22.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 8.9,
+      "case_price": 8.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18338",
+      "item_index": "4451",
+      "rothco_item_no": "5729",
+      "upc": "613902057296",
+      "inventory": "20",
+      "created_date": "2018-04-23 10:10:02",
+      "weight": "0.3000",
+      "image_filename": "5729-B-amazon.jpg",
+      "catalog_page_no": "0",
+      "msrp": 22.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 8.9,
+      "case_price": 8.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

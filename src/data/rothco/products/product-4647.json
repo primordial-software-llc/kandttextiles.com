@@ -1,0 +1,128 @@
+{
+  "item_index": "4647",
+  "item_name": "Rothco Colonial Betsy Ross Flag T-Shirt - Black",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show your appreciation for American history with Rothco&rsquo;s Colonial Betsy Ross Flag T-Shirt. This black t-shirt features a bold, distressed red, white, and blue 13-star colonial flag graphic prominently displayed across the chest, adding a vintage feel to a timeless symbol. The reverse side of the shirt also displays a distressed Betsy Ross flag on the right sleeve, giving it a complete patriotic design. Made with a soft, lightweight cotton / polyester fabric blend, this short sleeve shirt is designed for comfort and durability.</p>",
+  "no_ratings": null,
+  "sort_order": "132960",
+  "description": "<p>Show your appreciation for American history with Rothco&rsquo;s Colonial Betsy Ross Flag T-Shirt. This black t-shirt features a bold, distressed red, white, and blue 13-star colonial flag graphic prominently displayed across the chest, adding a vintage feel to a timeless symbol. The reverse side of the shirt also displays a distressed Betsy Ross flag on the right sleeve, giving it a complete patriotic design. Made with a soft, lightweight cotton / polyester fabric blend, this short sleeve shirt is designed for comfort and durability, perfect for all-day wear. The tag-less printed label adds an extra level of comfort, ensuring no irritation at the neckline. Whether you're celebrating American history or just looking for a rugged and comfortable tee, Rothco&rsquo;s Colonial Betsy Ross Flag T-Shirt is a perfect choice.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "38",
+    "42",
+    "640",
+    "29"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19357",
+      "item_index": "4647",
+      "rothco_item_no": "2628",
+      "upc": "613902026285",
+      "inventory": "62",
+      "created_date": "2019-12-13 16:00:07",
+      "weight": "0.3500",
+      "image_filename": "2826-Colonial-Flag-Tshirt-B-amazon.jpg",
+      "catalog_page_no": "118",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Black"
+      },
+      "size": "S",
+      "color": "Black",
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19359",
+      "item_index": "4647",
+      "rothco_item_no": "2628",
+      "upc": "613902226289",
+      "inventory": "32",
+      "created_date": "2019-12-13 16:00:07",
+      "weight": "0.3500",
+      "image_filename": "2826-Colonial-Flag-Tshirt-B-amazon.jpg",
+      "catalog_page_no": "118",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Black"
+      },
+      "size": "L",
+      "color": "Black",
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19360",
+      "item_index": "4647",
+      "rothco_item_no": "2628",
+      "upc": "613902326286",
+      "inventory": "99",
+      "created_date": "2019-12-13 16:00:07",
+      "weight": "0.3500",
+      "image_filename": "2826-Colonial-Flag-Tshirt-B-amazon.jpg",
+      "catalog_page_no": "118",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Black"
+      },
+      "size": "XL",
+      "color": "Black",
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19362",
+      "item_index": "4647",
+      "rothco_item_no": "2629",
+      "upc": "613902626287",
+      "inventory": "83",
+      "created_date": "2019-12-13 17:00:06",
+      "weight": "0.4500",
+      "image_filename": "2826-Colonial-Flag-Tshirt-B-amazon.jpg",
+      "catalog_page_no": "118",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL",
+        "color": "Black"
+      },
+      "size": "2XL",
+      "color": "Black",
+      "price": 7.45,
+      "case_price": 7.45,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

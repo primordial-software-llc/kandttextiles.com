@@ -1,0 +1,151 @@
+{
+  "item_index": "4345",
+  "item_name": "Rothco Kids NASA Flight Coveralls With Official NASA Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco Kids NASA Flight Coveralls are the perfect outfit for any young aspiring astronaut. Whether it's for Halloween, dress-up, or just a day filled with imaginative play, these flight coveralls are sure to make your child feel like they're ready for space missions. Made from a durable poly/cotton blend, the coveralls are designed to withstand hours of play. They feature a convenient 2-way zipper and leg zippers, making them easy to put on and take off. For a custom fit, the coveralls include adjustable waist and cuffs.</p>",
+  "no_ratings": null,
+  "sort_order": "1",
+  "description": "<p>Rothco Kids NASA Flight Coveralls are the perfect outfit for any young aspiring astronaut. Whether it's for Halloween, dress-up, or just a day filled with imaginative play, these flight coveralls are sure to make your child feel like they're ready for space missions. Made from a durable poly/cotton blend, the coveralls are designed to withstand hours of play. They feature a convenient 2-way zipper and leg zippers, making them easy to put on and take off. For a custom fit, the coveralls include adjustable waist and cuffs. Adding to the authentic look, the coveralls come with three official patches: the NASA Meatball Logo, a Space Shuttle Patch, and an American Flag Patch. Your child will love the realistic details and the opportunity to explore the wonders of space right from their backyard. These coveralls are great for costumes, and also inspire educational play and a love for science and exploration.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "125"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17389",
+      "item_index": "4345",
+      "rothco_item_no": "7209",
+      "upc": "613902072091",
+      "inventory": "65",
+      "created_date": "2017-05-31 16:10:01",
+      "weight": "1.1500",
+      "image_filename": "7209-AA.jpg",
+      "catalog_page_no": "131",
+      "msrp": 72.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XS",
+        "color": "Blue"
+      },
+      "size": "XS",
+      "color": "Blue",
+      "price": 32.95,
+      "case_price": 32.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17390",
+      "item_index": "4345",
+      "rothco_item_no": "7209",
+      "upc": "613902172098",
+      "inventory": "82",
+      "created_date": "2017-05-31 16:10:01",
+      "weight": "1.1500",
+      "image_filename": "7209-AA.jpg",
+      "catalog_page_no": "131",
+      "msrp": 72.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Blue"
+      },
+      "size": "S",
+      "color": "Blue",
+      "price": 32.95,
+      "case_price": 32.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17391",
+      "item_index": "4345",
+      "rothco_item_no": "7209",
+      "upc": "613902272095",
+      "inventory": "83",
+      "created_date": "2017-05-31 16:10:01",
+      "weight": "1.1500",
+      "image_filename": "7209-AA.jpg",
+      "catalog_page_no": "131",
+      "msrp": 72.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Blue"
+      },
+      "size": "M",
+      "color": "Blue",
+      "price": 32.95,
+      "case_price": 32.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17392",
+      "item_index": "4345",
+      "rothco_item_no": "7209",
+      "upc": "613902372092",
+      "inventory": "91",
+      "created_date": "2017-05-31 16:10:01",
+      "weight": "1.1500",
+      "image_filename": "7209-AA.jpg",
+      "catalog_page_no": "131",
+      "msrp": 72.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Blue"
+      },
+      "size": "L",
+      "color": "Blue",
+      "price": 32.95,
+      "case_price": 32.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17393",
+      "item_index": "4345",
+      "rothco_item_no": "7209",
+      "upc": "613902472099",
+      "inventory": "65",
+      "created_date": "2017-05-31 16:10:01",
+      "weight": "1.1500",
+      "image_filename": "7209-AA.jpg",
+      "catalog_page_no": "131",
+      "msrp": 72.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Blue"
+      },
+      "size": "XL",
+      "color": "Blue",
+      "price": 32.95,
+      "case_price": 32.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

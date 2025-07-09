@@ -1,0 +1,119 @@
+{
+  "item_index": "3115",
+  "item_name": "Rothco ANSI Rated Tactical Goggles ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s ANSI Rated Tactical Goggles offer superior protection and durability, making them an essential accessory for tactical professionals, public safety personnel, bikers, and more. The goggles feature 2.2mm thick anti-scratch polycarbonate lenses that provide unbeatable impact resistance, ensuring long-lasting performance in challenging environments. With UV 400 protection, these goggles shield your eyes from harmful ultraviolet rays, keeping you safe during outdoor activities.</p>",
+  "no_ratings": null,
+  "sort_order": "493",
+  "description": "<p>Rothco&rsquo;s ANSI Rated Tactical Goggles offer superior protection and durability, making them an essential accessory for tactical professionals, public safety personnel, bikers, and more. The goggles feature 2.2mm thick anti-scratch polycarbonate lenses that provide unbeatable impact resistance, ensuring long-lasting performance in challenging environments. With UV 400 protection, these goggles shield your eyes from harmful ultraviolet rays, keeping you safe during outdoor activities. The adjustable elastic strap allows for a customizable fit, ensuring comfort during extended wear. These goggles meet the ANSI-Z87-1 safety glasses standard, guaranteeing high-quality protection and reliability. Whether you're in a tactical situation or enjoying outdoor adventures, Rothco&rsquo;s ANSI Rated Tactical Goggles are designed to provide the ultimate eye protection.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "335",
+    "394",
+    "395"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "487",
+      "item_index": "3115",
+      "rothco_item_no": "11377",
+      "upc": "613902113770",
+      "inventory": "25",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "11377-front-hr-amazon.jpg",
+      "catalog_page_no": "198",
+      "msrp": 18.99,
+      "ship_length": "6.7500",
+      "ship_width": "2.2500",
+      "ship_height": "2.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black / Smoke"
+      },
+      "color": "Black / Smoke",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18385",
+      "item_index": "3115",
+      "rothco_item_no": "1174",
+      "upc": "613902011748",
+      "inventory": "99",
+      "created_date": "2018-04-30 09:10:02",
+      "weight": "0.2500",
+      "image_filename": "1174-A-amazon1.jpg",
+      "catalog_page_no": "198",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black / Clear"
+      },
+      "color": "Black / Clear",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18386",
+      "item_index": "3115",
+      "rothco_item_no": "1175",
+      "upc": "613902011755",
+      "inventory": "99",
+      "created_date": "2018-04-30 09:10:02",
+      "weight": "0.2500",
+      "image_filename": "1175-A-amazon1.jpg",
+      "catalog_page_no": "198",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown / Clear"
+      },
+      "color": "Coyote Brown / Clear",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20836",
+      "item_index": "3115",
+      "rothco_item_no": "11751",
+      "upc": "613902004498",
+      "inventory": "99",
+      "created_date": "2021-06-29 12:00:00",
+      "weight": "0.2500",
+      "image_filename": "11751-A-no-logo.jpg",
+      "catalog_page_no": "198",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab / Clear"
+      },
+      "color": "Olive Drab / Clear",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

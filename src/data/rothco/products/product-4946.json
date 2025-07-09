@@ -1,0 +1,125 @@
+{
+  "item_index": "4946",
+  "item_name": "Rothco Tactical NYCO Airsoft Combat Shirt ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Tactical NYCO Airsoft Combat Shirts are made of a no melt, a drip-resistant fabric rated to withstand up to 230 degrees Fahrenheit.&nbsp;&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133259",
+  "description": "<p>Rothco's Tactical NYCO Airsoft Combat Shirts are made of a no melt, a drip-resistant fabric rated to withstand up to 230 degrees Fahrenheit.&nbsp;&nbsp;</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "30"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20772",
+      "item_index": "4946",
+      "rothco_item_no": "45070",
+      "upc": "613902003668",
+      "inventory": "33",
+      "created_date": "2021-06-14 13:00:24",
+      "weight": "0.8800",
+      "image_filename": "45070-B1.jpg",
+      "catalog_page_no": "14",
+      "msrp": 47.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Olive Drab"
+      },
+      "size": "S",
+      "color": "Olive Drab",
+      "price": 19.95,
+      "case_price": 19.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20773",
+      "item_index": "4946",
+      "rothco_item_no": "45070",
+      "upc": "613902003682",
+      "inventory": "99",
+      "created_date": "2021-06-14 13:00:24",
+      "weight": "0.8800",
+      "image_filename": "45070-B1.jpg",
+      "catalog_page_no": "14",
+      "msrp": 47.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Olive Drab"
+      },
+      "size": "M",
+      "color": "Olive Drab",
+      "price": 19.95,
+      "case_price": 19.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20774",
+      "item_index": "4946",
+      "rothco_item_no": "45070",
+      "upc": "613902003699",
+      "inventory": "99",
+      "created_date": "2021-06-14 13:00:24",
+      "weight": "0.8800",
+      "image_filename": "45070-B1.jpg",
+      "catalog_page_no": "14",
+      "msrp": 47.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Olive Drab"
+      },
+      "size": "L",
+      "color": "Olive Drab",
+      "price": 19.95,
+      "case_price": 19.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20775",
+      "item_index": "4946",
+      "rothco_item_no": "45070",
+      "upc": "613902003712",
+      "inventory": "99",
+      "created_date": "2021-06-14 13:00:24",
+      "weight": "0.8800",
+      "image_filename": "45070-B1.jpg",
+      "catalog_page_no": "14",
+      "msrp": 47.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Olive Drab"
+      },
+      "size": "XL",
+      "color": "Olive Drab",
+      "price": 19.95,
+      "case_price": 19.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

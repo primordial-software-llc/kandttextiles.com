@@ -1,0 +1,42 @@
+{
+  "item_index": "547",
+  "item_name": "Rothco U.S. Air Force Headwrap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": "0",
+  "sort_order": "975",
+  "description": "<p>Pattern Headwrap offers protection from the sun to your forehead and head and is great for keeping hair out of your face. They can be worn on their own or under a helmet. The head-wraps feature a 100% cotton material and tie in the back. Officially Licensed by the United States Air Force.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "369",
+    "683",
+    "550"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "4589",
+      "item_index": "547",
+      "rothco_item_no": "5174",
+      "upc": "613902517417",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "5174-A-amazon.jpg",
+      "catalog_page_no": "167",
+      "msrp": 6.99,
+      "ship_length": "6.5000",
+      "ship_width": "6.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 2.75,
+      "case_price": 2.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "item_index": "3531",
+  "item_name": "Rothco Gun Shield Morale Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco Gun Shield Morale Patch features a hook backing that will pair perfectly with any of our hook &amp; loop accessories including our Special Ops Tactical Jacket and or Tactical Vests.<br /> </p>",
+  "no_ratings": null,
+  "sort_order": "1363",
+  "description": "<p>Rothco Gun Shield Morale Patch features a hook backing that will pair perfectly with any of our hook &amp; loop accessories including our Special Ops Tactical Jacket and or Tactical Vests.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "331",
+    "420",
+    "424"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12869",
+      "item_index": "3531",
+      "rothco_item_no": "72200",
+      "upc": "613902722002",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0094",
+      "image_filename": "72200-A.jpg",
+      "catalog_page_no": "215",
+      "msrp": 3.99,
+      "ship_length": "4.0000",
+      "ship_width": "3.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

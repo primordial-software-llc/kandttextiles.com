@@ -1,0 +1,71 @@
+{
+  "item_index": "4801",
+  "item_name": "Rothco MOLLE Pepper Spray Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s MOLLE Pepper Spray Pouch is an essential piece of duty gear that law enforcement professionals cannot go without. Rothco&rsquo;s MOLLE pouch makes your pepper easily accessible, preparing you for any eventuality.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133114",
+  "description": "<p>Rothco&rsquo;s MOLLE Pepper Spray Pouch is an essential piece of duty gear that law enforcement professionals cannot go without. Rothco&rsquo;s MOLLE pouch makes your pepper easily accessible, preparing you for any eventuality. The top closure flap and bottom flap are fully removable and adjustable to accommodate pepper spray bottles of different heights. This pepper spray pouch features a 4-inch removable MOLLE strap on the back for attaching to duty belts, assault packs, plate carrier vests, or anything with a MOLLE panel. A strong hook and loop flap closure dependably secures your pepper spray and provides easy access in self-defense situations, and Three horizontal MOLLE loops on the back of the pouch are designed to attach to a 1.25-inch belt.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "306",
+    "238",
+    "244"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20308",
+      "item_index": "4801",
+      "rothco_item_no": "51011",
+      "upc": "613902510111",
+      "inventory": "99",
+      "created_date": "2021-02-02 10:00:25",
+      "weight": "0.1500",
+      "image_filename": "51011-D-no-logo.jpg",
+      "catalog_page_no": "241",
+      "msrp": 14.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20309",
+      "item_index": "4801",
+      "rothco_item_no": "51012",
+      "upc": "613902510128",
+      "inventory": "99",
+      "created_date": "2021-02-02 10:00:25",
+      "weight": "0.1500",
+      "image_filename": "51012-A-no-logo.jpg",
+      "catalog_page_no": "241",
+      "msrp": 14.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

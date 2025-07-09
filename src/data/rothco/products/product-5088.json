@@ -1,0 +1,364 @@
+{
+  "item_index": "5088",
+  "item_name": "Rothco Midnight Camo Moisture Wicking T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=mi96injXyFc",
+  "rating": "5",
+  "item_short_desc": "<p>Engineered with 100% performance polyester, the Midnight Camo Moisture Wicking T-Shirt wicks sweat and wetness away for optimum comfort. Featuring our rapid moisture control fabric, sweat is swiftly transferred to the top layer, allowing for a quick dry. This prevents sweat from soaking through these camouflage shirts so that they won&rsquo;t stick to your skin. From night missions to intense training sessions, this stealthy t-shirt is a great addition to any wardrobe.</p>",
+  "no_ratings": null,
+  "sort_order": "133377",
+  "description": "<p>Engineered with 100% performance polyester, the Midnight Camo Moisture Wicking T-Shirt wicks sweat and wetness away for optimum comfort. Featuring our rapid moisture control fabric, sweat is swiftly transferred to the top layer, allowing for a quick dry. This prevents sweat from soaking through these camouflage shirts so that they won&rsquo;t stick to your skin. From night missions to intense training sessions, this stealthy t-shirt is a great addition to any wardrobe. Ultimate Stealth Ops Camo: Inspired by stealth operations that require zero visibility to the opposition, Rothco has reinvented the classic Woodland Camouflage Pattern as well as our bestselling Black Camouflage Pattern to bring you the Midnight Camo Collection. The subdued color combinations offer a true stealth, sharp and sleek appearance whether on mission or off. Built for Action and Adventure: These crewneck tees feature a double-needle stitched neck that enhances the dark camo t-shirt&rsquo;s longevity for repeated wear. With a tag-less neck label, you are free to move around without any itches or scratches. Standard Fit: These robust t-shirts are standard fit, giving you the perfect amount of room and flexibility for any activity. Their length should go past the waist, providing you with additional coverage. We&rsquo;ve Got You Covered: Complete your wardrobe with a matching pair of Midnight Camo Tactical BDU Pants and Conceal-Ops Midnight Camo Hoodie.</p>",
+  "selection_groups": [
+    "size",
+    "color"
+  ],
+  "statuses": [
+    "Active"
+  ],
+  "categories": [
+    "737",
+    "2",
+    "80",
+    "47",
+    "40"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "23340",
+      "item_index": "5088",
+      "rothco_item_no": "12325",
+      "upc": "613902035713",
+      "inventory": "99",
+      "created_date": "2023-08-09 15:59:48",
+      "weight": "0.0000",
+      "image_filename": "12325-A.jpg",
+      "catalog_page_no": "106",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Midnight Woodland Camo"
+      },
+      "size": "L",
+      "color": "Midnight Woodland Camo",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "23343",
+      "item_index": "5088",
+      "rothco_item_no": "12322",
+      "upc": "613902035683",
+      "inventory": "68",
+      "created_date": "2023-08-09 15:59:48",
+      "weight": "0.0000",
+      "image_filename": "12320-RIGHT-B.jpg",
+      "catalog_page_no": "106",
+      "msrp": 20.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3XL",
+        "color": "Midnight Black Camo"
+      },
+      "size": "3XL",
+      "color": "Midnight Black Camo",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "23344",
+      "item_index": "5088",
+      "rothco_item_no": "12325",
+      "upc": "613902035706",
+      "inventory": "99",
+      "created_date": "2023-08-09 15:59:48",
+      "weight": "0.0000",
+      "image_filename": "12325-A.jpg",
+      "catalog_page_no": "106",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Midnight Woodland Camo"
+      },
+      "size": "M",
+      "color": "Midnight Woodland Camo",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "23347",
+      "item_index": "5088",
+      "rothco_item_no": "12320",
+      "upc": "613902035584",
+      "inventory": "99",
+      "created_date": "2023-08-09 15:59:48",
+      "weight": "0.0000",
+      "image_filename": "12320-RIGHT-B.jpg",
+      "catalog_page_no": "106",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Midnight Black Camo"
+      },
+      "size": "M",
+      "color": "Midnight Black Camo",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "23349",
+      "item_index": "5088",
+      "rothco_item_no": "12320",
+      "upc": "613902035591",
+      "inventory": "99",
+      "created_date": "2023-08-09 15:59:48",
+      "weight": "0.0000",
+      "image_filename": "12320-RIGHT-B.jpg",
+      "catalog_page_no": "106",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Midnight Black Camo"
+      },
+      "size": "L",
+      "color": "Midnight Black Camo",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "23350",
+      "item_index": "5088",
+      "rothco_item_no": "12321",
+      "upc": "613902035676",
+      "inventory": "99",
+      "created_date": "2023-08-09 15:59:48",
+      "weight": "0.0000",
+      "image_filename": "12320-RIGHT-B.jpg",
+      "catalog_page_no": "106",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL",
+        "color": "Midnight Black Camo"
+      },
+      "size": "2XL",
+      "color": "Midnight Black Camo",
+      "price": 7,
+      "case_price": 7,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "23351",
+      "item_index": "5088",
+      "rothco_item_no": "12326",
+      "upc": "613902035737",
+      "inventory": "99",
+      "created_date": "2023-08-09 15:59:48",
+      "weight": "0.0000",
+      "image_filename": "12325-A.jpg",
+      "catalog_page_no": "106",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL",
+        "color": "Midnight Woodland Camo"
+      },
+      "size": "2XL",
+      "color": "Midnight Woodland Camo",
+      "price": 7,
+      "case_price": 7,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "23352",
+      "item_index": "5088",
+      "rothco_item_no": "12327",
+      "upc": "613902035744",
+      "inventory": "61",
+      "created_date": "2023-08-09 15:59:48",
+      "weight": "0.0000",
+      "image_filename": "12325-A.jpg",
+      "catalog_page_no": "106",
+      "msrp": 20.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3XL",
+        "color": "Midnight Woodland Camo"
+      },
+      "size": "3XL",
+      "color": "Midnight Woodland Camo",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "23354",
+      "item_index": "5088",
+      "rothco_item_no": "12320",
+      "upc": "613902035560",
+      "inventory": "57",
+      "created_date": "2023-08-09 15:59:48",
+      "weight": "0.0000",
+      "image_filename": "12320-RIGHT-B.jpg",
+      "catalog_page_no": "106",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Midnight Black Camo"
+      },
+      "size": "S",
+      "color": "Midnight Black Camo",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "23355",
+      "item_index": "5088",
+      "rothco_item_no": "12325",
+      "upc": "613902035690",
+      "inventory": "68",
+      "created_date": "2023-08-09 15:59:48",
+      "weight": "0.0000",
+      "image_filename": "12325-A.jpg",
+      "catalog_page_no": "106",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Midnight Woodland Camo"
+      },
+      "size": "S",
+      "color": "Midnight Woodland Camo",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "23359",
+      "item_index": "5088",
+      "rothco_item_no": "12325",
+      "upc": "613902035720",
+      "inventory": "99",
+      "created_date": "2023-08-09 15:59:48",
+      "weight": "0.0000",
+      "image_filename": "12325-A.jpg",
+      "catalog_page_no": "106",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Midnight Woodland Camo"
+      },
+      "size": "XL",
+      "color": "Midnight Woodland Camo",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "23360",
+      "item_index": "5088",
+      "rothco_item_no": "12320",
+      "upc": "613902035669",
+      "inventory": "99",
+      "created_date": "2023-08-09 15:59:48",
+      "weight": "0.0000",
+      "image_filename": "12320-RIGHT-B.jpg",
+      "catalog_page_no": "106",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Midnight Black Camo"
+      },
+      "size": "XL",
+      "color": "Midnight Black Camo",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    }
+  ]
+}

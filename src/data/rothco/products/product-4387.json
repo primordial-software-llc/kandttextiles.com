@@ -1,0 +1,73 @@
+{
+  "item_index": "4387",
+  "item_name": "Rothco Deluxe Thin Blue Line Flag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Deluxe Thin Blue Line Flag is crafted from durable polyester, allowing you to display it proudly throughout the year. Featuring the Thin Blue Line design, this American flag symbolizes respect and support for law enforcement officials. The flag features raised embroidered stars and double stitching on the stripes, ensuring that it withstands wear and tear while being outside. The Grommet holes allow for easy hanging and display in various settings.</p>",
+  "no_ratings": null,
+  "sort_order": "3815",
+  "description": "<p>Rothco's Deluxe Thin Blue Line Flag is crafted from durable polyester, allowing you to display it proudly throughout the year. Featuring the Thin Blue Line design, this American flag symbolizes respect and support for law enforcement officials. The flag features raised embroidered stars and double stitching on the stripes, ensuring that it withstands wear and tear while being outside. The Grommet holes allow for easy hanging and display in various settings. Not only does the patrotic flag make a powerful statement, but proceeds from your purchase also contribute to supporting the families of fallen first responders. Display your commitment proudly with Rothco&rsquo;s Deluxe Thin Blue Line Flag.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "428"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17674",
+      "item_index": "4387",
+      "rothco_item_no": "1561",
+      "upc": "613902015616",
+      "inventory": "99",
+      "created_date": "2017-10-06 09:10:01",
+      "weight": "0.5400",
+      "image_filename": "1561-A-amazon.jpg",
+      "catalog_page_no": "211",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "3' x 5'"
+      },
+      "color": "Black",
+      "size": "3' x 5'",
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19942",
+      "item_index": "4387",
+      "rothco_item_no": "1639",
+      "upc": "613902016392",
+      "inventory": "99",
+      "created_date": "2020-10-19 15:00:08",
+      "weight": "1.2500",
+      "image_filename": "1639-A-NOLOGO.jpg",
+      "catalog_page_no": "211",
+      "msrp": 52.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "5' x 8'"
+      },
+      "color": "Black",
+      "size": "5' x 8'",
+      "price": 23.5,
+      "case_price": 23.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

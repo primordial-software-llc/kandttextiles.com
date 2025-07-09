@@ -1,0 +1,44 @@
+{
+  "item_index": "2892",
+  "item_name": "Rothco G.I. Style Aluminum Canteen",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Aluminum Canteen is a robust and reliable hydration solution designed for outdoor enthusiasts and campers. Constructed from durable 100% aluminum, this camping canteen is built to withstand harsh outdoor conditions while keeping your water safe and secure. It can hold up to 1 quart of water, making it an essential item for staying hydrated during long hikes or camping trips. The metal canteen features a screw-on cap that is attached to the body with a safety chain, ensuring the cap is always within reach.</p>",
+  "no_ratings": null,
+  "sort_order": "1534",
+  "description": "<p>Rothco&rsquo;s Aluminum Canteen is a robust and reliable hydration solution designed for outdoor enthusiasts and campers. Constructed from durable 100% aluminum, this camping canteen is built to withstand harsh outdoor conditions while keeping your water safe and secure. It can hold up to 1 quart of water, making it an essential item for staying hydrated during long hikes or camping trips. The metal canteen features a screw-on cap that is attached to the body with a safety chain, ensuring the cap is always within reach and preventing it from getting lost. The compact and lightweight design of the canteen makes it easy to carry in your backpack or attach to your gear. Whether you are trekking through the wilderness or setting up camp, Rothco&rsquo;s Aluminum Canteen is a dependable choice for all your hydration needs. Please note, the cup is not included.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "281",
+    "500"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2828",
+      "item_index": "2892",
+      "rothco_item_no": "414",
+      "upc": "613902004146",
+      "inventory": "99",
+      "created_date": "2002-04-17 21:00:00",
+      "weight": "0.3000",
+      "image_filename": "414-D-amazon.jpg",
+      "catalog_page_no": "287",
+      "msrp": 10.99,
+      "ship_length": "9.5000",
+      "ship_width": "5.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Silver"
+      },
+      "color": "Silver",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "item_index": "1759",
+  "item_name": "Smith And Wesson Extreme OPS Folding Knife",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Smith and Wesson Extreme OPS Folding Knife is great for fishing, hunting, camping, and emergencies. It has a 3.31&rdquo; 7CR17 high carbon stainless steel blade with black coating. The aluminum handle is coated black and blue and comes with a liner lock, and pocket clip for easy transport.</p>",
+  "no_ratings": "0",
+  "sort_order": "520",
+  "description": "<p>The Smith and Wesson Extreme OPS Folding Knife is great for fishing, hunting, camping, and emergencies. It has a 3.31&rdquo; 7CR17 high carbon stainless steel blade with black coating. The aluminum handle is coated black and blue and comes with a liner lock, and pocket clip for easy transport.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "295",
+    "513"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2043",
+      "item_index": "1759",
+      "rothco_item_no": "3389",
+      "upc": "028634700462",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1938",
+      "image_filename": "3389-hr1.jpg",
+      "catalog_page_no": "270",
+      "msrp": 36.99,
+      "ship_length": "4.7500",
+      "ship_width": "1.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 14.5,
+      "case_price": 14.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

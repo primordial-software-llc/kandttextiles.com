@@ -1,0 +1,45 @@
+{
+  "item_index": "3535",
+  "item_name": "Rothco Infidel Shoulder Morale Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Infidel Morale Patch with hook backing pairs perfectly with any of our hook &amp; loop accessories including our Special Ops Jacket and or Tactical Vests.</p>",
+  "no_ratings": null,
+  "sort_order": "2188",
+  "description": "<p>Rothco's Infidel Morale Patch with hook backing pairs perfectly with any of our hook &amp; loop accessories including our Special Ops Jacket and or Tactical Vests. Patches with the item #&rsquo;s starting with &lsquo;P&rsquo; are individually packaged with a header card.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "331",
+    "420",
+    "424"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12868",
+      "item_index": "3535",
+      "rothco_item_no": "72199",
+      "upc": "613902721999",
+      "inventory": "47",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0094",
+      "image_filename": "72199-A-amazon.jpg",
+      "catalog_page_no": "214",
+      "msrp": 3.99,
+      "ship_length": "3.0000",
+      "ship_width": "1.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "packaging": "Bulk Packaging"
+      },
+      "packaging": "Bulk Packaging",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

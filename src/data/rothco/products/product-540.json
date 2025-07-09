@@ -1,0 +1,41 @@
+{
+  "item_index": "540",
+  "item_name": "Rothco Skull & Crossbones Headwrap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco Skull &amp; Crossbones Headwrap protects your head and neck from the sun&nbsp; and is great for keeping hair out of your face.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "633",
+  "description": "<p>Rothco Skull &amp; Crossbones Headwrap protects your head and neck from the sun&nbsp; &nbsp;and is great for keeping hair out of your face. This headwrap can be worn on its own&nbsp; or under a helmet. The skull cap is soft yet durable. It is made out of 100% cotton composition for comfortable all-day wear.&nbsp; &nbsp;The headwrap features adjustable back ties to accommodate most heads.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "369",
+    "683"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "4561",
+      "item_index": "540",
+      "rothco_item_no": "5134",
+      "upc": "613902513402",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "5134.jpg",
+      "catalog_page_no": "167",
+      "msrp": 6.99,
+      "ship_length": "6.5000",
+      "ship_width": "6.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 2.65,
+      "case_price": 2.65,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

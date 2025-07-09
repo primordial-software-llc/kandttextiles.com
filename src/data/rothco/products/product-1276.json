@@ -1,0 +1,93 @@
+{
+  "item_index": "1276",
+  "item_name": "Rothco Tactical Duffle Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Discover the epitome of durability and versatility with Rothco&rsquo;s Tactical Duffle Bag. Crafted from rugged heavyweight canvas material, this bag is designed to withstand the toughest challenges. The waterproof base adds an extra layer of protection, ensuring your gear stays secure in various weather conditions. Equipped with adjustable padded shoulder straps, this tactical cargo bag transforms into a backpack, offering hands-free convenience during your journeys.</p>",
+  "no_ratings": "0",
+  "sort_order": "3520",
+  "description": "<p>Discover the epitome of durability and versatility with Rothco&rsquo;s Tactical Duffle Bag. Crafted from rugged heavyweight canvas material, this bag is designed to withstand the toughest challenges. The waterproof base adds an extra layer of protection, ensuring your gear stays secure in various weather conditions. Equipped with adjustable padded shoulder straps, this tactical cargo bag transforms into a backpack, offering hands-free convenience during your journeys. The adjustable straps measure 14.5 inches, providing a customized and comfortable fit. Sturdy reinforced top carry grab handles offer alternative carrying options for quick and easy access. The extra-large duffle bag boasts ample space, measuring 34 inch x 15 inch x 12 inch, accommodating all your gear effortlessly. The thoughtful design includes an ID window located on the front center for easy identification. Inside, you'll find a large interior storage space with additional compartments, keeping your belongings organized and accessible. The tactical functionality extends to the exterior with three side zippered pockets, offering quick-access storage. A deep side pocket measuring 11 inches provides additional space, complemented by two external pockets&mdash;one measuring 7 inch x 5.5 inch and another measuring 9 inch x 10 inch. For those who demand reinforced reliability, this duffle bag features lashing gear rings, ensuring secure attachment and added durability. Rothco&rsquo;s Tactical Duffle Bag is your trusted companion for transporting gear with rugged style and uncompromising performance.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "215"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9333",
+      "item_index": "1276",
+      "rothco_item_no": "8136",
+      "upc": "613902813601",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "4.4500",
+      "image_filename": "8136-OD-B2.jpg",
+      "catalog_page_no": "326",
+      "msrp": 76.99,
+      "ship_length": "32.7500",
+      "ship_width": "15.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 34.95,
+      "case_price": 34.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9334",
+      "item_index": "1276",
+      "rothco_item_no": "8136",
+      "upc": "613902813618",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "4.4500",
+      "image_filename": "8136-Black-A-amazon.jpg",
+      "catalog_page_no": "326",
+      "msrp": 76.99,
+      "ship_length": "32.7500",
+      "ship_width": "15.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 34.95,
+      "case_price": 34.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15113",
+      "item_index": "1276",
+      "rothco_item_no": "8136",
+      "upc": "613902813625",
+      "inventory": "99",
+      "created_date": "2015-03-10 16:10:02",
+      "weight": "4.4500",
+      "image_filename": "8136-Coyote-B-amazon.jpg",
+      "catalog_page_no": "326",
+      "msrp": 76.99,
+      "ship_length": "32.7500",
+      "ship_width": "15.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 34.95,
+      "case_price": 34.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

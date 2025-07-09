@@ -1,0 +1,47 @@
+{
+  "item_index": "1253",
+  "item_name": "Rothco MOLLE Shotgun / Airsoft Ammo Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s MOLLE Shotgun / Airsoft Ammo Pouch is the ideal solution for securely carrying and organizing your shells at the range or during tactical activities. This durable ammo pouch is designed with 25 elastic loops that accommodate a variety of shell sizes, including 12 gauge, 20 gauge, and airsoft shells. The pouch features a reliable top flap with hook and loop closures, combined with two snaps to ensure your shells remain safely stored inside.</p>",
+  "no_ratings": "0",
+  "sort_order": "1259",
+  "description": "<p>Rothco&rsquo;s MOLLE Shotgun / Airsoft Ammo Pouch is the ideal solution for securely carrying and organizing your shells at the range or during tactical activities. This durable ammo pouch is designed with 25 elastic loops that accommodate a variety of shell sizes, including 12 gauge, 20 gauge, and airsoft shells. The pouch features a reliable top flap with hook and loop closures, combined with two snaps to ensure your shells remain safely stored inside. Whether mounted on a tactical shotgun scabbard, MOLLE vest, or any gear equipped with MOLLE panels, the pouch offers versatility in its use. When fully opened, the pouch measures 21.75 inches long, providing easy access to all your shells, and folds down to a compact 1.5 inches deep, 4 inches wide, and 8.5 inches high when closed. Rothco&rsquo;s MOLLE Ammo Pouch is built for convenience and protection, keeping your gear organized and ready for action.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "140",
+    "254",
+    "333"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2752",
+      "item_index": "1253",
+      "rothco_item_no": "40225",
+      "upc": "613902402256",
+      "inventory": "99",
+      "created_date": "2011-08-02 21:00:00",
+      "weight": "0.4688",
+      "image_filename": "40225-Black-A-no-logo.jpg",
+      "catalog_page_no": "246",
+      "msrp": 24.99,
+      "ship_length": "9.2500",
+      "ship_width": "4.7500",
+      "ship_height": "2.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 10.5,
+      "case_price": 10.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "item_index": "3466",
+  "item_name": "Rothco Vietnam Veteran Boonie Hat",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Celebrate the legacy of Vietnam veterans with Rothco's Vietnam Veteran Boonie Hat. This military boonie hat features finely embroidered Vietnam Veteran &amp; Vietnam Ribbon emblems, serving as a proud symbol of honor and remembrance. Crafted with meticulous attention to detail, this bucket hat not only pays homage to those who served but also offers practical features for outdoor enthusiasts. Designed for comfort and functionality, the 4 screened side vents ensure optimal airflow, keeping you cool during intense outdoor activities.</p>",
+  "no_ratings": null,
+  "sort_order": "6767",
+  "description": "<p>Celebrate the legacy of Vietnam veterans with Rothco's Vietnam Veteran Boonie Hat. This military boonie hat features finely embroidered Vietnam Veteran &amp; Vietnam Ribbon emblems, serving as a proud symbol of honor and remembrance. Crafted with meticulous attention to detail, this bucket hat not only pays homage to those who served but also offers practical features for outdoor enthusiasts. Designed for comfort and functionality, this boonie hat includes 4 screened side vents to ensure optimal airflow, keeping you cool during intense outdoor activities. The loops woven into the sides allow for easy attachment of leaves and branches, providing natural camouflage in various environments. Furthermore, the military hat is equipped with an adjustable chin strap, ensuring a secure fit even in windy conditions. Whether you're hiking, fishing, or simply enjoying the great outdoors, this veteran bucket hat remains comfortably in place. Constructed from durable materials, Rothco's Vietnam Veteran Boonie Hat is built to withstand rugged outdoor conditions while maintaining its shape and integrity. Its versatile design makes it suitable for a wide range of activities, from camping trips to hunting expeditions. With its timeless style and meaningful symbolism, this boonie hat is not just a piece of apparel but a tribute to the bravery and sacrifice of Vietnam veterans. Wear it with pride and honor, knowing that you carry the legacy of those who served. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from military personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "head_size"
+  ],
+  "statuses": "",
+  "categories": [
+    "138",
+    "375"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12714",
+      "item_index": "3466",
+      "rothco_item_no": "5911",
+      "upc": "613902005914",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "5911-A1.jpg",
+      "catalog_page_no": "151",
+      "msrp": 20.99,
+      "ship_length": "8.5000",
+      "ship_width": "4.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "head_size": "7",
+        "color": "Olive Drab"
+      },
+      "head_size": "7",
+      "color": "Olive Drab",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12715",
+      "item_index": "3466",
+      "rothco_item_no": "5911",
+      "upc": "613902905917",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "5911-A1.jpg",
+      "catalog_page_no": "151",
+      "msrp": 20.99,
+      "ship_length": "8.5000",
+      "ship_width": "4.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "head_size": "7 1/4",
+        "color": "Olive Drab"
+      },
+      "head_size": "7 1/4",
+      "color": "Olive Drab",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12716",
+      "item_index": "3466",
+      "rothco_item_no": "5911",
+      "upc": "613902591103",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "5911-A1.jpg",
+      "catalog_page_no": "151",
+      "msrp": 20.99,
+      "ship_length": "8.5000",
+      "ship_width": "4.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "head_size": "7 1/2",
+        "color": "Olive Drab"
+      },
+      "head_size": "7 1/2",
+      "color": "Olive Drab",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12717",
+      "item_index": "3466",
+      "rothco_item_no": "5911",
+      "upc": "613902591196",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "5911-A1.jpg",
+      "catalog_page_no": "151",
+      "msrp": 20.99,
+      "ship_length": "8.5000",
+      "ship_width": "4.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "head_size": "7 3/4",
+        "color": "Olive Drab"
+      },
+      "head_size": "7 3/4",
+      "color": "Olive Drab",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

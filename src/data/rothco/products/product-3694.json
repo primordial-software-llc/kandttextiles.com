@@ -1,0 +1,101 @@
+{
+  "item_index": "3694",
+  "item_name": "Rothco 45L Tactical Backpack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's 45 Liter Tactical Backpack is designed for versatility and durability. With a spacious main compartment capable of holding up to 45 liters, the tactical backpack is ideal for various outdoor activities. The top features a drawstring closure and elastic top cover with quick-release buckles for easy access to your belongings. Zippered side pouches offer additional storage for gear and supplies. Adjustable and padded shoulder straps ensure all-day comfort, while the breathable padded mesh back allows for comfortable weight carriage.</p>",
+  "no_ratings": null,
+  "sort_order": "704",
+  "description": "<p>Rothco's 45 Liter Tactical Backpack is designed for versatility and durability. With a spacious main compartment capable of holding up to 45 liters, the tactical backpack is ideal for various outdoor activities. The top features a drawstring closure and elastic top cover with quick-release buckles for easy access to your belongings. Zippered side pouches offer additional storage for gear and supplies. Adjustable and padded shoulder straps ensure all-day comfort, while the breathable padded mesh back allows for comfortable weight carriage. The hip belt enhances stability and weight distribution, making it perfect for long treks. D-rings and MOLLE webbing provide options for securing extra gear and accessories.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "201",
+    "204",
+    "223"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14545",
+      "item_index": "3694",
+      "rothco_item_no": "2847",
+      "upc": "613902028470",
+      "inventory": "89",
+      "created_date": "2014-04-08 16:10:03",
+      "weight": "2.9000",
+      "image_filename": "2847-A-AMAZON.jpg",
+      "catalog_page_no": "321",
+      "msrp": 65.99,
+      "ship_length": "18.0000",
+      "ship_width": "19.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 32.5,
+      "case_price": 32.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14552",
+      "item_index": "3694",
+      "rothco_item_no": "2848",
+      "upc": "613902028487",
+      "inventory": "99",
+      "created_date": "2014-04-08 17:10:04",
+      "weight": "2.9000",
+      "image_filename": "2848-A-AMAZON.jpg",
+      "catalog_page_no": "321",
+      "msrp": 65.99,
+      "ship_length": "18.0000",
+      "ship_width": "19.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 32.5,
+      "case_price": 32.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19604",
+      "item_index": "3694",
+      "rothco_item_no": "28470",
+      "upc": "613902284708",
+      "inventory": "70",
+      "created_date": "2020-06-05 13:00:10",
+      "weight": "2.9000",
+      "image_filename": "28470-A-AMAZON.jpg",
+      "catalog_page_no": "321",
+      "msrp": 65.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 32.5,
+      "case_price": 32.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

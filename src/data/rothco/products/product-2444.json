@@ -1,0 +1,71 @@
+{
+  "item_index": "2444",
+  "item_name": "Rothco Heavyweight Canvas Musette Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Heavyweight Canvas Musette Bag is designed for rugged use, featuring a durable material composition that reliably holds your everyday carry (EDC) items. Perfect for both urban and outdoor settings, this versatile bag includes a large main compartment for your laptop or other essentials, ensuring you have everything you need at your fingertips. The side pocket with a snap closure allows for easy organization of compact items, while the back pocket with snap closure provides additional storage space.</p>",
+  "no_ratings": "0",
+  "sort_order": "1940",
+  "description": "<p>Rothco&rsquo;s Heavyweight Canvas Musette Bag is designed for rugged use, featuring a durable material composition that reliably holds your everyday carry (EDC) items. Perfect for both urban and outdoor settings, this versatile bag includes a large main compartment for your laptop or other essentials, ensuring you have everything you need at your fingertips. The side pocket with a snap closure allows for easy organization of compact items, while the back pocket with snap closure provides additional storage space. With adjustable shoulder and backpack straps, you can carry this canvas bag in multiple ways to suit your comfort and style. The Musette Bag has a 15 liter capacity and measures 12 inch x 12 inch x 6 inch, making it an ideal travel companion for anyone on the go. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "503",
+    "221",
+    "505"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1187",
+      "item_index": "2444",
+      "rothco_item_no": "2270",
+      "upc": "613902227002",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3000",
+      "image_filename": "2270-A1.jpg",
+      "catalog_page_no": "361",
+      "msrp": 24.99,
+      "ship_length": "15.5000",
+      "ship_width": "11.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1188",
+      "item_index": "2444",
+      "rothco_item_no": "2274",
+      "upc": "613902227415",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3500",
+      "image_filename": "2274-A.jpg",
+      "catalog_page_no": "361",
+      "msrp": 24.99,
+      "ship_length": "15.5000",
+      "ship_width": "11.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

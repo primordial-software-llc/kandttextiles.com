@@ -1,0 +1,152 @@
+{
+  "item_index": "3516",
+  "item_name": "Rothco Military Web Belts - 64 Inches Long",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Web Belts offer unmatched durability and customizability, making them perfect for a wide range of uses. Measuring up to 64 inches long, these uniform belts can be easily cut to achieve the perfect fit. The high-density cotton canvas material ensures long-lasting wear, while the secure metal buckle keeps the duty belt firmly in place. The detachable buckle allows for further customization in both length and style, accommodating your personal preferences.</p>",
+  "no_ratings": null,
+  "sort_order": "2432",
+  "description": "<p>Rothco's Web Belts offer unmatched durability and customizability, making them perfect for a wide range of uses. Measuring up to 64 inches long, these uniform belts can be easily cut to achieve the perfect fit. The high-density cotton canvas material ensures long-lasting wear, while the secure metal buckle keeps the duty belt firmly in place. The detachable buckle allows for further customization in both length and style, accommodating your personal preferences. With a width of 1.25 inches, these uniform duty belts are versatile enough to fit tactical pants, BDU cargo shorts, uniform pants, jeans, and more. Available in over a dozen webbing and buckle color options, Rothco's Web Belts provide the ideal balance of functionality and style. Additional lengths of 44 inches, 54 inches, and 74 inches are also available.</p>",
+  "selection_groups": [
+    "buckle",
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "380"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3021",
+      "item_index": "3516",
+      "rothco_item_no": "4264",
+      "upc": "613902426412",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2188",
+      "image_filename": "4264-OD-Gold-B.jpg",
+      "catalog_page_no": "193",
+      "msrp": 8.99,
+      "ship_length": "4.0000",
+      "ship_width": "3.0000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "buckle": "Gold",
+        "color": "Olive Drab"
+      },
+      "buckle": "Gold",
+      "color": "Olive Drab",
+      "price": 3.45,
+      "case_price": 3.45,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3022",
+      "item_index": "3516",
+      "rothco_item_no": "4264",
+      "upc": "613902426429",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2188",
+      "image_filename": "4264-Navy-Silver-N.jpg",
+      "catalog_page_no": "193",
+      "msrp": 8.99,
+      "ship_length": "4.0000",
+      "ship_width": "3.0000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "buckle": "Chrome",
+        "color": "Navy Blue"
+      },
+      "buckle": "Chrome",
+      "color": "Navy Blue",
+      "price": 3.45,
+      "case_price": 3.45,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3023",
+      "item_index": "3516",
+      "rothco_item_no": "4264",
+      "upc": "613902426436",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2188",
+      "image_filename": "4264-Khaki-Gold-G.jpg",
+      "catalog_page_no": "193",
+      "msrp": 8.99,
+      "ship_length": "4.0000",
+      "ship_width": "3.0000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "buckle": "Gold",
+        "color": "Khaki"
+      },
+      "buckle": "Gold",
+      "color": "Khaki",
+      "price": 3.45,
+      "case_price": 3.45,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3024",
+      "item_index": "3516",
+      "rothco_item_no": "4264",
+      "upc": "613902426443",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2188",
+      "image_filename": "4264-Black-Silver-J.jpg",
+      "catalog_page_no": "193",
+      "msrp": 8.99,
+      "ship_length": "4.0000",
+      "ship_width": "3.0000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "buckle": "Chrome",
+        "color": "Black"
+      },
+      "buckle": "Chrome",
+      "color": "Black",
+      "price": 3.45,
+      "case_price": 3.45,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3027",
+      "item_index": "3516",
+      "rothco_item_no": "4264",
+      "upc": "613902426405",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2188",
+      "image_filename": "4264-Black-Gold-I.jpg",
+      "catalog_page_no": "193",
+      "msrp": 8.99,
+      "ship_length": "4.0000",
+      "ship_width": "3.0000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "buckle": "Gold",
+        "color": "Black"
+      },
+      "buckle": "Gold",
+      "color": "Black",
+      "price": 3.45,
+      "case_price": 3.45,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

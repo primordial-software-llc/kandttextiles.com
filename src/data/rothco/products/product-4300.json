@@ -1,0 +1,45 @@
+{
+  "item_index": "4300",
+  "item_name": "Rothco Stainless Steel Shoe Horn",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Stainless Steel Shoe Horn is the perfect tool for anyone needing assistance with putting on tight-fitting footwear. Made from 100% high-quality stainless steel, this shoe horn is built to last, offering durability and strength for everyday use. The added length of 16.5 inches allows you to slip into your shoes without bending or straining, making it ideal for boots, dress shoes, and any snug footwear. The hooked end provides a secure grip, ensuring stability as you guide your foot in.</p>",
+  "no_ratings": null,
+  "sort_order": "52",
+  "description": "<p>Rothco's Stainless Steel Shoe Horn is the perfect tool for anyone needing assistance with putting on tight-fitting footwear. Made from 100% high-quality stainless steel, this shoe horn is built to last, offering durability and strength for everyday use. The added length of 16.5 inches allows you to slip into your shoes without bending or straining, making it ideal for boots, dress shoes, and any snug footwear. The hooked end provides a secure grip, ensuring stability as you guide your foot in. Whether you're getting ready for a busy day or simply seeking a smoother shoe-wearing experience, Rothco&rsquo;s Stainless Steel Shoe Horn makes the process easier and more efficient. Its sleek design and polished finish also add a touch of style to this functional tool. The Rothco Shoe Horn is a must-have for anyone looking for convenience and comfort in their daily routine.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "362"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17234",
+      "item_index": "4300",
+      "rothco_item_no": "1014",
+      "upc": "613902010147",
+      "inventory": "99",
+      "created_date": "2017-05-19 12:10:01",
+      "weight": "0.5000",
+      "image_filename": "1014-A-amazon.jpg",
+      "catalog_page_no": "186",
+      "msrp": 8.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Silver",
+        "size": "One Size"
+      },
+      "color": "Silver",
+      "size": "One Size",
+      "price": 3.25,
+      "case_price": 3.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

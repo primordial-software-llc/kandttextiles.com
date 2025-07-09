@@ -1,0 +1,94 @@
+{
+  "item_index": "2471",
+  "item_name": "Rothco G.I. Type Flyers Helmet Bags",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Flyers Helmet Bag is the ultimate storage solution for active-duty personnel, motorcyclists, skaters, and bikers. Crafted from heavyweight denier polyester and featuring a padded interior, this bag ensures your helmet and accessories stay secure during transport. With dimensions of 19 inch x 19 inch, the carrying bag offers plenty of room for your aviation helmet.</p>",
+  "no_ratings": "0",
+  "sort_order": "1660",
+  "description": "<p>Rothco&rsquo;s Flyers Helmet Bag is the ultimate storage solution for active-duty personnel, motorcyclists, skaters, and bikers. Crafted from heavyweight denier polyester and featuring a padded interior, this bag ensures your helmet and accessories stay secure during transport. With dimensions of 19 inch x 19 inch, the carrying bag offers plenty of room for your aviation helmet. 2 hook and loop outside pockets, complemented by snap closures, provide additional storage for accessories and essential gear. The Flyers Helmet Bag is equipped with 2 sturdy top carry handles for convenient transportation, and a nylon zipper closure ensures easy access. Whether you're on duty or hitting the road, Rothco's Helmet Bag is your reliable companion for keeping your gear protected and organized.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "222",
+    "325"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9309",
+      "item_index": "2471",
+      "rothco_item_no": "8101",
+      "upc": "613902810105",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7400",
+      "image_filename": "8101-A-amazon.jpg",
+      "catalog_page_no": "366",
+      "msrp": 32.99,
+      "ship_length": "9.5000",
+      "ship_width": "7.5000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 14.95,
+      "case_price": 14.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10259",
+      "item_index": "2471",
+      "rothco_item_no": "8802",
+      "upc": "613902880207",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7400",
+      "image_filename": "8802-A-amazon.jpg",
+      "catalog_page_no": "366",
+      "msrp": 32.99,
+      "ship_length": "9.5000",
+      "ship_width": "7.5000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 14.95,
+      "case_price": 14.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15116",
+      "item_index": "2471",
+      "rothco_item_no": "7245",
+      "upc": "613902072459",
+      "inventory": "99",
+      "created_date": "2015-03-10 17:10:02",
+      "weight": "0.7400",
+      "image_filename": "7245-A-amazon1.jpg",
+      "catalog_page_no": "366",
+      "msrp": 32.99,
+      "ship_length": "9.5000",
+      "ship_width": "7.5000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 14.95,
+      "case_price": 14.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

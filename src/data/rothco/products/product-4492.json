@@ -1,0 +1,42 @@
+{
+  "item_index": "4492",
+  "item_name": "Rothco Tactical First Aid Kit Contents",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Tactical First Aid Kit Contents feature over 40 essential first aid items.</p>",
+  "no_ratings": null,
+  "sort_order": "132805",
+  "description": "<p>Rothco&rsquo;s Tactical First Aid Kit Contents have the same items as our Rothco MOLLE Tactical First Aid Kit (Item # 9704, 8776, 2676, 8778, and 9625). Featuring over 40 essential first aid items; including a variety of bandages, peroxide, and tweezers. The tactical first aid kit is a great way to replenish your emergency supplies when needed.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "227",
+    "271",
+    "241"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18572",
+      "item_index": "4492",
+      "rothco_item_no": "1710",
+      "upc": "613902171091",
+      "inventory": "42",
+      "created_date": "2018-07-26 14:10:03",
+      "weight": "0.7500",
+      "image_filename": "1710-A-amazon.jpg",
+      "catalog_page_no": "296",
+      "msrp": 27.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

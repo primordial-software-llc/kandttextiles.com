@@ -1,0 +1,41 @@
+{
+  "item_index": "3544",
+  "item_name": "Rothco Zombie Response Team Morale Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Zombie Apocalypse on its way? Don't worry; join the Zombie Response team with this patch. Rothco's morale patches feature a hook backing and are ideal for attaching to our Operator Caps, Combat Shirts or any of our Hook &amp; Loop gear.</p>",
+  "no_ratings": null,
+  "sort_order": "1678",
+  "description": "<p>Zombie Apocalypse on its way? Don't worry; join the Zombie Response team with this patch. Rothco's morale patches feature a hook backing and are ideal for attaching to our Operator Caps, Combat Shirts or any of our Hook &amp; Loop gear.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "331",
+    "424"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12865",
+      "item_index": "3544",
+      "rothco_item_no": "72195",
+      "upc": "613902721951",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0094",
+      "image_filename": "72195-A-HR2.jpg",
+      "catalog_page_no": "215",
+      "msrp": 3.99,
+      "ship_length": "3.2500",
+      "ship_width": "3.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

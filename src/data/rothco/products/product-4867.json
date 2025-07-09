@@ -1,0 +1,41 @@
+{
+  "item_index": "4867",
+  "item_name": "Rothco Deluxe Thin Red Line Flag / 3' X 5' ",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Honor the brave firefighters with Rothco's Thin Red Line US Flag featuring embroidered stars and a vibrant red stripe.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133180",
+  "description": "<p>Honor the brave firefighters with Rothco's Thin Red Line US Flag featuring embroidered stars and a vibrant red stripe.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "428",
+    "428"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20880",
+      "item_index": "4867",
+      "rothco_item_no": "15961",
+      "upc": "613902004658",
+      "inventory": "99",
+      "created_date": "2021-07-20 14:00:23",
+      "weight": "0.5400",
+      "image_filename": "15961-A-NOLOGO.jpg",
+      "catalog_page_no": "211",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

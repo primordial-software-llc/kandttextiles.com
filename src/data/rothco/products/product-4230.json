@@ -1,0 +1,46 @@
+{
+  "item_index": "4230",
+  "item_name": "Rothco Vietnam Veteran Tactical Mesh Back Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Vietnam Veteran Tactical Mesh Back Cap features raised embroidered Vietnam Veteran lettering and ribbon on the front panel, with additional lettering on the front of the brim and back.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "132",
+  "description": "<p>Rothco&rsquo;s Vietnam Veteran Tactical Mesh Back Cap features raised embroidered Vietnam Veteran lettering and ribbon on the front panel, with additional lettering on the front of the brim and back. The mesh back baseball-style cap provides maximum breathability and comfort perfect for everyday wear.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "374",
+    "521"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16784",
+      "item_index": "4230",
+      "rothco_item_no": "8009",
+      "upc": "613902080096",
+      "inventory": "99",
+      "created_date": "2016-12-16 10:10:01",
+      "weight": "0.1875",
+      "image_filename": "8009-A-amazon.jpg",
+      "catalog_page_no": "145",
+      "msrp": 15.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Black"
+      },
+      "size": "One Size",
+      "color": "Black",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

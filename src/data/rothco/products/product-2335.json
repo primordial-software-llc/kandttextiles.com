@@ -1,0 +1,100 @@
+{
+  "item_index": "2335",
+  "item_name": "Rothco Nylon Web Belt - Black Webbing",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Nylon Web Belt is the perfect combination of comfort and durability, designed for a variety of uses. Made from 100% nylon, this belt ensures long-lasting wear and resilience. The webbing construction offers flexibility while maintaining its strength, making it ideal for everyday activities. The belt is fully adjustable, allowing for a custom fit that can be tailored to any waist size. Available in multiple colors and sizes, Rothco&rsquo;s Nylon Web Belt is versatile and can easily complement any wardrobe.</p>",
+  "no_ratings": "0",
+  "sort_order": "1936",
+  "description": "<p>Rothco&rsquo;s Nylon Web Belt is the perfect combination of comfort and durability, designed for a variety of uses. Made from 100% nylon, this belt ensures long-lasting wear and resilience. The webbing construction offers flexibility while maintaining its strength, making it ideal for everyday activities. The belt is fully adjustable, allowing for a custom fit that can be tailored to any waist size. Available in multiple colors and sizes, Rothco&rsquo;s Nylon Web Belt is versatile and can easily complement any wardrobe. The black webbing provides a sleek, classic look that is both stylish and functional. Whether you&rsquo;re heading to work, going for a hike, or just need a reliable belt for daily wear, Rothco&rsquo;s Nylon Web Belt has you covered.</p>",
+  "selection_groups": [
+    "waist_size",
+    "buckle"
+  ],
+  "statuses": "",
+  "categories": [
+    "380"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2988",
+      "item_index": "2335",
+      "rothco_item_no": "4241",
+      "upc": "613902424104",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1938",
+      "image_filename": "4241-B-amazon.jpg",
+      "catalog_page_no": "193",
+      "msrp": 7.99,
+      "ship_length": "3.7500",
+      "ship_width": "2.5000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "waist_size": "54",
+        "buckle": "Black"
+      },
+      "waist_size": "54",
+      "buckle": "Black",
+      "price": 3.35,
+      "case_price": 3.35,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2989",
+      "item_index": "2335",
+      "rothco_item_no": "4242",
+      "upc": "613902424203",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1938",
+      "image_filename": "4242-B-amazon.jpg",
+      "catalog_page_no": "193",
+      "msrp": 6.99,
+      "ship_length": "3.5000",
+      "ship_width": "2.2500",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "waist_size": "44",
+        "buckle": "Black"
+      },
+      "waist_size": "44",
+      "buckle": "Black",
+      "price": 2.95,
+      "case_price": 2.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18391",
+      "item_index": "2335",
+      "rothco_item_no": "4624",
+      "upc": "613902046245",
+      "inventory": "99",
+      "created_date": "2018-04-30 11:10:02",
+      "weight": "0.1938",
+      "image_filename": "4624-Black-A-amazon.jpg",
+      "catalog_page_no": "193",
+      "msrp": 7.99,
+      "ship_length": "3.7500",
+      "ship_width": "2.5000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "buckle": "Gold",
+        "waist_size": "54"
+      },
+      "buckle": "Gold",
+      "waist_size": "54",
+      "price": 3.35,
+      "case_price": 3.35,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

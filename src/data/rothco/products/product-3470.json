@@ -1,0 +1,71 @@
+{
+  "item_index": "3470",
+  "item_name": "Sabre Red Crossfire Law Enforcement Gel Pepper Spray",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Sabre&rsquo;s Red Crossfire Gel Pepper Spray is designed specifically for law enforcement professionals, offering superior target acquisition and reducing cross-contamination risks. Utilizing advanced Crossfire technology, this gel can be deployed from any angle, ensuring accuracy and effectiveness in high-pressure situations. The gel formula liquefies on contact, enhancing precision and minimizing the chances of affecting bystanders.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "234",
+  "description": "<p>Sabre&rsquo;s Red Crossfire Gel Pepper Spray is designed specifically for law enforcement professionals, offering superior target acquisition and reducing cross-contamination risks. Utilizing advanced Crossfire technology, this gel can be deployed from any angle, ensuring accuracy and effectiveness in high-pressure situations. The gel formula liquefies on contact, enhancing precision and minimizing the chances of affecting bystanders. With 10% oleoresin capsicum and 2 million Scoville heat units, it delivers unparalleled defense. Available in two sizes, 1.5 ounces (MK-3) and 3 ounces (MK-4), the smaller canister deploys 6 1-second bursts while the larger provides 13 bursts. The spray has a range of 15-20 feet, allowing for safe distance engagement. It is non-flammable, compatible with electronic immobilization devices (EIDs), and ISO 9001:2008 certified. Not available for sale in NY, MA, WI, and HI. This item is subject to hazmat shipping restrictions and cannot be shipped via air freight.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "231",
+    "232",
+    "244"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12681",
+      "item_index": "3470",
+      "rothco_item_no": "20014",
+      "upc": "023063523132",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2800",
+      "image_filename": "20014-A-amazon1.jpg",
+      "catalog_page_no": "223",
+      "msrp": 36.99,
+      "ship_length": "7.7500",
+      "ship_width": "2.0000",
+      "ship_height": "7.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "1.5 oz"
+      },
+      "size": "1.5 oz",
+      "price": 14.5,
+      "case_price": 14.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19180",
+      "item_index": "3470",
+      "rothco_item_no": "20015",
+      "upc": "023063523323",
+      "inventory": "99",
+      "created_date": "2019-07-22 14:10:00",
+      "weight": "0.1900",
+      "image_filename": "20015-A-amazon.jpg",
+      "catalog_page_no": "223",
+      "msrp": 41.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3.0 oz"
+      },
+      "size": "3.0 oz",
+      "price": 16.5,
+      "case_price": 16.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

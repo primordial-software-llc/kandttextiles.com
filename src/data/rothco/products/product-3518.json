@@ -1,0 +1,76 @@
+{
+  "item_index": "3518",
+  "item_name": "Rothco Extra Heavyweight Camo Flannel Shirts",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Whether you are heading into the mountains or strolling around town, our Extra Heavyweight Camo Flannel Shirts offer unbeatable warmth and comfort. These camouflage flannels are great for either wearing on their own or layering as a shirt jacket, ideal for any wardrobe. These tactical flannels are perfect for camping, hiking, hunting, fishing, and other outdoor activities.</p>",
+  "no_ratings": null,
+  "sort_order": "2023",
+  "description": "<p>Whether you are heading into the mountains or strolling around town, our Extra Heavyweight Camo Flannel Shirts offer unbeatable warmth and comfort. These camouflage flannels are great for either wearing on their own or layering as a shirt jacket, ideal for any wardrobe. These tactical flannels are perfect for camping, hiking, hunting, fishing, and other outdoor activities. Rugged Material Construction: The flannel shirt jacket is crafted from heavyweight (8 oz) cotton fabric that is breathable, comfortable, and warm. From shoveling snow to fall cleanup, the durable camo shirt overcomes any strenuous outdoor activity while providing long-lasting comfort and warmth. Classic Design: The camouflage shacket features a 6-button closure, 2 button-down front flap pockets, and single-button wrist cuffs for timeless style and comfortable wear. Both chest pockets are ideal for storing small EDC essentials and outdoor accessories. Care Instructions: For best fit and finish, machine wash cold, non-chlorine bleach when needed, do not tumble dry, and warm iron if needed. All Things Camo: Rothco stands out as the leader in camouflage clothing and accessories. With a rich heritage spanning over 7 decades, we have honed our expertise in crafting durable and effective camouflage gear. Our extensive range of products, including apparel, bags, and gear, showcases a diverse selection of camouflage, with over 35 patterns available! From outdoor enthusiasts and military personnel, to skate and fashion, Rothco is the go-to brand for camo.</p>",
+  "selection_groups": [
+    "size",
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "591",
+    "80",
+    "137"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12320",
+      "item_index": "3518",
+      "rothco_item_no": "4659",
+      "upc": "613902046597",
+      "inventory": "33",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3500",
+      "image_filename": "4659-A-HR1.jpg",
+      "catalog_page_no": "87",
+      "msrp": 52.99,
+      "ship_length": "16.2500",
+      "ship_width": "12.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Woodland Camo"
+      },
+      "size": "S",
+      "color": "Woodland Camo",
+      "price": 20.9,
+      "case_price": 20.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12321",
+      "item_index": "3518",
+      "rothco_item_no": "4659",
+      "upc": "613902465992",
+      "inventory": "90",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3500",
+      "image_filename": "4659-A-HR1.jpg",
+      "catalog_page_no": "87",
+      "msrp": 52.99,
+      "ship_length": "16.5000",
+      "ship_width": "12.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Woodland Camo"
+      },
+      "size": "M",
+      "color": "Woodland Camo",
+      "price": 20.9,
+      "case_price": 20.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

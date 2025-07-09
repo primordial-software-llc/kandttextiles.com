@@ -1,0 +1,69 @@
+{
+  "item_index": "1038",
+  "item_name": "Rothco European Surplus Style Wool Blanket",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Looking for a dependable blanket that&rsquo;ll withstand consistent outdoor use? Our European Surplus Style Wool Blankets are inspired from the field-proven Italian Army Wool Blanket, offering unparallel warmth and comfort. These military blankets are great for camping trips, outdoor adventures, tailgate parties, festivals and concerts, or during any day-to-day use. These rugged blankets easily conquer the wildness, giving you a place to relax and enjoy the moment.</p>",
+  "no_ratings": "0",
+  "sort_order": "2226",
+  "description": "<p>Looking for a dependable blanket that&rsquo;ll withstand consistent outdoor use? Our European Surplus Style Wool Blankets are inspired from the field-proven Italian Army Wool Blanket, offering unparallel warmth and comfort. These military blankets are great for camping trips, outdoor adventures, tailgate parties, festivals and concerts, or during any day-to-day use. These rugged blankets easily conquer the wildness, giving you a place to relax and enjoy the moment. Military Style Blanket: These outdoor wool blankets are made of a natural fire-retardant material. Pack it along with your other survival gear, as it doubles as an emergency blanket. These camping blankets also feature two striped patterns that harken back to their military heritage. Built to Last: Constructed with a heavyweight, yet breathable and synthetic wool blend, these camping blankets provide instant warmth, even on the go. These military wool blankets are designed to keep you dry and insulate your body heat. Limitless Applications &amp; Uses: These outdoor emergency blankets work well in a variety of environments, including sand and snow. Whether it&rsquo;s to help keep you dry as you dig out your car&rsquo;s tire on a cold winter day, or lounge around on the beach as you wait for the grill, these outdoor camping blankets are great to keep on hand, especially for those with active lifestyles. Portable and Easy to Carry: Our transportable wool blankets are offered in two sizes: 62 inch x 80 inch (fits most cots), and 66 inch x 90 inch (ideally fits twin size beds). They&rsquo;re perfect to use alone or with another person. Even with a heavyweight composition, these wool camp blankets are easy to fold and compact. Conveniently store it in your backpack, survival bag, or car.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "256"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "131",
+      "item_index": "1038",
+      "rothco_item_no": "10244",
+      "upc": "613902102446",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "4.3500",
+      "image_filename": "10244-hr1-amazon.jpg",
+      "catalog_page_no": "305",
+      "msrp": 48.99,
+      "ship_length": "22.5000",
+      "ship_width": "16.2500",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "62\" x 80\""
+      },
+      "size": "62\" x 80\"",
+      "price": 22.95,
+      "case_price": 22.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22192",
+      "item_index": "1038",
+      "rothco_item_no": "10230",
+      "upc": "613902020719",
+      "inventory": "99",
+      "created_date": "2022-09-08 16:00:25",
+      "weight": "0.0000",
+      "image_filename": "10244-hr1-amazon.jpg",
+      "catalog_page_no": "305",
+      "msrp": 50.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "66\" x 90\""
+      },
+      "size": "66\" x 90\"",
+      "price": 23.95,
+      "case_price": 23.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

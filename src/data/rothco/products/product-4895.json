@@ -1,0 +1,43 @@
+{
+  "item_index": "4895",
+  "item_name": "Rothco Folding Noise Reduction Ear Muffs",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Folding Noise Reducing Ear Muffs are specially designed for hunters and shooting enthusiasts. These easy-to-pack ear muffs fold in half to take up minimal space in your gun case or range bag.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133208",
+  "description": "<p>Rothco&rsquo;s Folding Noise Reducing Ear Muffs are specially designed for hunters and shooting enthusiasts. These easy-to-pack ear muffs fold in half to take up minimal space in your range bag. These ear muffs feature a comfortable padded headband and slide-adjusting earcups for a comfortable fit. These lightweight hunting ear muffs fold in half for easy storage. With an NRR value or 32 (+/- 3db), these ear muffs are perfect for hunters, tactical professionals, and gun enthusiasts.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "252",
+    "255",
+    "252",
+    "255"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "21016",
+      "item_index": "4895",
+      "rothco_item_no": "40806",
+      "upc": "613902007154",
+      "inventory": "99",
+      "created_date": "2021-11-15 10:00:28",
+      "weight": "0.6250",
+      "image_filename": "40806-A-NOLOGO.jpg",
+      "catalog_page_no": "263",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 11.5,
+      "case_price": 11.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "item_index": "4975",
+  "item_name": "Speedy Stitcher Sewing Awl Kit",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Speedy Stitcher Sewing Awl is a hand tool that can sew any heavy material. It&rsquo;s a helpful tool around the house, farm, workshop, or any place where leather, canvas, or vinyl has to be sewn or repaired.</p>",
+  "no_ratings": null,
+  "sort_order": "133288",
+  "description": "<p>The Speedy Stitcher Sewing Awl is a hand tool that can sew any heavy material. It&rsquo;s a helpful tool around the house, farm, workshop, or any place where leather, canvas, or vinyl has to be sewn or repaired.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "634",
+    "261"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "22200",
+      "item_index": "4975",
+      "rothco_item_no": "11250",
+      "upc": "095086001102",
+      "inventory": "54",
+      "created_date": "2022-09-14 17:00:10",
+      "weight": "0.0000",
+      "image_filename": "11250-A.jpg",
+      "catalog_page_no": "309",
+      "msrp": 53.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 26.95,
+      "case_price": 26.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

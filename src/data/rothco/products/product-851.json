@@ -1,0 +1,41 @@
+{
+  "item_index": "851",
+  "item_name": "Pre-Moistened Face Paint Remover Wipes",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Pre-moistened face paint remover wipes quickly remove camo face paint on the go while conditioning the skin and leaving no residue.&nbsp;&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "381",
+  "description": "<p>Pre-moistened Face Paint Remover Wipes are ideal for quickly and efficiently removing cremes and solid camo paint from the face. Remover Wipes contain refreshing and gentle skin conditioners that leave skin clean with no residue left behind. The package contains 30 pre-moistened 7&rdquo; X 4&rdquo; face wipes.&nbsp;&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "342",
+    "343"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9378",
+      "item_index": "851",
+      "rothco_item_no": "8209",
+      "upc": "021291002993",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1688",
+      "image_filename": "8209-A1.jpg",
+      "catalog_page_no": "266",
+      "msrp": 12.99,
+      "ship_length": "5.0000",
+      "ship_width": "3.2500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 4.9,
+      "case_price": 4.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

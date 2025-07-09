@@ -1,0 +1,69 @@
+{
+  "item_index": "2386",
+  "item_name": "Rothco Deluxe Bungee Shock Cords - Olive Drab",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Deluxe Bungee Shock Cords are the perfect solution for anyone in need of durable, reliable tie-downs. Available in both 24-inch and 36-inch lengths, these heavy-duty bungee cords come equipped with sturdy steel hooks that provide a secure hold, ensuring that your gear or equipment stays safely fastened. Whether you're securing items to a vehicle, setting up a campsite, or organizing gear at home, these bungee cords are designed to handle the task.</p>",
+  "no_ratings": "0",
+  "sort_order": "640",
+  "description": "<p>Rothco&rsquo;s Deluxe Bungee Shock Cords are the perfect solution for anyone in need of durable, reliable tie-downs. Available in both 24-inch and 36-inch lengths, these heavy-duty bungee cords come equipped with sturdy steel hooks that provide a secure hold, ensuring that your gear or equipment stays safely fastened. Whether you're securing items to a vehicle, setting up a campsite, or organizing gear at home, these bungee cords are designed to handle the task. Each poly bag contains 4 bungee cords, offering ample flexibility for multiple uses. The cords are built for long-lasting durability, making them an essential tool for outdoor adventures, work projects, or everyday tasks. Their versatility and strength make Rothco&rsquo;s Deluxe Bungee Shock Cords a dependable choice for securing loads of various sizes and weights.</p>",
+  "selection_groups": [
+    "length"
+  ],
+  "statuses": "",
+  "categories": [
+    "261"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "106",
+      "item_index": "2386",
+      "rothco_item_no": "10185",
+      "upc": "613902101852",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "10185-10187-HR.jpg",
+      "catalog_page_no": "309",
+      "msrp": 8.99,
+      "ship_length": "5.5000",
+      "ship_width": "4.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "length": "24 Inches"
+      },
+      "length": "24 Inches",
+      "price": 3.5,
+      "case_price": 3.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "29238",
+      "item_index": "2386",
+      "rothco_item_no": "10187",
+      "upc": "613902018709",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.5000",
+      "image_filename": "10185-10187-HR.jpg",
+      "catalog_page_no": "309",
+      "msrp": 9.99,
+      "ship_length": "5.5000",
+      "ship_width": "3.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "length": "36 Inches"
+      },
+      "length": "36 Inches",
+      "price": 3.95,
+      "case_price": 3.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

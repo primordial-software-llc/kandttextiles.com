@@ -1,0 +1,44 @@
+{
+  "item_index": "1142",
+  "item_name": "Rothco Aluminum Canteen And Pistol Belt Kit",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s military canteen is made of durable aluminum and can hold up to one quart of water.</p>",
+  "no_ratings": "0",
+  "sort_order": "587",
+  "description": "<p>Rothco&rsquo;s military canteen is made of durable aluminum and can hold up to one quart of water. The pistol belt canteen cover is made of insulated felt lined polyester to keep water cool.&nbsp; A two button snap closure and an adjustable heavy web pistol belt are featured on the army style canteen cover. Whether you are camping or in a survival situation, this canteen is an ideal addition to your outdoor gear collection.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "281",
+    "284"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5667",
+      "item_index": "1142",
+      "rothco_item_no": "589",
+      "upc": "613902589001",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.9000",
+      "image_filename": "589-A-amazon.jpg",
+      "catalog_page_no": "287",
+      "msrp": 23.99,
+      "ship_length": "8.0000",
+      "ship_width": "5.0000",
+      "ship_height": "3.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 10.25,
+      "case_price": 10.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "item_index": "2100",
+  "item_name": "Rothco Army T-Shirt",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Army T-Shirt is crafted with a durable blend of 60% cotton / 40% polyester, providing a comfortable and lightweight feel. This short sleeve shirt features \"ARMY\" printed in bold gold lettering across the center of the chest, showcasing a strong and clear statement. The tag-free printed red label adds an extra layer of comfort, eliminating the irritation caused by traditional tags. Made with heavyweight cotton/poly fabric, this military t-shirt is breathable and ideal for physical training sessions.</p>",
+  "no_ratings": "0",
+  "sort_order": "3227",
+  "description": "<p>Rothco&rsquo;s Army T-Shirt is crafted with a durable blend of 60% cotton / 40% polyester, providing a comfortable and lightweight feel. This short sleeve shirt features \"ARMY\" printed in bold gold lettering across the center of the chest, showcasing a strong and clear statement. The tag-free printed red label adds an extra layer of comfort, eliminating the irritation caused by traditional tags. Made with heavyweight cotton/poly fabric, this military t-shirt is breathable and ideal for physical training sessions. Its durability and comfort make it suitable for everyday wear as well. Rothco's Army T-Shirt is perfect not only for physical training but also for expressing patriotism. Whether you're working out, training, or simply showing your pride, this T-shirt delivers on both style and functionality.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "38"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5995",
+      "item_index": "2100",
+      "rothco_item_no": "60363",
+      "upc": "613902036314",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "60363-FRONT-A.jpg",
+      "catalog_page_no": "103",
+      "msrp": 16.99,
+      "ship_length": "14.0000",
+      "ship_width": "18.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Black"
+      },
+      "size": "S",
+      "color": "Black",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5996",
+      "item_index": "2100",
+      "rothco_item_no": "60363",
+      "upc": "613902036321",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "60363-FRONT-A.jpg",
+      "catalog_page_no": "103",
+      "msrp": 16.99,
+      "ship_length": "15.0000",
+      "ship_width": "19.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Black"
+      },
+      "size": "M",
+      "color": "Black",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5997",
+      "item_index": "2100",
+      "rothco_item_no": "60363",
+      "upc": "613902036338",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "60363-FRONT-A.jpg",
+      "catalog_page_no": "103",
+      "msrp": 16.99,
+      "ship_length": "16.2500",
+      "ship_width": "21.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Black"
+      },
+      "size": "L",
+      "color": "Black",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5998",
+      "item_index": "2100",
+      "rothco_item_no": "60363",
+      "upc": "613902036345",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "60363-FRONT-A.jpg",
+      "catalog_page_no": "103",
+      "msrp": 16.99,
+      "ship_length": "15.7500",
+      "ship_width": "23.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Black"
+      },
+      "size": "XL",
+      "color": "Black",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5999",
+      "item_index": "2100",
+      "rothco_item_no": "60364",
+      "upc": "613902036406",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "60363-FRONT-A.jpg",
+      "catalog_page_no": "103",
+      "msrp": 18.99,
+      "ship_length": "16.5000",
+      "ship_width": "25.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL",
+        "color": "Black"
+      },
+      "size": "2XL",
+      "color": "Black",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

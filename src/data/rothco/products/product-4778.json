@@ -1,0 +1,70 @@
+{
+  "item_index": "4778",
+  "item_name": "Rothco MOLLE Drop Leg Panel",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "https://www.youtube.com/watch?v=cBpVDiPlAEg",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s MOLLE Drop Leg Panel is designed to adapt to your tactical needs; the MOLLE panel can be utilized for mounting holsters, mag pouches, and other MOLLE accessories for easy access.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133091",
+  "description": "<p>Rothco&rsquo;s MOLLE Drop Leg Panel is designed to adapt to your tactical needs; the MOLLE panel can be utilized for mounting holsters, mag pouches, and other MOLLE accessories for easy access.&nbsp; The MOLLE panel is perfect for mounting holsters, mag pouches, and other MOLLE accessories for easy access without a bulky tactical vest. The quick-release buckle with non-slip rubber grips enables you to detach the MOLLE panel without removing your belt. The drop leg MOLLE system features four rows of four MOLLE loops plus two loops at the top center. The panel is ideal for soldiers, public safety, first responders, MilSim players, and more.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "308",
+    "238"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20108",
+      "item_index": "4778",
+      "rothco_item_no": "2164",
+      "upc": "613902521643",
+      "inventory": "99",
+      "created_date": "2021-01-06 15:00:12",
+      "weight": "1.0000",
+      "image_filename": "2164-A-NOLOGO.jpg",
+      "catalog_page_no": "233",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20109",
+      "item_index": "4778",
+      "rothco_item_no": "2165",
+      "upc": "613902621657",
+      "inventory": "99",
+      "created_date": "2021-01-06 15:00:12",
+      "weight": "1.0000",
+      "image_filename": "2165-A-NOLOGO.jpg",
+      "catalog_page_no": "233",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

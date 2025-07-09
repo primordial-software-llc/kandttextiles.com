@@ -1,0 +1,190 @@
+{
+  "item_index": "4018",
+  "item_name": "Rothco Army Physical Training Shorts",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Get ready to train like a pro with Rothco's PT Shorts, crafted to meet APFU optional wear standards. Made with moisture-wicking, breathable fabrics, these shorts enhance performance. The durable 100% polyester outer shell combined with Poly/Spandex side panels offers flexibility and durability. Featuring a drawstring and elastic waist for a perfect fit, plus a hidden pocket for convenience. Pair with Rothco's matching PT Shirt for a complete workout ensemble.</p>",
+  "no_ratings": null,
+  "sort_order": "2571",
+  "description": "<p>Get ready to train like a pro with Rothco's PT Shorts, crafted to meet APFU optional wear standards. Made with moisture-wicking, breathable fabrics, these shorts enhance performance. The durable 100% polyester outer shell combined with Poly/Spandex side panels offers flexibility and durability. Featuring a drawstring and elastic waist for a perfect fit, plus a hidden pocket for convenience. Pair with Rothco's matching PT Shirt for a complete workout ensemble.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "25",
+    "74"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15673",
+      "item_index": "4018",
+      "rothco_item_no": "46030",
+      "upc": "613902146037",
+      "inventory": "99",
+      "created_date": "2015-09-22 13:10:01",
+      "weight": "0.3500",
+      "image_filename": "46030-A-amazon.jpg",
+      "catalog_page_no": "102",
+      "msrp": 26.99,
+      "ship_length": "15.0000",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15674",
+      "item_index": "4018",
+      "rothco_item_no": "46030",
+      "upc": "613902246034",
+      "inventory": "99",
+      "created_date": "2015-09-22 13:10:01",
+      "weight": "0.3500",
+      "image_filename": "46030-A-amazon.jpg",
+      "catalog_page_no": "102",
+      "msrp": 26.99,
+      "ship_length": "15.0000",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15675",
+      "item_index": "4018",
+      "rothco_item_no": "46030",
+      "upc": "613902124608",
+      "inventory": "99",
+      "created_date": "2015-09-22 13:10:01",
+      "weight": "0.3500",
+      "image_filename": "46030-A-amazon.jpg",
+      "catalog_page_no": "102",
+      "msrp": 26.99,
+      "ship_length": "15.0000",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15676",
+      "item_index": "4018",
+      "rothco_item_no": "46030",
+      "upc": "613902946033",
+      "inventory": "99",
+      "created_date": "2015-09-22 13:10:01",
+      "weight": "0.3500",
+      "image_filename": "46030-A-amazon.jpg",
+      "catalog_page_no": "102",
+      "msrp": 26.99,
+      "ship_length": "15.0000",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15677",
+      "item_index": "4018",
+      "rothco_item_no": "46031",
+      "upc": "613902546035",
+      "inventory": "99",
+      "created_date": "2015-09-22 13:10:01",
+      "weight": "0.4000",
+      "image_filename": "46030-A-amazon.jpg",
+      "catalog_page_no": "102",
+      "msrp": 28.99,
+      "ship_length": "15.0000",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 12.9,
+      "case_price": 12.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15678",
+      "item_index": "4018",
+      "rothco_item_no": "46032",
+      "upc": "613902646032",
+      "inventory": "99",
+      "created_date": "2015-09-22 13:10:01",
+      "weight": "0.4500",
+      "image_filename": "46030-A-amazon.jpg",
+      "catalog_page_no": "102",
+      "msrp": 30.99,
+      "ship_length": "15.0000",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3XL"
+      },
+      "size": "3XL",
+      "price": 13.9,
+      "case_price": 13.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17315",
+      "item_index": "4018",
+      "rothco_item_no": "46030",
+      "upc": "613902124615",
+      "inventory": "99",
+      "created_date": "2017-05-19 17:10:01",
+      "weight": "0.3500",
+      "image_filename": "46030-A-amazon.jpg",
+      "catalog_page_no": "102",
+      "msrp": 26.99,
+      "ship_length": "15.0000",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XS"
+      },
+      "size": "XS",
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

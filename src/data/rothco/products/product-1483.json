@@ -1,0 +1,47 @@
+{
+  "item_index": "1483",
+  "item_name": "Rothco 2nd Lieutenant Insignia",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Wear your rank with Rothco&rsquo;s 2nd Lieutenant Insignia.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "1222",
+  "description": "<p>Wear your rank with Rothco&rsquo;s 2nd Lieutenant Insignia. This military insignia is constructed with a professional 22k plated gold, and is secured by a push pin backing for easy attachment to your uniform. This Air Force Insignia is manufactured by a United States factory that is certified by The Institute of Heraldry. This army insignia is packaged in a set of two.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "422"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "787",
+      "item_index": "1483",
+      "rothco_item_no": "1700",
+      "upc": "613902317000",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0263",
+      "image_filename": "1700-hr1.jpg",
+      "catalog_page_no": "212",
+      "msrp": 13.99,
+      "ship_length": "4.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Gold",
+        "size": "One Size"
+      },
+      "color": "Gold",
+      "size": "One Size",
+      "price": 6.75,
+      "case_price": 6.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "item_index": "4479",
+  "item_name": "Rothco Kids NASA MA-1 Flight Jacket",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Let your child embrace their inner astronaut with Rothco's Kids NASA MA-1 Flight Jacket. This classic flight jacket is designed with an adventurous space style, featuring 4 specialty patches, including the iconic NASA &ldquo;Meatball&rdquo; logo on the left chest. Perfect for young space enthusiasts, the bomber jacket is fully reversible, revealing a bold rescue orange polyester lining for added flair. The durable 100% nylon water-repellent outer shell provides protection from the elements.</p>",
+  "no_ratings": null,
+  "sort_order": "132792",
+  "description": "<p>Let your child embrace their inner astronaut with Rothco's Kids NASA MA-1 Flight Jacket. This classic flight jacket is designed with an adventurous space style, featuring 4 specialty patches, including the iconic NASA &ldquo;Meatball&rdquo; logo on the left chest. Perfect for young space enthusiasts, the bomber jacket is fully reversible, revealing a bold rescue orange polyester lining for added flair. The durable 100% nylon water-repellent outer shell provides protection from the elements, while the poly fiberfill ensures warmth in colder climates. The NASA space jacket is designed with a ribbed knit collar, cuffs, and waistband for a comfortable fit, and includes 2 front slash pockets and 2 inside slash pockets for convenient storage. The zippered utility pocket with an exterior pencil pocket adds functionality, and the brass zippers with leather pull tabs complete the classic look. This bomber flight jacket not only offers style but also practicality, making it the perfect addition to any young space explorer's wardrobe.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "123",
+    "169"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18106",
+      "item_index": "4479",
+      "rothco_item_no": "7063",
+      "upc": "613902706309",
+      "inventory": "20",
+      "created_date": "2017-12-29 18:10:02",
+      "weight": "1.1500",
+      "image_filename": "7063-B.jpg",
+      "catalog_page_no": "130",
+      "msrp": 63.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue",
+        "size": "XS"
+      },
+      "color": "Navy Blue",
+      "size": "XS",
+      "price": 28.95,
+      "case_price": 28.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18107",
+      "item_index": "4479",
+      "rothco_item_no": "7063",
+      "upc": "613902706316",
+      "inventory": "34",
+      "created_date": "2017-12-29 18:10:02",
+      "weight": "1.1500",
+      "image_filename": "7063-B.jpg",
+      "catalog_page_no": "130",
+      "msrp": 63.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue",
+        "size": "S"
+      },
+      "color": "Navy Blue",
+      "size": "S",
+      "price": 28.95,
+      "case_price": 28.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18108",
+      "item_index": "4479",
+      "rothco_item_no": "7063",
+      "upc": "613902970632",
+      "inventory": "28",
+      "created_date": "2017-12-29 18:10:02",
+      "weight": "1.1500",
+      "image_filename": "7063-B.jpg",
+      "catalog_page_no": "130",
+      "msrp": 63.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue",
+        "size": "M"
+      },
+      "color": "Navy Blue",
+      "size": "M",
+      "price": 28.95,
+      "case_price": 28.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18109",
+      "item_index": "4479",
+      "rothco_item_no": "7063",
+      "upc": "613902706330",
+      "inventory": "20",
+      "created_date": "2017-12-29 18:10:02",
+      "weight": "1.1500",
+      "image_filename": "7063-B.jpg",
+      "catalog_page_no": "130",
+      "msrp": 63.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue",
+        "size": "L"
+      },
+      "color": "Navy Blue",
+      "size": "L",
+      "price": 28.95,
+      "case_price": 28.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18110",
+      "item_index": "4479",
+      "rothco_item_no": "7063",
+      "upc": "613902706347",
+      "inventory": "20",
+      "created_date": "2017-12-29 18:10:02",
+      "weight": "1.1500",
+      "image_filename": "7063-B.jpg",
+      "catalog_page_no": "130",
+      "msrp": 63.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue",
+        "size": "XL"
+      },
+      "color": "Navy Blue",
+      "size": "XL",
+      "price": 28.95,
+      "case_price": 28.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

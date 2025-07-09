@@ -1,0 +1,153 @@
+{
+  "item_index": "937",
+  "item_name": "Rothco Kid's Flight Coverall With Patches - Olive Drab",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Flight Suit Coverall with Patches are perfect for Halloween or any child who dreams of being a pilot. The suits feature a 2-way zipper, leg zippers, and adjustable waist &amp; cuffs for a comfortable fit. Made with a durable 55% cotton / 45% polyester fabric blend, ensuring comfortable long-lasting wear. Additionally, the included patches add authenticity and fun to the attire, making it ideal for costumes or everyday adventures. These flight coveralls are sure to inspire imagination and adventure in your little one.</p>",
+  "no_ratings": "0",
+  "sort_order": "1910",
+  "description": "<p>Rothco's Flight Suit Coverall with Patches are perfect for Halloween or any child who dreams of being a pilot. The suits feature a 2-way zipper, leg zippers, and adjustable waist &amp; cuffs for a comfortable fit. Made with a durable 55% cotton / 45% polyester fabric blend, ensuring comfortable long-lasting wear. Additionally, the included patches add authenticity and fun to the attire, making it ideal for costumes or everyday adventures. Whether soaring through the sky on Halloween or pretending to be a pilot at home, these flight coveralls are sure to inspire imagination and adventure in your little one.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "123",
+    "125",
+    "197"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8242",
+      "item_index": "937",
+      "rothco_item_no": "7302",
+      "upc": "613902730205",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.1500",
+      "image_filename": "7302-A3.jpg",
+      "catalog_page_no": "131",
+      "msrp": 72.99,
+      "ship_length": "11.5000",
+      "ship_width": "10.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "S"
+      },
+      "color": "Olive Drab",
+      "size": "S",
+      "price": 32.95,
+      "case_price": 32.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8243",
+      "item_index": "937",
+      "rothco_item_no": "7302",
+      "upc": "613902730212",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.1500",
+      "image_filename": "7302-A3.jpg",
+      "catalog_page_no": "131",
+      "msrp": 72.99,
+      "ship_length": "13.5000",
+      "ship_width": "11.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "M"
+      },
+      "color": "Olive Drab",
+      "size": "M",
+      "price": 32.95,
+      "case_price": 32.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8244",
+      "item_index": "937",
+      "rothco_item_no": "7302",
+      "upc": "613902730229",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.1500",
+      "image_filename": "7302-A3.jpg",
+      "catalog_page_no": "131",
+      "msrp": 72.99,
+      "ship_length": "15.0000",
+      "ship_width": "11.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "L"
+      },
+      "color": "Olive Drab",
+      "size": "L",
+      "price": 32.95,
+      "case_price": 32.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8245",
+      "item_index": "937",
+      "rothco_item_no": "7302",
+      "upc": "613902730236",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.1500",
+      "image_filename": "7302-A3.jpg",
+      "catalog_page_no": "131",
+      "msrp": 72.99,
+      "ship_length": "12.0000",
+      "ship_width": "12.2500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "XL"
+      },
+      "color": "Olive Drab",
+      "size": "XL",
+      "price": 32.95,
+      "case_price": 32.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8246",
+      "item_index": "937",
+      "rothco_item_no": "7302",
+      "upc": "613902730243",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.1500",
+      "image_filename": "7302-A3.jpg",
+      "catalog_page_no": "131",
+      "msrp": 72.99,
+      "ship_length": "12.0000",
+      "ship_width": "11.7500",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "XS"
+      },
+      "color": "Olive Drab",
+      "size": "XS",
+      "price": 32.95,
+      "case_price": 32.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

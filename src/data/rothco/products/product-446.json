@@ -1,0 +1,141 @@
+{
+  "item_index": "446",
+  "item_name": "Rothco Leather Knuckle Gloves",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Leather Knuckle Tactical Gloves offer unparalleled hand protection and comfort. Cut and flame resistant, these tactical gloves feature an Aramid Fiber lining for durability. The leather accents on knuckles and fingers enhance protection, while a multi-layer goatskin palm ensures a secure grip. The elastic cuff with hook &amp; loop closure and pull tab on the wrist provide a customizable fit. Ideal for various outdoor activities and demanding tasks, these gloves are a reliable choice for anyone seeking rugged hand protection.</p>",
+  "no_ratings": "0",
+  "sort_order": "2137",
+  "description": "<p>Rothco's Leather Knuckle Tactical Gloves offer unparalleled hand protection and comfort. Cut and flame resistant, these tactical gloves feature an Aramid Fiber lining for durability. The leather accents on knuckles and fingers enhance protection, while a multi-layer goatskin palm ensures a secure grip. The elastic cuff with hook &amp; loop closure and pull tab on the wrist provide a customizable fit. Ideal for various outdoor activities and demanding tasks, these gloves are a reliable choice for anyone seeking rugged hand protection.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "318"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2279",
+      "item_index": "446",
+      "rothco_item_no": "3483",
+      "upc": "613902348318",
+      "inventory": "99",
+      "created_date": "2009-12-10 21:00:00",
+      "weight": "0.2875",
+      "image_filename": "3483_Pair-HR.jpg",
+      "catalog_page_no": "190",
+      "msrp": 32.99,
+      "ship_length": "11.5000",
+      "ship_width": "4.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 14.9,
+      "case_price": 14.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2280",
+      "item_index": "446",
+      "rothco_item_no": "3483",
+      "upc": "613902348325",
+      "inventory": "99",
+      "created_date": "2009-12-10 21:00:00",
+      "weight": "0.2875",
+      "image_filename": "3483_Pair-HR.jpg",
+      "catalog_page_no": "190",
+      "msrp": 32.99,
+      "ship_length": "11.0000",
+      "ship_width": "4.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 14.9,
+      "case_price": 14.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2281",
+      "item_index": "446",
+      "rothco_item_no": "3483",
+      "upc": "613902348332",
+      "inventory": "99",
+      "created_date": "2009-12-10 21:00:00",
+      "weight": "0.2875",
+      "image_filename": "3483_Pair-HR.jpg",
+      "catalog_page_no": "190",
+      "msrp": 32.99,
+      "ship_length": "11.2500",
+      "ship_width": "4.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 14.9,
+      "case_price": 14.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2282",
+      "item_index": "446",
+      "rothco_item_no": "3483",
+      "upc": "613902348349",
+      "inventory": "99",
+      "created_date": "2009-12-10 21:00:00",
+      "weight": "0.2875",
+      "image_filename": "3483_Pair-HR.jpg",
+      "catalog_page_no": "190",
+      "msrp": 32.99,
+      "ship_length": "11.5000",
+      "ship_width": "4.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 14.9,
+      "case_price": 14.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2283",
+      "item_index": "446",
+      "rothco_item_no": "3483",
+      "upc": "613902348356",
+      "inventory": "91",
+      "created_date": "2009-12-10 21:00:00",
+      "weight": "0.2875",
+      "image_filename": "3483_Pair-HR.jpg",
+      "catalog_page_no": "190",
+      "msrp": 32.99,
+      "ship_length": "11.7500",
+      "ship_width": "4.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 14.9,
+      "case_price": 14.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

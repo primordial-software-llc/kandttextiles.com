@@ -1,0 +1,95 @@
+{
+  "item_index": "3471",
+  "item_name": "Rothco Ambidextrous Concealed Elastic Belly Band Holster",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Ambidextrous Concealed Elastic Belly Band Holster provides a discreet and secure solution for carrying your firearm. Designed to be worn under clothing, CCW holster keeps your handgun close to your body for quick access. The ambidextrous design allows for right- or left-hand draw, while dual pistol compartments accommodate medium to large frame handguns. With convenient pocket clips for magazine storage and a durable polyester elastic construction, this holster ensures flexibility and durability.</p>",
+  "no_ratings": null,
+  "sort_order": "4005",
+  "description": "<p>Rothco&rsquo;s Ambidextrous Concealed Elastic Belly Band Holster provides a discreet and secure solution for carrying your firearm. Designed to be worn under clothing, CCW holster keeps your handgun close to your body for quick access. The ambidextrous design allows for right- or left-hand draw, while dual pistol compartments accommodate medium to large frame handguns. With convenient pocket clips for magazine storage and a durable polyester elastic construction, this holster ensures flexibility and durability. The adjustable hook and loop closure system provides a form-fitting and comfortable fit. Available in multiple sizes to fit various waist sizes.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "251",
+    "555",
+    "333"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12624",
+      "item_index": "3471",
+      "rothco_item_no": "10769",
+      "upc": "613902107694",
+      "inventory": "99",
+      "created_date": "2013-07-23 08:44:46",
+      "weight": "0.3500",
+      "image_filename": "10769-D1.jpg",
+      "catalog_page_no": "231",
+      "msrp": 24.99,
+      "ship_length": "7.0000",
+      "ship_width": "6.2500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S / M"
+      },
+      "size": "S / M",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12625",
+      "item_index": "3471",
+      "rothco_item_no": "10769",
+      "upc": "613902197695",
+      "inventory": "99",
+      "created_date": "2013-07-23 08:44:46",
+      "weight": "0.3500",
+      "image_filename": "10769-D1.jpg",
+      "catalog_page_no": "231",
+      "msrp": 24.99,
+      "ship_length": "7.0000",
+      "ship_width": "6.2500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L / XL"
+      },
+      "size": "L / XL",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15467",
+      "item_index": "3471",
+      "rothco_item_no": "10773",
+      "upc": "613902107731",
+      "inventory": "99",
+      "created_date": "2015-05-28 15:10:01",
+      "weight": "0.3500",
+      "image_filename": "10769-D1.jpg",
+      "catalog_page_no": "231",
+      "msrp": 24.99,
+      "ship_length": "7.0000",
+      "ship_width": "6.2500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL / 3XL"
+      },
+      "size": "2XL / 3XL",
+      "price": 10.5,
+      "case_price": 10.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

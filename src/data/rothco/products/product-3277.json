@@ -1,0 +1,69 @@
+{
+  "item_index": "3277",
+  "item_name": "Rothco MOLLE Double M16 Mag Pouch with Inserts",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Maintain instant access to your extra magazines with Rothco&rsquo;s MOLLE Double M16 Mag Pouch with Inserts.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "488",
+  "description": "<p>Maintain instant access to your extra magazines with Rothco&rsquo;s MOLLE Double M16 Mag Pouch with Inserts. These MOLLE pouches perfectly fit two standard M16 mags. The sturdy inserts provide a barrier of resistance that safely secures your rifle mags in place and helps preserve the shape of the pouches. Reliable hook and loop closures secure your mags in place and enable quick access to your spare mags with quick-release pull tabs. The hook and loop closures can also be secured to the front of the pouches to hold them open for swift reloads at the range. This MOLLE accessory is great for attaching to MOLLE vests, MOLLE belts, or anything with a MOLLE panel.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12337",
+      "item_index": "3277",
+      "rothco_item_no": "50115",
+      "upc": "613902951150",
+      "inventory": "99",
+      "created_date": "2013-06-13 15:49:10",
+      "weight": "0.6000",
+      "image_filename": "50115-Rear-HR1.jpg",
+      "catalog_page_no": "244",
+      "msrp": 37.99,
+      "ship_length": "7.7500",
+      "ship_width": "7.7500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 14.9,
+      "case_price": 14.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12338",
+      "item_index": "3277",
+      "rothco_item_no": "50115",
+      "upc": "613902050112",
+      "inventory": "99",
+      "created_date": "2013-06-13 15:49:10",
+      "weight": "0.6000",
+      "image_filename": "50115-Coyote-Closed-HR.jpg",
+      "catalog_page_no": "244",
+      "msrp": 37.99,
+      "ship_length": "7.7500",
+      "ship_width": "7.7500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 14.9,
+      "case_price": 14.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

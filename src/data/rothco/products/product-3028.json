@@ -1,0 +1,42 @@
+{
+  "item_index": "3028",
+  "item_name": "Rothco Firetec Interchangeable Sport Glass Lens System",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Firetec Interchangeable Sport Glass Lens System is designed for maximum adaptability and comfort. This versatile eyewear system includes three interchangeable lenses&mdash;smoke, yellow, and clear&mdash;allowing you to quickly adjust to changing light conditions. The durable nylon frame and soft nose piece provide a comfortable, secure fit during extended use. With an adjustable and detachable strap, these glasses offer a customizable fit for any activity.</p>",
+  "no_ratings": null,
+  "sort_order": "518",
+  "description": "<p>Rothco&rsquo;s Firetec Interchangeable Sport Glass Lens System is designed for maximum adaptability and comfort. This versatile eyewear system includes three interchangeable lenses&mdash;smoke, yellow, and clear&mdash;allowing you to quickly adjust to changing light conditions. The durable nylon frame and soft nose piece provide a comfortable, secure fit during extended use. With an adjustable and detachable strap, these glasses offer a customizable fit for any activity. The system also includes a microfiber pouch for cleaning and storage, as well as a foam-padded zippered carry case to keep your lenses and frame protected. Whether for outdoor sports, driving, or work, the Firetec system provides superior functionality and comfort.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "253",
+    "255",
+    "393"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "173",
+      "item_index": "3028",
+      "rothco_item_no": "10337",
+      "upc": "613902103375",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6400",
+      "image_filename": "10337-a.jpg",
+      "catalog_page_no": "201",
+      "msrp": 36.99,
+      "ship_length": "8.5000",
+      "ship_width": "4.7500",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 16.25,
+      "case_price": 16.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

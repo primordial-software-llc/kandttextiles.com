@@ -1,0 +1,50 @@
+{
+  "item_index": "3951",
+  "item_name": "Rothco Thin Blue Line Police U.S. Flag Patch - Hook Back",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show your respect and support for law enforcement with Rothco's Thin Blue Line Police U.S. Flag Patch. The patch features a bold Thin Blue Line across a U.S. flag design, symbolizing unity and honor for police officers. Its hook backing allows for quick and secure attachment to any loop field, making it perfect for backpacks, hats, or gear. Measuring 1 7/8 inches x 3 3/8 inches, the patch is crafted for durability and lasting wear. Each patch is individually packaged for convenience.</p>",
+  "no_ratings": null,
+  "sort_order": "2935",
+  "description": "<p>Show your respect and support for law enforcement with Rothco's Thin Blue Line Police U.S. Flag Patch. The patch features a bold Thin Blue Line across a U.S. flag design, symbolizing unity and honor for police officers. Its hook backing allows for quick and secure attachment to any loop field, making it perfect for backpacks, hats, or gear. Measuring 1 7/8 inches x 3 3/8 inches, the patch is crafted for durability and lasting wear. Each patch is individually packaged for convenience. Additionally, proceeds from this product help support families of fallen first responders, making it both a meaningful and functional accessory.</p>",
+  "selection_groups": [
+    "orientation",
+    "packaging"
+  ],
+  "statuses": "",
+  "categories": [
+    "423",
+    "424",
+    "641"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15216",
+      "item_index": "3951",
+      "rothco_item_no": "17789",
+      "upc": "613902177895",
+      "inventory": "99",
+      "created_date": "2015-03-26 17:10:01",
+      "weight": "0.0175",
+      "image_filename": "17789-A-amazon1.jpg",
+      "catalog_page_no": "213",
+      "msrp": 2.99,
+      "ship_length": "3.0000",
+      "ship_width": "2.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "orientation": "Normal",
+        "packaging": "Bulk Packaging"
+      },
+      "orientation": "Normal",
+      "packaging": "Bulk Packaging",
+      "price": 0.95,
+      "case_price": 0.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "item_index": "875",
+  "item_name": "Rothco Kid's Adjustable Camo Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Kids Adjustable Camo Cap offers both style and functionality for children. This baseball-style cap is designed to fit most kids comfortably with its adjustable strap. Constructed from a comfortable 55% cotton / 45% polyester fabric blend, it ensures durability and breathability, making it ideal for everyday use and outdoor activities. Available in multiple camo patterns and colors, this camouflage baseball cap allows kids to express their individual style while staying protected from the sun.</p>",
+  "no_ratings": "0",
+  "sort_order": "4433",
+  "description": "<p>Rothco&rsquo;s Kids Adjustable Camo Cap offers both style and functionality for children. This baseball-style cap is designed to fit most kids comfortably with its adjustable strap. Constructed from a comfortable 55% cotton / 45% polyester fabric blend, it ensures durability and breathability, making it ideal for everyday use and outdoor activities. Available in multiple camo patterns and colors, this camouflage baseball cap allows kids to express their individual style while staying protected from the sun. Whether they're playing in the backyard, hiking, or just out and about, Rothco's Kids Adjustable Camo Cap is a perfect addition to their wardrobe. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "83",
+    "132",
+    "137",
+    "139",
+    "154",
+    "143",
+    "144",
+    "145",
+    "146",
+    "377"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5189",
+      "item_index": "875",
+      "rothco_item_no": "5600",
+      "upc": "613902560000",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "5600-C.jpg",
+      "catalog_page_no": "135",
+      "msrp": 8.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.2500",
+      "ship_height": "3.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 3.5,
+      "case_price": 3.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5301",
+      "item_index": "875",
+      "rothco_item_no": "5650",
+      "upc": "613902565005",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "5650-B.jpg",
+      "catalog_page_no": "135",
+      "msrp": 8.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.2500",
+      "ship_height": "3.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "ACU Digital Camo"
+      },
+      "color": "ACU Digital Camo",
+      "price": 3.5,
+      "case_price": 3.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5302",
+      "item_index": "875",
+      "rothco_item_no": "5651",
+      "upc": "613902565104",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1125",
+      "image_filename": "5651-B.jpg",
+      "catalog_page_no": "135",
+      "msrp": 8.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.2500",
+      "ship_height": "3.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Digital Camo"
+      },
+      "color": "Woodland Digital Camo",
+      "price": 3.5,
+      "case_price": 3.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5376",
+      "item_index": "875",
+      "rothco_item_no": "5681",
+      "upc": "613902568105",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1125",
+      "image_filename": "5681-B.jpg",
+      "catalog_page_no": "135",
+      "msrp": 8.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.2500",
+      "ship_height": "3.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Desert Digital Camo"
+      },
+      "color": "Desert Digital Camo",
+      "price": 3.5,
+      "case_price": 3.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

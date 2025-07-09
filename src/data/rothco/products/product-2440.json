@@ -1,0 +1,45 @@
+{
+  "item_index": "2440",
+  "item_name": "Rothco 3-1 Super Whistle with Compass & Thermometer",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's 3-1&nbsp;Military Style Survival Whistle is a must for your next hiking or camping trip. The multi-functional whistle features a compass and thermometer.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "1302",
+  "description": "<p>Rothco's 3-1&nbsp;Military Style Survival Whistle is a must for your next hiking or camping trip. The multi-functional whistle features a compass and thermometer.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "269"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10947",
+      "item_index": "2440",
+      "rothco_item_no": "9401",
+      "upc": "613902940109",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0550",
+      "image_filename": "9401direction-HR.jpg",
+      "catalog_page_no": "218",
+      "msrp": 5.99,
+      "ship_length": "6.0000",
+      "ship_width": "3.2500",
+      "ship_height": "6.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 2.1,
+      "case_price": 2.1,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

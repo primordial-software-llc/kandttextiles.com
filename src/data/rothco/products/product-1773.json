@@ -1,0 +1,94 @@
+{
+  "item_index": "1773",
+  "item_name": "Rothco G.I. Type Enhanced Knife Sheaths",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Enhanced Knife Sheath is the ultimate accessory for carrying your 7-inch tactical blade with ease and security. Crafted from tough yet lightweight 1000D nylon, this sheath is built to withstand rugged conditions while remaining comfortable to wear. It&rsquo;s designed to fit a variety of tactical knives, including popular 7-inch models. The top buckle system and leg ties ensure your blade is securely fastened, while the button loop provides extra stability when not in use.</p>\n<div>\n<div>\n<div id=\"_com_1\" class=\"msocomtxt\"><!--[if !supportAnnotations]--></div>\n<!--[endif]--></div>\n</div>\n<div style=\"mso-element: comment-list;\">\n<div style=\"mso-element: comment;\">\n<div id=\"_com_1\" class=\"msocomtxt\"><!--[if !supportAnnotations]--></div>\n<!--[endif]--></div>\n</div>",
+  "no_ratings": "0",
+  "sort_order": "2188",
+  "description": "<p>Rothco&rsquo;s Enhanced Knife Sheath is the ultimate accessory for carrying your 7-inch tactical blade with ease and security. Crafted from tough yet lightweight 1000D nylon, this sheath is built to withstand rugged conditions while remaining comfortable to wear. It&rsquo;s designed to fit a variety of tactical knives, including popular 7-inch models. The top buckle system and leg ties ensure your blade is securely fastened, while the button loop provides extra stability when not in use. For added convenience, the sheath features a small front pouch with a hook-and-loop closure, perfect for storing a knife sharpener or other small accessories. Inside the sheath, a plastic insert helps protect your blade and extend its longevity. Whether you&rsquo;re in the field or at the range, Rothco&rsquo;s Enhanced Knife Sheath provides the functionality and reliability you need for your tactical gear.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "143",
+    "300"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2717",
+      "item_index": "1773",
+      "rothco_item_no": "40065",
+      "upc": "613902400658",
+      "inventory": "99",
+      "created_date": "2002-08-07 21:00:00",
+      "weight": "0.2800",
+      "image_filename": "40065-hr2.jpg",
+      "catalog_page_no": "273",
+      "msrp": 24.99,
+      "ship_length": "13.5000",
+      "ship_width": "3.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 9.6,
+      "case_price": 9.6,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2718",
+      "item_index": "1773",
+      "rothco_item_no": "40065",
+      "upc": "613902401655",
+      "inventory": "99",
+      "created_date": "2002-08-07 21:00:00",
+      "weight": "0.2800",
+      "image_filename": "40065-hr2.jpg",
+      "catalog_page_no": "273",
+      "msrp": 24.99,
+      "ship_length": "13.5000",
+      "ship_width": "3.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 9.6,
+      "case_price": 9.6,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12285",
+      "item_index": "1773",
+      "rothco_item_no": "40065",
+      "upc": "613902499652",
+      "inventory": "99",
+      "created_date": "2002-08-07 21:00:00",
+      "weight": "0.2800",
+      "image_filename": "40065-HR2.jpg",
+      "catalog_page_no": "273",
+      "msrp": 24.99,
+      "ship_length": "13.5000",
+      "ship_width": "3.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 9.6,
+      "case_price": 9.6,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

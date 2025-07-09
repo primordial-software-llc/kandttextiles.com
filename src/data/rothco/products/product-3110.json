@@ -1,0 +1,71 @@
+{
+  "item_index": "3110",
+  "item_name": "Rothco Belt Keepers - 4 Piece Set",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Ensure your duty belts stay in place during crucial on-the-job activities with Rothco's Belt Keepers - 4 Piece Set. These essential accessories are designed to provide ultimate security for public safety professionals, ensuring that your gear remains firmly in place. Made from durable poly webbing, our belt keepers are built to withstand the toughest tactical use. The dependable dual snap closures secure your belt keepers tightly, preventing any slippage or movement.</p>",
+  "no_ratings": null,
+  "sort_order": "1947",
+  "description": "<p>Ensure your duty belts stay in place during crucial on-the-job activities with Rothco's Belt Keepers - 4 Piece Set. These essential accessories are designed to provide ultimate security for public safety professionals, ensuring that your gear remains firmly in place. Made from durable poly webbing, our belt keepers are built to withstand the toughest tactical use. The dependable dual snap closures secure your belt keepers tightly, preventing any slippage or movement. Designed to fit a 2.25-inch duty gear belt, these belt keepers are perfectly sized for the field. When open, they measure 7 1/8 inch x 1 inch, and when closed, they measure 2 3/8 inch x 1 inch. This convenient 4-piece set allows you to keep your gear secure and organized, providing a reliable fastening solution for public safety professionals, security officers, and anyone in need of dependable belt keepers. Trust Rothco&rsquo;s Belt Keepers to provide the security and reliability you need for your gear.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "238",
+    "239",
+    "382"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "287",
+      "item_index": "3110",
+      "rothco_item_no": "10584",
+      "upc": "613902105843",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0875",
+      "image_filename": "10584-A3.jpg",
+      "catalog_page_no": "230",
+      "msrp": 8.99,
+      "ship_length": "2.0000",
+      "ship_width": "7.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 3.55,
+      "case_price": 3.55,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22496",
+      "item_index": "3110",
+      "rothco_item_no": "10585",
+      "upc": "613902024120",
+      "inventory": "99",
+      "created_date": "2022-12-06 16:00:29",
+      "weight": "0.0000",
+      "image_filename": "10585-A.jpg",
+      "catalog_page_no": "230",
+      "msrp": 8.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 3.55,
+      "case_price": 3.55,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

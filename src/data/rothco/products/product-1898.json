@@ -1,0 +1,69 @@
+{
+  "item_index": "1898",
+  "item_name": "Rothco Hard Shell Shin Guards ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Hard Shell Shin Guards have been designed to protect the knee, shin, ankle and foot. The plates are made of non-reflective polycarbonate and are padded with a durable mesh covered EVA foam cushion and innerpolyester tricot lining. In addition the hard shell shin guards feature padded outer ankle protectors and adjustable/removable foot plates with three hook &amp; loop closures on the backside for a perfect customized fit. The shin guards also come with a nylon gear bag for easy carry.</p>",
+  "no_ratings": "0",
+  "sort_order": "247",
+  "description": "<p>Rothco's Hard Shell Shin Guards have been designed to protect the knee, shin, ankle and foot. The plates are made of non-reflective polycarbonate and are padded with a durable mesh covered EVA foam cushion and innerpolyester tricot lining. In addition the hard shell shin guards feature padded outer ankle protectors and adjustable/removable foot plates with three hook &amp; loop closures on the backside for a perfect customized fit. The shin guards also come with a nylon gear bag for easy carry.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "245"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2611",
+      "item_index": "1898",
+      "rothco_item_no": "3903",
+      "upc": "613902390317",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.5000",
+      "image_filename": "3903-HR2.jpg",
+      "catalog_page_no": "255",
+      "msrp": 65.99,
+      "ship_length": "20.0000",
+      "ship_width": "6.0000",
+      "ship_height": "5.0000",
+      "eta_date": null,
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 29.5,
+      "case_price": 29.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2612",
+      "item_index": "1898",
+      "rothco_item_no": "3903",
+      "upc": "613902390324",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.5000",
+      "image_filename": "3903-HR2.jpg",
+      "catalog_page_no": "255",
+      "msrp": 65.99,
+      "ship_length": "22.0000",
+      "ship_width": "6.0000",
+      "ship_height": "5.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 29.5,
+      "case_price": 29.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

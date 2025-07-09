@@ -1,0 +1,99 @@
+{
+  "item_index": "4728",
+  "item_name": "Rothco Wind and Waterproof Insulated Acrylic Watch Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay warm and protected in harsh winter conditions with Rothco&rsquo;s Wind and Waterproof Insulated Acrylic Watch Cap. Designed for ultimate cold weather performance, this durable knit cap features a windproof PTFE lining, offering unparalleled protection from the elements. The acrylic material not only provides excellent insulation but also ensures a comfortable, stretchy fit that adapts to most head sizes, retaining its shape for long-term use.</p>",
+  "no_ratings": null,
+  "sort_order": "133041",
+  "description": "<p>Stay warm and protected in harsh winter conditions with Rothco&rsquo;s Wind and Waterproof Insulated Acrylic Watch Cap. Designed for ultimate cold weather performance, this durable knit cap features a windproof PTFE lining, offering unparalleled protection from the elements. The acrylic material not only provides excellent insulation but also ensures a comfortable, stretchy fit that adapts to most head sizes, retaining its shape for long-term use. Whether you're battling fierce winds, rain, or snow, this watch cap will keep your head dry, warm, and shielded from the elements. Ideal for outdoor activities in extreme conditions, it&rsquo;s the perfect companion for hiking, skiing, or simply braving the cold winter commute. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you're tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from military personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "367"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19825",
+      "item_index": "4728",
+      "rothco_item_no": "3585",
+      "upc": "613902135857",
+      "inventory": "99",
+      "created_date": "2020-07-10 13:00:19",
+      "weight": "0.1563",
+      "image_filename": "3585-Black-A-amazon.jpg",
+      "catalog_page_no": "158",
+      "msrp": 10.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Black"
+      },
+      "size": "One Size",
+      "color": "Black",
+      "price": 4.1,
+      "case_price": 4.1,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19826",
+      "item_index": "4728",
+      "rothco_item_no": "3585",
+      "upc": "613902235854",
+      "inventory": "99",
+      "created_date": "2020-07-10 13:00:19",
+      "weight": "0.1563",
+      "image_filename": "3585-OD-A-amazon.jpg",
+      "catalog_page_no": "158",
+      "msrp": 10.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Olive Drab"
+      },
+      "size": "One Size",
+      "color": "Olive Drab",
+      "price": 4.1,
+      "case_price": 4.1,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19827",
+      "item_index": "4728",
+      "rothco_item_no": "3585",
+      "upc": "613902335851",
+      "inventory": "0",
+      "created_date": "2020-07-10 13:00:19",
+      "weight": "0.1563",
+      "image_filename": "3585-COYOTE-A-amazon2.jpg",
+      "catalog_page_no": "158",
+      "msrp": 10.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "07/13/2025",
+      "specs": {
+        "size": "One Size",
+        "color": "Coyote Brown"
+      },
+      "size": "One Size",
+      "color": "Coyote Brown",
+      "price": 4.1,
+      "case_price": 4.1,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

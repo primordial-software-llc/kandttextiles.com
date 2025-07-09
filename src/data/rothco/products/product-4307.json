@@ -1,0 +1,43 @@
+{
+  "item_index": "4307",
+  "item_name": "McNett Sea Drops",
+  "has_restrictions": "1",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Keep your dive goggles and lenses clear with McNett Sea Drops!</p>",
+  "no_ratings": null,
+  "sort_order": "21",
+  "description": "<p>Keep your goggles and lens' clear with McNett Sea Drops! These Sea Drops are formulated with a concentrated 2-in-1 liquid. It cleans and provides anti-fog protection, allowing crystal-clear vision when diving. McNett Sea Drops are safe for all dive lenses and is non-toxic, alcohol-free. They also work well with tactical goggles, eye and sunglasses, face masks and more.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "346",
+    "392",
+    "393",
+    "395"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17349",
+      "item_index": "4307",
+      "rothco_item_no": "9318",
+      "upc": "021563402209",
+      "inventory": "99",
+      "created_date": "2017-05-30 10:10:01",
+      "weight": "0.1250",
+      "image_filename": "9318-A-amazon1.jpg",
+      "catalog_page_no": "200",
+      "msrp": 9.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 3.95,
+      "case_price": 3.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

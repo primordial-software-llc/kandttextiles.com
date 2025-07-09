@@ -1,0 +1,70 @@
+{
+  "item_index": "445",
+  "item_name": "Rothco SWAT / Rope Rescue Gloves",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": "0",
+  "sort_order": "426",
+  "description": "<p>Reinforced Palm And Thumb Cradle For Added Protection Against Rope Burns</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "291",
+    "239"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2275",
+      "item_index": "445",
+      "rothco_item_no": "3482",
+      "upc": "613902348219",
+      "inventory": "0",
+      "created_date": "2010-01-04 21:00:00",
+      "weight": "0.4063",
+      "image_filename": "3482-A.jpg",
+      "catalog_page_no": "0",
+      "msrp": 25.99,
+      "ship_length": "11.2500",
+      "ship_width": "5.0000",
+      "ship_height": "1.5000",
+      "eta_date": null,
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 10.25,
+      "case_price": 10.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2278",
+      "item_index": "445",
+      "rothco_item_no": "3482",
+      "upc": "613902348240",
+      "inventory": "20",
+      "created_date": "2010-01-04 21:00:00",
+      "weight": "0.4063",
+      "image_filename": "3482-A.jpg",
+      "catalog_page_no": "0",
+      "msrp": 25.99,
+      "ship_length": "11.2500",
+      "ship_width": "6.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 10.25,
+      "case_price": 10.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

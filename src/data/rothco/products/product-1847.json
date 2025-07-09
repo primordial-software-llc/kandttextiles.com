@@ -1,0 +1,69 @@
+{
+  "item_index": "1847",
+  "item_name": "Rothco Undercover Shoulder Holster",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p class=\"MsoNormal\">Rothco&rsquo;s Undercover Shoulder Holster is designed for those who need a reliable, discreet, and comfortable carry solution. This concealed carry holster fits a variety of semi-automatic handguns, with a 4-inch size accommodating most standard and compact models and a 5-inch size designed for full-size firearms. Crafted with comfort in mind, the shoulder holster features a fully adjustable, padded strap that ensures a secure and comfortable fit throughout the day.</p>",
+  "no_ratings": "0",
+  "sort_order": "1602",
+  "description": "<p>Rothco&rsquo;s Undercover Shoulder Holster is designed for those who need a reliable, discreet, and comfortable carry solution. This concealed carry holster fits a variety of semi-automatic handguns, with a 4-inch size accommodating most standard and compact models and a 5-inch size designed for full-size firearms. Crafted with comfort in mind, the shoulder holster features a fully adjustable, padded strap that ensures a secure and comfortable fit throughout the day. The CCW holster's belt strap and 1-inch-wide sling are also fully adjustable, providing a customizable fit for different body types. For added convenience, the tactical holster includes a hook &amp; loop thumb strap that securely holds your firearm in place, allowing for quick and smooth access when needed. Constructed from strong yet lightweight polyester material, the Undercover Shoulder Holster is built to last while maintaining a low profile. The protective lining and leatherette trim add a touch of style and functionality to this versatile holster.</p>",
+  "selection_groups": [
+    "length"
+  ],
+  "statuses": "",
+  "categories": [
+    "251"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "276",
+      "item_index": "1847",
+      "rothco_item_no": "10564",
+      "upc": "613902105645",
+      "inventory": "99",
+      "created_date": "2011-07-19 21:00:00",
+      "weight": "0.4938",
+      "image_filename": "10565-a.jpg",
+      "catalog_page_no": "232",
+      "msrp": 32.99,
+      "ship_length": "10.0000",
+      "ship_width": "7.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "length": "4 Inches"
+      },
+      "length": "4 Inches",
+      "price": 14.9,
+      "case_price": 14.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "277",
+      "item_index": "1847",
+      "rothco_item_no": "10565",
+      "upc": "613902105652",
+      "inventory": "99",
+      "created_date": "2011-07-19 21:00:00",
+      "weight": "0.5125",
+      "image_filename": "10565-a.jpg",
+      "catalog_page_no": "232",
+      "msrp": 32.99,
+      "ship_length": "10.0000",
+      "ship_width": "7.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "length": "5 Inches"
+      },
+      "length": "5 Inches",
+      "price": 14.9,
+      "case_price": 14.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

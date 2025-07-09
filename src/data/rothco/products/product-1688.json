@@ -1,0 +1,43 @@
+{
+  "item_index": "1688",
+  "item_name": "Rothco Raider III Boot Knife",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>This Rothco Raider III Boot Knife is constructed from long lasting stainless steel to ensure a sharp, durable blade. Rothco&rsquo;s boot knife measures 7 &frac14;&rdquo; overall and includes sheath. For military use, self defense, camping or hunting don&rsquo;t forget to carry this sturdy boot knife!</p>",
+  "no_ratings": "0",
+  "sort_order": "717",
+  "description": "<p>This Rothco Raider III Boot Knife is constructed from long lasting stainless steel to ensure a sharp, durable blade. Rothco&rsquo;s boot knife measures 7 &frac14;&rdquo; overall with a blade that measures 3 3/4\" in length and 1/2\" width. The boot knife also includes a sheath. For military use, self-defense, camping or hunting don&rsquo;t forget to carry this sturdy boot knife!</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "292"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1870",
+      "item_index": "1688",
+      "rothco_item_no": "3189",
+      "upc": "613902318908",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2950",
+      "image_filename": "3189-HR1.jpg",
+      "catalog_page_no": "271",
+      "msrp": 24.99,
+      "ship_length": "7.7500",
+      "ship_width": "2.0000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

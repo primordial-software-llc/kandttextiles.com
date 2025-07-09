@@ -1,0 +1,126 @@
+{
+  "item_index": "304",
+  "item_name": "Rothco Vintage D-Ring Belt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Vintage D-Ring Belt combines classic style with durability, offering an ideal accessory for casual and outdoor wear. Made from resilient washed cotton, this belt provides a stylish, worn-in vintage look that pairs well with jeans, cargo shorts, and other everyday outfits. The D-ring style buckle allows for easy adjustment to ensure a comfortable and secure fit around your waist. Available in multiple sizes, the belt is 1.75 inch wide, fitting seamlessly through most belt loops.</p>",
+  "no_ratings": "0",
+  "sort_order": "1899",
+  "description": "<p>Rothco&rsquo;s Vintage D-Ring Belt combines classic style with durability, offering an ideal accessory for casual and outdoor wear. Made from resilient washed cotton, this belt provides a stylish, worn-in vintage look that pairs well with jeans, cargo shorts, and other everyday outfits. The D-ring style buckle allows for easy adjustment to ensure a comfortable and secure fit around your waist. Available in multiple sizes, the belt is 1.75 inch wide, fitting seamlessly through most belt loops. Designed for long-lasting use, Rothco&rsquo;s vintage belt is perfect for both fashion and function, whether you're dressing for a casual day out or engaging in outdoor activities. Choose from medium (fits up to 44 inch) or large (fits up to 48 inch) to suit your needs. This versatile belt is a staple addition to any wardrobe, combining durability, comfort, and a timeless, rugged look.</p>",
+  "selection_groups": [
+    "color",
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "379"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2836",
+      "item_index": "304",
+      "rothco_item_no": "4147",
+      "upc": "613902414716",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3600",
+      "image_filename": "4147-OD-A-amazon.jpg",
+      "catalog_page_no": "194",
+      "msrp": 17.99,
+      "ship_length": "7.0000",
+      "ship_width": "2.2500",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "M"
+      },
+      "color": "Olive Drab",
+      "size": "M",
+      "price": 6.9,
+      "case_price": 6.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2837",
+      "item_index": "304",
+      "rothco_item_no": "4147",
+      "upc": "613902414723",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3600",
+      "image_filename": "4147-OD-A-amazon.jpg",
+      "catalog_page_no": "194",
+      "msrp": 17.99,
+      "ship_length": "7.2500",
+      "ship_width": "2.5000",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "L"
+      },
+      "color": "Olive Drab",
+      "size": "L",
+      "price": 6.9,
+      "case_price": 6.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2842",
+      "item_index": "304",
+      "rothco_item_no": "4147",
+      "upc": "613902414778",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3600",
+      "image_filename": "4147-Black-A-amazon.jpg",
+      "catalog_page_no": "194",
+      "msrp": 17.99,
+      "ship_length": "7.0000",
+      "ship_width": "2.2500",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "M"
+      },
+      "color": "Black",
+      "size": "M",
+      "price": 6.9,
+      "case_price": 6.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2843",
+      "item_index": "304",
+      "rothco_item_no": "4147",
+      "upc": "613902414785",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3600",
+      "image_filename": "4147-Black-A-amazon.jpg",
+      "catalog_page_no": "194",
+      "msrp": 17.99,
+      "ship_length": "7.2500",
+      "ship_width": "2.5000",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "L"
+      },
+      "color": "Black",
+      "size": "L",
+      "price": 6.9,
+      "case_price": 6.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

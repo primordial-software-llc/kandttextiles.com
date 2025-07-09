@@ -1,0 +1,45 @@
+{
+  "item_index": "4346",
+  "item_name": "Government Issue Irregular Cushion Sole Socks",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>&nbsp;The military socks offer comfort, warmth, and support.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "26",
+  "description": "<p>Government Issue Irregular Cushion Sole Socks are made of a 50% Wool, 30% Cotton and 20% Nylon blend material. The military socks offer comfort, warmth, and support.&nbsp;</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "408"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17591",
+      "item_index": "4346",
+      "rothco_item_no": "7448",
+      "upc": "613902074484",
+      "inventory": "99",
+      "created_date": "2017-09-28 13:10:03",
+      "weight": "0.1500",
+      "image_filename": "7448-A-amazon.jpg",
+      "catalog_page_no": "183",
+      "msrp": 5.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 2.35,
+      "case_price": 2.35,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

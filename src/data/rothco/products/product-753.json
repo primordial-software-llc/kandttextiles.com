@@ -1,0 +1,42 @@
+{
+  "item_index": "753",
+  "item_name": "Rothco Vintage Special Forces Low Profile Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": "0",
+  "sort_order": "367",
+  "description": "<p>Rothco Vintage Special Forces Low Profile Cap is constructed of 100% brushed cotton twill, featuring Special Forces design embroidered on the front panel of the low profile hat. Rothco's twill hat also features an adjustable hook and loop closure in the back of the cap for the perfect fit.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "68",
+    "374",
+    "674"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "11452",
+      "item_index": "753",
+      "rothco_item_no": "9887",
+      "upc": "613902098879",
+      "inventory": "99",
+      "created_date": "2012-06-17 21:00:00",
+      "weight": "0.2500",
+      "image_filename": "9887.jpg",
+      "catalog_page_no": "143",
+      "msrp": 19.99,
+      "ship_length": "8.7500",
+      "ship_width": "8.7500",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

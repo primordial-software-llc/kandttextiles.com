@@ -1,0 +1,43 @@
+{
+  "item_index": "1627",
+  "item_name": "Rothco Zombie Killer Morale Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Fight the Zombie Apocalypse with Rothco's Zombie Killer morale patch. Rothco's morale patches feature a hook backing and are ideal for attaching to our Operator Caps, Combat Shirts or any of our Hook &amp; Loop gear.</p>",
+  "no_ratings": "0",
+  "sort_order": "1205",
+  "description": "<p>Fight the Zombie Apocalypse with Rothco's Zombie Killer morale patch. Rothco's morale patches feature a hook backing and are ideal for attaching to our Operator Caps, Combat Shirts or any of our Hook &amp; Loop gear.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "424"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8184",
+      "item_index": "1627",
+      "rothco_item_no": "72184",
+      "upc": "613902972148",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0094",
+      "image_filename": "72184-HR.jpg",
+      "catalog_page_no": "215",
+      "msrp": 3.99,
+      "ship_length": "3.0000",
+      "ship_width": "2.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red"
+      },
+      "color": "Red",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

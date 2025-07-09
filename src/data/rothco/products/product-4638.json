@@ -1,0 +1,74 @@
+{
+  "item_index": "4638",
+  "item_name": "Rothco All-Purpose Shoulder Strap With Removable Pad",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Whether as a replacement or addition to your bag, Rothco&rsquo;s Padded Shoulder Strap is a great all-purpose strap you can add to a variety of bags, including a duffle bag, weekend / weekender bag, or messenger bag.</p>",
+  "no_ratings": null,
+  "sort_order": "132951",
+  "description": "<p>Whether as a replacement or addition to your bag, Rothco&rsquo;s Padded Shoulder Strap is a great all-purpose strap you can add to a variety of bags, including a duffle bag, weekend / weekender bag, or messenger bag. Attach the replacement shoulder strap to your gear with the swivel clips on each end. Measuring 1 &frac12;&rdquo; wide, the padded shoulder strap can fully extend to 48&rdquo; long. For added comfort, the all-purpose strap features an 8 &frac12;&rdquo; X 3&rdquo; X &frac12;&rdquo; removable shoulder pad.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "215",
+    "211"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19330",
+      "item_index": "4638",
+      "rothco_item_no": "1675",
+      "upc": "613902816756",
+      "inventory": "99",
+      "created_date": "2019-12-02 13:00:21",
+      "weight": "0.3125",
+      "image_filename": "1675-Coyote-A-amazon.jpg",
+      "catalog_page_no": "328",
+      "msrp": 7.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Coyote Brown"
+      },
+      "size": "One Size",
+      "color": "Coyote Brown",
+      "price": 2.9,
+      "case_price": 2.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19331",
+      "item_index": "4638",
+      "rothco_item_no": "1675",
+      "upc": "613902916753",
+      "inventory": "99",
+      "created_date": "2019-12-02 13:00:21",
+      "weight": "0.3125",
+      "image_filename": "1675-A-amazon.jpg",
+      "catalog_page_no": "328",
+      "msrp": 7.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Black"
+      },
+      "size": "One Size",
+      "color": "Black",
+      "price": 2.9,
+      "case_price": 2.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

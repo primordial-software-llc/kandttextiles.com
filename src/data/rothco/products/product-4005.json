@@ -1,0 +1,168 @@
+{
+  "item_index": "4005",
+  "item_name": "Rothco ANSI Rated OTG Goggles",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=FU6alF65Nug",
+  "rating": "5",
+  "item_short_desc": "<p>Upgrade your tactical loadout with our ANSI Rated OTG Goggles. From military personnel to shooting sport professionals, the high-performance goggles shield your eyes from dirt and debris while ensuring top-tier impact protection out in the field. The goggles meet ANSI Z87-1 and MIL-DTL-43511D standards. Trust in Rothco's commitment to quality for unparalleled eye protection in challenging environments.</p>",
+  "no_ratings": null,
+  "sort_order": "663",
+  "description": "<p>Upgrade your tactical loadout with our ANSI Rated OTG Goggles. From military personnel to shooting sport professionals, the high-performance goggles shield your eyes from dirt and debris while ensuring top-tier impact protection out in the field. The goggles meet ANSI Z87-1 and MIL-DTL-43511D standards. Trust in Rothco's commitment to quality for unparalleled eye protection in challenging environments. Over-The-Glasses Design: These tactical goggles feature a 7/8-inch temple cutout on each side that fits over glasses, sunglasses, and prescription eyewear. The 3/8-inch foam padding creates an additional seal while remaining comfortable against skin. Premium Lens Quality: The tactical OTG goggles come equipped with 2mm thick polycarbonate lenses that offer anti-fog, anti-scratch, and UV 400 protection for years of reliable use in any weather or lighting conditions. The military goggles come with a cleaning cloth and cover. Tactical Utility: The protective goggles feature a dual ventilation system that utilizes top and bottom vents, preventing the lenses from fogging over while delivering optimal airflow for breathability. The movable dynamic hinges and adjustable strap with rubber grip allows you to comfortably wear the airsoft goggles with a variety of tactical helmets while ensuring it stays in place. Ready for Action: Whether you are heading out to the range or out on a mission, the shooting safety goggles are great for tactical operations, field use, airsoft, paintball, shooting competitions, hunting, and other outdoor activities.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "253",
+    "335",
+    "395",
+    "489"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15631",
+      "item_index": "4005",
+      "rothco_item_no": "10732",
+      "upc": "613902107328",
+      "inventory": "99",
+      "created_date": "2015-09-03 17:10:01",
+      "weight": "0.3000",
+      "image_filename": "10732-B-amazon1.jpg",
+      "catalog_page_no": "199",
+      "msrp": 48.99,
+      "ship_length": "7.0000",
+      "ship_width": "3.2500",
+      "ship_height": "3.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black / Smoke"
+      },
+      "color": "Black / Smoke",
+      "price": 21.5,
+      "case_price": 21.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15632",
+      "item_index": "4005",
+      "rothco_item_no": "10732",
+      "upc": "613902107335",
+      "inventory": "99",
+      "created_date": "2015-09-03 17:10:01",
+      "weight": "0.3000",
+      "image_filename": "10732-A-amazon.jpg",
+      "catalog_page_no": "199",
+      "msrp": 48.99,
+      "ship_length": "7.0000",
+      "ship_width": "3.2500",
+      "ship_height": "3.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black / Clear"
+      },
+      "color": "Black / Clear",
+      "price": 21.5,
+      "case_price": 21.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16763",
+      "item_index": "4005",
+      "rothco_item_no": "1732",
+      "upc": "613902173200",
+      "inventory": "99",
+      "created_date": "2016-12-02 14:10:01",
+      "weight": "0.6500",
+      "image_filename": "1732-C-amazon.jpg",
+      "catalog_page_no": "199",
+      "msrp": 48.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown / Clear"
+      },
+      "color": "Coyote Brown / Clear",
+      "price": 21.5,
+      "case_price": 21.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20843",
+      "item_index": "4005",
+      "rothco_item_no": "10748",
+      "upc": "613902004528",
+      "inventory": "99",
+      "created_date": "2021-06-29 13:00:15",
+      "weight": "0.6500",
+      "image_filename": "10748-A-NO-LOGO.jpg",
+      "catalog_page_no": "199",
+      "msrp": 48.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown / Smoke"
+      },
+      "color": "Coyote Brown / Smoke",
+      "price": 21.5,
+      "case_price": 21.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22477",
+      "item_index": "4005",
+      "rothco_item_no": "10733",
+      "upc": "613902023765",
+      "inventory": "99",
+      "created_date": "2022-11-23 12:00:09",
+      "weight": "0.0000",
+      "image_filename": "10733-A.jpg",
+      "catalog_page_no": "199",
+      "msrp": 48.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab / Clear"
+      },
+      "color": "Olive Drab / Clear",
+      "price": 21.5,
+      "case_price": 21.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22478",
+      "item_index": "4005",
+      "rothco_item_no": "10733",
+      "upc": "613902023789",
+      "inventory": "99",
+      "created_date": "2022-11-23 12:00:09",
+      "weight": "0.0000",
+      "image_filename": "10733-A-SM.jpg",
+      "catalog_page_no": "199",
+      "msrp": 48.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab / Smoke"
+      },
+      "color": "Olive Drab / Smoke",
+      "price": 21.5,
+      "case_price": 21.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

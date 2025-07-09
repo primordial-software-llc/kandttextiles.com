@@ -1,0 +1,72 @@
+{
+  "item_index": "3328",
+  "item_name": "Rothco MOLLE Compatible Excursion Organizer",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay organized on the go with Rothco&rsquo;s MOLLE Compatible Excursion Organizer. This compact, versatile bag is perfect for carrying your Everyday Carry (EDC) items. Featuring 2 spacious main zippered compartments, it provides ample storage for your essentials. An additional interior zipper pocket and an exterior zippered pocket offer even more organization options, while a hook and loop pouch ensures quick access to frequently used items. The adjustable shoulder strap extends up to 56 inches for a customized fit.</p>",
+  "no_ratings": null,
+  "sort_order": "912",
+  "description": "<p>Stay organized on the go with Rothco&rsquo;s MOLLE Compatible Excursion Organizer. This compact, versatile bag is perfect for carrying your Everyday Carry (EDC) items. Featuring 2 spacious main zippered compartments, it provides ample storage for your essentials. An additional interior zipper pocket and an exterior zippered pocket offer even more organization options, while a hook and loop pouch ensures quick access to frequently used items. The adjustable shoulder strap extends up to 56 inches for a customized fit, and an exterior pen holder keeps writing tools within easy reach. This travel organizer is compatible with other MOLLE gear, making it ideal for everyday use, travel, or outdoor adventures.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "206",
+    "223",
+    "504",
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12233",
+      "item_index": "3328",
+      "rothco_item_no": "2727",
+      "upc": "613902027275",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7000",
+      "image_filename": "2727-Black-A-amazon.jpg",
+      "catalog_page_no": "356",
+      "msrp": 30.99,
+      "ship_length": "7.5000",
+      "ship_width": "7.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 13.5,
+      "case_price": 13.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12234",
+      "item_index": "3328",
+      "rothco_item_no": "2727",
+      "upc": "613902927278",
+      "inventory": "75",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7000",
+      "image_filename": "2727-OD-B.jpg",
+      "catalog_page_no": "356",
+      "msrp": 30.99,
+      "ship_length": "7.5000",
+      "ship_width": "7.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 13.5,
+      "case_price": 13.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

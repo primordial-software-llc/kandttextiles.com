@@ -1,0 +1,153 @@
+{
+  "item_index": "2171",
+  "item_name": "Rothco Heavyweight Camo T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Heavyweight Camo T-Shirt is made of a premium 6 oz cotton-poly material blend.</p>",
+  "no_ratings": "0",
+  "sort_order": "2445",
+  "description": "<p>Rothco's Heavyweight Camo T-Shirt is made of a premium 6 oz cotton-poly material blend, double needled stitching and taped neck and shoulders for added strength and durability. Additionally, the camo shirt features set-in collars and a tagless label to prevent discomfort.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "40",
+    "80",
+    "137"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "11285",
+      "item_index": "2171",
+      "rothco_item_no": "9777",
+      "upc": "613902977716",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5000",
+      "image_filename": "9777-RIGHT-C.jpg",
+      "catalog_page_no": "109",
+      "msrp": 18.99,
+      "ship_length": "14.0000",
+      "ship_width": "9.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Woodland Camo"
+      },
+      "size": "S",
+      "color": "Woodland Camo",
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "11286",
+      "item_index": "2171",
+      "rothco_item_no": "9777",
+      "upc": "613902977723",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5000",
+      "image_filename": "9777-RIGHT-C.jpg",
+      "catalog_page_no": "109",
+      "msrp": 18.99,
+      "ship_length": "15.5000",
+      "ship_width": "9.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Woodland Camo"
+      },
+      "size": "M",
+      "color": "Woodland Camo",
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "11287",
+      "item_index": "2171",
+      "rothco_item_no": "9777",
+      "upc": "613902977730",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5000",
+      "image_filename": "9777-RIGHT-C.jpg",
+      "catalog_page_no": "109",
+      "msrp": 18.99,
+      "ship_length": "16.0000",
+      "ship_width": "10.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Woodland Camo"
+      },
+      "size": "L",
+      "color": "Woodland Camo",
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "11288",
+      "item_index": "2171",
+      "rothco_item_no": "9777",
+      "upc": "613902977747",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5000",
+      "image_filename": "9777-RIGHT-C.jpg",
+      "catalog_page_no": "109",
+      "msrp": 18.99,
+      "ship_length": "17.0000",
+      "ship_width": "12.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Woodland Camo"
+      },
+      "size": "XL",
+      "color": "Woodland Camo",
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "11294",
+      "item_index": "2171",
+      "rothco_item_no": "9780",
+      "upc": "613902978003",
+      "inventory": "94",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6000",
+      "image_filename": "9777-RIGHT-C.jpg",
+      "catalog_page_no": "109",
+      "msrp": 19.99,
+      "ship_length": "16.5000",
+      "ship_width": "13.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL",
+        "color": "Woodland Camo"
+      },
+      "size": "2XL",
+      "color": "Woodland Camo",
+      "price": 7.45,
+      "case_price": 7.45,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

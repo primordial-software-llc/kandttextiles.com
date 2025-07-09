@@ -1,0 +1,46 @@
+{
+  "item_index": "104",
+  "item_name": "Rothco EMS Rescue Vest",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's EMS Rescue Vest ensures safety and efficiency for emergency professionals and first responders. Constructed from durable oxford polyester material, the safety vest features 2 inch grey reflective tape on the upper and lower parts, enhancing visibility in low-light conditions.</p>",
+  "no_ratings": "0",
+  "sort_order": "403",
+  "description": "<p>Rothco's EMS Rescue Vest ensures safety and efficiency for emergency professionals and first responders. Constructed from durable oxford polyester material, the safety vest features 2 inch grey reflective tape on the upper and lower parts, enhancing visibility in low-light conditions. The vest offers high-capacity storage with 2 large zippered cargo pockets and breast pockets equipped with ID holders, allowing for quick access to essential tools and documents. The reflective vest features a fully adjustable design, ensuring a comfortable and secure fit for extended wear during rescue operations. Whether responding to emergencies or providing assistance, this EMS vest provides the functionality and organization needed for effective performance in the field. Trust Rothco's EMS Rescue Vest for enhanced visibility and organization in critical situations.</p>\n<p>&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "5",
+    "183"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "11067",
+      "item_index": "104",
+      "rothco_item_no": "9521",
+      "upc": "613902952102",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.0000",
+      "image_filename": "9521-LEFT-C.jpg",
+      "catalog_page_no": "76",
+      "msrp": 46.99,
+      "ship_length": "23.5000",
+      "ship_width": "12.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Blue",
+        "size": "One Size"
+      },
+      "color": "Blue",
+      "size": "One Size",
+      "price": 20.5,
+      "case_price": 20.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "item_index": "4217",
+  "item_name": "Rothco Thin Blue Line Sheepdog Morale Patch",
+  "has_restrictions": "1",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Thin Blue Line Sheepdog Morale Patch shows respect and support for Police and Law Enforcement Officials.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "325",
+  "description": "<p>The Thin Blue Line is a symbol of respect and support for Police and Law Enforcement Officials; show your support with Rothco's Thin Blue Line Sheepdog Morale Patch. The tactical patch measures 1 1/4\" x 3\" with a hook backing, perfect for attaching to Rothco's line of tactical gear. Constructed with a durable cotton thread, the patch features the word 'Sheepdog' in white writing with a thin blue line in the center.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "424",
+    "543"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16681",
+      "item_index": "4217",
+      "rothco_item_no": "7473",
+      "upc": "613902174733",
+      "inventory": "99",
+      "created_date": "2016-11-07 16:10:01",
+      "weight": "0.0094",
+      "image_filename": "7473-A-amazon.jpg",
+      "catalog_page_no": "214",
+      "msrp": 3.99,
+      "ship_length": "1.2500",
+      "ship_width": "3.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "item_index": "3693",
+  "item_name": "Rothco Come & Take It T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Showcase your bold spirit with Rothco&rsquo;s Come &amp; Take It T-Shirt, featuring the iconic slogan rooted in historical defiance. This striking tee displays a detailed image of a snake and rifle with the bold \"Come &amp; Take It\" text, capturing a timeless message of resilience and determination. Crafted from a durable cotton / polyester fabric blend, this graphic t-shirt offers an unbeatable combination of comfort and ruggedness, making it perfect for everyday wear.</p>",
+  "no_ratings": null,
+  "sort_order": "3018",
+  "description": "<p>Showcase your bold spirit with Rothco&rsquo;s Come &amp; Take It T-Shirt, featuring the iconic slogan rooted in historical defiance. This striking tee displays a detailed image of a snake and rifle with the bold \"Come &amp; Take It\" text, capturing a timeless message of resilience and determination. Crafted from a durable cotton / polyester fabric blend, this graphic t-shirt offers an unbeatable combination of comfort and ruggedness, making it perfect for everyday wear. The soft, breathable fabric ensures you stay comfortable throughout the day, while the tag-less label enhances your comfort by eliminating irritation. Whether you&rsquo;re wearing it casually or as a statement piece, Rothco&rsquo;s Come &amp; Take It T-Shirt is a perfect addition to your wardrobe.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "42"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14431",
+      "item_index": "3693",
+      "rothco_item_no": "61560",
+      "upc": "613902061569",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "61560-A2.jpg",
+      "catalog_page_no": "117",
+      "msrp": 21.99,
+      "ship_length": "15.5000",
+      "ship_width": "21.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14432",
+      "item_index": "3693",
+      "rothco_item_no": "61560",
+      "upc": "613902161566",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "61560-A2.jpg",
+      "catalog_page_no": "117",
+      "msrp": 21.99,
+      "ship_length": "15.5000",
+      "ship_width": "22.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14433",
+      "item_index": "3693",
+      "rothco_item_no": "61560",
+      "upc": "613902615601",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "61560-A2.jpg",
+      "catalog_page_no": "117",
+      "msrp": 21.99,
+      "ship_length": "14.0000",
+      "ship_width": "17.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14434",
+      "item_index": "3693",
+      "rothco_item_no": "61560",
+      "upc": "613902961562",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "61560-A2.jpg",
+      "catalog_page_no": "117",
+      "msrp": 21.99,
+      "ship_length": "14.7500",
+      "ship_width": "12.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14435",
+      "item_index": "3693",
+      "rothco_item_no": "61561",
+      "upc": "613902615618",
+      "inventory": "68",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "61560-A2.jpg",
+      "catalog_page_no": "117",
+      "msrp": 22.99,
+      "ship_length": "17.0000",
+      "ship_width": "24.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 8,
+      "case_price": 8,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

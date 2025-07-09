@@ -1,0 +1,71 @@
+{
+  "item_index": "1889",
+  "item_name": "Sabre Red Crossfire Pepper Spray",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Sabre Red Crossfire Pepper Spray features their crossfire technology which allows the pepper spray canisters to deploy continuously from any position.&nbsp;Not available for sale in NY, MA, WI, and HI.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "931",
+  "description": "<p>Sabre Red Crossfire Pepper Spray features their crossfire technology which allows the pepper spray canisters to deploy continuously from any position. The spray can deliver ten 1 second bursts, with a shooting range of 12 - 15 feet. Contains genuine Oleoresin Capsicum for maximum stopping power making it the ultimate law enforcement self-defense spray.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "244"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "935",
+      "item_index": "1889",
+      "rothco_item_no": "20010",
+      "upc": "023063523101",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "20010-A-amazon.jpg",
+      "catalog_page_no": "223",
+      "msrp": 34.99,
+      "ship_length": "6.0000",
+      "ship_width": "2.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 13.8,
+      "case_price": 13.8,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "936",
+      "item_index": "1889",
+      "rothco_item_no": "20011",
+      "upc": "023063523309",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3500",
+      "image_filename": "20010-A-amazon.jpg",
+      "catalog_page_no": "223",
+      "msrp": 37.99,
+      "ship_length": "7.0000",
+      "ship_width": "2.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 14.95,
+      "case_price": 14.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

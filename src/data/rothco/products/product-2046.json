@@ -1,0 +1,167 @@
+{
+  "item_index": "2046",
+  "item_name": "Rothco Nylon Paracord 550lb 1000 Foot Spool",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Crafted by a U.S. contractor, Rothco's Nylon Paracord is a 550lb tested, 7-strand core survival essential. With a diameter of 5/32 inch, this USA-made paracord is trusted by active-duty personnel, campers, and survivalists alike.</p>",
+  "no_ratings": "0",
+  "sort_order": "3353",
+  "description": "<p>Crafted by a U.S. contractor, Rothco's Nylon Paracord is a 550lb tested, 7-strand core survival essential. With a diameter of 5/32 inch, this USA-made paracord is trusted by active-duty personnel, campers, and survivalists alike.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "139",
+    "444"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1765",
+      "item_index": "2046",
+      "rothco_item_no": "304",
+      "upc": "613902304000",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "4.6500",
+      "image_filename": "304-A.jpg",
+      "catalog_page_no": "308",
+      "msrp": 109.99,
+      "ship_length": "6.5000",
+      "ship_width": "6.5000",
+      "ship_height": "7.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 43.95,
+      "case_price": 43.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1768",
+      "item_index": "2046",
+      "rothco_item_no": "305",
+      "upc": "613902305106",
+      "inventory": "99",
+      "created_date": "2009-01-26 21:00:00",
+      "weight": "4.6500",
+      "image_filename": "305-A.jpg",
+      "catalog_page_no": "308",
+      "msrp": 109.99,
+      "ship_length": "6.5000",
+      "ship_width": "6.5000",
+      "ship_height": "7.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 43.95,
+      "case_price": 43.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12605",
+      "item_index": "2046",
+      "rothco_item_no": "217",
+      "upc": "613902002173",
+      "inventory": "79",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "4.6500",
+      "image_filename": "217-A1.jpg",
+      "catalog_page_no": "308",
+      "msrp": 109.99,
+      "ship_length": "6.5000",
+      "ship_width": "6.5000",
+      "ship_height": "7.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 43.95,
+      "case_price": 43.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12606",
+      "item_index": "2046",
+      "rothco_item_no": "218",
+      "upc": "613902002180",
+      "inventory": "22",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "4.6500",
+      "image_filename": "218-A2.jpg",
+      "catalog_page_no": "308",
+      "msrp": 109.99,
+      "ship_length": "6.5000",
+      "ship_width": "6.5000",
+      "ship_height": "7.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Safety Orange"
+      },
+      "color": "Safety Orange",
+      "price": 43.95,
+      "case_price": 43.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12608",
+      "item_index": "2046",
+      "rothco_item_no": "223",
+      "upc": "613902002234",
+      "inventory": "57",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "4.6500",
+      "image_filename": "223-A1.jpg",
+      "catalog_page_no": "308",
+      "msrp": 109.99,
+      "ship_length": "6.5000",
+      "ship_width": "6.5000",
+      "ship_height": "7.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red"
+      },
+      "color": "Red",
+      "price": 43.95,
+      "case_price": 43.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15465",
+      "item_index": "2046",
+      "rothco_item_no": "271",
+      "upc": "613902271005",
+      "inventory": "41",
+      "created_date": "2015-05-22 12:10:02",
+      "weight": "4.6500",
+      "image_filename": "271-A-amazon.jpg",
+      "catalog_page_no": "308",
+      "msrp": 109.99,
+      "ship_length": "6.5000",
+      "ship_width": "6.5000",
+      "ship_height": "7.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 43.95,
+      "case_price": 43.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

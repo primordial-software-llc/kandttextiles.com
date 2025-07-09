@@ -1,0 +1,69 @@
+{
+  "item_index": "4137",
+  "item_name": "Rothco Thin Blue Line U.S. Flag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Elevate your respect and support for first responders, public safety officals, and police with Rothco&rsquo;s Thin Blue Line U.S. Flag. Crafted from durable polyester, this flag features a striking Thin Blue Line design. Double-stitched for durability, the flag withstands outdoor elements with ease, ensuring long-lasting display. Beyond its patriotic significance, purchasing this flag contributes to a noble cause; proceeds benefit the families of fallen first responders, providing essential support during challenging times.</p>",
+  "no_ratings": null,
+  "sort_order": "1410",
+  "description": "<p>Elevate your respect and support for first responders, public safety officals, and police with Rothco&rsquo;s Thin Blue Line U.S. Flag. Crafted from durable polyester, this flag features a striking Thin Blue Line design. Double-stitched for durability, the flag withstands outdoor elements with ease, ensuring long-lasting display. Beyond its patriotic significance, purchasing this flag contributes to a noble cause; proceeds benefit the families of fallen first responders, providing essential support during challenging times. Measuring standard flag dimensions, it's suitable for various display options, whether proudly waving on flag poles or adorning homes, offices, or vehicles. This patriotic flag serves as a powerful symbol of gratitude and support, honoring the dedication and sacrifice of those who serve and protect our communities. Join the movement and proudly showcase your appreciation for law enforcement with Rothco&rsquo;s Thin Blue Line U.S. Flag.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "428"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16373",
+      "item_index": "4137",
+      "rothco_item_no": "14455",
+      "upc": "613902144552",
+      "inventory": "99",
+      "created_date": "2016-05-19 12:10:02",
+      "weight": "0.2500",
+      "image_filename": "14455-A-amazon.jpg",
+      "catalog_page_no": "210",
+      "msrp": 10.99,
+      "ship_length": "10.0000",
+      "ship_width": "8.2500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3' x 5'"
+      },
+      "size": "3' x 5'",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16931",
+      "item_index": "4137",
+      "rothco_item_no": "1516",
+      "upc": "613902015166",
+      "inventory": "99",
+      "created_date": "2017-02-14 15:10:01",
+      "weight": "0.1000",
+      "image_filename": "14455-A-amazon.jpg",
+      "catalog_page_no": "211",
+      "msrp": 8.99,
+      "ship_length": "10.5000",
+      "ship_width": "8.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2' x 3'"
+      },
+      "size": "2' x 3'",
+      "price": 3.25,
+      "case_price": 3.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

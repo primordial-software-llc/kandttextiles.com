@@ -1,0 +1,42 @@
+{
+  "item_index": "1711",
+  "item_name": "Ka-bar Tanto Knife",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": "0",
+  "sort_order": "310",
+  "description": "Used By Army Rangers , Oval Shaped Kraton G Elastomer Handle Expoxy Powder Coated Blades (hrc 56-58) Blades Sharpened To 20 Degrees - 20 Degrees Buff Polished Edges Powdered Metal Butt Caps Carbon Steel Guards Sheath Fits Standard Web Belt Blade Length 8 Inches 2 Inches Serrated Edge Kydex Sheath",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "293"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1913",
+      "item_index": "1711",
+      "rothco_item_no": "3254",
+      "upc": "617717212451",
+      "inventory": "51",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.5000",
+      "image_filename": "3254case-hr1.jpg",
+      "catalog_page_no": "268",
+      "msrp": 177.99,
+      "ship_length": "13.5000",
+      "ship_width": "3.2500",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 88.95,
+      "case_price": 88.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

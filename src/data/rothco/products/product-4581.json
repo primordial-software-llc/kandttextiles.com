@@ -1,0 +1,73 @@
+{
+  "item_index": "4581",
+  "item_name": "Rothco Adjustable Boonie Hat With Neck Cover",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Offering 360-degrees of sun defense, Rothco&rsquo;s Adjustable Boonie Hat with Detachable Neck Cover is fully adaptable to fit most head sizes. This hat provides unbeatable sun protection with its circular brim and detachable neck cover. Snap buttons along the backside of the brim allow for easy attachment and removal of the neck flap. The adjustable elastic cord and lock on the crown enable you to find the perfect fit. This boonie cap features an internal map pocket with a 6.25-inch opening, ideal for storing maps or other paperwork.</p>",
+  "no_ratings": null,
+  "sort_order": "132894",
+  "description": "<p>Offering 360-degrees of sun defense, Rothco&rsquo;s Adjustable Boonie Hat with Detachable Neck Cover is fully adaptable to fit most head sizes. This hat provides unbeatable sun protection with its circular brim and detachable neck cover. Snap buttons along the backside of the brim allow for easy attachment and removal of the neck flap. The adjustable elastic cord and lock on the crown enable you to find the perfect fit. This boonie cap features an internal map pocket with a 6.25-inch opening, ideal for storing maps or other paperwork. 4 screened side vents deliver ideal cooling airflow, while the adjustable chin strap secures the hat in place during your outdoor activities. Made from a lightweight and breathable 55% cotton / 45% polyester blend, this rugged bucket hat is perfect for outdoor enthusiasts. Rothco&rsquo;s boonie hats are designed based on the original boonie that has been a key element of service uniforms for over 5 decades. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from militarypersonnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "375"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19099",
+      "item_index": "4581",
+      "rothco_item_no": "5906",
+      "upc": "613902159068",
+      "inventory": "99",
+      "created_date": "2019-06-06 10:10:00",
+      "weight": "0.2500",
+      "image_filename": "5906-A-amazon.jpg",
+      "catalog_page_no": "152",
+      "msrp": 25.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki",
+        "size": "One Size"
+      },
+      "color": "Khaki",
+      "size": "One Size",
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20287",
+      "item_index": "4581",
+      "rothco_item_no": "5682",
+      "upc": "613902056824",
+      "inventory": "0",
+      "created_date": "2021-01-19 16:00:28",
+      "weight": "0.0000",
+      "image_filename": "5682-I-no-logo.jpg",
+      "catalog_page_no": "152",
+      "msrp": 25.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "11/21/2025",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

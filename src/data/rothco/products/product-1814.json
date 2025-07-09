@@ -1,0 +1,43 @@
+{
+  "item_index": "1814",
+  "item_name": "Rothco Billy Club With Wrist Strap",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Billy Club with Wrist Strap is a durable and lightweight tool, designed for law enforcement and public safety professionals. Weighing just 14 ounces, this Billy Club is crafted from a pliable rubber core wrapped in leather, providing both strength and flexibility. The ergonomic handle ensures a secure grip, while the wrist strap adds an extra layer of control, preventing accidental drops during use. Please note that this item is restricted for export and may not be available in some countries outside the U.S.</p>",
+  "no_ratings": "0",
+  "sort_order": "520",
+  "description": "<p>Rothco&rsquo;s Billy Club with Wrist Strap is a durable and lightweight tool, designed for law enforcement and public safety professionals. Weighing just 14 ounces, this Billy Club is crafted from a pliable rubber core wrapped in leather, providing both strength and flexibility. The ergonomic handle ensures a secure grip, while the wrist strap adds an extra layer of control, preventing accidental drops during use. With a total length of 9 inches, the compact design offers convenient carrying and quick accessibility. Whether you&rsquo;re on duty or need a reliable safety tool, Rothco&rsquo;s Billy Club delivers the ideal balance of durability, function, and ease of use. Please note that this item is restricted for export and may not be available in some countries outside the U.S.</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "235",
+    "232"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "38",
+      "item_index": "1814",
+      "rothco_item_no": "10077",
+      "upc": "613902100770",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8000",
+      "image_filename": "10077-A4.jpg",
+      "catalog_page_no": "227",
+      "msrp": 26.99,
+      "ship_length": "8.5000",
+      "ship_width": "2.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 11.95,
+      "case_price": 11.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

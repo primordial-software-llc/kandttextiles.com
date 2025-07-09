@@ -1,0 +1,45 @@
+{
+  "item_index": "4555",
+  "item_name": "Rothco Cree LED Headlamp",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Cree LED Headlamp is the perfect hands-free flashlight for tactical personnel, cyclists, and avid outdoorsmen.</p>",
+  "no_ratings": null,
+  "sort_order": "132868",
+  "description": "<p>Rothco&rsquo;s Cree LED Headlamp is the perfect hands-free flashlight for tactical personnel, cyclists, and avid outdoorsmen. The headlamp light features a 2-watt Cree center LED bulb, three &frac12;-watt LED bulbs, and three light modes: high for maximum visibility, low, and red light for navigating through the darkness while conserving your night vision. While setting up a tent, fixing a wire, or performing other tasks, the rotating head allows you to adjust the light in the direction of your work. With a lightweight design and a stretchy adjustable headband, Rothco&rsquo;s tactical helmet light fits most adult head sizes and doesn&rsquo;t weigh your head or helmet down. Requires 3 AAA batteries (not included).</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "310",
+    "473",
+    "274"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19011",
+      "item_index": "4555",
+      "rothco_item_no": "2038",
+      "upc": "613902120389",
+      "inventory": "99",
+      "created_date": "2019-05-10 13:10:00",
+      "weight": "0.2500",
+      "image_filename": "2038-A-amazon.jpg",
+      "catalog_page_no": "278",
+      "msrp": 17.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 6.9,
+      "case_price": 6.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

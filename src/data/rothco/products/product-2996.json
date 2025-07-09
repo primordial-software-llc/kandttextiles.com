@@ -1,0 +1,46 @@
+{
+  "item_index": "2996",
+  "item_name": "Rothco Stainless Steel Flask",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s durable stainless steel flask is as attractive as it is functional, holding up to 8 ounces of liquid with a steel collar.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "284",
+  "description": "<p>Rothco&rsquo;s durable stainless steel flask is as attractive as it is functional, holding up to 8 ounces of liquid with a steel collar. The screw-off cap with hinged attachment makes for easy access. Stainless steel flasks never go out of style and make great gifts for anyone, especially for weddings, groomsman gifts, and special events. This blank flask can easily be engraved for customization.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "285",
+    "397"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18639",
+      "item_index": "2996",
+      "rothco_item_no": "1677",
+      "upc": "613902016774",
+      "inventory": "99",
+      "created_date": "2018-08-30 14:10:02",
+      "weight": "0.4500",
+      "image_filename": "1677-A-amazon.jpg",
+      "catalog_page_no": "206",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

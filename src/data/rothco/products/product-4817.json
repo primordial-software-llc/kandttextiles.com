@@ -1,0 +1,126 @@
+{
+  "item_index": "4817",
+  "item_name": "Rothco Security Nylon Rain Jacket - Black",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Security Nylon Rain Jacket is composed of waterproof PVC-coated materials to keep security officials dry while on-duty.</p>",
+  "no_ratings": null,
+  "sort_order": "133130",
+  "description": "<p>Rothco&rsquo;s Security Nylon Rain Jacket is composed of waterproof PVC coated materials to keep security officials dry while on-the-job. The rain jacket features 100% waterproof materials and a full length zipper closure with a storm flap to keep you dry reliably. The tactical jacket also features a rustproof zipper for years of use, as well as a drawstring spring-lock adjustable hood. Adjustable hook and loop closures form a seamless seal between your jacket and gloves, while dual entry jacket pockets are reinforced with rivets for durability.&nbsp;</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "192",
+    "173"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20622",
+      "item_index": "4817",
+      "rothco_item_no": "2560",
+      "upc": "613902001671",
+      "inventory": "20",
+      "created_date": "2021-04-30 17:00:12",
+      "weight": "1.2000",
+      "image_filename": "2560-FRONT-A.jpg",
+      "catalog_page_no": "92",
+      "msrp": 54.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "S"
+      },
+      "color": "Black",
+      "size": "S",
+      "price": 21.95,
+      "case_price": 21.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20625",
+      "item_index": "4817",
+      "rothco_item_no": "2560",
+      "upc": "613902001718",
+      "inventory": "20",
+      "created_date": "2021-04-30 17:00:13",
+      "weight": "1.2000",
+      "image_filename": "2560-FRONT-A.jpg",
+      "catalog_page_no": "92",
+      "msrp": 54.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "XL"
+      },
+      "color": "Black",
+      "size": "XL",
+      "price": 21.95,
+      "case_price": 21.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20626",
+      "item_index": "4817",
+      "rothco_item_no": "2561",
+      "upc": "613902001725",
+      "inventory": "20",
+      "created_date": "2021-04-30 17:00:13",
+      "weight": "1.2000",
+      "image_filename": "2560-FRONT-A.jpg",
+      "catalog_page_no": "92",
+      "msrp": 57.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "2XL"
+      },
+      "color": "Black",
+      "size": "2XL",
+      "price": 22.95,
+      "case_price": 22.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20627",
+      "item_index": "4817",
+      "rothco_item_no": "2561",
+      "upc": "613902001732",
+      "inventory": "20",
+      "created_date": "2021-04-30 17:00:13",
+      "weight": "1.2000",
+      "image_filename": "2560-FRONT-A.jpg",
+      "catalog_page_no": "92",
+      "msrp": 57.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "3XL"
+      },
+      "color": "Black",
+      "size": "3XL",
+      "price": 22.95,
+      "case_price": 22.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

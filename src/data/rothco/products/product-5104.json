@@ -1,0 +1,194 @@
+{
+  "item_index": "5104",
+  "item_name": "Rothco X Bear Archery Fred Bear Camo Ranger Vest",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=-WS0355Q-hw",
+  "rating": "5",
+  "item_short_desc": "<p>In collaboration with Bear Archery, the revered Fred Bear camouflage pattern comes to life through Rothco&rsquo;s legendary outdoor apparel and gear, including our Ranger Vest. Each item in the Fred Bear Camouflage collection has been crafted using the iconic Fred Bear camo pattern.</p>",
+  "no_ratings": null,
+  "sort_order": "133393",
+  "description": "<p>In collaboration with Bear Archery, the revered Fred Bear camouflage pattern comes to life through Rothco&rsquo;s legendary outdoor apparel and gear, including our Ranger Vest. Each item in the Fred Bear Camouflage collection has been crafted using the iconic Fred Bear camo pattern. 10 Tactical Pockets: Keep your bowhunting gear secure and organized with the Fred Bear Camo Ranger Vest. This outdoor vest features 2 front slash pockets, 3 zipper pockets, and 3 hook &amp; loop flap pockets that are ideal for carrying essentials, such as compact binoculars or multitool. The 2 interior pockets are perfect for carrying your paperwork and identification. The Ranger Vest is great for hunters, active-duty personnel, and outdoor enthusiasts. Game-Ready Design: These hunting vests utilize a built-in rear hook &amp; loop game bag for storing your catch and keeping it clean from dirt and debris. The front shell loops offer additional storage space while providing quick and easy access to your outdoor accessories. As Strong as an Ox: Constructed from a robust 60% cotton / 40% polyester blend, this utility vest provides unmatched comfort and breathability, along with long-lasting wear and tear resistance for when you are on the hunt. Utility at the Forefront: The stowaway drawstring hood conveniently stores inside the collar, and is easily accessible when needed to shield you from the wind and rain. In addition, the shoulder epaulettes help secure a bag, pouch, or additional bowhunting essentials.&nbsp;</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": [
+    "Active"
+  ],
+  "categories": [
+    "736",
+    "2",
+    "82",
+    "183"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "23412",
+      "item_index": "5104",
+      "rothco_item_no": "19060",
+      "upc": "613902036154",
+      "inventory": "81",
+      "created_date": "2023-08-14 14:59:36",
+      "weight": "1.2500",
+      "image_filename": "19060-RIGHT-B.jpg",
+      "catalog_page_no": "77",
+      "msrp": 54.99,
+      "ship_length": "24.7500",
+      "ship_width": "17.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Fred Bear Camo",
+        "size": "S"
+      },
+      "color": "Fred Bear Camo",
+      "size": "S",
+      "price": 24.95,
+      "case_price": 24.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "23423",
+      "item_index": "5104",
+      "rothco_item_no": "19060",
+      "upc": "613902036185",
+      "inventory": "99",
+      "created_date": "2023-08-16 15:00:16",
+      "weight": "1.2500",
+      "image_filename": "19060-RIGHT-B.jpg",
+      "catalog_page_no": "77",
+      "msrp": 54.99,
+      "ship_length": "24.7500",
+      "ship_width": "17.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Fred Bear Camo",
+        "size": "XL"
+      },
+      "color": "Fred Bear Camo",
+      "size": "XL",
+      "price": 24.95,
+      "case_price": 24.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "23424",
+      "item_index": "5104",
+      "rothco_item_no": "19061",
+      "upc": "613902036192",
+      "inventory": "99",
+      "created_date": "2023-08-16 15:00:16",
+      "weight": "1.3500",
+      "image_filename": "19060-RIGHT-B.jpg",
+      "catalog_page_no": "77",
+      "msrp": 57.99,
+      "ship_length": "32.7500",
+      "ship_width": "17.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Fred Bear Camo",
+        "size": "2XL"
+      },
+      "color": "Fred Bear Camo",
+      "size": "2XL",
+      "price": 25.95,
+      "case_price": 25.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "23425",
+      "item_index": "5104",
+      "rothco_item_no": "19062",
+      "upc": "613902036208",
+      "inventory": "99",
+      "created_date": "2023-08-16 15:00:16",
+      "weight": "1.4000",
+      "image_filename": "19060-RIGHT-B.jpg",
+      "catalog_page_no": "77",
+      "msrp": 59.99,
+      "ship_length": "29.0000",
+      "ship_width": "17.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Fred Bear Camo",
+        "size": "3XL"
+      },
+      "color": "Fred Bear Camo",
+      "size": "3XL",
+      "price": 26.95,
+      "case_price": 26.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "23429",
+      "item_index": "5104",
+      "rothco_item_no": "19060",
+      "upc": "613902036161",
+      "inventory": "99",
+      "created_date": "2023-08-16 15:00:16",
+      "weight": "1.2500",
+      "image_filename": "19060-RIGHT-B.jpg",
+      "catalog_page_no": "77",
+      "msrp": 54.99,
+      "ship_length": "24.7500",
+      "ship_width": "17.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Fred Bear Camo",
+        "size": "M"
+      },
+      "color": "Fred Bear Camo",
+      "size": "M",
+      "price": 24.95,
+      "case_price": 24.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "23430",
+      "item_index": "5104",
+      "rothco_item_no": "19060",
+      "upc": "613902036178",
+      "inventory": "99",
+      "created_date": "2023-08-16 15:00:16",
+      "weight": "1.2500",
+      "image_filename": "19060-RIGHT-B.jpg",
+      "catalog_page_no": "77",
+      "msrp": 54.99,
+      "ship_length": "24.7500",
+      "ship_width": "17.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Fred Bear Camo",
+        "size": "L"
+      },
+      "color": "Fred Bear Camo",
+      "size": "L",
+      "price": 24.95,
+      "case_price": 24.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    }
+  ]
+}

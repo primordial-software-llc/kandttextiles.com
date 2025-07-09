@@ -1,0 +1,69 @@
+{
+  "item_index": "4925",
+  "item_name": "Rothco Canvas Cleaning Mat - Coyote Brown",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Canvas Cleaning Mat makes it easy to protect your work surface from spills and scratches.</p>",
+  "no_ratings": null,
+  "sort_order": "133238",
+  "description": "<p>Rothco&rsquo;s Canvas Cleaning Mat makes it easy to protect your work surface from spills and scratches.</p>",
+  "selection_groups": [
+    "accessories"
+  ],
+  "statuses": "",
+  "categories": [
+    "496"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "21546",
+      "item_index": "4925",
+      "rothco_item_no": "10176",
+      "upc": "613902012851",
+      "inventory": "99",
+      "created_date": "2022-02-24 16:00:11",
+      "weight": "1.2000",
+      "image_filename": "10176-E2.jpg",
+      "catalog_page_no": "260",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "accessories": "Without Pouches"
+      },
+      "accessories": "Without Pouches",
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21547",
+      "item_index": "4925",
+      "rothco_item_no": "10177",
+      "upc": "613902012875",
+      "inventory": "58",
+      "created_date": "2022-02-24 16:00:11",
+      "weight": "2.1000",
+      "image_filename": "10177-I.jpg",
+      "catalog_page_no": "260",
+      "msrp": 41.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "accessories": "With Pouches"
+      },
+      "accessories": "With Pouches",
+      "price": 18.55,
+      "case_price": 18.55,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

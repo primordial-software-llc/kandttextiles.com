@@ -1,0 +1,43 @@
+{
+  "item_index": "1801",
+  "item_name": "Rothco Expandable Steel Baton With Sheath",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Expandable Steel Baton With Sheath telescopes to three different sizes to meet the needs of any police officer or law enforcement professional.</p>",
+  "no_ratings": "0",
+  "sort_order": "236",
+  "description": "<p>Rothco&rsquo;s Expandable Steel Baton With Sheath telescopes to three different sizes to meet the needs of any police officer or law enforcement professional.</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "235",
+    "232"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20",
+      "item_index": "1801",
+      "rothco_item_no": "10032",
+      "upc": "613902100329",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.1500",
+      "image_filename": "10032-A.jpg",
+      "catalog_page_no": "226",
+      "msrp": 30.99,
+      "ship_length": "8.5000",
+      "ship_width": "1.7500",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 13.75,
+      "case_price": 13.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "item_index": "4815",
+  "item_name": "Smith & Wesson Extreme Ops Liner Lock Folding Knife",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Smith &amp; Wesson&reg; Extreme Ops Liner Lock Folding Knife is made with a black high carbon stainless steel partially serrated clip point blade.</p>",
+  "no_ratings": null,
+  "sort_order": "133128",
+  "description": "<p>The Smith &amp; Wesson&reg; Extreme Ops Liner Lock Folding Knife is made with a black high carbon stainless steel partially serrated clip point blade. This knife has ambidextrous thumb knobs, jimping, and an index flipper. The black aluminum handle comes with jimping and a pocket clip.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "295",
+    "513"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20550",
+      "item_index": "4815",
+      "rothco_item_no": "3086",
+      "upc": "028634705436",
+      "inventory": "99",
+      "created_date": "2021-04-13 18:00:12",
+      "weight": "0.4400",
+      "image_filename": "3086-A-no-logo1.jpg",
+      "catalog_page_no": "270",
+      "msrp": 29.99,
+      "ship_length": "2.0000",
+      "ship_width": "3.0000",
+      "ship_height": "13.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 11.75,
+      "case_price": 11.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "item_index": "754",
+  "item_name": "Rothco Vintage Deluxe Army Low Profile Insignia Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show your support for those who defend America&rsquo;s freedom with Rothco&rsquo;s Vintage Deluxe Army Low Profile Insignia Cap. The front 2 panels of this baseball cap are highlighted with large embroidered \"ARMY\" lettering, making a bold statement. The brim is accented with an embroidered eagle design and the text \"Army Defending Americas Freedom,\" adding a unique and patriotic touch. Constructed from durable and strong washed cotton twill, this rugged cap is designed to withstand wear and tear while providing a comfortable fit.</p>",
+  "no_ratings": "0",
+  "sort_order": "2014",
+  "description": "<p>Show your support for those who defend America&rsquo;s freedom with Rothco&rsquo;s Vintage Deluxe Army Low Profile Insignia Cap. The front 2 panels of this baseball cap are highlighted with large embroidered \"ARMY\" lettering, making a bold statement. The brim is accented with an embroidered eagle design and the text \"Army Defending Americas Freedom,\" adding a unique and patriotic touch. Constructed from durable and strong washed cotton twill, this rugged cap is designed to withstand wear and tear while providing a comfortable fit. The hook &amp; loop closure allows for easy adjustment, ensuring a perfect fit for most head sizes. Whether you're wearing it for support, fashion, or both, this outdoor cap is a versatile addition to your wardrobe.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "68",
+    "374",
+    "674"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "11306",
+      "item_index": "754",
+      "rothco_item_no": "9788",
+      "upc": "613902978805",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "9788-hr1_LI.jpg",
+      "catalog_page_no": "143",
+      "msrp": 20.99,
+      "ship_length": "8.7500",
+      "ship_width": "8.7500",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki"
+      },
+      "color": "Khaki",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "11453",
+      "item_index": "754",
+      "rothco_item_no": "9888",
+      "upc": "613902988804",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "9888-A-amazon.jpg",
+      "catalog_page_no": "143",
+      "msrp": 20.99,
+      "ship_length": "8.7500",
+      "ship_width": "8.7500",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

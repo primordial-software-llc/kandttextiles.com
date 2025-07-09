@@ -1,0 +1,128 @@
+{
+  "item_index": "5172",
+  "item_name": "Rothco Midnight Camo Canvas Shoulder Duffle Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Embark on any adventure with our Midnight Camo Canvas Shoulder Duffle Bag, a powerhouse of functionality and style. The military duffle bag features a large main compartment and an exterior zipper pocket, providing ample storage space for travel accessories, clothing, outdoor gear, and everyday carry essentials. The main compartment comes equipped with a two-way zipper closure for quick, full access to your EDC gear. With Rothco's Midnight Camo Canvas Shoulder Duffle Bag you can be sure you have what you need, when you need it.</p>",
+  "no_ratings": null,
+  "sort_order": "133413",
+  "description": "<p>Embark on any adventure with our Midnight Camo Canvas Shoulder Duffle Bag, a powerhouse of functionality and style. The military duffle bag features a large main compartment and an exterior zipper pocket, providing ample storage space for travel accessories, clothing, outdoor gear, and everyday carry essentials. The main compartment comes equipped with a two-way zipper closure for quick, full access to your EDC gear. With Rothco's Midnight Camo Canvas Shoulder Duffle Bag you can be sure you have what you need, when you need it. Ultimate Stealth Ops Camo: Inspired by stealth operations that require zero visibility to the opposition, Rothco has reinvented the classic Woodland Camouflage Pattern as well as our bestselling Black Camouflage Pattern to bring you the Midnight Camo Collection. The subdued color combinations offer a true stealth, sharp and sleek appearance whether on mission or off. Carry Options: The canvas duffle bag features a removable and adjustable shoulder strap and dual web carry handles for a comfortable carry. The grab handle at the end provides quick and easy handling for when you are on the go. Multiple Sizes Available: These gym duffle bags come in 2 sizes: 19 inch x 9 inch (20 Liter Capacity) and 24 inch x 12 inch (44 Liter Capacity). Action &amp; Adventure Ready: Whether you&rsquo;re out traveling, camping in the woods, or working out in the gym, the canvas shoulder bag ensures your possessions are safe and secure. The sports duffle bag is great for campers, travelers, gym-goers, commuters, everyday use, and more. Top Grade Canvas: Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul, allowing the travel shoulder bag to withstand outdoor adventures or frequent trips. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color",
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "737",
+    "3",
+    "215"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "30177",
+      "item_index": "5172",
+      "rothco_item_no": "22214",
+      "upc": "613902049086",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "1.3500",
+      "image_filename": "22214-A.jpg",
+      "catalog_page_no": "332",
+      "msrp": 24.99,
+      "ship_length": "17.0000",
+      "ship_width": "9.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Midnight Black Camo",
+        "size": "19 Inches"
+      },
+      "color": "Midnight Black Camo",
+      "size": "19 Inches",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30178",
+      "item_index": "5172",
+      "rothco_item_no": "22215",
+      "upc": "613902049093",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "1.3500",
+      "image_filename": "22215-A.jpg",
+      "catalog_page_no": "332",
+      "msrp": 24.99,
+      "ship_length": "17.0000",
+      "ship_width": "9.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Midnight Woodland Camo",
+        "size": "19 Inches"
+      },
+      "color": "Midnight Woodland Camo",
+      "size": "19 Inches",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30182",
+      "item_index": "5172",
+      "rothco_item_no": "22245",
+      "upc": "613902049147",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "1.7000",
+      "image_filename": "22214-A.jpg",
+      "catalog_page_no": "332",
+      "msrp": 30.99,
+      "ship_length": "20.0000",
+      "ship_width": "12.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Midnight Black Camo",
+        "size": "24 Inches"
+      },
+      "color": "Midnight Black Camo",
+      "size": "24 Inches",
+      "price": 13.95,
+      "case_price": 13.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30183",
+      "item_index": "5172",
+      "rothco_item_no": "22246",
+      "upc": "613902049154",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "1.7000",
+      "image_filename": "22215-A.jpg",
+      "catalog_page_no": "332",
+      "msrp": 30.99,
+      "ship_length": "20.0000",
+      "ship_width": "12.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Midnight Woodland Camo",
+        "size": "24 Inches"
+      },
+      "color": "Midnight Woodland Camo",
+      "size": "24 Inches",
+      "price": 13.95,
+      "case_price": 13.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "item_index": "2995",
+  "item_name": "Rothco Engraved USMC Stainless Steel Flask",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Stainless Steel USMC Flask features the iconic USMC eagle, globe, and anchor symbol.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "589",
+  "description": "<p>Rothco's Stainless Steel USMC Flask features the iconic USMC eagle, globe, and anchor symbol.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "285",
+    "397",
+    "547"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "6420",
+      "item_index": "2995",
+      "rothco_item_no": "631",
+      "upc": "613902631007",
+      "inventory": "83",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "631-A.jpg",
+      "catalog_page_no": "206",
+      "msrp": 19.99,
+      "ship_length": "6.5000",
+      "ship_width": "4.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "emblem": "Marines"
+      },
+      "emblem": "Marines",
+      "price": 7.95,
+      "case_price": 7.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

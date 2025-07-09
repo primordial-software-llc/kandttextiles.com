@@ -1,0 +1,70 @@
+{
+  "item_index": "4883",
+  "item_name": "Rothco Drop Leg Double Mag Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Drop Leg Double Mag Pouch allows for quick and efficient access to additional rifle ammo.</p>",
+  "no_ratings": null,
+  "sort_order": "133196",
+  "description": "<p>Rothco's Drop Leg Double Mag Pouch allows for quick and efficient access to additional rifle ammo. The adjustable military ammo leg pouch has a hook and loop flap cover that holds a total of 4 rifle mags in place and can be easily be unfastened by clasp.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "247",
+    "232"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20978",
+      "item_index": "4883",
+      "rothco_item_no": "10790",
+      "upc": "613902006454",
+      "inventory": "99",
+      "created_date": "2021-10-21 11:00:10",
+      "weight": "1.0000",
+      "image_filename": "10790-A.jpg",
+      "catalog_page_no": "244",
+      "msrp": 37.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 16.9,
+      "case_price": 16.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20979",
+      "item_index": "4883",
+      "rothco_item_no": "10791",
+      "upc": "613902006461",
+      "inventory": "99",
+      "created_date": "2021-10-21 11:00:10",
+      "weight": "1.0000",
+      "image_filename": "10791-A.jpg",
+      "catalog_page_no": "244",
+      "msrp": 37.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 16.9,
+      "case_price": 16.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

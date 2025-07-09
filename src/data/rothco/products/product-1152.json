@@ -1,0 +1,70 @@
+{
+  "item_index": "1152",
+  "item_name": "Rothco Waterproof Match Box",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Plastic Waterproof Match Box is designed to keep your matches secure and protected from the elements, making it an essential item for outdoor enthusiasts and emergency preparedness. The water-tight screw top ensures that your matches stay dry, even in wet conditions. The match box also features a convenient striking strip at the bottom for easy lighting. Compact and durable, this waterproof match box is perfect for camping trips, hiking adventures, or building the perfect bug out bag.</p>",
+  "no_ratings": "0",
+  "sort_order": "1796",
+  "description": "<p>Rothco's Plastic Waterproof Match Box is designed to keep your matches secure and protected from the elements, making it an essential item for outdoor enthusiasts and emergency preparedness. The water-tight screw top ensures that your matches stay dry, even in wet conditions. The match box also features a convenient striking strip at the bottom for easy lighting. Compact and durable, this waterproof match box is perfect for camping trips, hiking adventures, or building the perfect bug out bag. With Rothco's Waterproof Match Box, you can have peace of mind knowing that your matches are safe and ready for use whenever you need them.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "261",
+    "264"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "7357",
+      "item_index": "1152",
+      "rothco_item_no": "670",
+      "upc": "613902586703",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "670-A-no-logo.jpg",
+      "catalog_page_no": "294",
+      "msrp": 3.99,
+      "ship_length": "5.5000",
+      "ship_width": "3.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20429",
+      "item_index": "1152",
+      "rothco_item_no": "11670",
+      "upc": "613902000339",
+      "inventory": "99",
+      "created_date": "2021-03-25 17:00:22",
+      "weight": "0.0500",
+      "image_filename": "11670-C-no-logo.jpg",
+      "catalog_page_no": "294",
+      "msrp": 3.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

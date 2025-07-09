@@ -1,0 +1,41 @@
+{
+  "item_index": "1147",
+  "item_name": "Rothco Portable Commando Cooker",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Commando Cooker is a small portable stove that is ideal for camping, backpacking, and emergency survival kits. The portable camping stove is constructed of a durable steel and conveniently folds to 5 Inches X 5 Inches X 1 Inches for easy storage and travel.</p>",
+  "no_ratings": "0",
+  "sort_order": "944",
+  "description": "<p>Rothco's Commando Cooker is a small portable stove that is ideal for camping, backpacking, and emergency survival kits. The portable camping stove is constructed of a durable steel and conveniently folds to 5 Inches X 5 Inches X 1 Inches for easy storage and travel. Rothco carries a vast line of camping and survival gear including firestarters, compasses and more.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "256",
+    "542"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "6591",
+      "item_index": "1147",
+      "rothco_item_no": "640",
+      "upc": "613902640009",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "640-D.jpg",
+      "catalog_page_no": "293",
+      "msrp": 7.99,
+      "ship_length": "5.0000",
+      "ship_width": "4.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 3.75,
+      "case_price": 3.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

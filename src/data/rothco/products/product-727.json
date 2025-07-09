@@ -1,0 +1,117 @@
+{
+  "item_index": "727",
+  "item_name": "Rothco 5 Panel Rip-Stop Street Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s 5 Panel Rip-Stop Street Cap offers a stylish and practical accessory for everyday wear. Made with 100% cotton rip-stop fabric, this cap provides enhanced durability and resistance to tearing, ensuring long-lasting performance. Its 5-panel construction gives the cap a structured, classic appearance, while dual side vents provide essential airflow to keep you cool during outdoor activities. The cap also features a plastic buckle closure that allows for easy adjustments, ensuring a secure and comfortable fit.</p>",
+  "no_ratings": "0",
+  "sort_order": "2738",
+  "description": "<p class=\"MsoNormal\">Rothco&rsquo;s 5 Panel Rip-Stop Street Cap offers a stylish and practical accessory for everyday wear. Made with 100% cotton rip-stop fabric, this cap provides enhanced durability and resistance to tearing, ensuring long-lasting performance. Its 5-panel construction gives the cap a structured, classic appearance, while dual side vents provide essential airflow to keep you cool during outdoor activities. The cap also features a plastic buckle closure that allows for easy adjustments, ensuring a secure and comfortable fit. This 1-size-fits-all street cap is the perfect blend of durability and style, whether you&rsquo;re out on a hike or simply going about your day. With its versatile design, Rothco&rsquo;s Rip-Stop Street Cap is an ideal addition to your wardrobe. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "522"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "11080",
+      "item_index": "727",
+      "rothco_item_no": "9544",
+      "upc": "613902954403",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "9544-A1.jpg",
+      "catalog_page_no": "136",
+      "msrp": 11.99,
+      "ship_length": "8.0000",
+      "ship_width": "8.5000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "11081",
+      "item_index": "727",
+      "rothco_item_no": "9545",
+      "upc": "613902954502",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "9545-A.jpg",
+      "catalog_page_no": "136",
+      "msrp": 11.99,
+      "ship_length": "8.0000",
+      "ship_width": "8.5000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Brown"
+      },
+      "color": "Brown",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "11089",
+      "item_index": "727",
+      "rothco_item_no": "9554",
+      "upc": "613902955400",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "9554-A1.jpg",
+      "catalog_page_no": "136",
+      "msrp": 11.99,
+      "ship_length": "8.0000",
+      "ship_width": "8.5000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki"
+      },
+      "color": "Khaki",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "11091",
+      "item_index": "727",
+      "rothco_item_no": "9559",
+      "upc": "613902955905",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "9559-A.jpg",
+      "catalog_page_no": "136",
+      "msrp": 11.99,
+      "ship_length": "8.0000",
+      "ship_width": "8.5000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

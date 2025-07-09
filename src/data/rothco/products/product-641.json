@@ -1,0 +1,40 @@
+{
+  "item_index": "641",
+  "item_name": "Rothco Fleece Low Profile Cap With Earflaps",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": "0",
+  "sort_order": "1350",
+  "description": "<p>Cap With Pull Down Ear Flaps Lightweight And Breathable Elastic Band And Strap With Sliding Lock Buckle For A Perfect Fit One Size Fits All</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "368"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9893",
+      "item_index": "641",
+      "rothco_item_no": "8560",
+      "upc": "613902856004",
+      "inventory": "41",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "8560-hr21.jpg",
+      "catalog_page_no": "156",
+      "msrp": 13.99,
+      "ship_length": "9.0000",
+      "ship_width": "8.5000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 5.35,
+      "case_price": 5.35,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "item_index": "1366",
+  "item_name": "Rothco POW/MIA Flags",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco POW/MIA Flags measures 2' x 3' and is made from a durable polyester material that makes it ideal for the outdoors.</p>",
+  "no_ratings": "0",
+  "sort_order": "729",
+  "description": "<p>Rothco POW/MIA Flags measures 2' x 3' and is made from a durable polyester material that makes it ideal for the outdoors.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "428"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "653",
+      "item_index": "1366",
+      "rothco_item_no": "1438",
+      "upc": "613902143807",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1200",
+      "image_filename": "1438-HR1.jpg",
+      "catalog_page_no": "211",
+      "msrp": 5.99,
+      "ship_length": "10.5000",
+      "ship_width": "8.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 2.75,
+      "case_price": 2.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "item_index": "2452",
+  "item_name": "Rothco Advanced Tactical Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=xUZOKgWOKfc",
+  "rating": "5",
+  "item_short_desc": "<p>Discover the versatility of Rothco's Advanced Tactical Bag, crafted from durable denier polyester. Ideal for everyday carry (EDC), this MOLLE compatible bag features multiple pouches for maximum storage, ensuring you're ready for any adventure.</p>",
+  "no_ratings": "0",
+  "sort_order": "7962",
+  "description": "<p>Discover the versatility of Rothco's Advanced Tactical Bag, crafted from durable denier polyester. Ideal for everyday carry (EDC), this MOLLE compatible bag features multiple pouches for maximum storage, ensuring you're ready for any adventure.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "143",
+    "144",
+    "140",
+    "598",
+    "201",
+    "206",
+    "650",
+    "223",
+    "553",
+    "333"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1283",
+      "item_index": "2452",
+      "rothco_item_no": "2428",
+      "upc": "613902024281",
+      "inventory": "99",
+      "created_date": "2012-12-18 21:00:00",
+      "weight": "1.8000",
+      "image_filename": "2428-A1.jpg",
+      "catalog_page_no": "322",
+      "msrp": 64.99,
+      "ship_length": "15.0000",
+      "ship_width": "13.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 29.5,
+      "case_price": 29.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1294",
+      "item_index": "2452",
+      "rothco_item_no": "2438",
+      "upc": "613902243804",
+      "inventory": "99",
+      "created_date": "2011-10-26 21:00:00",
+      "weight": "1.8000",
+      "image_filename": "2438-A1.jpg",
+      "catalog_page_no": "322",
+      "msrp": 64.99,
+      "ship_length": "15.0000",
+      "ship_width": "13.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 29.5,
+      "case_price": 29.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1487",
+      "item_index": "2452",
+      "rothco_item_no": "2638",
+      "upc": "613902263802",
+      "inventory": "99",
+      "created_date": "2011-10-26 21:00:00",
+      "weight": "1.8000",
+      "image_filename": "2638-A1.jpg",
+      "catalog_page_no": "322",
+      "msrp": 64.99,
+      "ship_length": "15.0000",
+      "ship_width": "13.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 29.5,
+      "case_price": 29.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12792",
+      "item_index": "2452",
+      "rothco_item_no": "2538",
+      "upc": "613902253803",
+      "inventory": "46",
+      "created_date": "2013-08-22 12:05:59",
+      "weight": "2.0000",
+      "image_filename": "2538-B1.jpg",
+      "catalog_page_no": "322",
+      "msrp": 109.99,
+      "ship_length": "15.0000",
+      "ship_width": "13.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 49.95,
+      "case_price": 49.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14702",
+      "item_index": "2452",
+      "rothco_item_no": "2738",
+      "upc": "613902027381",
+      "inventory": "40",
+      "created_date": "2014-07-30 15:10:01",
+      "weight": "1.8000",
+      "image_filename": "2738-B.jpg",
+      "catalog_page_no": "322",
+      "msrp": 64.99,
+      "ship_length": "15.0000",
+      "ship_width": "13.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 29.5,
+      "case_price": 29.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

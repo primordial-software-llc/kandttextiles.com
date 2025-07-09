@@ -1,0 +1,41 @@
+{
+  "item_index": "1359",
+  "item_name": "SURVIVAL MANUAL",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Survival Manual is the must-have tool for any trip into the great outdoors.</p>",
+  "no_ratings": "0",
+  "sort_order": "2370",
+  "description": "<p>Rothco&rsquo;s Survival Manual is the must-have tool for any trip into the great outdoors. The 288-page military survival guide includes navigation, locating food and water, how to start a fire, and other key survival skills every soldier, hiker, and hunter should know. Measuring 5 1/2\" X 8 1/2\", the FM 21-76 Army survival field manual is perfectly sized to fit in your ruck sack or Bug Out Bag. The FM 21-76 Army Survival Field Manual is documented and used by the U.S. Military.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "542",
+    "400"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "643",
+      "item_index": "1359",
+      "rothco_item_no": "1402",
+      "upc": "613902140202",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5800",
+      "image_filename": "1402-A2.jpg",
+      "catalog_page_no": "284",
+      "msrp": 9.99,
+      "ship_length": "8.5000",
+      "ship_width": "5.2500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 4.75,
+      "case_price": 4.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "item_index": "1244",
+  "item_name": "Rothco MOLLE II Canteen & Utility Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Secure your essentials with Rothco&rsquo;s MOLLE II Canteen &amp; Utility Pouch. This versatile pouch is designed to accommodate a 1-quart canteen and other small accessories, ensuring you have everything you need within easy reach during outdoor activities, hikes, or tactical missions. Crafted with durability in mind, the pouch features rugged construction and reliable hardware to withstand demanding conditions. The canteen nozzle fits perfectly between the webbing of the Y-strap, securing your canteen while on the move.</p>",
+  "no_ratings": "0",
+  "sort_order": "1258",
+  "description": "<p>Secure your essentials with Rothco&rsquo;s MOLLE II Canteen &amp; Utility Pouch. This versatile pouch is designed to accommodate a 1-quart canteen and other small accessories, ensuring you have everything you need within easy reach during outdoor activities, hikes, or tactical missions. Crafted with durability in mind, the pouch features rugged construction and reliable hardware to withstand demanding conditions. The canteen nozzle fits perfectly between the webbing of the Y-strap, securing your canteen while on the move. Additionally, the quick-release buckle provides convenient access to your hydration source whenever needed. Equipped with dual MOLLE straps, this pouch offers flexible attachment options. You can easily secure it to your MOLLE backpack, vest, or other compatible gear for seamless integration into your loadout. The adjustable drawstring closure fastens the canteen securely in place, while the grommet drain hole at the bottom ensures proper drainage. In addition to the main canteen compartment, the pouch features two hook &amp; loop utility pockets. These pockets are ideal for storing water purification tablets, matches, fishing line, or any other small essentials you may need during your outdoor adventures. Available in black, coyote, olive drab, and MultiCam, this pouch is constructed from high-quality denier polyester or rugged denier Cordura nylon material, depending on the color option chosen. Whether you're hiking, camping, or engaged in tactical operations, Rothco&rsquo;s MOLLE II Canteen &amp; Utility Pouch provides reliable storage and easy access to your essentials.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "140",
+    "504",
+    "280",
+    "284",
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12687",
+      "item_index": "1244",
+      "rothco_item_no": "40014",
+      "upc": "613902400146",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3500",
+      "image_filename": "40014-A-amazon.jpg",
+      "catalog_page_no": "286",
+      "msrp": 19.99,
+      "ship_length": "10.0000",
+      "ship_width": "8.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 7.95,
+      "case_price": 7.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19241",
+      "item_index": "1244",
+      "rothco_item_no": "40024",
+      "upc": "613902400245",
+      "inventory": "99",
+      "created_date": "2019-10-31 15:00:06",
+      "weight": "0.3500",
+      "image_filename": "40024-A-amazon.jpg",
+      "catalog_page_no": "286",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 11.95,
+      "case_price": 11.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19950",
+      "item_index": "1244",
+      "rothco_item_no": "3144",
+      "upc": "613902031449",
+      "inventory": "99",
+      "created_date": "2020-10-19 16:00:11",
+      "weight": "0.3500",
+      "image_filename": "3144-A-NOLOGO1.jpg",
+      "catalog_page_no": "286",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 7.95,
+      "case_price": 7.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19951",
+      "item_index": "1244",
+      "rothco_item_no": "3145",
+      "upc": "613902031456",
+      "inventory": "99",
+      "created_date": "2020-10-19 16:00:11",
+      "weight": "0.0000",
+      "image_filename": "3145-A-NOLOGO.jpg",
+      "catalog_page_no": "286",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 7.95,
+      "case_price": 7.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

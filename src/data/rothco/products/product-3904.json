@@ -1,0 +1,40 @@
+{
+  "item_index": "3904",
+  "item_name": "StreetWise Metal Detector",
+  "has_restrictions": "1",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": null,
+  "sort_order": "59",
+  "description": "<p>The Streetwise Hand held metal detector wand for security and law enforcement can detect metal objects up to 6 inches away from wand. Features an adjustable sensitivity, with audio tone or vibration modes and LED lights for use in high volume locations.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "236"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15322",
+      "item_index": "3904",
+      "rothco_item_no": "20051",
+      "upc": "793831030109",
+      "inventory": "90",
+      "created_date": "2015-04-17 17:10:01",
+      "weight": "1.0000",
+      "image_filename": "20051-A1.jpg",
+      "catalog_page_no": "227",
+      "msrp": 95.99,
+      "ship_length": "16.2500",
+      "ship_width": "3.7500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 38.3,
+      "case_price": 38.3,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

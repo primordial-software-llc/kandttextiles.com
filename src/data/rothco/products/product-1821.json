@@ -1,0 +1,42 @@
+{
+  "item_index": "1821",
+  "item_name": "Rothco Universal Double Lock Handcuff Key",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Universal Double Lock Handcuff Key fits all standard double lock handcuffs. The handcuffs are ideal for law enforcement's and public safety personal.</p>",
+  "no_ratings": "0",
+  "sort_order": "1489",
+  "description": "<p>Rothco's Universal Double Lock Handcuff Key fits all standard double lock handcuffs. The handcuffs are ideal for law enforcement's and public safety personal.</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "234"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "47",
+      "item_index": "1821",
+      "rothco_item_no": "10090",
+      "upc": "613902100909",
+      "inventory": "99",
+      "created_date": "2002-04-21 21:00:00",
+      "weight": "0.0500",
+      "image_filename": "10090-A.jpg",
+      "catalog_page_no": "225",
+      "msrp": 6.99,
+      "ship_length": "4.2500",
+      "ship_width": "0.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 2.75,
+      "case_price": 2.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

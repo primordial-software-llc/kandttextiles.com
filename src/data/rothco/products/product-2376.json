@@ -1,0 +1,144 @@
+{
+  "item_index": "2376",
+  "item_name": "Rothco Kid's M-65 Field Jacket",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco Kid's M-65 Field Jacket is the ideal outerwear for your child's outdoor adventures. Crafted from a durable 55% cotton / 45% polyester twill outer shell, this field jacket is designed to withstand the elements and provide long-lasting wear. The water-repellent finish ensures your child stays dry in wet conditions, while the built-in quilted liner made of 100% polyester adds an extra layer of warmth and comfort. The outdoor jacket features a hook &amp; loop neck closure and a concealed hood with a brass zipper closure for added protection.</p>",
+  "no_ratings": "0",
+  "sort_order": "1417",
+  "description": "<p>Rothco Kid's M-65 Field Jacket is the ideal outerwear for your child's outdoor adventures. Crafted from a durable 55% cotton / 45% polyester twill outer shell, this field jacket is designed to withstand the elements and provide long-lasting wear. The water-repellent finish ensures your child stays dry in wet conditions, while the built-in quilted liner made of 100% polyester adds an extra layer of warmth and comfort. The outdoor jacket features a hook &amp; loop neck closure and a concealed hood with a brass zipper closure for added protection against wind and rain. The hood matches the color of the outer shell and is detachable for versatile wear. With button-down epaulettes, large chest pockets with snap closures, and large waist cargo pockets with snap seals, this all-weather jacket offers ample storage space for all your child's essentials. Hook &amp; loop wrist cuffs allow for attachment to gloves, ensuring a secure fit. The right-hand zipper pull and bottom drawstring provide additional functionality and comfort, while snap-up storm flaps offer extra protection from the elements. Rothco Kid's M-65 Field Jacket is a classic and practical choice for any young adventurer.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "82",
+    "123",
+    "137",
+    "170"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8581",
+      "item_index": "2376",
+      "rothco_item_no": "7660",
+      "upc": "613902766013",
+      "inventory": "89",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.2000",
+      "image_filename": "7660-A.jpg",
+      "catalog_page_no": "130",
+      "msrp": 70.99,
+      "ship_length": "22.0000",
+      "ship_width": "17.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 31.95,
+      "case_price": 31.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8582",
+      "item_index": "2376",
+      "rothco_item_no": "7660",
+      "upc": "613902766020",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.2000",
+      "image_filename": "7660-A.jpg",
+      "catalog_page_no": "130",
+      "msrp": 70.99,
+      "ship_length": "22.0000",
+      "ship_width": "17.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 31.95,
+      "case_price": 31.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8583",
+      "item_index": "2376",
+      "rothco_item_no": "7660",
+      "upc": "613902766037",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.2000",
+      "image_filename": "7660-A.jpg",
+      "catalog_page_no": "130",
+      "msrp": 70.99,
+      "ship_length": "22.0000",
+      "ship_width": "17.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 31.95,
+      "case_price": 31.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8584",
+      "item_index": "2376",
+      "rothco_item_no": "7660",
+      "upc": "613902766044",
+      "inventory": "73",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.2000",
+      "image_filename": "7660-A.jpg",
+      "catalog_page_no": "130",
+      "msrp": 70.99,
+      "ship_length": "22.0000",
+      "ship_width": "17.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 31.95,
+      "case_price": 31.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8585",
+      "item_index": "2376",
+      "rothco_item_no": "7660",
+      "upc": "613902766006",
+      "inventory": "69",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.2000",
+      "image_filename": "7660-A.jpg",
+      "catalog_page_no": "130",
+      "msrp": 70.99,
+      "ship_length": "22.0000",
+      "ship_width": "17.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XS"
+      },
+      "size": "XS",
+      "price": 31.95,
+      "case_price": 31.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

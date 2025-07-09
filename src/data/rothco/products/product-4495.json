@@ -1,0 +1,123 @@
+{
+  "item_index": "4495",
+  "item_name": "California Prop 65 Chemical Warning Labels",
+  "has_restrictions": "1",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>If you do ship or sell any products from our California Prop 65 List to California, you will need to affix a label to the product before you ship it. You can order these labels free of charge in reasonable quantities.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "132808",
+  "description": "<p>If you do ship or sell any products from our California Prop 65 List to California, you will need to affix a label to the product before you ship it. You can order these labels free of charge in reasonable quantities.&nbsp;</p>",
+  "selection_groups": [
+    "prop_65_chemical_name"
+  ],
+  "statuses": "",
+  "categories": [
+    "430"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18594",
+      "item_index": "4495",
+      "rothco_item_no": "LEAD",
+      "upc": "613902000117",
+      "inventory": "99",
+      "created_date": "2018-08-14 15:10:02",
+      "weight": "0.0010",
+      "image_filename": "BBP-A-amazon.jpg",
+      "catalog_page_no": "334",
+      "msrp": "0.00",
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "prop_65_chemical_name": "Lead"
+      },
+      "size": "S",
+      "prop_65_chemical_name": "Lead",
+      "price": 0,
+      "case_price": null,
+      "case_quantity": null,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18596",
+      "item_index": "4495",
+      "rothco_item_no": "DBP",
+      "upc": "613902000148",
+      "inventory": "99",
+      "created_date": "2018-08-14 16:10:02",
+      "weight": "0.0010",
+      "image_filename": "DBP-A.jpg",
+      "catalog_page_no": "334",
+      "msrp": "0.00",
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "prop_65_chemical_name": "Di-n-butyl phthalate (DBP)"
+      },
+      "size": "S",
+      "prop_65_chemical_name": "Di-n-butyl phthalate (DBP)",
+      "price": 0,
+      "case_price": null,
+      "case_quantity": null,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18597",
+      "item_index": "4495",
+      "rothco_item_no": "DEHP",
+      "upc": "613902000193",
+      "inventory": "99",
+      "created_date": "2018-08-14 16:10:02",
+      "weight": "0.0010",
+      "image_filename": "DEHP-A.jpg",
+      "catalog_page_no": "334",
+      "msrp": "0.00",
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "prop_65_chemical_name": "Di(2-ethylhexyl)phthalate (DEHP)"
+      },
+      "size": "S",
+      "prop_65_chemical_name": "Di(2-ethylhexyl)phthalate (DEHP)",
+      "price": 0,
+      "case_price": null,
+      "case_quantity": null,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18599",
+      "item_index": "4495",
+      "rothco_item_no": "DINP",
+      "upc": "613902000261",
+      "inventory": "99",
+      "created_date": "2018-08-14 17:10:04",
+      "weight": "0.0010",
+      "image_filename": "DINP-A.jpg",
+      "catalog_page_no": "334",
+      "msrp": "0.00",
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "prop_65_chemical_name": "Diisononyl phthalate (DINP)"
+      },
+      "prop_65_chemical_name": "Diisononyl phthalate (DINP)",
+      "price": 0,
+      "case_price": null,
+      "case_quantity": null,
+      "statuses": ""
+    }
+  ]
+}

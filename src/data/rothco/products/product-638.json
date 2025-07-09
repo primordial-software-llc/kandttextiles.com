@@ -1,0 +1,93 @@
+{
+  "item_index": "638",
+  "item_name": "Rothco Genuine Wool Watch Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Keep incredibly warm this winter with the US Made Wool Watch Cap from Rothco! It&rsquo;s crafted from 100% wool, will keep you insulated from the coldest of temperatures, and will protect you from any weather elements. This winter hat is fully adjustable and will fit most head sizes. With our Wool Watch Cap, you'll stay warm and stylish all season long.</p>",
+  "no_ratings": "0",
+  "sort_order": "23179",
+  "description": "<p>Keep incredibly warm this winter with the US Made Wool Watch Cap from Rothco! It&rsquo;s crafted from 100% wool, will keep you insulated from the coldest of temperatures, and will protect you from any weather elements. This winter hat is fully adjustable and will fit most head sizes. With our Wool Watch Cap, you'll stay warm and stylish all season long.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "367"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5505",
+      "item_index": "638",
+      "rothco_item_no": "5779",
+      "upc": "613902577909",
+      "inventory": "99",
+      "created_date": "2002-04-24 21:00:00",
+      "weight": "0.2000",
+      "image_filename": "5779-OD-A-Flat-amazon.jpg",
+      "catalog_page_no": "154",
+      "msrp": 11.99,
+      "ship_length": "8.5000",
+      "ship_width": "8.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 6,
+      "case_price": 6,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9751",
+      "item_index": "638",
+      "rothco_item_no": "8492",
+      "upc": "613902849204",
+      "inventory": "99",
+      "created_date": "2002-04-24 21:00:00",
+      "weight": "0.2000",
+      "image_filename": "8492-Black-A-amazon.jpg",
+      "catalog_page_no": "154",
+      "msrp": 11.99,
+      "ship_length": "8.5000",
+      "ship_width": "8.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 6,
+      "case_price": 6,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9752",
+      "item_index": "638",
+      "rothco_item_no": "8493",
+      "upc": "613902849303",
+      "inventory": "99",
+      "created_date": "2002-04-24 21:00:00",
+      "weight": "0.2000",
+      "image_filename": "8493-Navy-A-amazon.jpg",
+      "catalog_page_no": "154",
+      "msrp": 11.99,
+      "ship_length": "8.5000",
+      "ship_width": "8.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue"
+      },
+      "color": "Navy Blue",
+      "price": 6,
+      "case_price": 6,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

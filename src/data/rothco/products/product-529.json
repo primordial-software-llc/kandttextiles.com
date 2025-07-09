@@ -1,0 +1,123 @@
+{
+  "item_index": "529",
+  "item_name": "Rothco Digital Camo Headwrap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Digital Camo Headwrap offers versatile, all-day protection in a variety of digital camouflage patterns. Whether you&rsquo;re looking for a stylish skullcap, an effective face mask, or a protective layer under a helmet, this headwrap is up for the task. Made from lightweight woven cotton, it provides the perfect blend of comfort and durability, making it ideal for outdoor activities. This headwrap helps protect you from the sun while absorbing sweat to keep you cool and comfortable during your adventures.</p>",
+  "no_ratings": "0",
+  "sort_order": "3401",
+  "description": "<p>Rothco&rsquo;s Digital Camo Headwrap offers versatile, all-day protection in a variety of digital camouflage patterns. Whether you&rsquo;re looking for a stylish skullcap, an effective face mask, or a protective layer under a helmet, this headwrap is up for the task. Made from lightweight woven cotton, it provides the perfect blend of comfort and durability, making it ideal for outdoor activities. This headwrap helps protect you from the sun while absorbing sweat to keep you cool and comfortable during your adventures. Wear it on its own or layer it under other headgear for added protection. With its adaptable design and one-size-fits-most construction, the Rothco Digital Camo Headwrap is perfect for hikers, bikers, hunters, and more. Available in a range of digital camouflage styles, this headwrap blends function with a unique aesthetic, making it an essential addition to your gear.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "83",
+    "143",
+    "144",
+    "145",
+    "146",
+    "369",
+    "683"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "4421",
+      "item_index": "529",
+      "rothco_item_no": "5086",
+      "upc": "613902050860",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0563",
+      "image_filename": "5086-A-amazon.jpg",
+      "catalog_page_no": "167",
+      "msrp": 6.99,
+      "ship_length": "6.5000",
+      "ship_width": "6.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Subdued Urban Digital Camo"
+      },
+      "color": "Subdued Urban Digital Camo",
+      "price": 2.65,
+      "case_price": 2.65,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "4592",
+      "item_index": "529",
+      "rothco_item_no": "5178",
+      "upc": "613902517806",
+      "inventory": "80",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "5178-hr3.jpg",
+      "catalog_page_no": "167",
+      "msrp": 6.99,
+      "ship_length": "6.5000",
+      "ship_width": "6.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "ACU Digital Camo"
+      },
+      "color": "ACU Digital Camo",
+      "price": 2.65,
+      "case_price": 2.65,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "4615",
+      "item_index": "529",
+      "rothco_item_no": "5196",
+      "upc": "613902519602",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0563",
+      "image_filename": "5196-hr3.jpg",
+      "catalog_page_no": "167",
+      "msrp": 6.99,
+      "ship_length": "6.5000",
+      "ship_width": "6.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Digital Camo"
+      },
+      "color": "Woodland Digital Camo",
+      "price": 2.65,
+      "case_price": 2.65,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "4622",
+      "item_index": "529",
+      "rothco_item_no": "5201",
+      "upc": "613902520103",
+      "inventory": "48",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0563",
+      "image_filename": "5201-HR3.jpg",
+      "catalog_page_no": "167",
+      "msrp": 6.99,
+      "ship_length": "6.5000",
+      "ship_width": "6.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Desert Digital Camo"
+      },
+      "color": "Desert Digital Camo",
+      "price": 2.65,
+      "case_price": 2.65,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "item_index": "4401",
+  "item_name": "Rothco MOLLE Solar Panel With Power Bank",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's MOLLE Solar Panel with Power Bank is a versatile option to power your electronics while camping, hiking, and/or any other situation possible.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "132714",
+  "description": "<p>Rothco's MOLLE Solar Panel with Power Bank is a versatile option to power your electronics. The solar panel puts out a 1.5 A output and the power bank&nbsp;holds&nbsp;5,000mah of charge. This MOLLE Solar panel comes with a direct output if you need power now and a power bank you can charge up for power later. Not only that but the Solar panel comes with two grommets for easy and quick mounting. On top of that, it features two MOLLE straps that help you secure to any tactical bag you may have or may buy in the future.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "476"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17903",
+      "item_index": "4401",
+      "rothco_item_no": "2117",
+      "upc": "613902021174",
+      "inventory": "20",
+      "created_date": "2017-11-27 12:10:02",
+      "weight": "0.9000",
+      "image_filename": "2117-B-amazon.jpg",
+      "catalog_page_no": "279",
+      "msrp": 156.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 62.5,
+      "case_price": 62.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

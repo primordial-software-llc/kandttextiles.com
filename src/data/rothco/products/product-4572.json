@@ -1,0 +1,74 @@
+{
+  "item_index": "4572",
+  "item_name": "Rothco Freedom Is Not Free Low Profile Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show your pride and love for America with Rothco&rsquo;s Freedom Is Not Free Low Profile Cap.</p>",
+  "no_ratings": null,
+  "sort_order": "132885",
+  "description": "<p>Show your pride and love for America with Rothco&rsquo;s Freedom Is Not Free Low Profile Cap. The US Flag hat features an embroidered red, white and blue American flag on the center of the buckram front panel with &ldquo;Freedom&rdquo; on top of the flag and &ldquo;Is Not Free&rdquo; on the bottom. Constructed with lightweight and durable brushed cotton twill and an internal sweatband, the American flag hat is designed to provide superior comfort and prevent sweat from going into your eyes. In addition, the 6 vents holes on top of the low profile ball cap provide optimal breathability to keep your head cool. The United States flag hat can fit most, with an adjustable hook and loop closure to loosen or tighten for the perfect fit. This red, white and blue low profile hat is great for camping, hiking, or any outdoor activity.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "674",
+    "374",
+    "674",
+    "374"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19062",
+      "item_index": "4572",
+      "rothco_item_no": "3938",
+      "upc": "613902039384",
+      "inventory": "99",
+      "created_date": "2019-05-23 13:10:00",
+      "weight": "0.2500",
+      "image_filename": "3938-A-amazon.jpg",
+      "catalog_page_no": "139",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Black"
+      },
+      "size": "One Size",
+      "color": "Black",
+      "price": 7.25,
+      "case_price": 7.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22164",
+      "item_index": "4572",
+      "rothco_item_no": "39380",
+      "upc": "613902020313",
+      "inventory": "99",
+      "created_date": "2022-08-30 14:00:27",
+      "weight": "0.0000",
+      "image_filename": "39380-A.jpg",
+      "catalog_page_no": "139",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 7.25,
+      "case_price": 7.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

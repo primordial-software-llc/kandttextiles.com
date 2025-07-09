@@ -1,0 +1,40 @@
+{
+  "item_index": "3811",
+  "item_name": "Rothco Round Leather Clip On Badge Holder",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Round Leather Clip-On Badge Holder features a swivel steel clip &amp; fits circular or shield shaped badges. Great for security, police, and public safety officials.</p>",
+  "no_ratings": null,
+  "sort_order": "519",
+  "description": "<p>Rothco's Round Leather Clip-On Badge Holder features a swivel steel clip &amp; fits circular or shield shaped badges. Great for security, police, and public safety officials.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "233"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14852",
+      "item_index": "3811",
+      "rothco_item_no": "1137",
+      "upc": "613902113701",
+      "inventory": "99",
+      "created_date": "2014-10-01 11:10:01",
+      "weight": "0.1000",
+      "image_filename": "1137-A-amazon.jpg",
+      "catalog_page_no": "221",
+      "msrp": 17.99,
+      "ship_length": "7.5000",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

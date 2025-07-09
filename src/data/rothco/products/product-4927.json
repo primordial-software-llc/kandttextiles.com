@@ -1,0 +1,96 @@
+{
+  "item_index": "4927",
+  "item_name": "Rothco AR 670-1 Coyote Brown Marines Physical Training T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s AR 670-1 Coyote Brown Marines Physical Training T-Shirt is perfect for your workout.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133240",
+  "description": "<p>Rothco&rsquo;s AR 670-1 Coyote Brown Marines Physical Training T-Shirt is perfect for your workout. The military t-shirt features black MARINES text printed prominently across the chest. The Marines shirt is composed of a breathable 100% cotton materials and is officially licensed by the United States Marine Corps.&nbsp;</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "482",
+    "640",
+    "73",
+    "597"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "21548",
+      "item_index": "4927",
+      "rothco_item_no": "60600",
+      "upc": "613902012905",
+      "inventory": "40",
+      "created_date": "2022-02-24 16:00:11",
+      "weight": "0.4500",
+      "image_filename": "60600-FRONT-A.jpg",
+      "catalog_page_no": "103",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21552",
+      "item_index": "4927",
+      "rothco_item_no": "60601",
+      "upc": "613902012998",
+      "inventory": "41",
+      "created_date": "2022-02-24 16:00:11",
+      "weight": "0.6000",
+      "image_filename": "60600-FRONT-A.jpg",
+      "catalog_page_no": "103",
+      "msrp": 22.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 8.9,
+      "case_price": 8.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21553",
+      "item_index": "4927",
+      "rothco_item_no": "60602",
+      "upc": "613902013001",
+      "inventory": "48",
+      "created_date": "2022-02-24 16:00:11",
+      "weight": "0.6000",
+      "image_filename": "60600-FRONT-A.jpg",
+      "catalog_page_no": "103",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3XL"
+      },
+      "size": "3XL",
+      "price": 9.9,
+      "case_price": 9.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

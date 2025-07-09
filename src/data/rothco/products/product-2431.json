@@ -1,0 +1,45 @@
+{
+  "item_index": "2431",
+  "item_name": "Rothco Lensatic Camo Compass",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Lensatic Camo Compass is built with a hard plastic case to protect the main components of the compass wherever you travel.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "1206",
+  "description": "<p>Rothco&rsquo;s liquid filled compass is built with a hard plastic&nbsp;case to protect the main components of the compass wherever you travel. The adjustable luminous marching line and magnifying viewer give essential, precise readings while you are navigating through the wilderness. Sighting hairline gives this outdoor compass accurate aiming while using the thumb hold for stability.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "269"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2686",
+      "item_index": "2431",
+      "rothco_item_no": "400",
+      "upc": "613902004009",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "400-A1.jpg",
+      "catalog_page_no": "280",
+      "msrp": 11.99,
+      "ship_length": "9.5000",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "material": "Plastic",
+        "color": "Woodland Camo"
+      },
+      "material": "Plastic",
+      "color": "Woodland Camo",
+      "price": 4.75,
+      "case_price": 4.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

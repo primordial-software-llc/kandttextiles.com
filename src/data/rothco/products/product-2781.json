@@ -1,0 +1,71 @@
+{
+  "item_index": "2781",
+  "item_name": "SWAT Rappelling Ropes",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s SWAT Rappelling Ropes are engineered to meet the rigorous demands of rescue and tactical teams, both civilian and governmental. These static ropes are constructed with a high-tensile strength nylon cord, capable of supporting up to 7,660 pounds (KN), ensuring reliability during critical operations. The braided poly sheath offers exceptional resistance to heat, chemicals, and abrasion, enhancing the rope's durability and longevity. Meeting OSHA, ANSI, and NFPA standards, these ropes provide the highest level of safety.</p>",
+  "no_ratings": "0",
+  "sort_order": "434",
+  "description": "<p>Rothco&rsquo;s SWAT Rappelling Ropes are engineered to meet the rigorous demands of rescue and tactical teams, both civilian and governmental. These static ropes are constructed with a high-tensile strength nylon cord, capable of supporting up to 7,660 pounds (KN), ensuring reliability during critical operations. The braided poly sheath offers exceptional resistance to heat, chemicals, and abrasion, enhancing the rope's durability and longevity. Meeting OSHA, ANSI, and NFPA standards, these ropes provide the highest level of safety and performance in extreme conditions. Made in the USA, Rothco&rsquo;s SWAT Rappelling Ropes are designed with precision and quality to support life-saving efforts. Measuring 7/16 inches in diameter, these ropes are perfect for rappelling, rescue missions, and various tactical applications.</p>",
+  "selection_groups": [
+    "length"
+  ],
+  "statuses": "",
+  "categories": [
+    "288",
+    "261",
+    "239"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1534",
+      "item_index": "2781",
+      "rothco_item_no": "272",
+      "upc": "846604000615",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "14.1400",
+      "image_filename": "279-272-hr11.jpg",
+      "catalog_page_no": "254",
+      "msrp": 549.99,
+      "ship_length": "21.0000",
+      "ship_width": "6.0000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "length": "200 Feet"
+      },
+      "length": "200 Feet",
+      "price": 219.95,
+      "case_price": 219.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1589",
+      "item_index": "2781",
+      "rothco_item_no": "279",
+      "upc": "846604000608",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "11.3000",
+      "image_filename": "279-272-hr11.jpg",
+      "catalog_page_no": "254",
+      "msrp": 437.99,
+      "ship_length": "19.0000",
+      "ship_width": "4.0000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "length": "150 Feet"
+      },
+      "length": "150 Feet",
+      "price": 174.95,
+      "case_price": 174.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

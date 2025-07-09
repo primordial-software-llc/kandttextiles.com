@@ -1,0 +1,48 @@
+{
+  "item_index": "338",
+  "item_name": "Rothco Stirrup Style Shirt Stays",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Stirrup Style Shirt Stays ensure your shirts remain neatly tucked in throughout the day, providing a polished and professional appearance. Made with durable elastic polyester webbing and cotton cloth, these shirt stays are designed for comfort and longevity. The metal adjusters allow for easy customization to achieve the perfect fit, while the double clip securely attaches to your shirt tail. The end loop slips comfortably over your foot, ensuring the stays remain in place as you move.</p>",
+  "no_ratings": "0",
+  "sort_order": "4422",
+  "description": "<p>Rothco&rsquo;s Stirrup Style Shirt Stays ensure your shirts remain neatly tucked in throughout the day, providing a polished and professional appearance. Made with durable elastic polyester webbing and cotton cloth, these shirt stays are designed for comfort and longevity. The metal adjusters allow for easy customization to achieve the perfect fit, while the double clip securely attaches to your shirt tail. The end loop slips comfortably over your foot, ensuring the stays remain in place as you move. Ideal for anyone looking to maintain a sharp look during long hours of wear, Rothco&rsquo;s Stirrup Style Shirt Stays are an essential addition to your military wardrobe.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "382",
+    "386"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8084",
+      "item_index": "338",
+      "rothco_item_no": "7198",
+      "upc": "613902719804",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "7198-A-amazon.jpg",
+      "catalog_page_no": "197",
+      "msrp": 19.99,
+      "ship_length": "8.5000",
+      "ship_width": "4.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 7.75,
+      "case_price": 7.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

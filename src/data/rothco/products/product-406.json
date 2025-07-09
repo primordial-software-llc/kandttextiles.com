@@ -1,0 +1,46 @@
+{
+  "item_index": "406",
+  "item_name": "Rothco Kerosene Hurricane Lantern",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Kerosene Hurricane Lantern combines timeless design with reliable functionality, making it a must-have for camping trips, outdoor adventures, or as a backup light during power outages. The lantern features a durable metal construction with a wire-covered glass globe for added protection. Its adjustable control knob and cotton wick let you customize the brightness to suit your needs. With an 8-ounce fuel capacity, the lantern provides extended burn time when filled with kerosene oil (fuel not included).</p>",
+  "no_ratings": "0",
+  "sort_order": "1585",
+  "description": "<p>Rothco&rsquo;s Kerosene Hurricane Lantern combines timeless design with reliable functionality, making it a must-have for camping trips, outdoor adventures, or as a backup light during power outages. The lantern features a durable metal construction with a wire-covered glass globe for added protection. Its adjustable control knob and cotton wick let you customize the brightness to suit your needs. With an 8-ounce fuel capacity, the lantern provides extended burn time when filled with kerosene oil (fuel not included). The sturdy metal bail handle ensures easy carrying and hanging for versatile placement. Whether used for outdoor illumination or as part of an emergency preparedness kit, this lantern delivers dependable light in a classic hurricane style.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "312",
+    "274"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8336",
+      "item_index": "406",
+      "rothco_item_no": "740",
+      "upc": "613902074002",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.1905",
+      "image_filename": "740-A1.jpg",
+      "catalog_page_no": "278",
+      "msrp": 17.99,
+      "ship_length": "12.0000",
+      "ship_width": "6.0000",
+      "ship_height": "6.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red",
+        "size": "12 Inches"
+      },
+      "color": "Red",
+      "size": "12 Inches",
+      "price": 7.25,
+      "case_price": 7.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

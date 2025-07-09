@@ -1,0 +1,75 @@
+{
+  "item_index": "347",
+  "item_name": "Rothco Woodland Camo Shopping Bag",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Woodland Camo Shopping Bag combines style and durability for reliable carrying. Available in 2 sizes&mdash;small (9 inch x 5 inch x 14 inch) and medium (12 inch x 7 inch x 23 inch)&mdash;you can select the bag that best fits your shopping needs. The shopping bag features dual loop handles for a comfortable grip and easy transport. Made from 1.25 mil thick plastic, it offers increased durability and reusability, making it a practical choice for frequent use. Each bundle includes 100 bags.</p>",
+  "no_ratings": "0",
+  "sort_order": "1639",
+  "description": "<p>Rothco&rsquo;s Woodland Camo Shopping Bag combines style and durability for reliable carrying. Available in 2 sizes&mdash;small (9 inch x 5 inch x 14 inch) and medium (12 inch x 7 inch x 23 inch)&mdash;you can select the bag that best fits your shopping needs. The shopping bag features dual loop handles for a comfortable grip and easy transport. Made from 1.25 mil thick plastic, it offers increased durability and reusability, making it a practical choice for frequent use. Each bundle includes 100 bags, ensuring you have plenty on hand for all your shopping trips. Whether you're heading to the store or packing for a day out, Rothco's Woodland Camo Shopping Bag provides both functionality and a touch of rugged style.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "506",
+    "432"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "11587",
+      "item_index": "347",
+      "rothco_item_no": "9996",
+      "upc": "613902999602",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.5000",
+      "image_filename": "9998-9996_HR.jpg",
+      "catalog_page_no": "369",
+      "msrp": 40.99,
+      "ship_length": "12.7500",
+      "ship_width": "8.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Woodland Camo"
+      },
+      "size": "M",
+      "color": "Woodland Camo",
+      "price": 16.25,
+      "case_price": 16.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "11589",
+      "item_index": "347",
+      "rothco_item_no": "9998",
+      "upc": "613902999800",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2000",
+      "image_filename": "9998-9996_HR.jpg",
+      "catalog_page_no": "369",
+      "msrp": 28.99,
+      "ship_length": "15.7500",
+      "ship_width": "8.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Woodland Camo"
+      },
+      "size": "S",
+      "color": "Woodland Camo",
+      "price": 11.4,
+      "case_price": 11.4,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

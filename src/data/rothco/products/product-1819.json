@@ -1,0 +1,73 @@
+{
+  "item_index": "1819",
+  "item_name": "Smith & Wesson Handcuffs",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Smith &amp; Wesson handcuffs are made of carbon steel. The handcuffs have 23 locking positions. Handcuffs meet U. S. National Institute of Justice tests for workmanship, strength, corrosion, and tamper resistance.</p>",
+  "no_ratings": "0",
+  "sort_order": "1330",
+  "description": "<p>The Smith &amp; Wesson handcuffs are made of carbon steel. The handcuffs have 23 locking positions. Handcuffs meet U. S. National Institute of Justice tests for workmanship, strength, corrosion, and tamper resistance.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": [
+    "Export Restricted",
+    "Requires License",
+    "Restricted"
+  ],
+  "categories": [
+    "234"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "45",
+      "item_index": "1819",
+      "rothco_item_no": "10088",
+      "upc": "022188501032",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7000",
+      "image_filename": "10088-A.jpg",
+      "catalog_page_no": "225",
+      "msrp": 67.99,
+      "ship_length": "4.2500",
+      "ship_width": "4.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Silver"
+      },
+      "color": "Silver",
+      "price": 33.95,
+      "case_price": 33.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "52",
+      "item_index": "1819",
+      "rothco_item_no": "10097",
+      "upc": "022188501018",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7000",
+      "image_filename": "10097-A.jpg",
+      "catalog_page_no": "225",
+      "msrp": 82.99,
+      "ship_length": "4.2500",
+      "ship_width": "4.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 41.35,
+      "case_price": 41.35,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

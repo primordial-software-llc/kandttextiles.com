@@ -1,0 +1,46 @@
+{
+  "item_index": "4687",
+  "item_name": "Rothco Security Mesh Back Tactical Cap - Black",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Keep security guards cool and comfortable while on the job with our mesh back tactical cap featuring &ldquo;Security&rdquo; embroidery.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133000",
+  "description": "<p>Keep security guards cool and comfortable while on the job with our mesh back tactical cap featuring &ldquo;Security&rdquo; embroidery displayed on the front center of baseball style mesh hat.&nbsp; Built with a lightweight, ultra-soft 4 panel mesh back with two reinforced ventilation holes to keep you cool and comfortable.&nbsp; The solid front panel features a soft cotton material.&nbsp; One size fits most with adjustable hook and loop strap closure.&nbsp; This tactical cap is a great uniform accessory for security guards and public safety personnel.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "674",
+    "374"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19557",
+      "item_index": "4687",
+      "rothco_item_no": "3517",
+      "upc": "613902935174",
+      "inventory": "99",
+      "created_date": "2020-05-06 13:00:02",
+      "weight": "0.1875",
+      "image_filename": "3517-A-amazon.jpg",
+      "catalog_page_no": "144",
+      "msrp": 13.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

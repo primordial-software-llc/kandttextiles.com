@@ -1,0 +1,47 @@
+{
+  "item_index": "334",
+  "item_name": "Rothco Blousing Garters",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Blousing Garters provide a simple and effective way to achieve a clean, professional look by securing your pants around your boots. Made from soft and durable elastic spun yarn, these blousing garters offer both comfort and longevity, making them perfect for extended use. The fully adjustable design accommodates various body types and ensures a secure fit every time. Featuring a reliable hook &amp; loop closure, these garters keep your boots bloused, preventing pants from riding up or becoming untucked.</p>",
+  "no_ratings": "0",
+  "sort_order": "3323",
+  "description": "<p>Rothco&rsquo;s Blousing Garters provide a simple and effective way to achieve a clean, professional look by securing your pants around your boots. Made from soft and durable elastic spun yarn, these blousing garters offer both comfort and longevity, making them perfect for extended use. The fully adjustable design accommodates various body types and ensures a secure fit every time. Featuring a reliable hook &amp; loop closure, these garters keep your boots bloused, preventing pants from riding up or becoming untucked. Whether you're on duty or looking to create a polished appearance for outdoor or casual wear, Rothco&rsquo;s Blousing Garters are the perfect accessory for maintaining a neat and put-together look. Each garter measures 10.75 inches when open and 4.5 inches when closed, making them easy to store and versatile for a wide range of applications.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "143",
+    "382"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "6226",
+      "item_index": "334",
+      "rothco_item_no": "6199",
+      "upc": "613902619906",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0800",
+      "image_filename": "6199-C.jpg",
+      "catalog_page_no": "197",
+      "msrp": 5.99,
+      "ship_length": "5.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 2.05,
+      "case_price": 2.05,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

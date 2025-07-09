@@ -1,0 +1,43 @@
+{
+  "item_index": "3276",
+  "item_name": "Rothco MOLLE 2 Pocket Ammo Pouch - Black",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s MOLLE 2 Pocket Ammo Pouch is perfect for holding ammo, EDC (everyday carry) items, and much more.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "1001",
+  "description": "<p>Rothco&rsquo;s MOLLE 2 Pocket Ammo Pouch is perfect for holding ammo, EDC (everyday carry) items, and much more.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12507",
+      "item_index": "3276",
+      "rothco_item_no": "9509",
+      "upc": "613902095090",
+      "inventory": "99",
+      "created_date": "2013-06-13 15:52:21",
+      "weight": "0.3500",
+      "image_filename": "9509-A.jpg",
+      "catalog_page_no": "368",
+      "msrp": 16.99,
+      "ship_length": "9.0000",
+      "ship_width": "8.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

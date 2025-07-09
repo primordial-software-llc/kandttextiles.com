@@ -1,0 +1,93 @@
+{
+  "item_index": "3086",
+  "item_name": "Rothco Military Zipper First Aid Kit Pouch",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p><span style=\"font-family: Arial;\">Rothco&rsquo;s Military Zipper First Aid Kit is ideal for storing first aid medical supplies and other EDC items and can be stored right on your belt for swift access while on the go.&nbsp;</span></p>",
+  "no_ratings": null,
+  "sort_order": "936",
+  "description": "<p><span style=\"font-family: Arial;\">Rothco&rsquo;s Military Zipper First Aid Kit is ideal for storing first aid medical supplies and other EDC items and can be stored right on your belt for swift access while on the go. Medical pouch is great for EMTs or as a general first aid kit for home use or while camping or hiking. Medical contents sold separately and can be purchased under Rothco item #1707.&nbsp;</span></p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "271"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9532",
+      "item_index": "3086",
+      "rothco_item_no": "8325",
+      "upc": "613902832503",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "8325-B.jpg",
+      "catalog_page_no": "295",
+      "msrp": 5.99,
+      "ship_length": "5.0000",
+      "ship_width": "4.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 2.25,
+      "case_price": 2.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16411",
+      "item_index": "3086",
+      "rothco_item_no": "8378",
+      "upc": "613902083783",
+      "inventory": "99",
+      "created_date": "2016-05-23 17:10:02",
+      "weight": "0.1000",
+      "image_filename": "8378-A-amazon1.jpg",
+      "catalog_page_no": "295",
+      "msrp": 5.99,
+      "ship_length": "5.0000",
+      "ship_width": "4.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red"
+      },
+      "color": "Red",
+      "price": 2.25,
+      "case_price": 2.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20066",
+      "item_index": "3086",
+      "rothco_item_no": "9325",
+      "upc": "613902932500",
+      "inventory": "99",
+      "created_date": "2020-11-20 08:00:29",
+      "weight": "0.1000",
+      "image_filename": "9328-A-NOLOGO1.jpg",
+      "catalog_page_no": "295",
+      "msrp": 5.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 2.25,
+      "case_price": 2.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

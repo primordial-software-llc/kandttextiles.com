@@ -1,0 +1,40 @@
+{
+  "item_index": "1174",
+  "item_name": "Rothco Sandbags",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Sandbags are designed to provide reliable protection during emergencies, including floods and hurricanes. Constructed from durable woven polypropylene, these sandbags are UV-resistant, withstanding up to 1,600 hours of sunlight exposure. Their 27 inch x 15 inch size and secure drawstring closure make them easy to fill and tie, ensuring a snug fit to prevent sand leakage. Ideal for flood control, erosion prevention, hurricane preparation, and even construction projects, these sandbags are versatile and built to last.</p>",
+  "no_ratings": "0",
+  "sort_order": "599",
+  "description": "<p>Rothco&rsquo;s Sandbags are designed to provide reliable protection during emergencies, including floods and hurricanes. Constructed from durable woven polypropylene, these sandbags are UV-resistant, withstanding up to 1,600 hours of sunlight exposure. Their 27 inch x 15 inch size and secure drawstring closure make them easy to fill and tie, ensuring a snug fit to prevent sand leakage. Ideal for flood control, erosion prevention, hurricane preparation, and even construction projects, these sandbags are versatile and built to last. Keep them on hand for unexpected weather events or use them as a precautionary measure for long-term projects.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "261"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9347",
+      "item_index": "1174",
+      "rothco_item_no": "8155",
+      "upc": "613902815506",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0938",
+      "image_filename": "8155-HR.jpg",
+      "catalog_page_no": "304",
+      "msrp": 2.99,
+      "ship_length": "27.0000",
+      "ship_width": "15.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 0.9,
+      "case_price": 0.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

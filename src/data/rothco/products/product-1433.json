@@ -1,0 +1,69 @@
+{
+  "item_index": "1433",
+  "item_name": "Rothco Private First Class Polished Insignia",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>This Item Is Manufactured By A US Factory Certified By The Institute Of Heraldry Army Private First Class (e-3)</p>",
+  "no_ratings": "0",
+  "sort_order": "1839",
+  "description": "<p>This Item Is Manufactured By A US Factory Certified By The Institute Of Heraldry Army Private First Class (e-3)&nbsp;WARNING: &nbsp;This product contains a chemical known to the State of California to cause cancer, birth defects and other reproductive harm.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "422"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "740",
+      "item_index": "1433",
+      "rothco_item_no": "1601",
+      "upc": "613902416017",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0200",
+      "image_filename": "1601-hr4.jpg",
+      "catalog_page_no": "212",
+      "msrp": 5.99,
+      "ship_length": "4.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Subdued"
+      },
+      "color": "Subdued",
+      "price": 2.75,
+      "case_price": 2.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "754",
+      "item_index": "1433",
+      "rothco_item_no": "1641",
+      "upc": "613902416413",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0188",
+      "image_filename": "1641-hr3.jpg",
+      "catalog_page_no": "212",
+      "msrp": 7.99,
+      "ship_length": "4.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Gold"
+      },
+      "color": "Gold",
+      "price": 4,
+      "case_price": 4,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

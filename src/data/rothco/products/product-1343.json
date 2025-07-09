@@ -1,0 +1,40 @@
+{
+  "item_index": "1343",
+  "item_name": "Patch Attach",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p><span style=\"white-space: pre;\">Patch Attach is a</span>&nbsp;fast and easy way to permanently attach patches and appliques to clothing and gear. Great for scouts, sports teams, varsity letters and more. No sewing required,</p>",
+  "no_ratings": "0",
+  "sort_order": "1206",
+  "description": "<p><span style=\"white-space: pre;\">Patch Attach is a</span>&nbsp;fast and easy way to permanently attach patches and appliques to clothing and gear. Great for boy scouts, sports teams, varsity letters, and more. Bonds almost any patch to almost any fabric without sewing. Patch attach will wash out before heat set with an iron, non-toxic and dries clear. The finished product is washable and dry cleanable.&nbsp; Permanent, washable, non-toxic, and the only truly dry cleanable glue for this purpose on the market today.&nbsp;&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "420"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "617",
+      "item_index": "1343",
+      "rothco_item_no": "1285",
+      "upc": "054947499427",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0600",
+      "image_filename": "1285-PatchA1.jpg",
+      "catalog_page_no": "213",
+      "msrp": 13.99,
+      "ship_length": "7.7500",
+      "ship_width": "3.7500",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "item_index": "4449",
+  "item_name": "Rothco MOLLE Universal Radio Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s MOLLE Universal Radio Pouch offers a versatile, secure solution for carrying radios of various sizes. Constructed with durable materials to withstand rugged environments, this tactical radio pouch is designed with elastic side panels that expand to accommodate different radio dimensions. The elastic cord closure with a hook panel fastens to the front loop field, ensuring your radio stays secure, even during intense activity.</p>",
+  "no_ratings": null,
+  "sort_order": "132762",
+  "description": "<p>Rothco&rsquo;s MOLLE Universal Radio Pouch offers a versatile, secure solution for carrying radios of various sizes. Constructed with durable materials to withstand rugged environments, this tactical radio pouch is designed with elastic side panels that expand to accommodate different radio dimensions. The elastic cord closure with a hook panel fastens to the front loop field, ensuring your radio stays secure, even during intense activity. Equipped with 2 4-inch MOLLE straps, the radio case easily attaches to duty belts, MOLLE panels, and tactical gear, making it a highly adaptable accessory for public safety professionals, outdoor enthusiasts, and more. Compact in size, measuring 5 inch x 2.75 inch x 1 inch, our MOLLE Universal Radio Pouch is the perfect choice for keeping your radio within reach while maintaining mobility.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "504",
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18334",
+      "item_index": "4449",
+      "rothco_item_no": "5229",
+      "upc": "613902052291",
+      "inventory": "99",
+      "created_date": "2018-04-23 09:10:04",
+      "weight": "0.3000",
+      "image_filename": "5229-A-amazon.jpg",
+      "catalog_page_no": "241",
+      "msrp": 17.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 7.1,
+      "case_price": 7.1,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19996",
+      "item_index": "4449",
+      "rothco_item_no": "3899",
+      "upc": "613902038998",
+      "inventory": "99",
+      "created_date": "2020-10-30 16:00:13",
+      "weight": "0.3000",
+      "image_filename": "3899-C-no-logo.jpg",
+      "catalog_page_no": "241",
+      "msrp": 17.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 7.1,
+      "case_price": 7.1,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

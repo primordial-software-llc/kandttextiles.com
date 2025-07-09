@@ -1,0 +1,40 @@
+{
+  "item_index": "3144",
+  "item_name": "Rothco Spraying and Praying Morale Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Spraying &amp; Praying Morale Patch features hook backing making it ideal to attach with our Spec Ops Tactical Jackets, Operator Caps, and Tactical Vests.</p>",
+  "no_ratings": null,
+  "sort_order": "835",
+  "description": "<p>Rothco's Spraying &amp; Praying Morale Patch features hook backing making it ideal to attach with our Spec Ops Tactical Jackets, Operator Caps, and Tactical Vests.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "424"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8194",
+      "item_index": "3144",
+      "rothco_item_no": "72193",
+      "upc": "613902721937",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0094",
+      "image_filename": "72193-b.jpg",
+      "catalog_page_no": "214",
+      "msrp": 3.99,
+      "ship_length": "1.7500",
+      "ship_width": "3.0000",
+      "ship_height": "0.2500",
+      "eta_date": null,
+      "specs": [],
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

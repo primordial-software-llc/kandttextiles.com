@@ -1,0 +1,70 @@
+{
+  "item_index": "473",
+  "item_name": "Rothco G.I. Polypropylene Glove Liners",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Polypropylene Glove Liners offer superior cold weather protection and versatility. These winter glove liners can be worn on their own or as an extra layer under another pair of gloves in extreme weather conditions. Made in the USA to Mil-Spec A-A-52087A, these warm glove liners are crafted from 100% stretch polypropylene fabric, providing a breathable and comfortable fit. The stretch fabric ensures a snug and secure fit, while the polypropylene material offers excellent insulation to keep your hands warm.</p>",
+  "no_ratings": "0",
+  "sort_order": "2526",
+  "description": "<p>Rothco&rsquo;s Polypropylene Glove Liners offer superior cold weather protection and versatility. These winter glove liners can be worn on their own or as an extra layer under another pair of gloves in extreme weather conditions. Made in the USA to Mil-Spec A-A-52087A, these warm glove liners are crafted from 100% stretch polypropylene fabric, providing a breathable and comfortable fit. The stretch fabric ensures a snug and secure fit, while the polypropylene material offers excellent insulation to keep your hands warm. These knit gloves are designed to fit most hand sizes comfortably, making them a practical and essential addition to your cold weather gear.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "319",
+    "321"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9636",
+      "item_index": "473",
+      "rothco_item_no": "8413",
+      "upc": "613902841321",
+      "inventory": "99",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "0.0625",
+      "image_filename": "8413-Black-C-amazon.jpg",
+      "catalog_page_no": "187",
+      "msrp": 10.99,
+      "ship_length": "9.5000",
+      "ship_width": "5.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9638",
+      "item_index": "473",
+      "rothco_item_no": "8413",
+      "upc": "613902841307",
+      "inventory": "99",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "0.0625",
+      "image_filename": "8413-OD-C-amazon.jpg",
+      "catalog_page_no": "187",
+      "msrp": 10.99,
+      "ship_length": "9.5000",
+      "ship_width": "5.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

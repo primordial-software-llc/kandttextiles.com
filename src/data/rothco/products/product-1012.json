@@ -1,0 +1,45 @@
+{
+  "item_index": "1012",
+  "item_name": "Rothco G.I. Sock Liner",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s G.I. Sock Liners are specially designed to wick moisture away from your feet to keep them dry and blister-free.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "2743",
+  "description": "<p>Rothco&rsquo;s G.I. Sock Liners are specially designed to wick moisture away from your feet to keep them dry and blister-free.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "57",
+    "408",
+    "410"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "6166",
+      "item_index": "1012",
+      "rothco_item_no": "6144",
+      "upc": "031884007526",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "6144-HR.jpg",
+      "catalog_page_no": "183",
+      "msrp": 7.99,
+      "ship_length": "12.5000",
+      "ship_width": "4.2500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 3.1,
+      "case_price": 3.1,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

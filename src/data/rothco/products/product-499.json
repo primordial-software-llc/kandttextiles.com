@@ -1,0 +1,70 @@
+{
+  "item_index": "499",
+  "item_name": "Rothco Gun Pattern Bandana",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Gun Pattern Bandana is a versatile bandana perfect for tactical use, outdoor adventures, or everyday wear. Sold in minimums of one dozen per style, it&rsquo;s a practical and stylish accessory for any collection.</p>",
+  "no_ratings": "0",
+  "sort_order": "1293",
+  "description": "<p>&nbsp;</p>\n<p>Rothco&rsquo;s Gun Pattern Bandana is a versatile bandana perfect for tactical use, outdoor adventures, or everyday wear. Sold in minimums of one dozen per style, it&rsquo;s a practical and stylish accessory for any collection.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "369",
+    "679"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2813",
+      "item_index": "499",
+      "rothco_item_no": "4099",
+      "upc": "613902409903",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0700",
+      "image_filename": "4099-A-Black.jpg",
+      "catalog_page_no": "164",
+      "msrp": 3.99,
+      "ship_length": "11.0000",
+      "ship_width": "11.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 1.4,
+      "case_price": 1.4,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2814",
+      "item_index": "499",
+      "rothco_item_no": "4099",
+      "upc": "613902409910",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0700",
+      "image_filename": "4099-A-O.D_._.jpg",
+      "catalog_page_no": "164",
+      "msrp": 3.99,
+      "ship_length": "11.0000",
+      "ship_width": "11.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 1.4,
+      "case_price": 1.4,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

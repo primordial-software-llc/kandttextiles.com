@@ -1,0 +1,70 @@
+{
+  "item_index": "4839",
+  "item_name": "Rothco MOLLE Triple Pistol Mag Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Keep your spare mags close at the range or on the battlefield with Rothco&rsquo;s MOLLE Triple Pistol Mag Pouch.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133152",
+  "description": "<p>Keep your spare mags close at the range or on the battlefield with Rothco&rsquo;s MOLLE Triple Pistol Mag Pouch. The MOLLE pouch features three pistol mag holders secured with elastic straps and hook and loop closures. The hook and loop straps can be removed from the mag pouch for quick and easy access to your ammo at the range. The MOLLE compatible plate carrier mag pouch is perfect for mounting on tactical vests, assault packs, and more. This ammo pouch is compatible with most standard-sized pistol mag pouches including 9mm, .40 cal, and more (Measures 6.75 inches x 4.25 inches). The triple mag pouch is made from durable materials for years of reliable use and features grommet drainage holes.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "254",
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20742",
+      "item_index": "4839",
+      "rothco_item_no": "51102",
+      "upc": "613902003323",
+      "inventory": "99",
+      "created_date": "2021-05-27 12:00:10",
+      "weight": "0.3000",
+      "image_filename": "51102-A-no-logo1.jpg",
+      "catalog_page_no": "245",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 7.3,
+      "case_price": 7.3,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20743",
+      "item_index": "4839",
+      "rothco_item_no": "51102",
+      "upc": "613902003330",
+      "inventory": "99",
+      "created_date": "2021-05-27 12:00:10",
+      "weight": "0.3000",
+      "image_filename": "51102-A-Coyote-no-logo.jpg",
+      "catalog_page_no": "245",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 7.3,
+      "case_price": 7.3,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "item_index": "3595",
+  "item_name": "Rothco Gadsden Don't Tread On Me Bandana",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Gadsden Don&rsquo;t Tread On Me Bandana is a versatile accessory featuring the iconic Gadsden snake graphic in all 4 corners. Crafted from durable and breathable cotton, this bandana offers both comfort and functionality. Measuring 22 inch x 22 inch, it can be used in various ways, including as a headband, facemask, neck gaiter, or dust mask. Perfect for outdoor enthusiasts, it also doubles as a practical tool, such as a pouch, tourniquet, or lightweight cover.</p>",
+  "no_ratings": null,
+  "sort_order": "1951",
+  "description": "<p>Rothco&rsquo;s Gadsden Don&rsquo;t Tread On Me Bandana is a versatile accessory featuring the iconic Gadsden snake graphic in all 4 corners. Crafted from durable and breathable cotton, this bandana offers both comfort and functionality. Measuring 22 inch x 22 inch, it can be used in various ways, including as a headband, facemask, neck gaiter, or dust mask. Perfect for outdoor enthusiasts, it also doubles as a practical tool, such as a pouch, tourniquet, or lightweight cover. The timeless \"Don&rsquo;t Tread On Me\" design adds a bold statement to any outfit or gear collection, making it both functional and stylish for everyday wear or special occasions.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "369",
+    "679"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "13308",
+      "item_index": "3595",
+      "rothco_item_no": "4032",
+      "upc": "613902403215",
+      "inventory": "99",
+      "created_date": "2013-10-22 01:15:55",
+      "weight": "0.0700",
+      "image_filename": "4032-A1.jpg",
+      "catalog_page_no": "164",
+      "msrp": 3.99,
+      "ship_length": "11.0000",
+      "ship_width": "11.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black / Yellow"
+      },
+      "color": "Black / Yellow",
+      "price": 1.4,
+      "case_price": 1.4,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14801",
+      "item_index": "3595",
+      "rothco_item_no": "4932",
+      "upc": "613902049321",
+      "inventory": "99",
+      "created_date": "2014-09-17 17:10:02",
+      "weight": "0.0700",
+      "image_filename": "4932-A.jpg",
+      "catalog_page_no": "164",
+      "msrp": 3.99,
+      "ship_length": "11.0000",
+      "ship_width": "11.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Yellow / Black"
+      },
+      "color": "Yellow / Black",
+      "price": 1.4,
+      "case_price": 1.4,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "item_index": "4400",
+  "item_name": "Rothco Solar Lantern and Torchlight",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Solar Lantern and Torchlight is the ultimate portable lighting solution for outdoor adventures and emergency preparedness. Featuring a 4.2V solar panel, this versatile survival device allows you to harness the power of the sun, providing eco-friendly energy for your lighting needs. The bright 3-watt 6-bulb LED lantern and 1-watt torchlight deliver powerful illumination with a 4-hour run time, ensuring you&rsquo;re never left in the dark.</p>",
+  "no_ratings": null,
+  "sort_order": "132713",
+  "description": "<p>Rothco&rsquo;s Solar Lantern and Torchlight is the ultimate portable lighting solution for outdoor adventures and emergency preparedness. Featuring a 4.2V solar panel, this versatile survival device allows you to harness the power of the sun, providing eco-friendly energy for your lighting needs. The bright 3-watt 6-bulb LED lantern and 1-watt torchlight deliver powerful illumination with a 4-hour run time, ensuring you&rsquo;re never left in the dark. Designed for convenience and durability, the lantern and torchlight combo is ideal for camping trips, emergency situations, or as a reliable addition to your bug-out bag. The 650mAh rechargeable battery with an indicator light ensures you always know when your device is ready for use. Compact, lightweight, and easy to carry, Rothco&rsquo;s Solar Lantern and Torchlight is your go-to lighting companion for any situation.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "310",
+    "311",
+    "312",
+    "314",
+    "265",
+    "274",
+    "405"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17902",
+      "item_index": "4400",
+      "rothco_item_no": "2114",
+      "upc": "613902021143",
+      "inventory": "99",
+      "created_date": "2017-11-27 12:10:02",
+      "weight": "0.8000",
+      "image_filename": "2114-A-amazon.jpg",
+      "catalog_page_no": "278",
+      "msrp": 15.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 5.9,
+      "case_price": 5.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

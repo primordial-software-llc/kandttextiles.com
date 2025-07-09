@@ -1,0 +1,69 @@
+{
+  "item_index": "2039",
+  "item_name": "D Climbing Carabiner",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The D Climbing Carabiner is a lightweight and durable climbing accessory.</p>",
+  "no_ratings": "0",
+  "sort_order": "617",
+  "description": "<p>The D Climbing Carabiner is a lightweight and durable climbing accessory. The carabiner has a 20 mm gate opening is designed to accommodate most climbing harnesses and features a durable aluminum composition. The climbing carabiner meets CE and UAA specifications with a 27kN breaking strength and 6,070 strength rating.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "290"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1572",
+      "item_index": "2039",
+      "rothco_item_no": "277",
+      "upc": "000194058894",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1450",
+      "image_filename": "277-A.jpg",
+      "catalog_page_no": "254",
+      "msrp": 22.99,
+      "ship_length": "4.5000",
+      "ship_width": "2.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 9,
+      "case_price": 9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2533",
+      "item_index": "2039",
+      "rothco_item_no": "377",
+      "upc": "000194058887",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1450",
+      "image_filename": "377-B1.jpg",
+      "catalog_page_no": "254",
+      "msrp": 16.99,
+      "ship_length": "4.5000",
+      "ship_width": "2.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Silver"
+      },
+      "color": "Silver",
+      "price": 6.75,
+      "case_price": 6.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

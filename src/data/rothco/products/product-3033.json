@@ -1,0 +1,41 @@
+{
+  "item_index": "3033",
+  "item_name": "Rothco Enhanced Molded AA Mini Flashlight Holder",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Enhanced Molded AA Mini Flashlight Holder is constructed from heavy weight 1680 denier ballistic material for durable, long lasting use. With a high density foam center, soft lining and hook and loop closure, your gear is always protected. This molded mini flashlight holder fits on duty belts with up to a 2 &frac14;&rdquo; belt loop.</p>",
+  "no_ratings": null,
+  "sort_order": "301",
+  "description": "<p>Rothco&rsquo;s Enhanced Molded AA Mini Flashlight Holder is constructed from heavy weight 1680 denier ballistic material for durable, long lasting use. With a high density foam center, soft lining and hook and loop closure, your gear is always protected. This molded mini flashlight holder fits on duty belts with up to a 2 &frac14;&rdquo; belt loop.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "238",
+    "239"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "990",
+      "item_index": "3033",
+      "rothco_item_no": "20542",
+      "upc": "613902205420",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "20542-A-amazon.jpg",
+      "catalog_page_no": "229",
+      "msrp": 13.99,
+      "ship_length": "9.5000",
+      "ship_width": "4.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 5.1,
+      "case_price": 5.1,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

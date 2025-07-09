@@ -1,0 +1,74 @@
+{
+  "item_index": "3763",
+  "item_name": "Rothco Commando Wallet",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Commando Wallet is designed in a tri-fold style and features multiple compartments ideal for storing your ID, credit cards, documents, money, and more.&nbsp; The wallet has an exterior flap with a hook &amp; loop closure to keep your cards and money secure.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "3643",
+  "description": "<p>Rothco's Commando Wallet is designed in a tri-fold style and features multiple compartments ideal for storing your ID, credit cards, documents, money, and more.&nbsp; The wallet has an exterior flap with a hook &amp; loop closure to keep your cards and money secure.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "308",
+      "item_index": "3763",
+      "rothco_item_no": "10629",
+      "upc": "613902062924",
+      "inventory": "99",
+      "created_date": "2002-12-15 21:00:00",
+      "weight": "0.0400",
+      "image_filename": "10629-A3.jpg",
+      "catalog_page_no": "204",
+      "msrp": 7.99,
+      "ship_length": "5.0000",
+      "ship_width": "3.7500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 3.1,
+      "case_price": 3.1,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "309",
+      "item_index": "3763",
+      "rothco_item_no": "10630",
+      "upc": "613902106307",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0688",
+      "image_filename": "10630-A.jpg",
+      "catalog_page_no": "204",
+      "msrp": 7.99,
+      "ship_length": "5.0000",
+      "ship_width": "3.7500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 3.1,
+      "case_price": 3.1,
+      "case_quantity": 1,
+      "statuses": [
+        "Inactive",
+        "Active"
+      ]
+    }
+  ]
+}

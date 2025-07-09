@@ -1,0 +1,127 @@
+{
+  "item_index": "743",
+  "item_name": "Rothco Deluxe Eagle, Globe & Anchor Low Profile Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show your support for the U.S. Marines with Rothco&rsquo;s Deluxe Eagle, Globe &amp; Anchor Low Profile Caps. These caps feature a raised embroidered Eagle, Globe, and Anchor logo on the buckram front panel, showcasing Marine pride. Woven \"MARINES\" labels adorn the front of the sandwich brim and the hook and loop closure strap. Made from 100% brushed cotton twill, these caps offer long-lasting resiliency. This item is an officially licensed product of the United States Marine Corps.</p>",
+  "no_ratings": "0",
+  "sort_order": "1385",
+  "description": "<p>Show your support for the U.S. Marines with Rothco&rsquo;s Deluxe Eagle, Globe &amp; Anchor Low Profile Caps. These caps feature a raised embroidered Eagle, Globe, and Anchor logo on the buckram front panel, showcasing Marine pride. Woven \"MARINES\" labels adorn the front of the sandwich brim and the hook and loop closure strap. Made from 100% brushed cotton twill, these caps offer long-lasting resiliency. An internal sweatband ensures superior comfort and prevents sweat from reaching your eyes. Keep cool with 6 top ventilation holes. With 1 size fits most, the adjustable hook &amp; loop closure provides the perfect fit. This cap is an officially licensed product of the United States Marine Corps. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "374",
+    "674",
+    "547"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "11342",
+      "item_index": "743",
+      "rothco_item_no": "9827",
+      "upc": "613902998278",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "9827-A-amazon.jpg",
+      "catalog_page_no": "141",
+      "msrp": 24.99,
+      "ship_length": "8.7500",
+      "ship_width": "8.7500",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "11463",
+      "item_index": "743",
+      "rothco_item_no": "9897",
+      "upc": "613902989702",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "9897_big-amazon.jpg",
+      "catalog_page_no": "141",
+      "msrp": 24.99,
+      "ship_length": "8.7500",
+      "ship_width": "8.7500",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Black"
+      },
+      "size": "One Size",
+      "color": "Black",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16045",
+      "item_index": "743",
+      "rothco_item_no": "98827",
+      "upc": "613902988279",
+      "inventory": "79",
+      "created_date": "2015-12-22 15:10:01",
+      "weight": "0.2500",
+      "image_filename": "98827-A-amazon1.jpg",
+      "catalog_page_no": "141",
+      "msrp": 29.99,
+      "ship_length": "9.0000",
+      "ship_width": "8.5000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Digital Camo",
+        "size": "One Size"
+      },
+      "color": "Woodland Digital Camo",
+      "size": "One Size",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19061",
+      "item_index": "743",
+      "rothco_item_no": "3613",
+      "upc": "613902036130",
+      "inventory": "99",
+      "created_date": "2019-05-23 12:10:00",
+      "weight": "0.2500",
+      "image_filename": "3613-C-amazon.jpg",
+      "catalog_page_no": "141",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "White",
+        "size": "One Size"
+      },
+      "color": "White",
+      "size": "One Size",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

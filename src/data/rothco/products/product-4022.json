@@ -1,0 +1,74 @@
+{
+  "item_index": "4022",
+  "item_name": "Rothco Deluxe BDU Belt With Security Friendly Plastic Buckle",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco has taken our classic military BDU belt and improved upon it, to make it airport friendly.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "577",
+  "description": "<p>Rothco has taken our classic military BDU belt and improved upon it, to make it airport friendly. This Deluxe BDU Belt features a non-metallic buckle for easy and quick clearance at security checkpoints. In addition to the plastic buckle, the belt is made from durable nylon and measures 1.5\" in width. Rothco's BDU belt is available in Medium (47 inches) and Large (57 inches) with a 1\" elastic strap for slack. This tactical belt is a great addition to any uniform and is ideal for military, police and EMT personnel.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "238",
+    "385"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15653",
+      "item_index": "4022",
+      "rothco_item_no": "44098",
+      "upc": "613902440913",
+      "inventory": "99",
+      "created_date": "2015-09-16 13:10:01",
+      "weight": "0.3000",
+      "image_filename": "44098-A-amazon.jpg",
+      "catalog_page_no": "240",
+      "msrp": 13.99,
+      "ship_length": "4.5000",
+      "ship_width": "1.7500",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Black"
+      },
+      "size": "M",
+      "color": "Black",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15654",
+      "item_index": "4022",
+      "rothco_item_no": "44098",
+      "upc": "613902440920",
+      "inventory": "99",
+      "created_date": "2015-09-16 13:10:01",
+      "weight": "0.3000",
+      "image_filename": "44098-A-amazon.jpg",
+      "catalog_page_no": "240",
+      "msrp": 13.99,
+      "ship_length": "4.5000",
+      "ship_width": "1.7500",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Black"
+      },
+      "size": "L",
+      "color": "Black",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "item_index": "1128",
+  "item_name": "Rothco Chow Set With Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Get your chow on with Rothco&rsquo;s 3-piece stainless steel utensil set. Equipped with a pouch for easy storage on the go, perfect your next outdoor adventure or for sustainable day-to-day use at work.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "1168",
+  "description": "<p>Get your chow on with Rothco&rsquo;s 3-piece stainless steel utensil set. Equipped with a pouch for easy storage on the go, perfect your next outdoor adventure or for sustainable day-to-day use at work.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "256",
+    "263"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3800",
+      "item_index": "1128",
+      "rothco_item_no": "487",
+      "upc": "613902487994",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3438",
+      "image_filename": "487-A.jpg",
+      "catalog_page_no": "291",
+      "msrp": 11.99,
+      "ship_length": "5.0000",
+      "ship_width": "2.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

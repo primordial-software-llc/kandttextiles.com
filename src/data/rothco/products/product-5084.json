@@ -1,0 +1,152 @@
+{
+  "item_index": "5084",
+  "item_name": "Rothco Long Length Moisture Wicking Performance Boxer Shorts",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Engineered with a polyester / spandex fabric blend, the long length performance boxer shorts wick sweat and wetness away for optimum comfort, swiftly transferring it to the top layer, for a quick dry. This prevents sweat from soaking through your base layer, so it won&rsquo;t stick to your skin.</p>",
+  "no_ratings": null,
+  "sort_order": "133373",
+  "description": "<p>Engineered with a polyester / spandex fabric blend, the long length performance boxer shorts wick sweat and wetness away for optimum comfort, swiftly transferring it to the top layer, for a quick dry. This prevents sweat from soaking through your base layer, so it won&rsquo;t stick to your skin. Long Length Inseam: These comfortable boxers feature a longer inseam for additional coverage throughout the thighs, providing extra support for active-duty personnel, outdoor enthusiasts, and athletes. The longer length helps reduce chafing and irritation against the inner thighs, allowing you to focus on the task at hand. Comfortable Fit: Whether you are out in the field or intensely training in the gym, the elastic waistband helps keep the moisture wicking underwear in place while conforming to your body, ensuring that you can move with upmost ease and confidence. Anti-Odor Defense: The boxer shorts are designed with advanced odor control, making sure they stay fresh and clean through field missions, team sports, and outdoor adventures such as hiking, camping, biking, and more. Got You Covered: Gearing up for a winter getaway or enduring trek up a mountain? Complete your base layer with a set of our ECWCS Gen II Level II Underwear Top and Bottoms.</p>",
+  "selection_groups": [
+    "size",
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "59"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "23543",
+      "item_index": "5084",
+      "rothco_item_no": "38260",
+      "upc": "613902037809",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.4000",
+      "image_filename": "38260-RIGHT-B1.jpg",
+      "catalog_page_no": "101",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "AR 670-1 Coyote Brown"
+      },
+      "size": "S",
+      "color": "AR 670-1 Coyote Brown",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "23544",
+      "item_index": "5084",
+      "rothco_item_no": "38260",
+      "upc": "613902037878",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.4000",
+      "image_filename": "38260-RIGHT-B1.jpg",
+      "catalog_page_no": "101",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "AR 670-1 Coyote Brown"
+      },
+      "size": "M",
+      "color": "AR 670-1 Coyote Brown",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "23545",
+      "item_index": "5084",
+      "rothco_item_no": "38260",
+      "upc": "613902037892",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.4000",
+      "image_filename": "38260-RIGHT-B1.jpg",
+      "catalog_page_no": "101",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "AR 670-1 Coyote Brown"
+      },
+      "size": "L",
+      "color": "AR 670-1 Coyote Brown",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "23546",
+      "item_index": "5084",
+      "rothco_item_no": "38260",
+      "upc": "613902037908",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.4000",
+      "image_filename": "38260-RIGHT-B1.jpg",
+      "catalog_page_no": "101",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "AR 670-1 Coyote Brown"
+      },
+      "size": "XL",
+      "color": "AR 670-1 Coyote Brown",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "23547",
+      "item_index": "5084",
+      "rothco_item_no": "38261",
+      "upc": "613902037922",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.4000",
+      "image_filename": "38260-RIGHT-B1.jpg",
+      "catalog_page_no": "101",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL",
+        "color": "AR 670-1 Coyote Brown"
+      },
+      "size": "2XL",
+      "color": "AR 670-1 Coyote Brown",
+      "price": 10.5,
+      "case_price": 10.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

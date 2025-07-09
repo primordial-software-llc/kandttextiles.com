@@ -1,0 +1,41 @@
+{
+  "item_index": "3888",
+  "item_name": "Rothco Sheriff Deluxe Low Profile Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Deluxe Low Profile Cap combines durability and comfort with its 100% brushed cotton twill construction. Featuring bold 3D embroidered \"Sheriff\" lettering on the front panel and brim, this adjustable cap is designed for a professional look with a secure, comfortable fit.</p>",
+  "no_ratings": null,
+  "sort_order": "245",
+  "description": "<p>Rothco&rsquo;s Deluxe Low Profile Cap combines durability and comfort with its 100% brushed cotton twill construction. Featuring bold 3D embroidered \"Sheriff\" lettering on the front panel and brim, this adjustable cap is designed for a professional look with a secure, comfortable fit.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "374",
+    "674"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15227",
+      "item_index": "3888",
+      "rothco_item_no": "99385",
+      "upc": "613902993853",
+      "inventory": "99",
+      "created_date": "2015-03-30 12:10:01",
+      "weight": "0.2500",
+      "image_filename": "99385-A-amazon.jpg",
+      "catalog_page_no": "144",
+      "msrp": 19.99,
+      "ship_length": "6.0000",
+      "ship_width": "7.0000",
+      "ship_height": "5.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 7.25,
+      "case_price": 7.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

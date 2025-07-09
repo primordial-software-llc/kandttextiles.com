@@ -1,0 +1,40 @@
+{
+  "item_index": "4701",
+  "item_name": "Rothco US Flag Patch Keychain",
+  "has_restrictions": "1",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>A simple way to show your USA pride - Rothco's US Flag Patch Keychain!</p>",
+  "no_ratings": null,
+  "sort_order": "133014",
+  "description": "<p>A simple way to show your USA pride - Rothco's US Flag Patch Keychain! Hold your car, house, and gym keys all in one. The soft material makes it less clunky to carry around. Dimensions: 5\" x 1\"</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "490"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19689",
+      "item_index": "4701",
+      "rothco_item_no": "1256",
+      "upc": "613902912564",
+      "inventory": "99",
+      "created_date": "2020-06-26 10:00:02",
+      "weight": "0.0625",
+      "image_filename": "1256-A-AMAZON.jpg",
+      "catalog_page_no": "208",
+      "msrp": 3.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

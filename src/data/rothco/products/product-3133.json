@@ -1,0 +1,69 @@
+{
+  "item_index": "3133",
+  "item_name": "Rothco Deluxe Tri-Fold Shovel ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Deluxe Tri-Fold Shovel is designed to withstand rigorous use, crafted from heavy-duty steel. Its collapsible design allows it to fold into 3 sections, making it incredibly compact and easy to store in a bag, vehicle, or equipment box.</p>",
+  "no_ratings": null,
+  "sort_order": "2229",
+  "description": "<p>Rothco's Deluxe Tri-Fold Shovel is designed to withstand rigorous use, crafted from heavy-duty steel. Its collapsible design allows it to fold into 3 sections, making it incredibly compact and easy to store in a bag, vehicle, or equipment box. With versatile head lock positions at 90 and 180 degrees, you can easily scoop up bulk materials or spearhead into the ground. The D-style handle provides optimal control and comfort during digging tasks. This camping shovel is equipped with a serrated edge on one side, enabling you to cut through tough dirt, roots, and debris with ease. Whether you're camping, hiking, gardening, or preparing for emergencies, this shovel is an essential tool to have on hand. Additionally, it comes with an optional storage pouch, providing added convenience and organization. Be prepared for any outdoor adventure or unforeseen situation with the Rothco Deluxe Tri-Fold Shovel.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "options"
+  ],
+  "statuses": "",
+  "categories": [
+    "275"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9621",
+      "item_index": "3133",
+      "rothco_item_no": "839",
+      "upc": "613902083905",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.1100",
+      "image_filename": "839-B1.jpg",
+      "catalog_page_no": "276",
+      "msrp": 25.99,
+      "ship_length": "10.0000",
+      "ship_width": "6.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "options": "Without Cover"
+      },
+      "options": "Without Cover",
+      "price": 11.5,
+      "case_price": 11.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9748",
+      "item_index": "3133",
+      "rothco_item_no": "849",
+      "upc": "613902898493",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.7000",
+      "image_filename": "849-B1.jpg",
+      "catalog_page_no": "276",
+      "msrp": 26.99,
+      "ship_length": "10.5000",
+      "ship_width": "6.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "options": "With Cover"
+      },
+      "options": "With Cover",
+      "price": 11.95,
+      "case_price": 11.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

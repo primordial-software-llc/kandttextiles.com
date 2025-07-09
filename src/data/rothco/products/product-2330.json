@@ -1,0 +1,93 @@
+{
+  "item_index": "2330",
+  "item_name": "Rothco Military Web Belt Tips",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Military Web Belt Tips available in 100 piece bags only.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "648",
+  "description": "<p>Military Web Belt Tips available in 100 piece bags only.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "382"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2795",
+      "item_index": "2330",
+      "rothco_item_no": "4070",
+      "upc": "613902407008",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.0000",
+      "image_filename": "4070-A.jpg",
+      "catalog_page_no": "195",
+      "msrp": 17.99,
+      "ship_length": "0.5000",
+      "ship_width": "0.5000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 7,
+      "case_price": 7,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2796",
+      "item_index": "2330",
+      "rothco_item_no": "4071",
+      "upc": "613902407107",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.0000",
+      "image_filename": "4071-A.jpg",
+      "catalog_page_no": "195",
+      "msrp": 17.99,
+      "ship_length": "0.5000",
+      "ship_width": "0.5000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Brass"
+      },
+      "color": "Brass",
+      "price": 7,
+      "case_price": 7,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2797",
+      "item_index": "2330",
+      "rothco_item_no": "4072",
+      "upc": "613902407206",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.0000",
+      "image_filename": "4072-A.jpg",
+      "catalog_page_no": "195",
+      "msrp": 17.99,
+      "ship_length": "0.5000",
+      "ship_width": "0.5000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Chrome"
+      },
+      "color": "Chrome",
+      "price": 7,
+      "case_price": 7,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "item_index": "3805",
+  "item_name": "Rothco Tactical Tool Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco elevates the classic mechanic&rsquo;s tool bag with enhanced features. Crafted from tough denier polyester, the Tactical Tool Bag boasts a main zippered compartment with individual slots for tools, 2 small external zippered pouches, and a rear drop-down compartment with pen/flashlight slots, card holders, and a removable pouch. The bag also includes MOLLE loops on the back and sides for additional attachments. Compact yet spacious, the equipment bag measures 11.25 inches x 8 inches x 6.75 inches.</p>",
+  "no_ratings": null,
+  "sort_order": "1044",
+  "description": "<p>Rothco elevates the classic mechanic&rsquo;s tool bag with enhanced features. Crafted from tough denier polyester, the Tactical Tool Bag boasts a main zippered compartment with individual slots for tools, 2 small external zippered pouches, and a rear drop-down compartment with pen/flashlight slots, card holders, and a removable pouch. The bag also includes MOLLE loops on the back and sides for additional attachments. Compact yet spacious, the equipment bag measures 11.25 inches x 8 inches x 6.75 inches. With a large external zippered pouch featuring an identification window on the front and a convenient carry handle, the Tactical Tool Bag is ideal for professionals and enthusiasts alike.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "221"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14781",
+      "item_index": "3805",
+      "rothco_item_no": "9775",
+      "upc": "613902977518",
+      "inventory": "99",
+      "created_date": "2014-09-17 11:10:02",
+      "weight": "1.9000",
+      "image_filename": "9775-Black-C-amazon.jpg",
+      "catalog_page_no": "321",
+      "msrp": 46.99,
+      "ship_length": "12.5000",
+      "ship_width": "7.0000",
+      "ship_height": "6.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 20.95,
+      "case_price": 20.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14782",
+      "item_index": "3805",
+      "rothco_item_no": "9775",
+      "upc": "613902977532",
+      "inventory": "99",
+      "created_date": "2014-09-17 11:10:02",
+      "weight": "1.9000",
+      "image_filename": "9775-A-amazon.jpg",
+      "catalog_page_no": "321",
+      "msrp": 46.99,
+      "ship_length": "12.5000",
+      "ship_width": "7.0000",
+      "ship_height": "6.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 20.95,
+      "case_price": 20.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18478",
+      "item_index": "3805",
+      "rothco_item_no": "9775",
+      "upc": "613902597754",
+      "inventory": "99",
+      "created_date": "2018-05-15 11:10:03",
+      "weight": "1.9000",
+      "image_filename": "9775-Coyote-J-amazon.jpg",
+      "catalog_page_no": "321",
+      "msrp": 46.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 20.95,
+      "case_price": 20.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

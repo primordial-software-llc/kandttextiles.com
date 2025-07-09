@@ -1,0 +1,41 @@
+{
+  "item_index": "1770",
+  "item_name": "Rothco Neck Knife With Sheath",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": "0",
+  "sort_order": "482",
+  "description": "<p>Rothco's Neck Knife With Sheath features a partially serrated blade with bead blast finish, ABS plastic sheath with chain.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "295",
+    "300"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2418",
+      "item_index": "1770",
+      "rothco_item_no": "3671",
+      "upc": "613902367104",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1688",
+      "image_filename": "3671-hr1.jpg",
+      "catalog_page_no": "272",
+      "msrp": 25.99,
+      "ship_length": "6.2500",
+      "ship_width": "2.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

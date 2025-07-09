@@ -1,0 +1,95 @@
+{
+  "item_index": "3602",
+  "item_name": "Rothco Tactical MOLLE Rifle Scabbard",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Tactical MOLLE Rifle Scabbard ensures effortless transportation of long rifles. This padded rifle case provides additional protection for your firearm, including the scope. Featuring a removable snap carry handle and detachable adjustable shoulder strap, it offers convenient carrying options. With 6 rows of MOLLE webbing and 2 D-rings, it enables mounting of tactical accessories. The quick-release web strap provides easy access to your rifle.</p>",
+  "no_ratings": null,
+  "sort_order": "2286",
+  "description": "<p>Rothco&rsquo;s Tactical MOLLE Rifle Scabbard ensures effortless transportation of long rifles. This padded rifle case provides additional protection for your firearm, including the scope. Featuring a removable snap carry handle and detachable adjustable shoulder strap, it offers convenient carrying options. With 6 rows of MOLLE webbing and 2 D-rings, it enables mounting of tactical accessories. The quick-release web strap provides easy access to your rifle. Adjustable to fit various barrel lengths, the scabbard features an extended zipper and 2 snap closures. Ideal for storage and transportation, it has an opening measuring 10.5 inches and an overall length of 29.5 inches, along with a grommet drain hole for added convenience.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "140",
+    "248",
+    "250"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "13333",
+      "item_index": "3602",
+      "rothco_item_no": "15910",
+      "upc": "613902159105",
+      "inventory": "99",
+      "created_date": "2013-10-27 01:15:17",
+      "weight": "2.2500",
+      "image_filename": "15910-B-amazon.jpg",
+      "catalog_page_no": "260",
+      "msrp": 43.99,
+      "ship_length": "22.7500",
+      "ship_width": "11.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 19.5,
+      "case_price": 19.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14760",
+      "item_index": "3602",
+      "rothco_item_no": "15911",
+      "upc": "613902559110",
+      "inventory": "99",
+      "created_date": "2014-09-12 16:10:02",
+      "weight": "2.2500",
+      "image_filename": "15911-A-amazon1.jpg",
+      "catalog_page_no": "260",
+      "msrp": 43.99,
+      "ship_length": "22.7500",
+      "ship_width": "11.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 19.5,
+      "case_price": 19.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19922",
+      "item_index": "3602",
+      "rothco_item_no": "15913",
+      "upc": "613902159136",
+      "inventory": "66",
+      "created_date": "2020-09-25 16:00:07",
+      "weight": "2.2500",
+      "image_filename": "15913-B-amazon.jpg",
+      "catalog_page_no": "260",
+      "msrp": 79.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 35.95,
+      "case_price": 35.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

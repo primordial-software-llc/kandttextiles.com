@@ -1,0 +1,70 @@
+{
+  "item_index": "2338",
+  "item_name": "Rothco Mini Pistol Belts",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Mini Pistol Belts are a compact and durable version of our classic military pistol belt. Crafted from high-quality polyester material, these belts maintain the strength and functionality of their larger counterparts, originally designed to support and carry pistols. Measuring 1 1/4\" wide and adjustable up to 50\" in length, the Mini Pistol Belt ensures a comfortable fit for waist sizes up to 46\". Featuring a reliable metal clip closure, this belt provides secure wear and pairs seamlessly with BDU uniform pants or tactical gear.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "1226",
+  "description": "<p>Rothco's Mini Pistol Belts are a compact and durable version of our classic military pistol belt. Crafted from high-quality polyester material, these belts maintain the strength and functionality of their larger counterparts, originally designed to support and carry pistols. Measuring 1 1/4\" wide and adjustable up to 50\" in length, the Mini Pistol Belt ensures a comfortable fit for waist sizes up to 46\". Featuring a reliable metal clip closure, this belt provides secure wear and pairs seamlessly with BDU uniform pants or tactical gear.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "382"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10523",
+      "item_index": "2338",
+      "rothco_item_no": "9035",
+      "upc": "613902903500",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2750",
+      "image_filename": "9035-B-amazon.jpg",
+      "catalog_page_no": "310",
+      "msrp": 12.99,
+      "ship_length": "8.2500",
+      "ship_width": "2.0000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 4.95,
+      "case_price": 4.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10524",
+      "item_index": "2338",
+      "rothco_item_no": "9036",
+      "upc": "613902903609",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2800",
+      "image_filename": "9036-B-amazon.jpg",
+      "catalog_page_no": "310",
+      "msrp": 12.99,
+      "ship_length": "8.2500",
+      "ship_width": "2.0000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 4.95,
+      "case_price": 4.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

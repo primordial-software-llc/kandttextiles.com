@@ -1,0 +1,149 @@
+{
+  "item_index": "4515",
+  "item_name": "Rothco Striped Outdoor Wool Blanket",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Inspired by the reliably warm wool blankets used by the U.S. Military, Rothco&rsquo;s Striped Outdoor Wool Blanket helps you brave the elements during camping trips, outdoor adventures, tailgate parties, festivals and concerts, or during any day-to-day use. Our hardy wool blankets easily conquer the wildness, giving you a place to relax and enjoy the moment.</p>",
+  "no_ratings": null,
+  "sort_order": "132828",
+  "description": "<p>Rothco presents the Striped Outdoor Wool Blanket. As a staple for reliable warmth and protection, wool blankets help you brave the elements during camping trips, outdoor adventures, tailgate parties, festivals and concerts, or during any day-to-day use. Our hardy wool blankets easily conquer the wildness, giving you a place to relax and enjoy the moment. A Spark of Ingenuity: These outdoor wool blankets are made of a natural fire-retardant material. Pack it along with your other survival gear, as it doubles as an emergency blanket. The striped pattern adds a flare of personality and style. Built to Last: Constructed with a heavyweight, yet breathable and comfortable synthetic wool blend, these camping blankets provide instant warmth, even on the go. These warm wool blankets are designed to keep you dry and insulate your body heat. The Pico stitching around the edges also aids in the rugged, long-lasting use of these outdoor throw blankets. Limitless Applications &amp; Uses: These outdoor emergency blankets work well in a variety of environments, including sand and snow. Whether it&rsquo;s to help keep you dry as you dig out your car&rsquo;s tire on a cold winter day, or lounge around on the beach as you wait for the grill, these outdoor camping blankets are great to keep on hand, especially for those with active lifestyles. The Perfect Size: Measuring at 62 inch x 80 inch, our easily transportable blankets are perfect to use alone or with another person. Even with a heavyweight composition, these blankets are easy to fold and compact. Conveniently store it in your backpack, survival bag, or car.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "542",
+    "261",
+    "272"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18686",
+      "item_index": "4515",
+      "rothco_item_no": "1081",
+      "upc": "613902108103",
+      "inventory": "99",
+      "created_date": "2018-10-19 10:10:00",
+      "weight": "3.4000",
+      "image_filename": "1081-A-amazon2.jpg",
+      "catalog_page_no": "305",
+      "msrp": 30.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue / Gold",
+        "size": "One Size"
+      },
+      "color": "Navy Blue / Gold",
+      "size": "One Size",
+      "price": 13.95,
+      "case_price": 13.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20090",
+      "item_index": "4515",
+      "rothco_item_no": "1095",
+      "upc": "613902109506",
+      "inventory": "99",
+      "created_date": "2020-12-14 09:00:20",
+      "weight": "3.4000",
+      "image_filename": "1095-D-amazon.jpg",
+      "catalog_page_no": "305",
+      "msrp": 30.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Navy Blue / Red"
+      },
+      "size": "One Size",
+      "color": "Navy Blue / Red",
+      "price": 13.95,
+      "case_price": 13.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20091",
+      "item_index": "4515",
+      "rothco_item_no": "1096",
+      "upc": "613902109605",
+      "inventory": "99",
+      "created_date": "2020-12-14 09:00:20",
+      "weight": "3.4000",
+      "image_filename": "1096-D-amazon.jpg",
+      "catalog_page_no": "305",
+      "msrp": 30.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Grey / Red"
+      },
+      "size": "One Size",
+      "color": "Grey / Red",
+      "price": 13.95,
+      "case_price": 13.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22193",
+      "item_index": "4515",
+      "rothco_item_no": "11095",
+      "upc": "613902020740",
+      "inventory": "99",
+      "created_date": "2022-09-08 16:00:25",
+      "weight": "0.0000",
+      "image_filename": "11095-B.jpg",
+      "catalog_page_no": "305",
+      "msrp": 30.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red / Navy Blue"
+      },
+      "color": "Red / Navy Blue",
+      "price": 13.95,
+      "case_price": 13.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22194",
+      "item_index": "4515",
+      "rothco_item_no": "11096",
+      "upc": "613902020757",
+      "inventory": "99",
+      "created_date": "2022-09-08 16:00:25",
+      "weight": "0.0000",
+      "image_filename": "11096-B.jpg",
+      "catalog_page_no": "305",
+      "msrp": 30.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Brown / Tan"
+      },
+      "color": "Brown / Tan",
+      "price": 13.95,
+      "case_price": 13.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

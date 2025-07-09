@@ -1,0 +1,80 @@
+{
+  "item_index": "5103",
+  "item_name": "Rothco Midnight Camo Tactical Operator Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=mi96injXyFc",
+  "rating": "5",
+  "item_short_desc": "<p>In addition to shielding your eyes from the sun&rsquo;s rays, our Midnight Camo Tactical Operator Cap provides the tactical functionality you need in the field. This operator hat features 3 separate loop fields: the front is for displaying flag and morale patches, the top is for attaching an IR marker, and the back is for mounting name tape.</p>",
+  "no_ratings": null,
+  "sort_order": "133392",
+  "description": "<p>In addition to shielding your eyes from the sun&rsquo;s rays, our Midnight Camo Tactical Operator Cap provides the tactical functionality you need in the field. This operator hat features 3 separate loop fields: the front is for displaying flag and morale patches, the top is for attaching an IR marker, and the back is for mounting name tape. Ultimate Stealth Ops Camo: Inspired by stealth operations that require zero visibility to the opposition, Rothco has reinvented the classic Woodland Camouflage Pattern as well as our bestselling Black Camouflage Pattern to bring you the Midnight Camo Collection. The subdued color combinations offer a true stealth, sharp and sleek appearance whether on mission or off. Rugged &amp; Long-Lasting: These outdoor hats are built with a breathable 55% cotton / 45% polyester blend for unmatched resiliency and easy-to-care-for maintenance. These tactical field hats are not afraid to get down and dirty while out in the wilderness. Keep Cool, Stay Focused: This tactical camo cap features 4 reinforced vents on the top to help circulate airflow around your head, allowing you to focus on the task at hand. One Size Fits Most: Our tactical operator hats use an adjustable hook &amp; loop strap for a snug fit that is perfect for most head sizes, ensuring the camouflage cap stays in place. Got You Covered: Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and coverage for everyone from active-duty personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "737",
+    "2",
+    "83",
+    "674"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "23245",
+      "item_index": "5103",
+      "rothco_item_no": "12105",
+      "upc": "613902034464",
+      "inventory": "99",
+      "created_date": "2023-08-03 16:59:54",
+      "weight": "0.0000",
+      "image_filename": "12105-C1.jpg",
+      "catalog_page_no": "146",
+      "msrp": 10.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Midnight Woodland Camo",
+        "size": "One Size"
+      },
+      "color": "Midnight Woodland Camo",
+      "size": "One Size",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "23246",
+      "item_index": "5103",
+      "rothco_item_no": "12005",
+      "upc": "613902034280",
+      "inventory": "99",
+      "created_date": "2023-08-03 16:59:54",
+      "weight": "0.2000",
+      "image_filename": "12005-C1.jpg",
+      "catalog_page_no": "146",
+      "msrp": 10.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Midnight Black Camo",
+        "size": "One Size"
+      },
+      "color": "Midnight Black Camo",
+      "size": "One Size",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    }
+  ]
+}

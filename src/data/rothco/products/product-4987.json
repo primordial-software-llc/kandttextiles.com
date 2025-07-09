@@ -1,0 +1,70 @@
+{
+  "item_index": "4987",
+  "item_name": "Rothco Collapsible 4 Leg Camp Stool",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Take a seat in the great outdoors with Rothco&rsquo;s Collapsible 4 Leg Camp Stool. This powerful portable stool features a rugged double-layered composition and folds into an included storage pouch for easy carrying.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133300",
+  "description": "<p>Take a seat in the great outdoors with Rothco&rsquo;s Collapsible 4 Leg Camp Stool. This powerful portable stool features a rugged double-layered composition and folds into an included storage pouch for easy carrying. Powder-coated steel legs on the camp stool prevent rust and protect against the elements The large seating platform accommodates up to 300lbs (Backpacking stool measures 12.5 inches x 12.5 inches x 13.7 inches). A convenient side pocket is great for holding cell phones, drinks, snacks, and more in the folding stool.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "261",
+    "273"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "22468",
+      "item_index": "4987",
+      "rothco_item_no": "45480",
+      "upc": "613902023666",
+      "inventory": "99",
+      "created_date": "2022-11-22 12:00:25",
+      "weight": "0.0000",
+      "image_filename": "45480-A1.jpg",
+      "catalog_page_no": "301",
+      "msrp": 25.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 11.5,
+      "case_price": 11.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22469",
+      "item_index": "4987",
+      "rothco_item_no": "45481",
+      "upc": "613902023598",
+      "inventory": "99",
+      "created_date": "2022-11-22 12:00:25",
+      "weight": "0.0000",
+      "image_filename": "45480-A.jpg",
+      "catalog_page_no": "301",
+      "msrp": 25.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 11.5,
+      "case_price": 11.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

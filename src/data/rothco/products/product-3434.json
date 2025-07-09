@@ -1,0 +1,40 @@
+{
+  "item_index": "3434",
+  "item_name": "Kiwi Express Sponge",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Kiwi Express Shine Sponge provides a fast and easy way to maintain the shine of your shoes without the need for buffing. This convenient sponge is equipped with a no-mess dosage reservoir system, ensuring the perfect amount of polish every time. Simply apply the sponge to your shoes for an immediate shine that keeps your footwear looking polished and professional. Ideal for busy individuals, the Kiwi Express Shine Sponge delivers consistent results, making it an essential tool for maintaining your shoes on the go.</p>",
+  "no_ratings": null,
+  "sort_order": "525",
+  "description": "<p>The Kiwi Express Shine Sponge provides a fast and easy way to maintain the shine of your shoes without the need for buffing. This convenient sponge is equipped with a no-mess dosage reservoir system, ensuring the perfect amount of polish every time. Simply apply the sponge to your shoes for an immediate shine that keeps your footwear looking polished and professional. Ideal for busy individuals, the Kiwi Express Shine Sponge delivers consistent results, making it an essential tool for maintaining your shoes on the go. Please note that this item has shipping restrictions due to its hazmat status and cannot be shipped via air freight.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "362"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12604",
+      "item_index": "3434",
+      "rothco_item_no": "10102",
+      "upc": "031600184012",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2200",
+      "image_filename": "10102-A.jpg",
+      "catalog_page_no": "184",
+      "msrp": 14.99,
+      "ship_length": "4.0000",
+      "ship_width": "3.0000",
+      "ship_height": "2.2500",
+      "eta_date": null,
+      "specs": [],
+      "price": 5.95,
+      "case_price": 5.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

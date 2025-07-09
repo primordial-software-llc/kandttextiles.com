@@ -1,0 +1,40 @@
+{
+  "item_index": "1798",
+  "item_name": "MasterLock Padlock",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Masterlock Padlock features a ward locking mechanism that minimizes jamming from dirt and grime, ensuring reliability in any environment. Its wide laminated body and shackle provide robust cut resistance, while being rustproofed for extended durability. Each lock is keyed differently, offering added security for your peace of mind.</p>",
+  "no_ratings": "0",
+  "sort_order": "296",
+  "description": "<p>Masterlock Padlock features a ward locking mechanism that minimizes jamming from dirt and grime, ensuring reliability in any environment. Its wide laminated body and shackle provide robust cut resistance, while being rustproofed for extended durability. Each lock is keyed differently, offering added security for your peace of mind.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "239"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15",
+      "item_index": "1798",
+      "rothco_item_no": "10022",
+      "upc": "071649380709",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3500",
+      "image_filename": "10022-B-amazon.jpg",
+      "catalog_page_no": "219",
+      "msrp": 11.99,
+      "ship_length": "5.5000",
+      "ship_width": "3.5000",
+      "ship_height": "5.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "item_index": "1315",
+  "item_name": "Rothco Canvas Long Weekend Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=ooHQyviBQBg",
+  "rating": "5",
+  "item_short_desc": "<p>Experience the perfect blend of style and functionality with Rothco's Canvas Long Weekend Bag. Designed for your getaway essentials, this bag features a large main compartment measuring 12 inch x 11 inch x 23 inch, ensuring ample space for your next adventure. Constructed from robust yet soft cotton canvas, it offers long-lasting durability. The lined polyvinyl inner bottom protects your belongings from getting wet. 2 large side zippered pockets provide convenient storage for toiletries, shoes, and electronics.</p>",
+  "no_ratings": "0",
+  "sort_order": "1620",
+  "description": "<p>Experience the perfect blend of style and functionality with Rothco's Canvas Long Weekend Bag. Designed for your getaway essentials, this bag features a large main compartment measuring 12 inch x 11 inch x 23 inch, ensuring ample space for your next adventure. Constructed from robust yet soft cotton canvas, it offers long-lasting durability. The lined polyvinyl inner bottom protects your belongings from getting wet. 2 large side zippered pockets provide convenient storage for toiletries, shoes, and electronics, while the front zippered pouch with flap and push-button buckles keeps important travel documents safe and easily accessible on the go. The reinforced top and dual side carry handles, adorned with leather trim, add a touch of sophistication. Leather zipper pulls and accents complete the look, making it a stylish travel companion. Versatile and practical, this bag is perfect for weekend trips and makes an excellent gift. Its spacious design is suitable for screen printing and embroidery, allowing you to personalize it with your unique style. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "215",
+    "211",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "11198",
+      "item_index": "1315",
+      "rothco_item_no": "9689",
+      "upc": "613902968905",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.5500",
+      "image_filename": "9689-A-amazon.jpg",
+      "catalog_page_no": "335",
+      "msrp": 90.99,
+      "ship_length": "20.0000",
+      "ship_width": "12.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Brown"
+      },
+      "color": "Brown",
+      "price": 43.95,
+      "case_price": 43.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12665",
+      "item_index": "1315",
+      "rothco_item_no": "9611",
+      "upc": "613902961197",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.5000",
+      "image_filename": "9611-A-amazon.jpg",
+      "catalog_page_no": "335",
+      "msrp": 90.99,
+      "ship_length": "20.0000",
+      "ship_width": "12.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 43.95,
+      "case_price": 43.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16819",
+      "item_index": "1315",
+      "rothco_item_no": "8789",
+      "upc": "613902087897",
+      "inventory": "99",
+      "created_date": "2016-12-19 12:10:01",
+      "weight": "3.5000",
+      "image_filename": "8789-A-amazon2.jpg",
+      "catalog_page_no": "335",
+      "msrp": 90.99,
+      "ship_length": "20.0000",
+      "ship_width": "12.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 43.95,
+      "case_price": 43.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18984",
+      "item_index": "1315",
+      "rothco_item_no": "9687",
+      "upc": "613902968707",
+      "inventory": "99",
+      "created_date": "2019-04-29 12:10:01",
+      "weight": "3.5500",
+      "image_filename": "9687-A-amazon.jpg",
+      "catalog_page_no": "335",
+      "msrp": 90.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 43.95,
+      "case_price": 43.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21061",
+      "item_index": "1315",
+      "rothco_item_no": "96110",
+      "upc": "613902007765",
+      "inventory": "98",
+      "created_date": "2021-12-01 15:00:17",
+      "weight": "3.5000",
+      "image_filename": "96110-A-no-logo.jpg",
+      "catalog_page_no": "335",
+      "msrp": 90.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Charcoal Grey"
+      },
+      "color": "Charcoal Grey",
+      "price": 43.95,
+      "case_price": 43.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

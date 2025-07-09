@@ -1,0 +1,43 @@
+{
+  "item_index": "4956",
+  "item_name": "Rothco Tactical Squadron Cap - MultiCam",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Tactical Squadron Cap is a lightweight tactical military hat that features no loop field for a clean and classic military appearance.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133269",
+  "description": "<p>Rothco&rsquo;s Tactical Squadron Cap is a lightweight tactical military hat that features no loop field for a clean and classic military appearance. The tactical cap is constructed with a lightweight yet durable polycotton material composition for years of wear. The baseball style military hat with four reinforced vent holes that encourage optimal cooling airflow, and also features a hook and loop back closure on the tactical hat accommodates most head sizes. The crown of the military baseball cap features a loop patch for attaching an IR marker (measures 1.13 inches x 1 inch), while the back features loop field for attaching name tape (measures 3.75 inches x 1 inch). The tactical military cap also features an internal sweatband for added comfort.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "674"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "21938",
+      "item_index": "4956",
+      "rothco_item_no": "43620",
+      "upc": "613902017276",
+      "inventory": "99",
+      "created_date": "2022-06-02 09:00:25",
+      "weight": "0.2000",
+      "image_filename": "43620-A.jpg",
+      "catalog_page_no": "145",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size"
+      },
+      "size": "One Size",
+      "price": 7.95,
+      "case_price": 7.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

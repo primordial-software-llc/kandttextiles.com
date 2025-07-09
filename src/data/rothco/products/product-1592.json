@@ -1,0 +1,40 @@
+{
+  "item_index": "1592",
+  "item_name": "Rothco 9th Corps Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": "0",
+  "sort_order": "36",
+  "description": "Rothco's 9th Corps Military Patch is part of Rothco's military patch collection. The patch is US made.",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "423"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8147",
+      "item_index": "1592",
+      "rothco_item_no": "72147",
+      "upc": "613902721470",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3000",
+      "image_filename": "72147-A-amazon.jpg",
+      "catalog_page_no": "215",
+      "msrp": 2.99,
+      "ship_length": "4.0000",
+      "ship_width": "3.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 0.95,
+      "case_price": 0.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

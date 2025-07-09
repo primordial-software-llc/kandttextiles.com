@@ -1,0 +1,75 @@
+{
+  "item_index": "4727",
+  "item_name": "Rothco Military Ditty Bag - 16 Inches x 19 Inches",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Canvas Ditty Bag is your go-to solution for carrying and organizing odds and ends on your adventures. Made from durable canvas material, this lightweight bag is ideal for road trips, camping, boat rides, or simply as a laundry bag. The drawstring closure ensures secure storage, while the two metal eyelets provide reinforcement to prevent wear and tear on the strings. The bag measures 16 inc x 19 inch, and features a bold print on the front that reads &ldquo;8415-01-082-7123 BAG, DITTY&rdquo; for added character.</p>",
+  "no_ratings": null,
+  "sort_order": "133040",
+  "description": "<p>Rothco&rsquo;s Canvas Ditty Bag is your go-to solution for carrying and organizing odds and ends on your adventures. Made from durable canvas material, this lightweight bag is ideal for road trips, camping, boat rides, or simply as a laundry bag. The drawstring closure ensures secure storage, while the two metal eyelets provide reinforcement to prevent wear and tear on the strings. The bag measures 16 inc x 19 inch, and features a bold print on the front that reads &ldquo;8415-01-082-7123 BAG, DITTY&rdquo; for added character. Whether you&rsquo;re packing essentials for a weekend getaway or keeping your gear organized on a long journey, this versatile pouch is designed for reliability and convenience.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "212",
+    "213",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19845",
+      "item_index": "4727",
+      "rothco_item_no": "2573",
+      "upc": "613902257306",
+      "inventory": "99",
+      "created_date": "2020-07-16 16:00:22",
+      "weight": "0.8000",
+      "image_filename": "2573-A1.jpg",
+      "catalog_page_no": "367",
+      "msrp": 9.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "16 x 19 Inches"
+      },
+      "color": "Olive Drab",
+      "size": "16 x 19 Inches",
+      "price": 3.75,
+      "case_price": 3.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19846",
+      "item_index": "4727",
+      "rothco_item_no": "2673",
+      "upc": "613902267305",
+      "inventory": "99",
+      "created_date": "2020-07-16 16:00:22",
+      "weight": "0.3700",
+      "image_filename": "2673-A-AMAZON.jpg",
+      "catalog_page_no": "367",
+      "msrp": 9.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "16 x 19 Inches"
+      },
+      "color": "Coyote Brown",
+      "size": "16 x 19 Inches",
+      "price": 3.75,
+      "case_price": 3.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "item_index": "3997",
+  "item_name": "Rothco 2\" Triple Retention Buckle",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Triple Retention Buckle is expertly crafted to provide superior security and reliability, modeled after our best-selling Deluxe Duty Belt. This 2-inch buckle features a triple retention system, including a side and center push button release, ensuring a secure hold while allowing for quick and easy access when needed. Designed to fit belts up to 2 inches wide, making it ideal for law enforcement, security personnel, and tactical enthusiasts who require gear they can trust.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "339",
+  "description": "<p>Rothco's Triple Retention Buckle is expertly crafted to provide superior security and reliability, modeled after our best-selling Deluxe Duty Belt. This 2-inch buckle features a triple retention system, including a side and center push button release, ensuring a secure hold while allowing for quick and easy access when needed. Designed to fit belts up to 2 inches wide, it delivers exceptional performance in demanding environments, making it ideal for law enforcement, security personnel, and tactical enthusiasts who require gear they can trust.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "239",
+    "382"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15592",
+      "item_index": "3997",
+      "rothco_item_no": "2501",
+      "upc": "613902250116",
+      "inventory": "99",
+      "created_date": "2015-08-27 17:10:01",
+      "weight": "0.0813",
+      "image_filename": "2501-A-amazon.jpg",
+      "catalog_page_no": "228",
+      "msrp": 3.99,
+      "ship_length": "3.2500",
+      "ship_width": "2.2500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size"
+      },
+      "size": "One Size",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

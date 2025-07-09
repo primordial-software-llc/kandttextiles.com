@@ -1,0 +1,94 @@
+{
+  "item_index": "4800",
+  "item_name": "Rothco MOLLE Open Top Double Mag Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=LO_nnM9gHSU",
+  "rating": "5",
+  "item_short_desc": "<p>Safely secure your spare mags at the range with Rothco&rsquo;s MOLLE Open Top Double Mag Pouch.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133113",
+  "description": "<p>Safely secure your spare mags at the range with Rothco&rsquo;s MOLLE Open Top Double Mag Pouch. This MOLLE compatible double magazine pouch with four MOLLE straps on the back and six MOLLE loops on the front for securing to tactical vests, assault packs, duty belts, or anything with a MOLLE panel. The mag pouch features elastic cord closures with pull tabs that enable rapid access to your ammo. Rothco&rsquo;s tactical magazine pouch reliably fits standard-sized M-16 mags, AK-47 mags, and more.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "254",
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20302",
+      "item_index": "4800",
+      "rothco_item_no": "31004",
+      "upc": "613902310049",
+      "inventory": "99",
+      "created_date": "2021-02-02 10:00:25",
+      "weight": "0.3000",
+      "image_filename": "31004-A-no-logo.jpg",
+      "catalog_page_no": "243",
+      "msrp": 25.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 9.9,
+      "case_price": 9.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20303",
+      "item_index": "4800",
+      "rothco_item_no": "31005",
+      "upc": "613902310056",
+      "inventory": "99",
+      "created_date": "2021-02-02 10:00:25",
+      "weight": "0.3000",
+      "image_filename": "31005-A-NOLOGO.jpg",
+      "catalog_page_no": "243",
+      "msrp": 25.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 9.9,
+      "case_price": 9.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20319",
+      "item_index": "4800",
+      "rothco_item_no": "31006",
+      "upc": "613902310063",
+      "inventory": "99",
+      "created_date": "2021-02-02 12:00:08",
+      "weight": "0.3000",
+      "image_filename": "31006-A-no-logo.jpg",
+      "catalog_page_no": "243",
+      "msrp": 28.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 12.9,
+      "case_price": 12.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

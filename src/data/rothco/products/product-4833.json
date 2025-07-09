@@ -1,0 +1,94 @@
+{
+  "item_index": "4833",
+  "item_name": "Rothco XL Roll-Up Utility Dump Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Add essential storage to your tactical loadout with Rothco&rsquo;s XL MOLLE Roll-Up Utility Dump Pouch. This MOLLE pouch is perfect for mounting on tactical vests, assault packs, and more.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133146",
+  "description": "<p>Add essential storage to your MOLLE loadout with Rothco&rsquo;s XL MOLLE Roll-Up Utility Dump Pouch. This MOLLE pouch is perfect for mounting on tactical vests, assault packs, and more. The MOLLE compatible dump oiych is great for storing empty mags (measures 12 inches high x 6 inches in diameter). Contents of the MOLLE pouch are secured with an elastic drawstring, two cord locks, and a hook and loop closure. The top flap of the MOLLE attachment features a hook and loop closure for holding open while in use. The pouch also can fold, roll up, and be secured closed with a hook and loop closure for compact storage. This MOLLE pouch is perfect for soldiers, public safety professionals, MilSim players, and more.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "306",
+    "333"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20733",
+      "item_index": "4833",
+      "rothco_item_no": "51013",
+      "upc": "613902003187",
+      "inventory": "99",
+      "created_date": "2021-05-25 13:00:08",
+      "weight": "0.5000",
+      "image_filename": "51013-A-no-logo.jpg",
+      "catalog_page_no": "246",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 7.95,
+      "case_price": 7.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20734",
+      "item_index": "4833",
+      "rothco_item_no": "51014",
+      "upc": "613902003194",
+      "inventory": "99",
+      "created_date": "2021-05-25 13:00:08",
+      "weight": "0.5000",
+      "image_filename": "51014-A-no-logo.jpg",
+      "catalog_page_no": "246",
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 7.95,
+      "case_price": 7.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20860",
+      "item_index": "4833",
+      "rothco_item_no": "51017",
+      "upc": "613902004573",
+      "inventory": "99",
+      "created_date": "2021-07-14 09:00:00",
+      "weight": "0.5000",
+      "image_filename": "51017-A-NOLOGO.jpg",
+      "catalog_page_no": "246",
+      "msrp": 37.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 16.95,
+      "case_price": 16.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

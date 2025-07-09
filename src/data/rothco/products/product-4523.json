@@ -1,0 +1,73 @@
+{
+  "item_index": "4523",
+  "item_name": "Rothco Long Journey Canvas Travel Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Long Journey Canvas Travel Bag is a versatile and durable travel companion, crafted from rugged 22oz unwashed cotton canvas to handle all your travel needs. The spacious main compartment features a U-shaped zipper opening, making it easy to access and organize your belongings, while 2 zippered side pockets and 2 front flap pockets offer additional storage for smaller essentials. Designed with style &amp; durability in mind, the bag&rsquo;s leather accents and brass hardware add a touch of sophistication.</p>",
+  "no_ratings": null,
+  "sort_order": "132836",
+  "description": "<p>Rothco&rsquo;s Long Journey Canvas Travel Bag is a versatile and durable travel companion, crafted from rugged 22oz unwashed cotton canvas to handle all your travel needs. The spacious main compartment features a U-shaped zipper opening, making it easy to access and organize your belongings, while 2 zippered side pockets and 2 front flap pockets offer additional storage for smaller essentials. Designed with style and durability in mind, the bag&rsquo;s leather accents and brass hardware add a touch of sophistication, ensuring you travel in style. For comfortable carrying, the bag includes an adjustable shoulder strap with padding and dual carry handles. Whether for a weekend trip or an extended journey, Rothco&rsquo;s Long Journey Travel Bag provides the storage and resilience needed for your adventures. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "215",
+    "577",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18746",
+      "item_index": "4523",
+      "rothco_item_no": "5953",
+      "upc": "613902595309",
+      "inventory": "99",
+      "created_date": "2018-11-16 12:10:00",
+      "weight": "3.3400",
+      "image_filename": "5953-A-amazon1.jpg",
+      "catalog_page_no": "335",
+      "msrp": 76.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 34.95,
+      "case_price": 34.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22197",
+      "item_index": "4523",
+      "rothco_item_no": "59530",
+      "upc": "613902020832",
+      "inventory": "99",
+      "created_date": "2022-09-08 16:00:25",
+      "weight": "0.0000",
+      "image_filename": "59530-A.jpg",
+      "catalog_page_no": "335",
+      "msrp": 76.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Brown"
+      },
+      "color": "Brown",
+      "price": 34.95,
+      "case_price": 34.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "item_index": "4851",
+  "item_name": "Sabre Home & Away Protection Kit",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The SABRE Home Defense Pepper Gel contains 17 bursts for protection against multiple threats and has a long, 17-foot (5 meters) range for protection at a safe distance. Pepper gel is safe to use indoors as it does not atomize like traditional pepper sprays and is deployed in a powerful gel stream, virtually eliminating wind blowback.</p>",
+  "no_ratings": null,
+  "sort_order": "133164",
+  "description": "<p>The SABRE Home Defense Pepper Gel contains 17 bursts for protection against multiple threats and has a long, 17-foot (5 meters) range for protection at a safe distance. Pepper gel is safe to use indoors as it does not atomize like traditional pepper sprays and is deployed in a powerful gel stream, virtually eliminating wind blowback. UV marking dye helps the authorities identify an attacker after they&rsquo;re sprayed. The SABRE Home Defense Pepper Gel also features a glow-in-the-dark twist lock safety to prevent an accidental discharge while making it easier to locate your protection at night. Use the included wall mount clip to strategically place your pepper gel in an easily accessible location that is out of the reach of children. The SABRE Pepper Spray has 25 bursts (5X the competition) and has a 10-foot (3 meters) range. An ergonomic finger grip assists with an aim and helps to ensure the pepper spray is pointed in the right direction. It also features a twist-lock safety and comes with a Quick Release Key Ring for easy carrying and fast access to protection in an emergency.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "244"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20802",
+      "item_index": "4851",
+      "rothco_item_no": "11028",
+      "upc": "023063105390",
+      "inventory": "22",
+      "created_date": "2021-06-24 13:00:13",
+      "weight": "0.2000",
+      "image_filename": "11028-A-no-logo.jpg",
+      "catalog_page_no": "222",
+      "msrp": 39.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 15.95,
+      "case_price": 15.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

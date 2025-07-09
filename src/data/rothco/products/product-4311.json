@@ -1,0 +1,213 @@
+{
+  "item_index": "4311",
+  "item_name": "Rothco Thin Blue Line Silicone Ring",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Thin Blue Line Silicone Ring is designed for law enforcement professionals who need a safe, durable alternative to traditional metal rings. Crafted from medical-grade silicone, this patriotic ring is tough and resilient, capable of withstanding temperatures up to 150 degrees Celsius and featuring a tensile strength of 80kgf, ensuring it won&rsquo;t break under extreme tension. The non-conductive material makes it safe for various environments.</p>",
+  "no_ratings": null,
+  "sort_order": "718",
+  "description": "<p>Rothco&rsquo;s Thin Blue Line Silicone Ring is designed for law enforcement professionals who need a safe, durable alternative to traditional metal rings. Crafted from medical-grade silicone, this patriotic ring is tough and resilient, capable of withstanding temperatures up to 150 degrees Celsius and featuring a tensile strength of 80kgf, ensuring it won&rsquo;t break under extreme tension. The non-conductive material makes it safe for various environments. The black ring with a thin blue line in the center symbolizes respect and support for law enforcement officials. Additionally, proceeds from this purchase benefit families of fallen first responders, providing meaningful support to those who have made the ultimate sacrifice.</p>",
+  "selection_groups": [
+    "ring_size"
+  ],
+  "statuses": "",
+  "categories": [
+    "419"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17369",
+      "item_index": "4311",
+      "rothco_item_no": "800",
+      "upc": "613902008038",
+      "inventory": "99",
+      "created_date": "2017-05-31 12:10:03",
+      "weight": "0.0625",
+      "image_filename": "800-A-amazon.jpg",
+      "catalog_page_no": "207",
+      "msrp": 13.99,
+      "ship_length": "3.2500",
+      "ship_width": "1.2500",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "ring_size": "13"
+      },
+      "ring_size": "13",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17370",
+      "item_index": "4311",
+      "rothco_item_no": "800",
+      "upc": "613902038004",
+      "inventory": "99",
+      "created_date": "2017-05-31 12:10:03",
+      "weight": "0.0625",
+      "image_filename": "800-A-amazon.jpg",
+      "catalog_page_no": "207",
+      "msrp": 13.99,
+      "ship_length": "3.2500",
+      "ship_width": "1.2500",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "ring_size": "11"
+      },
+      "ring_size": "11",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17371",
+      "item_index": "4311",
+      "rothco_item_no": "800",
+      "upc": "613902048003",
+      "inventory": "99",
+      "created_date": "2017-05-31 12:10:03",
+      "weight": "0.0625",
+      "image_filename": "800-A-amazon.jpg",
+      "catalog_page_no": "207",
+      "msrp": 13.99,
+      "ship_length": "3.2500",
+      "ship_width": "1.2500",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "ring_size": "12"
+      },
+      "ring_size": "12",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17372",
+      "item_index": "4311",
+      "rothco_item_no": "800",
+      "upc": "613902068001",
+      "inventory": "99",
+      "created_date": "2017-05-31 12:10:03",
+      "weight": "0.0625",
+      "image_filename": "800-A-amazon.jpg",
+      "catalog_page_no": "207",
+      "msrp": 13.99,
+      "ship_length": "3.2500",
+      "ship_width": "1.2500",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "ring_size": "8"
+      },
+      "ring_size": "8",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17373",
+      "item_index": "4311",
+      "rothco_item_no": "800",
+      "upc": "613902078000",
+      "inventory": "99",
+      "created_date": "2017-05-31 12:10:03",
+      "weight": "0.0625",
+      "image_filename": "800-A-amazon.jpg",
+      "catalog_page_no": "207",
+      "msrp": 13.99,
+      "ship_length": "3.2500",
+      "ship_width": "1.2500",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "ring_size": "9"
+      },
+      "ring_size": "9",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17374",
+      "item_index": "4311",
+      "rothco_item_no": "800",
+      "upc": "613902088009",
+      "inventory": "99",
+      "created_date": "2017-05-31 12:10:03",
+      "weight": "0.0625",
+      "image_filename": "800-A-amazon.jpg",
+      "catalog_page_no": "207",
+      "msrp": 13.99,
+      "ship_length": "3.2500",
+      "ship_width": "1.2500",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "ring_size": "10"
+      },
+      "ring_size": "10",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18530",
+      "item_index": "4311",
+      "rothco_item_no": "800",
+      "upc": "613902000803",
+      "inventory": "91",
+      "created_date": "2018-06-26 13:10:01",
+      "weight": "0.0625",
+      "image_filename": "800-A-amazon.jpg",
+      "catalog_page_no": "207",
+      "msrp": 13.99,
+      "ship_length": "3.2500",
+      "ship_width": "1.2500",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "ring_size": "7"
+      },
+      "ring_size": "7",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20410",
+      "item_index": "4311",
+      "rothco_item_no": "800",
+      "upc": "613902102750",
+      "inventory": "63",
+      "created_date": "2021-03-08 10:00:25",
+      "weight": "0.0625",
+      "image_filename": "800-A-amazon.jpg",
+      "catalog_page_no": "207",
+      "msrp": 13.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "ring_size": "14"
+      },
+      "ring_size": "14",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

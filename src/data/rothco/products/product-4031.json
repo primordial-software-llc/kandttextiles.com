@@ -1,0 +1,69 @@
+{
+  "item_index": "4031",
+  "item_name": "Rothco Deluxe Fire Department Badge",
+  "has_restrictions": "1",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco Deluxe Fire Department Badge, measuring 3 1/8\" x 2 1/4\", displays the text &ldquo;Volunteer Firefighter&rdquo; on a zinc alloy shield with your choice of silver or gold plating and has a durable pin backing which allows for easy mount and removal on uniforms or other gear.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "684",
+  "description": "<p>Rothco Deluxe Fire Department Badge, measuring 3 1/8&rdquo; x 2 &frac14;&rdquo;, displays the text &ldquo;Volunteer Firefighter&rdquo; on a zinc alloy shield with your choice of a nickel or gold plating and has a durable pin backing which allows for easy mount and removal on uniforms or other gear.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "233"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15659",
+      "item_index": "4031",
+      "rothco_item_no": "1928",
+      "upc": "613902119284",
+      "inventory": "99",
+      "created_date": "2015-09-17 14:10:01",
+      "weight": "0.1500",
+      "image_filename": "1928-A-amazon1.jpg",
+      "catalog_page_no": "220",
+      "msrp": 18.99,
+      "ship_length": "3.5000",
+      "ship_width": "5.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Silver"
+      },
+      "color": "Silver",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16764",
+      "item_index": "4031",
+      "rothco_item_no": "1929",
+      "upc": "613902019294",
+      "inventory": "99",
+      "created_date": "2016-12-02 14:10:01",
+      "weight": "0.1500",
+      "image_filename": "1929-A-amazon2.jpg",
+      "catalog_page_no": "220",
+      "msrp": 18.99,
+      "ship_length": "50.0000",
+      "ship_width": "29.0000",
+      "ship_height": "29.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Gold"
+      },
+      "color": "Gold",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

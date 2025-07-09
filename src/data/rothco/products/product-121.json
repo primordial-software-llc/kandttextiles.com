@@ -1,0 +1,272 @@
+{
+  "item_index": "121",
+  "item_name": "Rothco Cross Draw MOLLE Tactical Vest",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Upgrade your gear with Rothco's Tactical Cross Draw Vest. Crafted from heavyweight polyester mesh, this adjustable vest is MOLLE compatible, providing a customizable and practical solution for field activities. Featuring 3 gear pouches, 3 gear magazine pouches, and 2 document pouches, the MOLLE vest ensures you're well-equipped and organized. The adjustable shoulder straps and drawstring waist offer a perfect fit, while the zip-up front with an adjustable gear belt adds functionality.</p>",
+  "no_ratings": "0",
+  "sort_order": "4935",
+  "description": "<p>Upgrade your gear with Rothco's Tactical Cross Draw Vest. Crafted from heavyweight polyester mesh, this adjustable vest is MOLLE compatible, providing a customizable and practical solution for field activities. Featuring 3 gear pouches, 3 gear magazine pouches, and 2 document pouches, the MOLLE vest ensures you're well-equipped and organized. The adjustable shoulder straps and drawstring waist offer a perfect fit, while the zip-up front with an adjustable gear belt adds functionality. Stay prepared and efficient with Rothco's Cross Draw MOLLE Tactical Vest.</p>",
+  "selection_groups": [
+    "color",
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "143",
+    "140",
+    "181",
+    "183",
+    "544",
+    "333"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3319",
+      "item_index": "121",
+      "rothco_item_no": "4491",
+      "upc": "613902044913",
+      "inventory": "99",
+      "created_date": "2012-06-17 21:00:00",
+      "weight": "3.6000",
+      "image_filename": "4491-A-amazon.jpg",
+      "catalog_page_no": "237",
+      "msrp": 98.99,
+      "ship_length": "20.0000",
+      "ship_width": "13.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "Regular"
+      },
+      "color": "Coyote Brown",
+      "size": "Regular",
+      "price": 44.95,
+      "case_price": 44.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Inactive",
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "6571",
+      "item_index": "121",
+      "rothco_item_no": "6384",
+      "upc": "613902638402",
+      "inventory": "99",
+      "created_date": "2011-10-02 21:00:00",
+      "weight": "3.6000",
+      "image_filename": "6384-A-amazon.jpg",
+      "catalog_page_no": "237",
+      "msrp": 142.99,
+      "ship_length": "20.0000",
+      "ship_width": "13.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam",
+        "size": "Regular"
+      },
+      "color": "MultiCam",
+      "size": "Regular",
+      "price": 64.95,
+      "case_price": 64.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Inactive",
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "6684",
+      "item_index": "121",
+      "rothco_item_no": "6491",
+      "upc": "613902649101",
+      "inventory": "99",
+      "created_date": "2009-02-12 21:00:00",
+      "weight": "3.6000",
+      "image_filename": "6491-A-amazon.jpg",
+      "catalog_page_no": "237",
+      "msrp": 98.99,
+      "ship_length": "20.0000",
+      "ship_width": "13.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "Regular"
+      },
+      "color": "Black",
+      "size": "Regular",
+      "price": 44.95,
+      "case_price": 44.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Inactive",
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "6896",
+      "item_index": "121",
+      "rothco_item_no": "6598",
+      "upc": "613902065987",
+      "inventory": "43",
+      "created_date": "2008-02-05 21:00:00",
+      "weight": "3.6000",
+      "image_filename": "6598-A-amazon.jpg",
+      "catalog_page_no": "237",
+      "msrp": 98.99,
+      "ship_length": "20.0000",
+      "ship_width": "13.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "ACU Digital Camo",
+        "size": "Regular"
+      },
+      "color": "ACU Digital Camo",
+      "size": "Regular",
+      "price": 44.95,
+      "case_price": 44.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12312",
+      "item_index": "121",
+      "rothco_item_no": "4591",
+      "upc": "613902045910",
+      "inventory": "99",
+      "created_date": "2013-06-13 15:48:59",
+      "weight": "3.6000",
+      "image_filename": "4591-A-amazon.jpg",
+      "catalog_page_no": "237",
+      "msrp": 98.99,
+      "ship_length": "20.0000",
+      "ship_width": "13.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "Regular"
+      },
+      "color": "Olive Drab",
+      "size": "Regular",
+      "price": 44.95,
+      "case_price": 44.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14816",
+      "item_index": "121",
+      "rothco_item_no": "66491",
+      "upc": "613902664913",
+      "inventory": "99",
+      "created_date": "2014-09-22 12:10:02",
+      "weight": "3.9000",
+      "image_filename": "6491-A-amazon.jpg",
+      "catalog_page_no": "237",
+      "msrp": 116.99,
+      "ship_length": "20.0000",
+      "ship_width": "13.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "2XL / 3XL"
+      },
+      "color": "Black",
+      "size": "2XL / 3XL",
+      "price": 52.95,
+      "case_price": 52.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Inactive"
+      ]
+    },
+    {
+      "item_variation_id": "17398",
+      "item_index": "121",
+      "rothco_item_no": "44491",
+      "upc": "613902444911",
+      "inventory": "79",
+      "created_date": "2017-06-01 15:10:02",
+      "weight": "3.9000",
+      "image_filename": "4491-A-amazon.jpg",
+      "catalog_page_no": "237",
+      "msrp": 116.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "2XL / 3XL"
+      },
+      "color": "Coyote Brown",
+      "size": "2XL / 3XL",
+      "price": 52.95,
+      "case_price": 52.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19933",
+      "item_index": "121",
+      "rothco_item_no": "66384",
+      "upc": "613902638419",
+      "inventory": "30",
+      "created_date": "2020-10-12 13:00:13",
+      "weight": "4.4000",
+      "image_filename": "6384-A-amazon.jpg",
+      "catalog_page_no": "237",
+      "msrp": 164.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam",
+        "size": "2XL / 3XL"
+      },
+      "color": "MultiCam",
+      "size": "2XL / 3XL",
+      "price": 74.95,
+      "case_price": 74.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19949",
+      "item_index": "121",
+      "rothco_item_no": "2391",
+      "upc": "613902023918",
+      "inventory": "99",
+      "created_date": "2020-10-19 16:00:11",
+      "weight": "4.4000",
+      "image_filename": "4591-A-amazon.jpg",
+      "catalog_page_no": "237",
+      "msrp": 116.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "2XL / 3XL"
+      },
+      "color": "Olive Drab",
+      "size": "2XL / 3XL",
+      "price": 52.95,
+      "case_price": 52.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

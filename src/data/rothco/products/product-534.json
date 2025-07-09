@@ -1,0 +1,148 @@
+{
+  "item_index": "534",
+  "item_name": "Rothco Camo Headwrap ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Camo Headwrap offers versatile protection and comfort for a variety of outdoor activities. Crafted from lightweight woven cotton, this camouflage headwrap is perfect for absorbing sweat and shielding your head from the sun. Whether you&rsquo;re a hunter, biker, construction worker, or simply enjoying the outdoors, the camo headwrap can be worn alone or under other headwear, including tactical helmets. Available in multiple camouflage patterns, it&rsquo;s a practical accessory that adapts to your needs.</p>",
+  "no_ratings": "0",
+  "sort_order": "3187",
+  "description": "<p>Rothco&rsquo;s Camo Headwrap offers versatile protection and comfort for a variety of outdoor activities. Crafted from lightweight woven cotton, this camouflage headwrap is perfect for absorbing sweat and shielding your head from the sun. Whether you&rsquo;re a hunter, biker, construction worker, or simply enjoying the outdoors, the camo headwrap can be worn alone or under other headwear, including tactical helmets. Available in multiple camouflage patterns, it&rsquo;s a practical accessory that adapts to your needs. The 1-size-fits-most design ensures a comfortable fit for everyone. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from military personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "83",
+    "155",
+    "137",
+    "138",
+    "139",
+    "154",
+    "369",
+    "683"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "4557",
+      "item_index": "534",
+      "rothco_item_no": "5130",
+      "upc": "613902513006",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "5130-hr1.jpg",
+      "catalog_page_no": "167",
+      "msrp": 6.99,
+      "ship_length": "6.5000",
+      "ship_width": "6.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 2.65,
+      "case_price": 2.65,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "4558",
+      "item_index": "534",
+      "rothco_item_no": "5131",
+      "upc": "613902513105",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "5131-hr2.jpg",
+      "catalog_page_no": "167",
+      "msrp": 6.99,
+      "ship_length": "6.5000",
+      "ship_width": "6.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "City Camo"
+      },
+      "color": "City Camo",
+      "price": 2.65,
+      "case_price": 2.65,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "4567",
+      "item_index": "534",
+      "rothco_item_no": "5142",
+      "upc": "613902514201",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "5142-b.jpg",
+      "catalog_page_no": "167",
+      "msrp": 6.99,
+      "ship_length": "6.5000",
+      "ship_width": "6.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Sky Blue Camo"
+      },
+      "color": "Sky Blue Camo",
+      "price": 2.65,
+      "case_price": 2.65,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "4570",
+      "item_index": "534",
+      "rothco_item_no": "5157",
+      "upc": "613902515703",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "5157-hr1.jpg",
+      "catalog_page_no": "167",
+      "msrp": 6.99,
+      "ship_length": "6.5000",
+      "ship_width": "6.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Tiger Stripe Camo"
+      },
+      "color": "Tiger Stripe Camo",
+      "price": 2.65,
+      "case_price": 2.65,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "4573",
+      "item_index": "534",
+      "rothco_item_no": "5166",
+      "upc": "613902516601",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0563",
+      "image_filename": "5166-hr2.jpg",
+      "catalog_page_no": "167",
+      "msrp": 6.99,
+      "ship_length": "6.5000",
+      "ship_width": "6.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Smokey Branch Camo"
+      },
+      "color": "Smokey Branch Camo",
+      "price": 2.65,
+      "case_price": 2.65,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

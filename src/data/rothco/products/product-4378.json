@@ -1,0 +1,46 @@
+{
+  "item_index": "4378",
+  "item_name": "Rothco Mesh Back Army Tactical Cap",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Mesh Army Cap has a baseball style look with raised embroidered&nbsp;Army lettering across the front panel.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "3806",
+  "description": "<p>Rothco's Mesh Army Cap has a baseball style look with raised embroidered&nbsp;Army lettering across the front&nbsp;panel. The mesh back tactical cap features&nbsp;4 mesh panels that are 100% polyester and 2 front panels which are a comfortable cotton. The Army cap has a hook and loop closure for secure fit.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "374",
+    "674"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17777",
+      "item_index": "4378",
+      "rothco_item_no": "9589",
+      "upc": "613902195899",
+      "inventory": "99",
+      "created_date": "2017-11-03 12:10:01",
+      "weight": "0.1875",
+      "image_filename": "9589-A-amazon.jpg",
+      "catalog_page_no": "145",
+      "msrp": 16.99,
+      "ship_length": "7.5000",
+      "ship_width": "8.0000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

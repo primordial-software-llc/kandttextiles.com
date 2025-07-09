@@ -1,0 +1,70 @@
+{
+  "item_index": "4996",
+  "item_name": "Rothco Fleece Hinged Vented Balaclava",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Hit the slopes or take on any winter activity with Rothco&rsquo;s Fleece Hinged Helmet Liner Balaclava! This insulating ski mask features a soft and warm polar fleece composition with a mesh mouth covering and hinged design that enables multiple ways to wear.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133309",
+  "description": "<p>Hit the slopes or take on any winter activity with Rothco&rsquo;s Fleece Hinged Helmet Liner Balaclava! This insulating ski mask features a soft and warm polar fleece composition with a mesh mouth covering and hinged design that enables multiple ways to wear. You can wear the helmet liner balaclava as a balaclava, hood, face mask, or neck gaiter. The mesh mouth covering adds breathability to prevent condensation. Extra long neck fabric is designed to keep you covered while in motion and is great for tucking into your shirt. This toasty balaclava is perfect for skiing, snowboarding, tactical use, and much more!</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "378",
+    "372"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "22513",
+      "item_index": "4996",
+      "rothco_item_no": "42035",
+      "upc": "613902024335",
+      "inventory": "99",
+      "created_date": "2022-12-08 18:00:08",
+      "weight": "0.0000",
+      "image_filename": "42035-B.jpg",
+      "catalog_page_no": "160",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 8.95,
+      "case_price": 8.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22514",
+      "item_index": "4996",
+      "rothco_item_no": "42036",
+      "upc": "613902024342",
+      "inventory": "99",
+      "created_date": "2022-12-08 18:00:08",
+      "weight": "0.0000",
+      "image_filename": "42036-C.jpg",
+      "catalog_page_no": "160",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 8.95,
+      "case_price": 8.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

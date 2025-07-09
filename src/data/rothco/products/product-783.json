@@ -1,0 +1,95 @@
+{
+  "item_index": "783",
+  "item_name": "Rothco Shotgun Shell Bandolier ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Shotgun Shell Bandolier is the perfect companion for any shooting enthusiast, allowing you to securely carry up to 37 shotgun shells. Designed with a focus on durability and functionality, this bandolier is made from 2-inch wide nylon webbing, ensuring that your shells are tightly held in place while you&rsquo;re on the move. The 1.25-inch slots are perfectly sized to keep your 12 or 20-gauge shells organized and easily accessible.</p>",
+  "no_ratings": "0",
+  "sort_order": "1968",
+  "description": "<p>Rothco&rsquo;s Shotgun Shell Bandolier is the perfect companion for any shooting enthusiast, allowing you to securely carry up to 37 shotgun shells. Designed with a focus on durability and functionality, this bandolier is made from 2-inch wide nylon webbing, ensuring that your shells are tightly held in place while you&rsquo;re on the move. The 1.25-inch slots are perfectly sized to keep your 12 or 20-gauge shells organized and easily accessible. Whether you're out hunting, playing airsoft, or engaged in shooting sports, this bandolier offers a convenient way to keep your ammunition close at hand. The bandolier is designed to be worn comfortably over the shoulder and across the chest, with a 58-inch circumference that fits most body types. Its sleek design makes it easy to integrate with your tactical gear or hunting apparel, providing a reliable and efficient way to carry your ammunition during any outdoor adventure.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "231",
+    "247",
+    "255"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1670",
+      "item_index": "783",
+      "rothco_item_no": "2978",
+      "upc": "613902297807",
+      "inventory": "99",
+      "created_date": "2011-10-20 21:00:00",
+      "weight": "0.4375",
+      "image_filename": "2978-B-amazon.jpg",
+      "catalog_page_no": "258",
+      "msrp": 19.99,
+      "ship_length": "21.5000",
+      "ship_width": "4.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12267",
+      "item_index": "783",
+      "rothco_item_no": "2948",
+      "upc": "613902029484",
+      "inventory": "79",
+      "created_date": "2013-06-13 15:48:20",
+      "weight": "0.4375",
+      "image_filename": "2948-B1.jpg",
+      "catalog_page_no": "258",
+      "msrp": 19.99,
+      "ship_length": "21.5000",
+      "ship_width": "4.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14862",
+      "item_index": "783",
+      "rothco_item_no": "2947",
+      "upc": "613902029477",
+      "inventory": "75",
+      "created_date": "2014-10-02 17:10:01",
+      "weight": "0.4375",
+      "image_filename": "2947-B1.jpg",
+      "catalog_page_no": "258",
+      "msrp": 19.99,
+      "ship_length": "21.5000",
+      "ship_width": "4.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

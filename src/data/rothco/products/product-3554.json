@@ -1,0 +1,143 @@
+{
+  "item_index": "3554",
+  "item_name": "Rothco MOLLE Tactical First Aid Kit",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Prepare for emergencies with Rothco's MOLLE Tactical First Aid Kit, a compact and portable solution for any adventure. This MOLLE-compatible medical pouch is designed for easy attachment to your tactical gear, whether it's our Transport Packs or tactical bags. With over 40 essential medical items included, you'll be ready for various emergencies. The kit features over 20 bandages in various sizes, alcohol prep pads, antibiotic ointment, soap, peroxide, a cold pack, aspirin packets, tweezers, examination gloves, and more.</p>",
+  "no_ratings": null,
+  "sort_order": "1003",
+  "description": "<p>Prepare for emergencies with Rothco's MOLLE Tactical First Aid Kit, a compact and portable solution for any adventure. This MOLLE-compatible medical pouch is designed for easy attachment to your tactical gear, whether it's our Transport Packs or tactical bags. With over 40 essential medical items included, you'll be ready for various emergencies. The kit features over 20 bandages in various sizes, alcohol prep pads, antibiotic ointment, soap, peroxide, a cold pack, aspirin packets, tweezers, examination gloves, and more. Whether you're hiking, camping, or on duty, this kit provides peace of mind knowing you have the necessary supplies on hand. Be prepared for any situation with Rothco's Med-Prep MOLLE Tactical Kit. Contents of the Tactical First Aid Kit include: Two military bandages, One&nbsp;MOLLE Tactical Pouch, Four 2\" steripads, Two 3\" steripads, Two 1/2\" adhesive tape roll, Eight 3/4\" x 3\" bandages, Four 1 1/2\" x 7/8\" bandages, One 3\" elastic bandage, One 3\" x 4\" telfa pad, Two medium alcohol prep pad, Two antibiotic ointment, Two BSKtowelette, Two small packets of sugar, One 1/2 oz. soap, One 4 oz. peroxide, One medium cold pack, Two aspirin/pkg of 2, One tweezer, and one pair of examination gloves.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "271"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10229",
+      "item_index": "3554",
+      "rothco_item_no": "8776",
+      "upc": "613902877603",
+      "inventory": "30",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.5000",
+      "image_filename": "8776-A-amazon.jpg",
+      "catalog_page_no": "296",
+      "msrp": 41.99,
+      "ship_length": "8.5000",
+      "ship_width": "7.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 18.5,
+      "case_price": 18.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12878",
+      "item_index": "3554",
+      "rothco_item_no": "9704",
+      "upc": "613902970403",
+      "inventory": "53",
+      "created_date": "2013-08-30 16:22:52",
+      "weight": "1.5000",
+      "image_filename": "9704-A-amazon.jpg",
+      "catalog_page_no": "296",
+      "msrp": 41.99,
+      "ship_length": "8.5000",
+      "ship_width": "7.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 18.5,
+      "case_price": 18.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14975",
+      "item_index": "3554",
+      "rothco_item_no": "9625",
+      "upc": "613902962583",
+      "inventory": "20",
+      "created_date": "2014-11-03 17:10:01",
+      "weight": "1.5000",
+      "image_filename": "9625-A-amazon.jpg",
+      "catalog_page_no": "296",
+      "msrp": 41.99,
+      "ship_length": "8.5000",
+      "ship_width": "7.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 18.5,
+      "case_price": 18.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16409",
+      "item_index": "3554",
+      "rothco_item_no": "8778",
+      "upc": "613902877801",
+      "inventory": "99",
+      "created_date": "2016-05-23 14:10:04",
+      "weight": "1.5000",
+      "image_filename": "8778-A-amazon.jpg",
+      "catalog_page_no": "296",
+      "msrp": 41.99,
+      "ship_length": "8.5000",
+      "ship_width": "7.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red"
+      },
+      "color": "Red",
+      "price": 18.5,
+      "case_price": 18.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17773",
+      "item_index": "3554",
+      "rothco_item_no": "2676",
+      "upc": "613902026766",
+      "inventory": "67",
+      "created_date": "2017-10-31 11:10:01",
+      "weight": "1.5000",
+      "image_filename": "2676-A-amazon2.jpg",
+      "catalog_page_no": "296",
+      "msrp": 59.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 26.5,
+      "case_price": 26.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

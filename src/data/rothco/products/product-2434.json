@@ -1,0 +1,45 @@
+{
+  "item_index": "2434",
+  "item_name": "Rothco Military Marching Compass with LED Light",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Marching Compass with LED Light is your ultimate companion for outdoor exploration, offering reliable and precise navigation in any environment. Built with a heavy-duty aluminum case, this durable outdoor compass is designed to withstand the rigors of rugged terrain and harsh conditions. The integrated LED light ensures you can easily read your survival compass even in low-light situations, while the built-in magnifying glass allows for accurate readings.</p>",
+  "no_ratings": "0",
+  "sort_order": "1205",
+  "description": "<p>Rothco&rsquo;s Marching Compass with LED Light is your ultimate companion for outdoor exploration, offering reliable and precise navigation in any environment. Built with a heavy-duty aluminum case, this durable outdoor compass is designed to withstand the rigors of rugged terrain and harsh conditions. The integrated LED light ensures you can easily read your survival compass even in low-light situations, while the built-in magnifying glass allows for accurate readings. The side ruler is perfect for map reading, enabling you to measure distances and navigate with confidence. Designed for stability, the camping compass features a thumb hold, ensuring steady and precise orientation as you chart your course. Whether you're hiking, camping, or exploring new trails, Rothco&rsquo;s Marching Compass with LED Light is the versatile tool you need to stay on track.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "269"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2851",
+      "item_index": "2434",
+      "rothco_item_no": "416",
+      "upc": "613902416000",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "416-hr1-amazon.jpg",
+      "catalog_page_no": "280",
+      "msrp": 18.99,
+      "ship_length": "9.5000",
+      "ship_width": "5.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 7.25,
+      "case_price": 7.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

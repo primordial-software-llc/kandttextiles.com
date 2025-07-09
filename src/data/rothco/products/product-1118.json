@@ -1,0 +1,120 @@
+{
+  "item_index": "1118",
+  "item_name": "Rothco MOLLE Compatible 1 Quart Canteen Pouch / Cover",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's MOLLE Compatible 1 Quart Canteen Pouch, your essential gear accessory for hydration on the go. With its open-top Y-Strap design, accessing your canteen is quick and easy without the need to remove it from the pouch. The quick-release buckle at the end of the Y-Strap ensures a secure hold, keeping your canteen in place during movement. Designed to fit most standard 1-quart canteens (canteen not included), this pouch is versatile and practical. Its dual MOLLE-compatible straps allow for easy attachment to a variety of tactical gear.</p>",
+  "no_ratings": "0",
+  "sort_order": "1099",
+  "description": "<p>Rothco's MOLLE Compatible 1 Quart Canteen Pouch, your essential gear accessory for hydration on the go. With its open-top Y-Strap design, accessing your canteen is quick and easy without the need to remove it from the pouch. The quick-release buckle at the end of the Y-Strap ensures a secure hold, keeping your canteen in place during movement. Designed to fit most standard 1-quart canteens (canteen not included), this pouch is versatile and practical. Its dual MOLLE-compatible straps allow for easy attachment to a variety of gear, including tactical vests or military packs, providing convenient access to hydration when you need it most. Crafted from lightweight denier polyester, this pouch is durable yet lightweight, perfect for outdoor adventures. Additionally, the mesh bottom provides drainage, ensuring your canteen stays dry. Upgrade your gear with the Rothco MOLLE Compatible 1 Quart Canteen Pouch and stay hydrated wherever your adventures take you.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "504",
+    "280",
+    "284",
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2730",
+      "item_index": "1118",
+      "rothco_item_no": "40111",
+      "upc": "613902401112",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2100",
+      "image_filename": "40111-A-Black.jpg",
+      "catalog_page_no": "285",
+      "msrp": 11.99,
+      "ship_length": "7.5000",
+      "ship_width": "6.0000",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2731",
+      "item_index": "1118",
+      "rothco_item_no": "40111",
+      "upc": "613902401990",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2100",
+      "image_filename": "40111-A-OD.jpg",
+      "catalog_page_no": "285",
+      "msrp": 11.99,
+      "ship_length": "7.5000",
+      "ship_width": "6.0000",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12722",
+      "item_index": "1118",
+      "rothco_item_no": "40109",
+      "upc": "613902401099",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2100",
+      "image_filename": "40109-A1.jpg",
+      "catalog_page_no": "285",
+      "msrp": 21.99,
+      "ship_length": "7.5000",
+      "ship_width": "6.0000",
+      "ship_height": "2.2500",
+      "eta_date": "07/17/2025",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 8.75,
+      "case_price": 8.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19259",
+      "item_index": "1118",
+      "rothco_item_no": "40111",
+      "upc": "613902401983",
+      "inventory": "99",
+      "created_date": "2019-11-06 15:00:01",
+      "weight": "0.2100",
+      "image_filename": "40111-A-AMAZON.jpg",
+      "catalog_page_no": "285",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

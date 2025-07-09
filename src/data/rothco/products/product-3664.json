@@ -1,0 +1,97 @@
+{
+  "item_index": "3664",
+  "item_name": "Rothco Tactical Convertipack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=QYiNJlPUiq4",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Tactical Convertipack offers unmatched adaptability, transitioning swiftly from shoulder to waist pack. Featuring an adjustable/removable shoulder strap and backside buckles for seamless conversion. With a quick-release side buckle on the shoulder strap, rapid removal is guaranteed. The top carry handle provides an alternative carrying option. This compact tactical pack boasts ample storage space. The main zippered compartment of the crossbody shoulder bag features an interior mesh pocket for added organization.</p>",
+  "no_ratings": null,
+  "sort_order": "1721",
+  "description": "<p>Rothco&rsquo;s Tactical Convertipack offers unmatched adaptability, transitioning swiftly from shoulder to waist pack. Featuring an adjustable/removable shoulder strap and backside buckles for seamless conversion. With a quick-release side buckle on the shoulder strap, rapid removal is guaranteed. The top carry handle provides an alternative carrying option. This compact tactical pack boasts ample storage space, measuring 14 inches x 5.5 inches x 7 inches. The main zippered compartment of the crossbody shoulder bag features an interior mesh pocket for added organization, secured with 2 buckles. A front zippered pouch with 3 small inner pockets and 2 side zippered pockets offers quick access to EDC items. Equipped with 2 4-inch MOLLE straps on the back and 1 row of MOLLE webbing on each side pocket, it allows for easy attachment of accessories. Crafted from durable materials, this tactical pack ensures years of reliable use. Complete with 4 D-rings and 2 exterior pen holders for added convenience.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "201",
+    "206",
+    "650",
+    "223",
+    "504"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "13488",
+      "item_index": "3664",
+      "rothco_item_no": "23610",
+      "upc": "613902923614",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2000",
+      "image_filename": "23610-B-amazon.jpg",
+      "catalog_page_no": "320",
+      "msrp": 35.99,
+      "ship_length": "13.0000",
+      "ship_width": "9.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 16.35,
+      "case_price": 16.35,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "13489",
+      "item_index": "3664",
+      "rothco_item_no": "23620",
+      "upc": "613902923621",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2000",
+      "image_filename": "23620-C-amazon.jpg",
+      "catalog_page_no": "320",
+      "msrp": 35.99,
+      "ship_length": "13.0000",
+      "ship_width": "9.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 16.35,
+      "case_price": 16.35,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20574",
+      "item_index": "3664",
+      "rothco_item_no": "23611",
+      "upc": "613902000841",
+      "inventory": "99",
+      "created_date": "2021-04-15 14:00:00",
+      "weight": "1.2000",
+      "image_filename": "23611-B-NOLOGO.jpg",
+      "catalog_page_no": "320",
+      "msrp": 35.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 16.35,
+      "case_price": 16.35,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

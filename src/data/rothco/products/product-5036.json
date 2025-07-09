@@ -1,0 +1,72 @@
+{
+  "item_index": "5036",
+  "item_name": "Rothco Midnight Camo Trucker Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=mi96injXyFc",
+  "rating": "5",
+  "item_short_desc": "<p>Designed with a flat brim, our Midnight Camo Trucker Cap shields your eyes from the sun&rsquo;s rays. Whether you are on the job, traveling for the weekend, or strolling around town, these trucker hats offer superior comfort and a perfect fit for any activity.</p>",
+  "no_ratings": null,
+  "sort_order": "133349",
+  "description": "<p>Designed with a flat brim, our Midnight Camo Trucker Cap shields your eyes from the sun&rsquo;s rays. Whether you are on the job, traveling for the weekend, or strolling around town, these trucker hats offer superior comfort and a perfect fit for any activity. Ultimate Stealth Ops Camo: Inspired by stealth military operations that require zero visibility to the opposition, Rothco has reinvented the classic Woodland Camouflage Pattern as well as our bestselling Black Camouflage Pattern to bring you the Midnight Camo Collection. The subdued color combinations offer a true stealth, sharp and sleek appearance whether on mission or off. Debuting in our top performing apparel, outerwear, and headwear; get ready to light up the darkness with the Rothco Midnight Camo Collection. Keep Cool: The camo trucker hat features mesh back panels and 2 front air vents for breathable comfort, allowing you to focus on the task at hand. Rugged &amp; Long-Lasting: These midnight camouflage hats are built with a breathable 55% cotton / 45% polyester twill blend for unmatched resiliency and easy-to-care-for maintenance. One Size Fits Most: Our truck hats use a snapback closure with 7 adjustment points for a snug fit that is perfect for most head sizes, ensuring the cap stays in place. Got You Covered: Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and coverage for everyone from active-duty personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "737",
+    "2",
+    "83",
+    "522"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "23238",
+      "item_index": "5036",
+      "rothco_item_no": "12103",
+      "upc": "613902034488",
+      "inventory": "99",
+      "created_date": "2023-08-03 16:59:54",
+      "weight": "0.0000",
+      "image_filename": "12103-C.jpg",
+      "catalog_page_no": "139",
+      "msrp": 15.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Midnight Woodland Camo"
+      },
+      "color": "Midnight Woodland Camo",
+      "price": 6.9,
+      "case_price": 6.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "23270",
+      "item_index": "5036",
+      "rothco_item_no": "12008",
+      "upc": "613902034303",
+      "inventory": "99",
+      "created_date": "2023-08-03 16:59:54",
+      "weight": "0.1000",
+      "image_filename": "12008-C.jpg",
+      "catalog_page_no": "139",
+      "msrp": 15.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Midnight Black Camo"
+      },
+      "color": "Midnight Black Camo",
+      "price": 6.9,
+      "case_price": 6.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

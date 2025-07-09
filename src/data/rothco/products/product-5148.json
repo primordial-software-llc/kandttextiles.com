@@ -1,0 +1,95 @@
+{
+  "item_index": "5148",
+  "item_name": "Rothco Lightweight Woobie Tote Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Get up and go with our Lightweight Woobie Tote bag, offering plenty of space for carrying everyday essentials, clothing, laptop, large tablet, and more. The large military-styled tote bag ensures your possessions are safe and secure while providing additional storage space anywhere you go. The quilted tote bag measures approximately 18 inch x 15 inch x 5 inch overall and has a 23L storage capacity.</p>",
+  "no_ratings": null,
+  "sort_order": null,
+  "description": "<p>Get up and go with our Lightweight Woobie Tote bag, offering plenty of space for carrying everyday essentials, clothing, laptop, large tablet, and more. The large military-styled tote bag ensures your possessions are safe and secure while providing additional storage space anywhere you go. The quilted tote bag measures approximately 18 inch x 15 inch x 5 inch overall and has a 23L storage capacity. From Tactical Roots to Everyday Utility: Inspired by the dependable versatility of the iconic poncho liner, Rothco&rsquo;s Woobie collection embodies rugged style and practicality. Each item, from our durable outerwear to the premium Tote Bag, features a distinctive quilted pattern and lightweight filling, combining unique style with everyday functionality. Convenient Design: The crossbody shoulder bag features an open top with a magnetic closure for quick and easy access to your belongings. In addition, the dual 35 inch shoulder straps for comfortably across your shoulders and body for easy carry. Additional Pockets: These quilted crossbody bags feature 2 inner storage pockets and 1 outer pocket for securing electronics, accessories, and small items. The Go-Anywhere Bag: Whether you are relaxing at the beach, on a road trip, or walking through town, these multipurpose military tote bags provide extra storage and carrying capacity, ideal for traveling and everyday use.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "756",
+    "3",
+    "650"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "30219",
+      "item_index": "5148",
+      "rothco_item_no": "13810",
+      "upc": "613902049390",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.5000",
+      "image_filename": "13810-A.jpg",
+      "catalog_page_no": "353",
+      "msrp": 31.99,
+      "ship_length": "18.0000",
+      "ship_width": "15.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 14.5,
+      "case_price": 14.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30220",
+      "item_index": "5148",
+      "rothco_item_no": "13811",
+      "upc": "613902049406",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.5000",
+      "image_filename": "13811-A.jpg",
+      "catalog_page_no": "353",
+      "msrp": 31.99,
+      "ship_length": "18.0000",
+      "ship_width": "15.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 14.5,
+      "case_price": 14.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30221",
+      "item_index": "5148",
+      "rothco_item_no": "13812",
+      "upc": "613902049413",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.5000",
+      "image_filename": "13812-A.jpg",
+      "catalog_page_no": "353",
+      "msrp": 31.99,
+      "ship_length": "18.0000",
+      "ship_width": "15.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Cream"
+      },
+      "color": "Cream",
+      "price": 14.5,
+      "case_price": 14.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

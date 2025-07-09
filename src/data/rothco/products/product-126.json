@@ -1,0 +1,40 @@
+{
+  "item_index": "126",
+  "item_name": "Rothco Tactical Raid Vest",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Tactical Raid Vest combines functionality and durability, making it ideal for law enforcement and public safety professionals. With 12 front snap and hook &amp; loop pouches, including 4 detachable pockets, you can quickly access gear like radios and other essentials. Three rear pouches provide extra storage, while a padded back ensures comfort during long shifts. The vest features adjustable side straps for a customized fit and a front zipper for easy on and off.</p>",
+  "no_ratings": "0",
+  "sort_order": "293",
+  "description": "<p>Rothco's Tactical Raid Vest combines functionality and durability, making it ideal for law enforcement and public safety professionals. With 12 front snap and hook &amp; loop pouches, including 4 detachable pockets, you can quickly access gear like radios and other essentials. Three rear pouches provide extra storage, while a padded back ensures comfort during long shifts. The vest features adjustable side straps for a customized fit and a front zipper for easy on and off. A loop panel on the upper section accommodates additional patches, and 2 blank blackout hook-back patches are included for customization. Built with rugged materials, this vest is designed to endure demanding environments.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "183"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "7594",
+      "item_index": "126",
+      "rothco_item_no": "6785",
+      "upc": "613902967854",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.8000",
+      "image_filename": "6785-Front-HR.jpg",
+      "catalog_page_no": "256",
+      "msrp": 113.99,
+      "ship_length": "18.0000",
+      "ship_width": "12.5000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 45.5,
+      "case_price": 45.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "item_index": "2508",
+  "item_name": "Rothco 18\" Field Machete with Handguard",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Featuring an oxide-coated carbon steel blade, this replica machete provides exceptional cutting power, while the flame-resistant thermoplastic handle ensures a secure and reliable grip. Equipped with a protective handguard, Rothco's 18 inch Field Machete is the perfect tool for outdoor survival, tactical missions, or clearing brush.</p>",
+  "no_ratings": "0",
+  "sort_order": "187",
+  "description": "<p>Featuring an oxide-coated carbon steel blade, this replica machete provides exceptional cutting power, while the flame-resistant thermoplastic handle ensures a secure and reliable grip. Equipped with a protective handguard, Rothco's 18 inch Field Machete is the perfect tool for outdoor survival, tactical missions, or clearing brush.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "298"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1337",
+      "item_index": "2508",
+      "rothco_item_no": "254",
+      "upc": "613902002548",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.4000",
+      "image_filename": "254-B1.jpg",
+      "catalog_page_no": "274",
+      "msrp": 30.99,
+      "ship_length": "22.5000",
+      "ship_width": "3.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 13.9,
+      "case_price": 13.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "item_index": "4506",
+  "item_name": "Rothco Tactical Single Sling Pack With Laser Cut MOLLE",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=4PbHkSp4OSE",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Tactical Single Sling Pack offers a versatile and efficient solution for your everyday carry needs. Featuring a single sling design, this pack allows for rapid access to your gear with just one easy motion. The stability strap with a quick-release buckle minimizes slack and sway during travel, ensuring your pack stays secure. An adjustable cushioned shoulder sling provides maximum comfort, even during extended use. The laser-cut MOLLE panels on the sides and front bottom compartment enable additional gear attachment.</p>",
+  "no_ratings": null,
+  "sort_order": "132819",
+  "description": "<p>Rothco&rsquo;s Tactical Single Sling Pack offers a versatile and efficient solution for your everyday carry needs. Featuring a single sling design, this pack allows for rapid access to your gear with just one easy motion. The stability strap with a quick-release buckle minimizes slack and sway during travel, ensuring your pack stays secure. An adjustable cushioned shoulder sling provides maximum comfort, even during extended use. The laser-cut MOLLE panels on the sides and front bottom compartment enable additional gear attachment, enhancing your pack's functionality. The double zipper main compartment includes an interior zippered mesh pocket, perfect for storing essential tactical gear. The front top zippered compartment has two elastic loops for pistol magazines, while the front bottom zippered compartment features 2 elastic loops and two elastic pockets for rifle magazines. This pack also includes a 3-liter zippered hydration-compatible compartment, ensuring you stay hydrated on the go. The top zippered compartment features a 5 &frac34; inches x 2 &frac34; inches loop field for added customization. With a top carry handle for extra carry capability, the pack measures 8 &frac12; inches x 8 &frac12; inches x 18 &frac12; inches and is made from durable denier polyester material. There is also an 8 inches x 2 &frac14; inches free space for embroidery, allowing for personalization. Rothco&rsquo;s Tactical Single Sling Pack is the ultimate choice for those seeking a reliable, functional, and comfortable everyday carry solution.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "201",
+    "204",
+    "305",
+    "333",
+    "201",
+    "204",
+    "305",
+    "333"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18636",
+      "item_index": "4506",
+      "rothco_item_no": "2233",
+      "upc": "613902022331",
+      "inventory": "99",
+      "created_date": "2018-08-30 13:10:03",
+      "weight": "2.8000",
+      "image_filename": "2233-B-amazon.jpg",
+      "catalog_page_no": "317",
+      "msrp": 63.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 28.95,
+      "case_price": 28.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18637",
+      "item_index": "4506",
+      "rothco_item_no": "2235",
+      "upc": "613902022355",
+      "inventory": "72",
+      "created_date": "2018-08-30 13:10:03",
+      "weight": "2.8000",
+      "image_filename": "2235-A-amazon.jpg",
+      "catalog_page_no": "317",
+      "msrp": 63.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 28.95,
+      "case_price": 28.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

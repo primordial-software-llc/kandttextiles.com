@@ -1,0 +1,117 @@
+{
+  "item_index": "1033",
+  "item_name": "Rothco Military and Public Safety Insoles",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Military and Public Safety Insoles are designed to deliver exceptional support and cushioning, making them ideal for long hours on the job or during daily activities. The rubber bottom features targeted heel and ball-of-foot support to reduce impact and minimize shock, keeping your feet comfortable even during extended periods of standing or walking. The contoured arch support helps align your feet in an optimal position, reducing strain and preventing fatigue.</p>",
+  "no_ratings": "0",
+  "sort_order": "2711",
+  "description": "<p>Rothco&rsquo;s Military and Public Safety Insoles are designed to deliver exceptional support and cushioning, making them ideal for long hours on the job or during daily activities. The rubber bottom features targeted heel and ball-of-foot support to reduce impact and minimize shock, keeping your feet comfortable even during extended periods of standing or walking. The contoured arch support helps align your feet in an optimal position, reducing strain and preventing fatigue. A soft cloth top layer adds to the comfort, ensuring a cozy feel throughout the day. These insoles are versatile and fit seamlessly into most tactical boots, work shoes, or everyday footwear. Whether you're on duty or just need extra comfort for daily wear, Rothco&rsquo;s Comfort Insoles provide the support you need to stay on your feet longer without discomfort. Designed with precision and built to withstand the harshest conditions, Rothco's collection of footwear and accessories combines durability, functionality, and unparalleled performance. From our Forced Entry Series which features our speedlace and waterproof technologies, to our V-Max Collection designed with lightweight running shoe soles, our diverse range of footwear provides unmatched comfort and protection for everyone from military personnel to outdoor enthusiasts. With a rich heritage spanning over 7 decades, Rothco is the go-to brand for all things that keep you standing on your feet.</p>",
+  "selection_groups": [
+    "shoe_size"
+  ],
+  "statuses": "",
+  "categories": [
+    "361"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8064",
+      "item_index": "1033",
+      "rothco_item_no": "7187",
+      "upc": "613902718715",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "7187-A.jpg",
+      "catalog_page_no": "175",
+      "msrp": 11.99,
+      "ship_length": "10.0000",
+      "ship_width": "4.2500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "shoe_size": "6 - 7"
+      },
+      "shoe_size": "6 - 7",
+      "price": 4.75,
+      "case_price": 4.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8065",
+      "item_index": "1033",
+      "rothco_item_no": "7187",
+      "upc": "613902718722",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "7187-A.jpg",
+      "catalog_page_no": "175",
+      "msrp": 11.99,
+      "ship_length": "11.0000",
+      "ship_width": "4.2500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "shoe_size": "8 - 9"
+      },
+      "shoe_size": "8 - 9",
+      "price": 4.75,
+      "case_price": 4.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8066",
+      "item_index": "1033",
+      "rothco_item_no": "7187",
+      "upc": "613902718739",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "7187-A.jpg",
+      "catalog_page_no": "175",
+      "msrp": 11.99,
+      "ship_length": "12.0000",
+      "ship_width": "4.2500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "shoe_size": "10 - 11"
+      },
+      "shoe_size": "10 - 11",
+      "price": 4.75,
+      "case_price": 4.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8067",
+      "item_index": "1033",
+      "rothco_item_no": "7187",
+      "upc": "613902718746",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "7187-A.jpg",
+      "catalog_page_no": "175",
+      "msrp": 11.99,
+      "ship_length": "12.5000",
+      "ship_width": "4.2500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "shoe_size": "12 - 13"
+      },
+      "shoe_size": "12 - 13",
+      "price": 4.75,
+      "case_price": 4.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

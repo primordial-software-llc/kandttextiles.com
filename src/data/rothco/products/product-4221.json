@@ -1,0 +1,94 @@
+{
+  "item_index": "4221",
+  "item_name": "Rothco Enhanced Duffle Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=-_aC1UloAks",
+  "rating": "5",
+  "item_short_desc": "<p>Gear up for any mission with Rothco's Enhanced Duffle Bag, offering a massive 76L capacity for all-in-one equipment storage. This heavy-duty service bag, measuring 32\" x 12\" x 12\", easily endures vigorous outdoor use, making the large duffle bag offers convenient and secure transport options. From clothing and boots to survival essentials, the field-proven duffle bag handles it all. Featuring an identification window, adjustable padded shoulder straps, and multiple carry handles, the large duffle bag offers secure transport options.</p>",
+  "no_ratings": null,
+  "sort_order": "150",
+  "description": "<p>Gear up for any mission with Rothco's Enhanced Duffle Bag, offering a massive 76L capacity for all-in-one equipment storage. This heavy-duty service bag, measuring 32\" x 12\" x 12\", easily endures vigorous outdoor use, making the large duffle bag offers convenient and secure transport options. From clothing and boots to survival essentials, the field-proven duffle bag handles it all. Featuring an identification window, adjustable padded shoulder straps, and multiple carry handles, the large duffle bag offers convenient and secure transport options. Constructed from rugged 600D polyester with a moisture protection liner, this duffle bag ensures durability and keeps your gear dry in any terrain. The main compartment utilizes a full-length zipper closure with a flap cover and metal locking loop for quick access and added security. Equip yourself with the Rothco Enhanced Duffle Bag &ndash; your versatile solution for gym, travel, and tactical needs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "216",
+    "223"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16724",
+      "item_index": "4221",
+      "rothco_item_no": "2874",
+      "upc": "613902128743",
+      "inventory": "99",
+      "created_date": "2016-11-23 16:10:02",
+      "weight": "2.2000",
+      "image_filename": "2874-C-amazon.jpg",
+      "catalog_page_no": "324",
+      "msrp": 63.99,
+      "ship_length": "15.0000",
+      "ship_width": "10.5000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 28.95,
+      "case_price": 28.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19053",
+      "item_index": "4221",
+      "rothco_item_no": "2878",
+      "upc": "613902028784",
+      "inventory": "99",
+      "created_date": "2019-05-22 16:10:00",
+      "weight": "2.2000",
+      "image_filename": "2878-A-amazon.jpg",
+      "catalog_page_no": "324",
+      "msrp": 63.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 28.95,
+      "case_price": 28.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20576",
+      "item_index": "4221",
+      "rothco_item_no": "2885",
+      "upc": "613902000780",
+      "inventory": "99",
+      "created_date": "2021-04-15 14:00:00",
+      "weight": "2.2000",
+      "image_filename": "2885-A-NOLOGO.jpg",
+      "catalog_page_no": "324",
+      "msrp": 63.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 28.95,
+      "case_price": 28.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

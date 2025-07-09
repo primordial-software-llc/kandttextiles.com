@@ -1,0 +1,47 @@
+{
+  "item_index": "3031",
+  "item_name": "Rothco Enhanced Molded Universal Radio Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Enhanced Molded Universal Radio Pouch is designed to keep your hand-held radio secure and accessible while you&rsquo;re on the job. Featuring reliable snap closures, this military pouch ensures your radio stays in place, providing peace of mind during active duty. The 2-inch-wide belt loop on the back allows for easy attachment directly to your duty belt, making it a convenient and essential accessory for professionals who rely on their radio for communication.</p>",
+  "no_ratings": null,
+  "sort_order": "1185",
+  "description": "<p>Rothco&rsquo;s Enhanced Molded Universal Radio Pouch is designed to keep your hand-held radio secure and accessible while you&rsquo;re on the job. Featuring reliable snap closures, this military pouch ensures your radio stays in place, providing peace of mind during active duty. The 2-inch-wide belt loop on the back allows for easy attachment directly to your duty belt, making it a convenient and essential accessory for professionals who rely on their radio for communication. This universal radio pouch is designed to hold most hand-held radios, measuring 8 inch x 4 inch. It is lightweight yet durable, built to withstand the rigors of daily use in various demanding environments. Whether you&rsquo;re a police officer, firefighter, security personnel, construction worker, or EMT, this pouch is an ideal choice to keep your radio secure and within reach.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "496",
+    "238",
+    "239"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "987",
+      "item_index": "3031",
+      "rothco_item_no": "20510",
+      "upc": "613902205109",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "20510-A.jpg",
+      "catalog_page_no": "229",
+      "msrp": 18.99,
+      "ship_length": "11.7500",
+      "ship_width": "5.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "Regular"
+      },
+      "size": "Regular",
+      "price": 7.2,
+      "case_price": 7.2,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

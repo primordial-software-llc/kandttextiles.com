@@ -1,0 +1,47 @@
+{
+  "item_index": "4033",
+  "item_name": "Rothco Tactical Aviator Sunglasses with Wind Guards",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco Tactical Aviator Sunglasses with Wind Guards offer a classic aviator design combined with advanced protective features. The 58mm impact-resistant lenses provide crystal-clear vision and UV400 protection to shield your eyes from harmful sun rays. Leather wind guards on the sides and nose reduce wind exposure, making these sunglasses perfect for outdoor activities in challenging environments.</p>",
+  "no_ratings": null,
+  "sort_order": "854",
+  "description": "<p>Rothco Tactical Aviator Sunglasses with Wind Guards offer a classic aviator design combined with advanced protective features. The 58mm impact-resistant lenses provide crystal-clear vision and UV400 protection to shield your eyes from harmful sun rays. Leather wind guards on the sides and nose reduce wind exposure, making these sunglasses perfect for outdoor activities in challenging environments. Featuring durable bayonet temples and a nickel frame, these sunglasses deliver both style and functionality. The lightweight design ensures all-day comfort without compromising durability. Elevate your eyewear with a pair of tactical aviators designed to keep you protected and looking sharp.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "393",
+    "394",
+    "489"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15664",
+      "item_index": "4033",
+      "rothco_item_no": "20380",
+      "upc": "613902203808",
+      "inventory": "99",
+      "created_date": "2015-09-21 11:10:02",
+      "weight": "0.1250",
+      "image_filename": "20380-B-amazon.jpg",
+      "catalog_page_no": "201",
+      "msrp": 20.99,
+      "ship_length": "6.0000",
+      "ship_width": "2.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "58 MM",
+        "color": "Chrome / Smoke"
+      },
+      "size": "58 MM",
+      "color": "Chrome / Smoke",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

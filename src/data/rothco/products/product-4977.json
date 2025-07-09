@@ -1,0 +1,41 @@
+{
+  "item_index": "4977",
+  "item_name": "KA-BAR Short Fighting Knife",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The perfectly sized fixed blade knife, the short Ka-Bar performs as well as the larger original, but is a more practical size for camping, carrying and general utility.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133290",
+  "description": "<p>The perfectly sized fixed blade knife, the short Ka-Bar, performs as well as the larger original, but is a more practical size for camping, carrying, and general utility.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "293",
+    "294"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "22214",
+      "item_index": "4977",
+      "rothco_item_no": "32650",
+      "upc": "617717212567",
+      "inventory": "20",
+      "created_date": "2022-09-28 11:00:08",
+      "weight": "0.0000",
+      "image_filename": "32650-A.jpg",
+      "catalog_page_no": "268",
+      "msrp": 139.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 69.95,
+      "case_price": 69.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

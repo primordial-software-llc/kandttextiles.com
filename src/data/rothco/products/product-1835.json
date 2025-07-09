@@ -1,0 +1,40 @@
+{
+  "item_index": "1835",
+  "item_name": "Rothco Canvas Shoulder Holster",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Canvas Shoulder Holster is crafted from durable heavyweight canvas, providing a reliable and long-lasting solution for carrying .45 caliber handguns. Featuring an adjustable fit and comfortable shoulder design, this holster is perfect for tactical use, law enforcement, and everyday concealed carry.</p>",
+  "no_ratings": "0",
+  "sort_order": "1171",
+  "description": "<p>Rothco's Canvas Shoulder Holster is crafted from durable heavyweight canvas, providing a reliable and long-lasting solution for carrying .45 caliber handguns. Featuring an adjustable fit and comfortable shoulder design, this holster is perfect for tactical use, law enforcement, and everyday concealed carry.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "251"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "196",
+      "item_index": "1835",
+      "rothco_item_no": "10374",
+      "upc": "613902037410",
+      "inventory": "99",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "0.3500",
+      "image_filename": "10374-A-amazon.jpg",
+      "catalog_page_no": "232",
+      "msrp": 11.99,
+      "ship_length": "9.0000",
+      "ship_width": "6.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 4.75,
+      "case_price": 4.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "item_index": "3923",
+  "item_name": "Rothco Don't Tread On Me Round Morale Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Rothco Round \"Don't Tread on Me\" Morale Patch features a snake with the embroidered text \"Don't Tread on Me\" around the image.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "1142",
+  "description": "<p>The Rothco Round \"Don't Tread on Me\" Morale Patch features a snake with the embroidered text \"Don't Tread on Me\" around the image. The patches feature a hook backing which makes it ideal for attaching to our Special Ops Jackets, Transport Packs, Tactical Vest and more. Patches with the item #&rsquo;s starting with &lsquo;P&rsquo; are individually packaged with a header card.&nbsp;</p>",
+  "selection_groups": [
+    "packaging"
+  ],
+  "statuses": "",
+  "categories": [
+    "424"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15372",
+      "item_index": "3923",
+      "rothco_item_no": "73193",
+      "upc": "613902731936",
+      "inventory": "99",
+      "created_date": "2015-04-30 17:10:01",
+      "weight": "0.0094",
+      "image_filename": "73193-A-amazon.jpg",
+      "catalog_page_no": "214",
+      "msrp": 3.99,
+      "ship_length": "3.0000",
+      "ship_width": "3.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "packaging": "Bulk Packaging"
+      },
+      "packaging": "Bulk Packaging",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

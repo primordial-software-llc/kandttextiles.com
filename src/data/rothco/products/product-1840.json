@@ -1,0 +1,40 @@
+{
+  "item_index": "1840",
+  "item_name": "Rothco EMS Shears",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s EMS Shears feature a durable stainless-steel composition that is ideal for first responders.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "610",
+  "description": "<p>Rothco's EMS Scissors are a type of trauma scissors used by paramedics and other emergency personnel to quickly and safely cut clothing from injured people. The stainless steel shears measure 7.25 inches in length with a durable ABS plastic handle.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "241"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "240",
+      "item_index": "1840",
+      "rothco_item_no": "10414",
+      "upc": "613902414013",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "10414-A.jpg",
+      "catalog_page_no": "252",
+      "msrp": 8.99,
+      "ship_length": "11.0000",
+      "ship_width": "6.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 3.25,
+      "case_price": 3.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

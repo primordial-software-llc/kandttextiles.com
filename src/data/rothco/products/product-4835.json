@@ -1,0 +1,118 @@
+{
+  "item_index": "4835",
+  "item_name": "Rothco MOLLE Open Top Six Rifle Mag Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s MOLLE Open Top Six Rifle Mag Pouch provides massive ammo capacity in an open top design that enables easy access.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133148",
+  "description": "<p>Rothco&rsquo;s MOLLE Open Top Six Rifle Mag Pouch offers unprecedented ammo capacity in an open top design for easy reloading at the range. The MOLLE pouch secures your mags with elastic bands with easy-grip pull tabs. The rifle mag pouches are designed to fit most popular rifle mags including AK-47 mags, M-16 mags, and more. This MOLLE compatible mag pouch is compatible with tactical vests, assault packs, &amp; more. The MOLLE magazine pouch is made from highly durable materials for years of reliable use and measures 9.5 inches X 6.5 inches X 2 inches.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "254",
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20693",
+      "item_index": "4835",
+      "rothco_item_no": "41006",
+      "upc": "613902003095",
+      "inventory": "99",
+      "created_date": "2021-05-24 14:00:29",
+      "weight": "0.7500",
+      "image_filename": "41006-E-no-logo.jpg",
+      "catalog_page_no": "242",
+      "msrp": 31.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 14.25,
+      "case_price": 14.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20694",
+      "item_index": "4835",
+      "rothco_item_no": "41007",
+      "upc": "613902003118",
+      "inventory": "99",
+      "created_date": "2021-05-24 14:00:29",
+      "weight": "0.7500",
+      "image_filename": "41007-A-no-logo.jpg",
+      "catalog_page_no": "242",
+      "msrp": 31.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 14.25,
+      "case_price": 14.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20858",
+      "item_index": "4835",
+      "rothco_item_no": "41002",
+      "upc": "613902004627",
+      "inventory": "0",
+      "created_date": "2021-07-14 09:00:00",
+      "weight": "0.7500",
+      "image_filename": "41002-A.jpg",
+      "catalog_page_no": "242",
+      "msrp": 59.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "07/17/2025",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 26.9,
+      "case_price": 26.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22179",
+      "item_index": "4835",
+      "rothco_item_no": "41011",
+      "upc": "613902020474",
+      "inventory": "99",
+      "created_date": "2022-09-08 11:00:26",
+      "weight": "0.0000",
+      "image_filename": "41011-A.jpg",
+      "catalog_page_no": "242",
+      "msrp": 31.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 14.25,
+      "case_price": 14.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

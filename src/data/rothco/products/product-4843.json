@@ -1,0 +1,40 @@
+{
+  "item_index": "4843",
+  "item_name": "Sabre Red Safe Escape 3-in-1 Tool",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Sabre Red Safe Escape 3-in-1 Tool is a pepper gel canister featuring a seat belt cutter and window breaker with a snap clip.</p>",
+  "no_ratings": null,
+  "sort_order": "133156",
+  "description": "<p>The Sabre Red Safe Escape 3-in-1 Tool is a pepper gel canister featuring a seat belt cutter and window breaker with a snap clip.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "244"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20644",
+      "item_index": "4843",
+      "rothco_item_no": "11023",
+      "upc": "023063153476",
+      "inventory": "37",
+      "created_date": "2021-05-14 13:00:14",
+      "weight": "0.0000",
+      "image_filename": "11023-C-no-logo.jpg",
+      "catalog_page_no": "222",
+      "msrp": 29.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 11.75,
+      "case_price": 11.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

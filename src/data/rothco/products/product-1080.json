@@ -1,0 +1,40 @@
+{
+  "item_index": "1080",
+  "item_name": "The Speedy Stitcher Sewing Awl",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Sews Any Heavy Material Includes Sewing Awl High Tensile Waxed Thread 2 Custom Diamond Point Needles And Easy To Follow Instructions Great For Repairing Tents Backpacks Sleeping Bags Upholstery Saddles Harnesses And Much More</p>",
+  "no_ratings": "0",
+  "sort_order": "1277",
+  "description": "<p>Sews Any Heavy Material Includes Sewing Awl High Tensile Waxed Thread 2 Custom Diamond Point Needles And Easy To Follow Instructions Great For Repairing Tents Backpacks Sleeping Bags Upholstery Saddles Harnesses And Much More</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "261"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "481",
+      "item_index": "1080",
+      "rothco_item_no": "1125",
+      "upc": "095086001201",
+      "inventory": "51",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2600",
+      "image_filename": "1125-A.jpg",
+      "catalog_page_no": "309",
+      "msrp": 29.99,
+      "ship_length": "5.0000",
+      "ship_width": "1.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 14.95,
+      "case_price": 14.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

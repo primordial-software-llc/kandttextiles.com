@@ -1,0 +1,69 @@
+{
+  "item_index": "4886",
+  "item_name": "Rothco Personal Protection Officer (PPO) Badge",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Personal Protection Officer (PPO) Badge is a shield-shaped, law-enforcement-quality badge that is specifically designed for bodyguards.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133199",
+  "description": "<p>Rothco&rsquo;s Personal Protection Officer (PPO) Badge is a shield-shaped, law-enforcement-quality badge that is specifically designed for bodyguards. A back pin closure enables attachment to badge holders and directly onto clothing. The bodyguard badge is made with sleek and durable materials with an Inner Liberty Bell emblem that features the text &ldquo;COMMITTED TO EXCELLENCE&rdquo;. The badge measures 3.13 inches X 2.25 inches.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "233"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20986",
+      "item_index": "4886",
+      "rothco_item_no": "19150",
+      "upc": "613902006591",
+      "inventory": "99",
+      "created_date": "2021-10-27 15:00:02",
+      "weight": "0.1500",
+      "image_filename": "19150-A-NOLOGO.jpg",
+      "catalog_page_no": "220",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Silver"
+      },
+      "color": "Silver",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20987",
+      "item_index": "4886",
+      "rothco_item_no": "19160",
+      "upc": "613902006652",
+      "inventory": "99",
+      "created_date": "2021-10-27 15:00:02",
+      "weight": "0.1500",
+      "image_filename": "19160-A-NOLOGO.jpg",
+      "catalog_page_no": "220",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Gold"
+      },
+      "color": "Gold",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

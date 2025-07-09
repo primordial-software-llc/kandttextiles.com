@@ -1,0 +1,71 @@
+{
+  "item_index": "4007",
+  "item_name": "Rothco Lightweight Adjustable Mesh Boonie Hat",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Dominate the heat in Rothco&rsquo;s Lighweight Mesh Boonie Hat. This breathable outdoor sun hat features mesh ventilation surrounding much of the crown to provide optimal cooling airflow.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "253",
+  "description": "<p>Rothco's Mesh Boonie hat is fully adjustable, with an elastic cord and button lock that adjusts the circumference (up to 24 inches) of the hat for a custom fit. The boonie is made of lightweight polyester with mesh ventilation that covers about 3/4 of the crown aiding in ventilation around your head, keeping you cool and dry, while the 3 inch brim protects your head and face from the sun during outdoor activities. Inspired by the classic military boonie, the Rothco mesh boonie hat features branch loops, a chin strap with button lock, and a sweatband.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "375"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15634",
+      "item_index": "4007",
+      "rothco_item_no": "59555",
+      "upc": "613902595552",
+      "inventory": "0",
+      "created_date": "2015-09-04 13:10:01",
+      "weight": "0.2500",
+      "image_filename": "59555-C-amazon.jpg",
+      "catalog_page_no": "152",
+      "msrp": 24.99,
+      "ship_length": "8.5000",
+      "ship_width": "4.0000",
+      "ship_height": "2.5000",
+      "eta_date": "08/10/2025",
+      "specs": {
+        "size": "One Size",
+        "color": "Khaki"
+      },
+      "size": "One Size",
+      "color": "Khaki",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19060",
+      "item_index": "4007",
+      "rothco_item_no": "5573",
+      "upc": "613902155732",
+      "inventory": "99",
+      "created_date": "2019-05-23 11:10:00",
+      "weight": "0.2500",
+      "image_filename": "5573-A-amazon.jpg",
+      "catalog_page_no": "152",
+      "msrp": 27.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

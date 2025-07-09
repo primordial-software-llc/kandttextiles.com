@@ -1,0 +1,43 @@
+{
+  "item_index": "1434",
+  "item_name": "Rothco Corporal Polished Insignia",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Corporal Polished Insignia is manufactured by a US factory certified by The Institute Of Heraldry Army Corporal (e-4) and designed with a high-quality brass composition.</p>",
+  "no_ratings": "0",
+  "sort_order": "1078",
+  "description": "<p>This Item Is Manufactured By A US Factory Certified By The Institute Of Heraldry Army Corporal (e-4)&nbsp;WARNING: &nbsp;This product contains a chemical known to the State of California to cause cancer, birth defects and other reproductive harm.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "422"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "755",
+      "item_index": "1434",
+      "rothco_item_no": "1642",
+      "upc": "613902416420",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0200",
+      "image_filename": "1642_BIG-amazon.JPG",
+      "catalog_page_no": "212",
+      "msrp": 7.99,
+      "ship_length": "4.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Gold"
+      },
+      "color": "Gold",
+      "price": 4,
+      "case_price": 4,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

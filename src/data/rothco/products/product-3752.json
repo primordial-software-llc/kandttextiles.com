@@ -1,0 +1,40 @@
+{
+  "item_index": "3752",
+  "item_name": "Grabber Hand Warmers",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Grabber Hand Warmers are sold 2 per pack and provide 7+ hours of instant heat, perfect for sticking inside your gloves or pockets! 40 per display box.</p>",
+  "no_ratings": null,
+  "sort_order": "403",
+  "description": "<p>Grabber Hand Warmers are sold 2 per pack and provide 7+ hours of instant heat, perfect for sticking inside your gloves or pockets! 40 per display box.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "320"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14636",
+      "item_index": "3752",
+      "rothco_item_no": "4923",
+      "upc": "031626059226",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1031",
+      "image_filename": "4923-a.jpg",
+      "catalog_page_no": "192",
+      "msrp": 1.99,
+      "ship_length": "6.0000",
+      "ship_width": "5.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 0.85,
+      "case_price": 0.85,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

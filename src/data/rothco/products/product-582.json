@@ -1,0 +1,117 @@
+{
+  "item_index": "582",
+  "item_name": "Rothco G.I. Type Navy White Sailor Hat",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Achieve the timeless navy aesthetic with Rothco&rsquo;s White Sailor Hat. Crafted from breathable 100% cotton fabric, this authentic navy sailor cap ensures comfort and durability. Its classic round, visorless design with a stitched cuff epitomizes the iconic sailor look. Perfect for parades, fishing, sailing, costume parties, or performances, this sailor hat adds a touch of maritime flair to any outfit.</p>",
+  "no_ratings": "0",
+  "sort_order": "5216",
+  "description": "<p class=\"MsoNormal\">Achieve the timeless navy aesthetic with Rothco&rsquo;s White Sailor Hat. Crafted from breathable 100% cotton fabric, this authentic navy sailor cap ensures comfort and durability. Its classic round, visorless design with a stitched cuff epitomizes the iconic sailor look. Perfect for parades, fishing, sailing, costume parties, or performances, this sailor hat adds a touch of maritime flair to any outfit. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from military personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "523"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5073",
+      "item_index": "582",
+      "rothco_item_no": "5521",
+      "upc": "613902552111",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1250",
+      "image_filename": "5521-A-amazon.jpg",
+      "catalog_page_no": "153",
+      "msrp": 12.99,
+      "ship_length": "9.0000",
+      "ship_width": "8.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 4.95,
+      "case_price": 4.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5074",
+      "item_index": "582",
+      "rothco_item_no": "5521",
+      "upc": "613902552128",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1250",
+      "image_filename": "5521-A-amazon.jpg",
+      "catalog_page_no": "153",
+      "msrp": 12.99,
+      "ship_length": "8.7500",
+      "ship_width": "8.2500",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 4.95,
+      "case_price": 4.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5075",
+      "item_index": "582",
+      "rothco_item_no": "5521",
+      "upc": "613902552135",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1250",
+      "image_filename": "5521-A-amazon.jpg",
+      "catalog_page_no": "153",
+      "msrp": 12.99,
+      "ship_length": "9.5000",
+      "ship_width": "8.2500",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 4.95,
+      "case_price": 4.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5076",
+      "item_index": "582",
+      "rothco_item_no": "5521",
+      "upc": "613902552142",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1250",
+      "image_filename": "5521-A-amazon.jpg",
+      "catalog_page_no": "153",
+      "msrp": 12.99,
+      "ship_length": "9.5000",
+      "ship_width": "8.7500",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 4.95,
+      "case_price": 4.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

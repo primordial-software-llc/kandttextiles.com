@@ -1,0 +1,71 @@
+{
+  "item_index": "3991",
+  "item_name": "Rothco LED Headlamp",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=EiaNBDLQHMc",
+  "rating": "5",
+  "item_short_desc": "<p>Illuminate your path with Rothco's Multi-Function 5 Bulb LED Headlamp. Designed for versatility, it features a three-stage push button, offering a 3-watt Cree center white light, 2 side white lights, and 2 side red lights, making it ideal for service, police, and outdoor enthusiasts. The headlamp is adjustable in different directions, providing a customized beam of light. The LED headlight body features padding on the back for enhanced comfort during extended use.</p>",
+  "no_ratings": null,
+  "sort_order": "463",
+  "description": "<p>Illuminate your path with Rothco's Multi-Function 5 Bulb LED Headlamp. Designed for versatility, it features a three-stage push button, offering a 3-watt Cree center white light, 2 side white lights, and 2 side red lights, making it ideal for service, police, and outdoor enthusiasts. The headlamp is adjustable in different directions, providing a customized beam of light. The LED headlight body features padding on the back for enhanced comfort during extended use. Compact in size (2.2\" x 1.7\" x 1.5\"), it's perfect for law enforcement officials, cyclists, and outdoorsmen. A comfortable fit is ensured with the adjustable elastic strap, allowing you to focus on your tasks hands-free. The headlamp requires 3 AAA batteries (not included), providing a reliable and long-lasting source of illumination making it ideal for public safety, first responders, and outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "310",
+    "473",
+    "274"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15583",
+      "item_index": "3991",
+      "rothco_item_no": "236",
+      "upc": "613902122369",
+      "inventory": "99",
+      "created_date": "2015-08-24 13:10:01",
+      "weight": "0.1688",
+      "image_filename": "236-A-amazon1.jpg",
+      "catalog_page_no": "278",
+      "msrp": 15.99,
+      "ship_length": "7.0000",
+      "ship_width": "5.0000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16410",
+      "item_index": "3991",
+      "rothco_item_no": "2856",
+      "upc": "613902128569",
+      "inventory": "99",
+      "created_date": "2016-05-23 15:10:01",
+      "weight": "0.1688",
+      "image_filename": "2856-A-amazon.jpg",
+      "catalog_page_no": "278",
+      "msrp": 15.99,
+      "ship_length": "7.0000",
+      "ship_width": "5.0000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

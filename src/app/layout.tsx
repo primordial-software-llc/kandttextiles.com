@@ -46,7 +46,13 @@ export default function RootLayout({
                 <ul className="hidden md:flex space-x-8 items-center">
                   <li className="group">
                     <Link href="/products" className="text-gray-600 font-medium hover:text-[#1B2845] transition-all duration-300 relative inline-block">
-                      <span className="relative z-10">Products</span>
+                      <span className="relative z-10">All Products</span>
+                      <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-full"></div>
+                    </Link>
+                  </li>
+                  <li className="group">
+                    <Link href="/products/featured" className="text-gray-600 font-medium hover:text-[#1B2845] transition-all duration-300 relative inline-block">
+                      <span className="relative z-10">Featured</span>
                       <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-full"></div>
                     </Link>
                   </li>
@@ -94,7 +100,13 @@ export default function RootLayout({
                 <ul className="flex flex-col">
                   <li className="border-b group">
                     <Link href="/products" className="block w-full px-5 py-4 text-gray-600 font-medium hover:text-[#1B2845] hover:bg-gray-50 transition-all duration-300 relative">
-                      <span className="relative z-10">Products</span>
+                      <span className="relative z-10">All Products</span>
+                      <div className="absolute bottom-0 left-5 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-[calc(100%-2.5rem)]"></div>
+                    </Link>
+                  </li>
+                  <li className="border-b group">
+                    <Link href="/products/featured" className="block w-full px-5 py-4 text-gray-600 font-medium hover:text-[#1B2845] hover:bg-gray-50 transition-all duration-300 relative">
+                      <span className="relative z-10">Featured</span>
                       <div className="absolute bottom-0 left-5 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-[calc(100%-2.5rem)]"></div>
                     </Link>
                   </li>

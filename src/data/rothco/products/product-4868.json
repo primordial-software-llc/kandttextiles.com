@@ -1,0 +1,95 @@
+{
+  "item_index": "4868",
+  "item_name": "Rothco Canvas Waist Work Apron",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Canvas Waist Work Apron is perfect for any project. This heavy-duty construction tool belt keeps your tools close by with six convenient storage pouches, a hammer loop, and a tape measure mount.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133181",
+  "description": "<p>Rothco&rsquo;s Canvas Waist Work Apron keeps all of your tools at arm&rsquo;s length with six convenient storage pouches, a hammer loop, and a tape measure mount. The carpenter belt waist size ranges from 30 to 54 inches with two adjustment buckles. The construction tool belt features two large 8 inch x 7.5 inch pockets, and two smaller 6.5 inch x 5 inch pockets for storing your tools. The two narrow central pockets are ideal for holding pens and screwdrivers. The tool belt is made from durable materials for years of reliable use. The work belt is perfect for carpenters, mechanics, electricians, hobbyists, and more.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "221",
+    "383",
+    "382"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20920",
+      "item_index": "4868",
+      "rothco_item_no": "42024",
+      "upc": "613902005457",
+      "inventory": "54",
+      "created_date": "2021-08-30 09:00:06",
+      "weight": "0.7500",
+      "image_filename": "42024-A-no-logo.jpg",
+      "catalog_page_no": "339",
+      "msrp": 25.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20921",
+      "item_index": "4868",
+      "rothco_item_no": "42025",
+      "upc": "613902005433",
+      "inventory": "99",
+      "created_date": "2021-08-30 09:00:06",
+      "weight": "0.7500",
+      "image_filename": "42025-A-NO-LOGO.jpg",
+      "catalog_page_no": "339",
+      "msrp": 25.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22505",
+      "item_index": "4868",
+      "rothco_item_no": "42026",
+      "upc": "613902024212",
+      "inventory": "99",
+      "created_date": "2022-12-06 17:00:15",
+      "weight": "0.0000",
+      "image_filename": "42026-E.jpg",
+      "catalog_page_no": null,
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 9.95,
+      "case_price": 9.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

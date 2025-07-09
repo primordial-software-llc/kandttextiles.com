@@ -1,0 +1,42 @@
+{
+  "item_index": "1710",
+  "item_name": "Ka-bar Utility Knife",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": "0",
+  "sort_order": "271",
+  "description": "Oval Shaped Kraton G Thermoplastic Elastomer Handle Expoxy Powder Coated High Carbon Steel(1095) Blades (hrc 56-58) Blades Sharpened To 20 Degrees - 20 Degrees Buff Polished Edges Powdered Metal Butt Caps Carbon Steel Guards Sheath Fits Standard Web Belt Blade Length 7 Inches",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "293"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1912",
+      "item_index": "1710",
+      "rothco_item_no": "3253",
+      "upc": "617717212123",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.5000",
+      "image_filename": "3253case-hr1.jpg",
+      "catalog_page_no": "268",
+      "msrp": 177.99,
+      "ship_length": "13.7500",
+      "ship_width": "3.0000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 88.95,
+      "case_price": 88.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

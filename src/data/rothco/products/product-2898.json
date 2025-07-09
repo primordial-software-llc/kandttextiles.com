@@ -1,0 +1,142 @@
+{
+  "item_index": "2898",
+  "item_name": "Rothco Cold Weather Leather Police Gloves",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay warm and protected during duty with Rothco&rsquo;s Cold Weather Leather Gloves. Crafted with a soft genuine cowhide leather outer shell, these duty gloves offer exceptional durability and abrasion resistance, ensuring long-lasting performance in demanding environments. Featuring Thermoblock insulated lining, these leather gloves provide unbeatable protection from the elements, keeping your hands warm and comfortable in cold weather conditions.</p>",
+  "no_ratings": null,
+  "sort_order": "1138",
+  "description": "<p>Stay warm and protected during duty with Rothco&rsquo;s Cold Weather Leather Gloves. Crafted with a soft genuine cowhide leather outer shell, these duty gloves offer exceptional durability and abrasion resistance, ensuring long-lasting performance in demanding environments. Featuring Thermoblock insulated lining, these leather gloves provide unbeatable protection from the elements, keeping your hands warm and comfortable in cold weather conditions. Whether you're on patrol, directing traffic, or conducting outdoor activities, these cold weather gloves offer reliable warmth and insulation. The classic black leather design not only complements public safety uniforms but also makes them suitable for casual wear. Transition seamlessly from duty to everyday activities while staying stylish and comfortable. Designed for optimal functionality, these gloves offer a comfortable fit that allows for dexterity and mobility, enabling you to perform tasks with ease. Whether you're gripping equipment, operating vehicles, or handling objects, these gloves provide the protection and flexibility you need. Versatile and practical, Rothco&rsquo;s Cold Weather Leather Gloves are essential gear for public safety officials, law enforcement personnel, and outdoor enthusiasts alike. Stay warm, protected, and ready for action with these reliable leather gloves.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "319",
+    "321"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3269",
+      "item_index": "2898",
+      "rothco_item_no": "4472",
+      "upc": "613902447219",
+      "inventory": "99",
+      "created_date": "2011-09-05 21:00:00",
+      "weight": "0.3600",
+      "image_filename": "4472-C-amazon.jpg",
+      "catalog_page_no": "190",
+      "msrp": 36.99,
+      "ship_length": "10.7500",
+      "ship_width": "4.5000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 16.25,
+      "case_price": 16.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3270",
+      "item_index": "2898",
+      "rothco_item_no": "4472",
+      "upc": "613902447226",
+      "inventory": "99",
+      "created_date": "2011-09-05 21:00:00",
+      "weight": "0.3600",
+      "image_filename": "4472-C-amazon.jpg",
+      "catalog_page_no": "190",
+      "msrp": 36.99,
+      "ship_length": "10.7500",
+      "ship_width": "4.5000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 16.25,
+      "case_price": 16.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3271",
+      "item_index": "2898",
+      "rothco_item_no": "4472",
+      "upc": "613902447233",
+      "inventory": "99",
+      "created_date": "2011-09-05 21:00:00",
+      "weight": "0.3600",
+      "image_filename": "4472-C-amazon.jpg",
+      "catalog_page_no": "190",
+      "msrp": 36.99,
+      "ship_length": "11.0000",
+      "ship_width": "4.5000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 16.25,
+      "case_price": 16.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3272",
+      "item_index": "2898",
+      "rothco_item_no": "4472",
+      "upc": "613902447240",
+      "inventory": "99",
+      "created_date": "2011-09-05 21:00:00",
+      "weight": "0.3600",
+      "image_filename": "4472-C-amazon.jpg",
+      "catalog_page_no": "190",
+      "msrp": 36.99,
+      "ship_length": "11.0000",
+      "ship_width": "4.5000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 16.25,
+      "case_price": 16.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3273",
+      "item_index": "2898",
+      "rothco_item_no": "4472",
+      "upc": "613902447257",
+      "inventory": "95",
+      "created_date": "2011-09-05 21:00:00",
+      "weight": "0.3600",
+      "image_filename": "4472-C-amazon.jpg",
+      "catalog_page_no": "190",
+      "msrp": 36.99,
+      "ship_length": "11.2500",
+      "ship_width": "4.5000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 16.25,
+      "case_price": 16.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "item_index": "335",
+  "item_name": "Rothco Blousing Garter Straps",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Maintain a polished and professional appearance with Rothco's Blousing Garter Straps. These elasticized cotton garters offer a comfortable fit and come in a convenient set of two. Featuring a practical hook-on style, these garters make it effortless to tighten the bottom of your pant legs around your boots. By blousing your pants, you not only achieve a neat and tucked-in look all day but also prevent dirt and debris from entering your boots.</p>",
+  "no_ratings": "0",
+  "sort_order": "12906",
+  "description": "<p>Maintain a polished and professional appearance with Rothco's Blousing Garter Straps. These elasticized cotton garters offer a comfortable fit and come in a convenient set of two. Featuring a practical hook-on style, these garters make it effortless to tighten the bottom of your pant legs around your boots. By blousing your pants, you not only achieve a neat and tucked-in look all day but also prevent dirt and debris from entering your boots. Ideal for service and tactical use, these garters provide a simple yet effective solution to keep your uniform pants in top shape.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "358",
+    "382"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "6224",
+      "item_index": "335",
+      "rothco_item_no": "6197",
+      "upc": "613902619715",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0056",
+      "image_filename": "2946-B-AR-Coyote1.jpg",
+      "catalog_page_no": "197",
+      "msrp": 1.99,
+      "ship_length": "4.0000",
+      "ship_width": "0.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Tan"
+      },
+      "color": "Tan",
+      "price": 0.5,
+      "case_price": 0.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6225",
+      "item_index": "335",
+      "rothco_item_no": "6198",
+      "upc": "613902619807",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0150",
+      "image_filename": "6198-B-OD.jpg",
+      "catalog_page_no": "197",
+      "msrp": 1.99,
+      "ship_length": "4.0000",
+      "ship_width": "0.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 0.5,
+      "case_price": 0.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6685",
+      "item_index": "335",
+      "rothco_item_no": "6492",
+      "upc": "613902649200",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0150",
+      "image_filename": "6492-B-FoilageGreen1.jpg",
+      "catalog_page_no": "197",
+      "msrp": 1.99,
+      "ship_length": "4.0000",
+      "ship_width": "0.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Foliage Green"
+      },
+      "color": "Foliage Green",
+      "price": 0.5,
+      "case_price": 0.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "6699",
+      "item_index": "335",
+      "rothco_item_no": "6498",
+      "upc": "613902649804",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0150",
+      "image_filename": "6498-B-Black.jpg",
+      "catalog_page_no": "197",
+      "msrp": 1.99,
+      "ship_length": "4.0000",
+      "ship_width": "0.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 0.5,
+      "case_price": 0.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19001",
+      "item_index": "335",
+      "rothco_item_no": "2946",
+      "upc": "613902029460",
+      "inventory": "99",
+      "created_date": "2019-05-08 17:10:00",
+      "weight": "0.0150",
+      "image_filename": "2946-B-AR-Coyote1.jpg",
+      "catalog_page_no": "197",
+      "msrp": 1.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "AR 670-1 Coyote Brown"
+      },
+      "color": "AR 670-1 Coyote Brown",
+      "price": 0.5,
+      "case_price": 0.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

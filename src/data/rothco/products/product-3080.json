@@ -1,0 +1,42 @@
+{
+  "item_index": "3080",
+  "item_name": "Rothco Wick For Kerosene Lanterns",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Keep your Rothco kerosene lanterns burning brightly with our high-quality replacement wicks. Designed for universal compatibility with multiple lantern models, these wicks offer reliable performance and long-lasting use. Conveniently packaged and affordably priced, they ensure your lantern is always ready when you need it most.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "700",
+  "description": "<p>Keep your Rothco kerosene lanterns burning brightly with our high-quality replacement wicks. Designed for universal compatibility with multiple lantern models, these wicks offer reliable performance and long-lasting use. Conveniently packaged and affordably priced, they ensure your lantern is always ready when you need it most</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "264",
+    "274",
+    "312"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8380",
+      "item_index": "3080",
+      "rothco_item_no": "745",
+      "upc": "613902647459",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0010",
+      "image_filename": "745-B.jpg",
+      "catalog_page_no": "278",
+      "msrp": 1.99,
+      "ship_length": "6.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 0.4,
+      "case_price": 0.4,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

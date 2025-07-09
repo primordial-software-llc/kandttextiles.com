@@ -1,0 +1,41 @@
+{
+  "item_index": "4302",
+  "item_name": "Scorpion U.S. Army Branch Tape",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Ripstop Scorpion camouflage branch tape embroidered with \"U.S. Army\" lettering.</p>",
+  "no_ratings": null,
+  "sort_order": "33",
+  "description": "<p>Scorpion camouflage branch tape embroidered with \"U.S. Army\" lettering.&nbsp; Made from a combination of tough ripstop material and a durable cotton/polyester blend.&nbsp; Comes complete with a hook and loop closure.&nbsp; &nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "423",
+    "492"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17350",
+      "item_index": "4302",
+      "rothco_item_no": "1790",
+      "upc": "613902017900",
+      "inventory": "99",
+      "created_date": "2017-05-30 11:10:02",
+      "weight": "0.0106",
+      "image_filename": "1790-A-amazon.jpg",
+      "catalog_page_no": "217",
+      "msrp": 8.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

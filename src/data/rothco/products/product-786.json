@@ -1,0 +1,40 @@
+{
+  "item_index": "786",
+  "item_name": "Rothco G.I. Plus Rifle Cleaning Kit",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Ensure your rifle stays in prime condition with Rothco's Rifle Cleaning Kit. This compact kit is designed specifically for .223 and 5.56 caliber firearms. It includes essential tools like a .233 caliber and 5.56mm bore brush, chamber brush, and a 5-piece rod assembly. Additionally, this kit comes with a refillable oil bottle, allowing you to use your preferred gun oil (oil not included).</p>",
+  "no_ratings": "0",
+  "sort_order": "537",
+  "description": "<p>Ensure your rifle stays in prime condition with Rothco's Rifle Cleaning Kit. This compact kit is designed specifically for .223 and 5.56 caliber firearms. It includes essential tools like a .233 caliber and 5.56mm bore brush, chamber brush, and a 5-piece rod assembly. Additionally, this kit comes with a refillable oil bottle, allowing you to use your preferred gun oil (oil not included). The durable polyester MOLLE-compatible belt pouch ensures convenient storage and easy carry wherever you go. Keep your firearm clean and well-maintained with Rothco's reliable cleaning kit.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "249"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2566",
+      "item_index": "786",
+      "rothco_item_no": "3819",
+      "upc": "613902381902",
+      "inventory": "99",
+      "created_date": "2007-07-19 21:00:00",
+      "weight": "0.5500",
+      "image_filename": "3819-B.jpg",
+      "catalog_page_no": "262",
+      "msrp": 24.99,
+      "ship_length": "10.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 10.5,
+      "case_price": 10.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

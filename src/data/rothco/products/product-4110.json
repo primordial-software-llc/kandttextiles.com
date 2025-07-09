@@ -1,0 +1,166 @@
+{
+  "item_index": "4110",
+  "item_name": "Rothco Moisture Wicking Security Polo Shirt With Badge",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Leave the badge at home with Rothco's Moisture Wicking Security Polo with Printed Badge. This polo features a badge emblem printed directly on the front, eliminating the need for a badge pin. Made from moisture-wicking polyester performance material, it keeps the body cool, dry, and comfortable. \"Security\" is also printed on the back, making it the perfect uniform shirt for security and public safety personnel.</p>",
+  "no_ratings": null,
+  "sort_order": "852",
+  "description": "<p>Leave the badge at home with Rothco's Moisture Wicking Security Polo with Printed Badge. This polo features a badge emblem printed directly on the front, eliminating the need for a badge pin. Made from moisture-wicking polyester performance material, it keeps the body cool, dry, and comfortable. \"Security\" is also printed on the back, making it the perfect uniform shirt for security and public safety personnel.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "36",
+    "481"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16235",
+      "item_index": "4110",
+      "rothco_item_no": "3627",
+      "upc": "613902362710",
+      "inventory": "99",
+      "created_date": "2016-03-11 17:10:03",
+      "weight": "0.4900",
+      "image_filename": "3627-RIGHT-C.jpg",
+      "catalog_page_no": "66",
+      "msrp": 26.99,
+      "ship_length": "13.5000",
+      "ship_width": "10.7500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 11.5,
+      "case_price": 11.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16236",
+      "item_index": "4110",
+      "rothco_item_no": "3627",
+      "upc": "613902362727",
+      "inventory": "99",
+      "created_date": "2016-03-11 17:10:03",
+      "weight": "0.4900",
+      "image_filename": "3627-RIGHT-C.jpg",
+      "catalog_page_no": "66",
+      "msrp": 26.99,
+      "ship_length": "13.5000",
+      "ship_width": "10.7500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 11.5,
+      "case_price": 11.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16237",
+      "item_index": "4110",
+      "rothco_item_no": "3627",
+      "upc": "613902362734",
+      "inventory": "99",
+      "created_date": "2016-03-11 17:10:03",
+      "weight": "0.4900",
+      "image_filename": "3627-RIGHT-C.jpg",
+      "catalog_page_no": "66",
+      "msrp": 26.99,
+      "ship_length": "13.5000",
+      "ship_width": "10.7500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 11.5,
+      "case_price": 11.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16238",
+      "item_index": "4110",
+      "rothco_item_no": "3627",
+      "upc": "613902362741",
+      "inventory": "99",
+      "created_date": "2016-03-11 17:10:03",
+      "weight": "0.4900",
+      "image_filename": "3627-RIGHT-C.jpg",
+      "catalog_page_no": "66",
+      "msrp": 26.99,
+      "ship_length": "13.5000",
+      "ship_width": "10.7500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 11.5,
+      "case_price": 11.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16239",
+      "item_index": "4110",
+      "rothco_item_no": "3628",
+      "upc": "613902362802",
+      "inventory": "99",
+      "created_date": "2016-03-11 17:10:03",
+      "weight": "0.4900",
+      "image_filename": "3627-RIGHT-C.jpg",
+      "catalog_page_no": "66",
+      "msrp": 28.99,
+      "ship_length": "14.0000",
+      "ship_width": "11.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16240",
+      "item_index": "4110",
+      "rothco_item_no": "3629",
+      "upc": "613902362901",
+      "inventory": "99",
+      "created_date": "2016-03-11 17:10:03",
+      "weight": "0.5200",
+      "image_filename": "3627-RIGHT-C.jpg",
+      "catalog_page_no": "66",
+      "msrp": 30.99,
+      "ship_length": "14.0000",
+      "ship_width": "11.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3XL"
+      },
+      "size": "3XL",
+      "price": 13.5,
+      "case_price": 13.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

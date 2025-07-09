@@ -1,0 +1,167 @@
+{
+  "item_index": "2447",
+  "item_name": "Rothco Canvas Travel Portfolio Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Looking for a portable military style travel bag? Look no further! Our Heavyweight Canvas Travel Portfolio Bag offers an all-in-one place to organize and carry your traveling essentials. This shoulder bag keeps your possessions close to you through a crossbody design, and is great for travel, work, everyday use, and more.</p>",
+  "no_ratings": "0",
+  "sort_order": "7468",
+  "description": "<p>Looking for a portable military style travel bag? Look no further! Our Heavyweight Canvas Travel Portfolio Bag offers an all-in-one place to organize and carry your traveling essentials. This shoulder bag keeps your possessions close to you through a crossbody design, and is great for travel, work, everyday use, and more. Top Grade Canvas: Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. Consisting of 22 oz. (Woodland Camo is 18 oz.) heavyweight, double-stitched cotton canvas material, these travel pouches are built tough and feature metal hardware that&rsquo;ll withstand rigorous outdoor use. The water-resistant nylon lining provides additional protection, allowing you to stay the course without worrying about your items. No one comes close to Rothco&rsquo;s collection of premium canvas bags and packs. Safe and Secure: Designed to keep your gear organized, the fold-out compartment contains 7 card slots (1 has an ID window), a side zipper pocket for small essentials, 2 slide-in pockets for maps and documents, and a pen holder. This fold-out compartment features a hook &amp; loop closure, and is secured behind the front buckle flap for extra security. Spacious Storage Compartments: The travel portfolio measures 8.5 inch x 6.25 inch x 2 inch, and features a main compartment that&rsquo;s perfect for storing bulkier items like a camera or water bottle. The front pocket is great for holding commonly used items like gum or mints, while the 2 zippered pockets offer an ideal place to keep loose items such as spare change or tickets. Various Carrying Options: These heavy-duty canvas bags come equipped with an adjustable shoulder strap that extends up to 56 inches, giving you the option to wear as a crossbody bag, or either around your neck or shoulder. The strap can be removed by detaching the 2 side clips, allowing you to easily store it in your car or larger bag. There&rsquo;s also a belt loop sewn on the back for additional mobility.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "212",
+    "208"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1041",
+      "item_index": "2447",
+      "rothco_item_no": "2125",
+      "upc": "613902212503",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7000",
+      "image_filename": "2125-Brown-A-amazon.jpg",
+      "catalog_page_no": "355",
+      "msrp": 21.99,
+      "ship_length": "11.2500",
+      "ship_width": "6.7500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Brown"
+      },
+      "color": "Brown",
+      "price": 8.6,
+      "case_price": 8.6,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1223",
+      "item_index": "2447",
+      "rothco_item_no": "2325",
+      "upc": "613902232518",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7000",
+      "image_filename": "2325-Black-A-amazon.jpg",
+      "catalog_page_no": "355",
+      "msrp": 21.99,
+      "ship_length": "11.2500",
+      "ship_width": "6.7500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 8.6,
+      "case_price": 8.6,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1224",
+      "item_index": "2447",
+      "rothco_item_no": "2325",
+      "upc": "613902232501",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7000",
+      "image_filename": "2325-OD-A-amazon.jpg",
+      "catalog_page_no": "355",
+      "msrp": 21.99,
+      "ship_length": "11.2500",
+      "ship_width": "6.7500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 8.6,
+      "case_price": 8.6,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1225",
+      "item_index": "2447",
+      "rothco_item_no": "2325",
+      "upc": "613902232525",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7000",
+      "image_filename": "2325-Khaki-A-amazon.jpg",
+      "catalog_page_no": "355",
+      "msrp": 21.99,
+      "ship_length": "11.2500",
+      "ship_width": "6.7500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki"
+      },
+      "color": "Khaki",
+      "price": 8.6,
+      "case_price": 8.6,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12769",
+      "item_index": "2447",
+      "rothco_item_no": "2326",
+      "upc": "613902023260",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7000",
+      "image_filename": "2326-A-amazon.jpg",
+      "catalog_page_no": "355",
+      "msrp": 21.99,
+      "ship_length": "11.2500",
+      "ship_width": "6.7500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 8.6,
+      "case_price": 8.6,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22754",
+      "item_index": "2447",
+      "rothco_item_no": "21250",
+      "upc": "613902028722",
+      "inventory": "99",
+      "created_date": "2023-04-05 16:00:09",
+      "weight": "0.0000",
+      "image_filename": "21250-B.jpg",
+      "catalog_page_no": "355",
+      "msrp": 21.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 8.6,
+      "case_price": 8.6,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

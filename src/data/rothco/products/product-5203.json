@@ -1,0 +1,37 @@
+{
+  "item_index": "5203",
+  "item_name": "Griffin Spit Shine Instant Shoe Shine",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Griffin&rsquo;s Spit Shine Instant Shoe Shine is built for those who demand quick, high-impact results without the mess. Designed for military service members, law enforcement, and first responders, this easy-to-use shine solution instantly revives smooth leather footwear with a sleek, uniform gloss shine for tactical boots, oxfords, dress shoes, or inspection-ready footwear. The instant shoe shine spray is compatible with all smooth leather colors and is proudly crafted in the United States for superior quality and durability.</p>",
+  "no_ratings": null,
+  "sort_order": null,
+  "description": "<p>Griffin&rsquo;s Spit Shine Instant Shoe Shine is built for those who demand quick, high-impact results without the mess. Designed for military service members, law enforcement, and first responders, this easy-to-use shine solution instantly revives smooth leather footwear with a sleek, uniform gloss shine for tactical boots, oxfords, dress shoes, or inspection-ready footwear. The instant shoe shine spray is compatible with all smooth leather colors and is proudly crafted in the United States for superior quality and durability.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "variations": [
+    {
+      "item_variation_id": "31341",
+      "item_index": "5203",
+      "rothco_item_no": "20206",
+      "upc": "075914977021",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.3200",
+      "image_filename": "20206-A.jpg",
+      "catalog_page_no": null,
+      "msrp": 10.99,
+      "ship_length": "5.9300",
+      "ship_width": "1.6400",
+      "ship_height": "1.6400",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 5.95,
+      "case_price": 5.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "item_index": "564",
+  "item_name": "Rothco WWII M1941 Acrylic Knit Watch Cap with Brim",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s WWII M1941 Acrylic Knit Watch Cap with Brim brings back the iconic look of a historic design while providing modern warmth and comfort. Made from soft acrylic fabric, this knit cap retains heat, making it ideal for cold weather. Its updated design offers full coverage for your ears, ensuring you stay cozy even on the coldest days. The short brim adds a touch of authenticity while providing subtle sun protection, making this cap perfect for outdoor activities.</p>",
+  "no_ratings": "0",
+  "sort_order": "3543",
+  "description": "<p>Rothco&rsquo;s WWII M1941 Acrylic Knit Watch Cap with Brim brings back the iconic look of a historic design while providing modern warmth and comfort. Made from soft acrylic fabric, this knit cap retains heat, making it ideal for cold weather. Its updated design offers full coverage for your ears, ensuring you stay cozy even on the coldest days. The short brim adds a touch of authenticity while providing subtle sun protection, making this cap perfect for outdoor activities. Whether you're hiking, camping, or just braving the cold, the WWII M1941 Acrylic Knit Watch Cap delivers warmth, durability, and timeless style. The 1-size-fits-most design ensures a comfortable and snug fit for a variety of head sizes. Inspired by the original WWII watch caps worn under helmets, this cap blends vintage appeal with practical modern use, offering unbeatable warmth and a snug fit for any cold-weather adventure. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from military personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "83",
+    "137",
+    "522"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "4923",
+      "item_index": "564",
+      "rothco_item_no": "5409",
+      "upc": "613902540903",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "5409-OD-A-amazon.jpg",
+      "catalog_page_no": "154",
+      "msrp": 10.99,
+      "ship_length": "7.7500",
+      "ship_width": "7.2500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "4924",
+      "item_index": "564",
+      "rothco_item_no": "5409",
+      "upc": "613902540910",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "5409-Black-A-amazon.jpg",
+      "catalog_page_no": "154",
+      "msrp": 10.99,
+      "ship_length": "7.7500",
+      "ship_width": "7.2500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

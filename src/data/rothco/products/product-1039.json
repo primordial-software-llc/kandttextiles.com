@@ -1,0 +1,152 @@
+{
+  "item_index": "1039",
+  "item_name": "Rothco Wool Blanket",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Wool Blankets redefine outdoor comfort and safety, offering natural warmth and protection in the harshest conditions. Crafted with precision, the service-style blanket boasts a heavyweight composition, combining 70% virgin woven wool with a 30% synthetic blend. This unique blend ensures superior warmth, breathability, and comfort, making it an indispensable companion for camping, hiking, and emergency situations. Wool, known as one of Mother Nature's best insulators, takes center stage in these blankets, providing optimal warmth.</p>",
+  "no_ratings": "0",
+  "sort_order": "5460",
+  "description": "<p>Rothco's Wool Blankets redefine outdoor comfort and safety, offering natural warmth and protection in the harshest conditions. Crafted with precision, the service-style blanket boasts a heavyweight composition, combining 70% virgin woven wool with a 30% synthetic blend. This unique blend ensures superior warmth, breathability, and comfort, making it an indispensable companion for camping, hiking, and emergency situations. Wool, known as one of Mother Nature's best insulators, takes center stage in these blankets, providing optimal warmth and keeping you dry in diverse environments. The durability of these blankets is unmatched, designed to withstand the rigors of outdoor adventures and emergency scenarios. Safety is paramount, and Rothco's Wool Blankets deliver with their natural fire-retardant properties, offering an additional layer of protection. The blanket is available in two practical sizes&mdash;62\" x 80\" fitting most cots, and 66\" x 90\" ideally suited for twin-size beds&mdash;ensuring versatility and optimal coverage for various sleeping arrangements. Invest in Rothco's Wool Blankets for a reliable, durable, and warm solution in the great outdoors or unforeseen emergencies. Embrace the comfort and security of natural wool, backed by Rothco's commitment to quality and functionality.</p>",
+  "selection_groups": [
+    "color",
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "272"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "129",
+      "item_index": "1039",
+      "rothco_item_no": "10231",
+      "upc": "613902102316",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.2000",
+      "image_filename": "10231-A-amazon.jpg",
+      "catalog_page_no": "305",
+      "msrp": 30.99,
+      "ship_length": "22.5000",
+      "ship_width": "16.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue",
+        "size": "62\" x 80\""
+      },
+      "color": "Navy Blue",
+      "size": "62\" x 80\"",
+      "price": 14.5,
+      "case_price": 14.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "132",
+      "item_index": "1039",
+      "rothco_item_no": "10249",
+      "upc": "613902102491",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.7000",
+      "image_filename": "10249-A-amazon.jpg",
+      "catalog_page_no": "305",
+      "msrp": 30.99,
+      "ship_length": "22.5000",
+      "ship_width": "16.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Grey",
+        "size": "62\" x 80\""
+      },
+      "color": "Grey",
+      "size": "62\" x 80\"",
+      "price": 14.5,
+      "case_price": 14.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10556",
+      "item_index": "1039",
+      "rothco_item_no": "9093",
+      "upc": "613902909304",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.7500",
+      "image_filename": "9093-A-amazon1.jpg",
+      "catalog_page_no": "305",
+      "msrp": 30.99,
+      "ship_length": "22.5000",
+      "ship_width": "16.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "62\" x 80\""
+      },
+      "color": "Olive Drab",
+      "size": "62\" x 80\"",
+      "price": 14.5,
+      "case_price": 14.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "13436",
+      "item_index": "1039",
+      "rothco_item_no": "99093",
+      "upc": "613902990937",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "4.0000",
+      "image_filename": "9093-A-amazon1.jpg",
+      "catalog_page_no": "305",
+      "msrp": 32.99,
+      "ship_length": "25.0000",
+      "ship_width": "16.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "66\" x 90\""
+      },
+      "color": "Olive Drab",
+      "size": "66\" x 90\"",
+      "price": 15.5,
+      "case_price": 15.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20754",
+      "item_index": "1039",
+      "rothco_item_no": "10159",
+      "upc": "613902003453",
+      "inventory": "99",
+      "created_date": "2021-06-08 14:00:08",
+      "weight": "3.7500",
+      "image_filename": "10159-A-no-logo.jpg",
+      "catalog_page_no": "305",
+      "msrp": 32.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Grey",
+        "size": "66\" x 90\""
+      },
+      "color": "Grey",
+      "size": "66\" x 90\"",
+      "price": 15.5,
+      "case_price": 15.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "item_index": "5197",
+  "item_name": "Griffin Shoe Polish – 3 oz.",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Griffin&rsquo;s Shoe Polish provides rich color and high shine for all your footwear needs. Shine and polish your uniform shoes and tactical boots with deep pigmentation and excellent quality formula of pure carnauba wax, bees wax, and the finest grade of waxes and oils, offering exceptional stain and scuff coverage for the ultimate protection. The leather shoe polish provides shine, nourishment, and proven long-lasting water protection. Proudly crafted in the United States for superior quality and durability.</p>",
+  "no_ratings": null,
+  "sort_order": null,
+  "description": "<p>Griffin&rsquo;s Shoe Polish provides rich color and high shine for all your footwear needs. Shine and polish your uniform shoes and tactical boots with deep pigmentation and excellent quality formula of pure carnauba wax, bees wax, and the finest grade of waxes and oils, offering exceptional stain and scuff coverage for the ultimate protection. The leather shoe polish provides shine, nourishment, and proven long-lasting water protection. Proudly crafted in the United States for superior quality and durability.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "variations": [
+    {
+      "item_variation_id": "31334",
+      "item_index": "5197",
+      "rothco_item_no": "20205",
+      "upc": "075914004505",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.2000",
+      "image_filename": "20205-A.jpg",
+      "catalog_page_no": null,
+      "msrp": 12.99,
+      "ship_length": "3.9200",
+      "ship_width": "3.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Brown"
+      },
+      "color": "Brown",
+      "price": 4.95,
+      "case_price": 4.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "31377",
+      "item_index": "5197",
+      "rothco_item_no": "20204",
+      "upc": "075914114013",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.2000",
+      "image_filename": "20204-A.jpg",
+      "catalog_page_no": null,
+      "msrp": 12.99,
+      "ship_length": "3.7500",
+      "ship_width": "3.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 4.95,
+      "case_price": 4.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

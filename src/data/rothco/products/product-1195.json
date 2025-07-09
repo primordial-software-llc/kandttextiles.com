@@ -1,0 +1,41 @@
+{
+  "item_index": "1195",
+  "item_name": "Datrex Emergency Water (64/case)",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Datrex Emergency Water is an essential addition to any emergency preparedness kit. Each case contains 64 sachets, with each sachet holding 125 ml (4.227 ounces) of purified water, ready for immediate use. The lightweight and extremely compact packaging make it easy to store and transport, ensuring you have access to clean water when you need it most. The superior packaging materials used provide optimum durability, protecting the water from contamination.</p>",
+  "no_ratings": "0",
+  "sort_order": "852",
+  "description": "<p>Datrex Emergency Water is an essential addition to any emergency preparedness kit. Each case contains 64 sachets, with each sachet holding 125 ml (4.227 ounces) of purified water, ready for immediate use. The lightweight and extremely compact packaging make it easy to store and transport, ensuring you have access to clean water when you need it most. The superior packaging materials used provide optimum durability, protecting the water from contamination. The case dimensions are 13.25 inches x 9.75 inches x 6.25 inches, and it weighs 20.5 lbs, making it easy to handle and store. With a 5-year shelf life from the manufacturing date, you can be confident that your emergency water supply will remain fresh and safe to drink.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "542",
+    "258"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10681",
+      "item_index": "1195",
+      "rothco_item_no": "9209",
+      "upc": "613902920903",
+      "inventory": "84",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "20.5000",
+      "image_filename": "9209-A-amazon.jpg",
+      "catalog_page_no": "294",
+      "msrp": 42.99,
+      "ship_length": "10.0000",
+      "ship_width": "12.7500",
+      "ship_height": "6.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 16.95,
+      "case_price": 16.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

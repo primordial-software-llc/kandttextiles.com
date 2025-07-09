@@ -1,0 +1,47 @@
+{
+  "item_index": "1486",
+  "item_name": "Rothco Major Insignia",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>This Item Is Manufactured By A US Factory Certified By The Institute Of Heraldry Army Major Reg. Size</p>",
+  "no_ratings": "0",
+  "sort_order": "631",
+  "description": "<p>This Item Is Manufactured By A US Factory Certified By The Institute Of Heraldry Army Major Reg. Size. &nbsp;WARNING: &nbsp;This product contains a chemical known to the State of California to cause cancer, birth defects and other reproductive harm.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "422"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "790",
+      "item_index": "1486",
+      "rothco_item_no": "1703",
+      "upc": "613902170377",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0519",
+      "image_filename": "1703_big-amazon.jpg",
+      "catalog_page_no": "212",
+      "msrp": 12.99,
+      "ship_length": "4.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Gold",
+        "size": "One Size"
+      },
+      "color": "Gold",
+      "size": "One Size",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

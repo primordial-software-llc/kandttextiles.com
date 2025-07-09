@@ -1,0 +1,149 @@
+{
+  "item_index": "4037",
+  "item_name": "Rothco Canvas & Leather Travel Kit",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Canvas and Leather Travel Kit is a sleek, vintage-styled toiletry bag inspired by the classic dopp bag issued to military personnel. Crafted from naturally water-resistant cotton canvas and accented with sophisticated leather trim, this compact travel kit is perfect for organizing your essentials. The canvas dopp bag features a glossy brass zipper for reliable closure and snap buttons on each side to adjust the size for storing additional travel items.</p>",
+  "no_ratings": null,
+  "sort_order": "642",
+  "description": "<p>Rothco&rsquo;s Canvas and Leather Travel Kit is a sleek, vintage-styled toiletry bag inspired by the classic dopp bag issued to military personnel. Crafted from naturally water-resistant cotton canvas and accented with sophisticated leather trim, this compact travel kit is perfect for organizing your essentials. The canvas dopp bag features a glossy brass zipper for reliable closure and snap buttons on each side to adjust the size for storing additional travel items. Measuring 9.5 inch x 4 inch x 5.5 inch, the vintage toiletry bag fits easily into your duffle bag or luggage, making it an ideal travel companion. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "212",
+    "577",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15718",
+      "item_index": "4037",
+      "rothco_item_no": "91260",
+      "upc": "613902992603",
+      "inventory": "99",
+      "created_date": "2015-09-24 16:10:01",
+      "weight": "0.4813",
+      "image_filename": "91260-A-amazon.jpg",
+      "catalog_page_no": "351",
+      "msrp": 20.99,
+      "ship_length": "11.0000",
+      "ship_width": "6.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16767",
+      "item_index": "4037",
+      "rothco_item_no": "9866",
+      "upc": "613902098664",
+      "inventory": "99",
+      "created_date": "2016-12-02 15:10:02",
+      "weight": "0.4850",
+      "image_filename": "9866-A-amazon1.jpg",
+      "catalog_page_no": "351",
+      "msrp": 20.99,
+      "ship_length": "11.0000",
+      "ship_width": "6.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18503",
+      "item_index": "4037",
+      "rothco_item_no": "9688",
+      "upc": "613902968806",
+      "inventory": "99",
+      "created_date": "2018-06-05 10:10:02",
+      "weight": "0.4850",
+      "image_filename": "5479-Black-A-amazon.jpg",
+      "catalog_page_no": "351",
+      "msrp": 20.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21058",
+      "item_index": "4037",
+      "rothco_item_no": "91261",
+      "upc": "613902011656",
+      "inventory": "99",
+      "created_date": "2021-12-01 15:00:17",
+      "weight": "0.4813",
+      "image_filename": "91261-A-no-logo.jpg",
+      "catalog_page_no": "351",
+      "msrp": 20.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Earth Brown"
+      },
+      "color": "Earth Brown",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21059",
+      "item_index": "4037",
+      "rothco_item_no": "91262",
+      "upc": "613902011649",
+      "inventory": "99",
+      "created_date": "2021-12-01 15:00:17",
+      "weight": "0.4813",
+      "image_filename": "91262-A-no-logo.jpg",
+      "catalog_page_no": "351",
+      "msrp": 20.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Charcoal Grey"
+      },
+      "color": "Charcoal Grey",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

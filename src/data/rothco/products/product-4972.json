@@ -1,0 +1,117 @@
+{
+  "item_index": "4972",
+  "item_name": "Rothco Wool Watch Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Keep incredibly warm this winter with our Wool Watch Cap. These comfortably knit military wool hats offer unbeatable all-weather protection, are built to withstand rugged outdoor use, and will protect you wherever you go. They&rsquo;re great for daily wear, camping, fishing, hiking, skiing, snowboarding, skating, biking, and other outdoor activities. Keep an extra watch cap in your car for those spontaneous adventures that your friends or family came up with on the fly!</p>",
+  "no_ratings": null,
+  "sort_order": "133285",
+  "description": "<p>Keep incredibly warm this winter with our Wool Watch Cap. These comfortably knit military wool hats offer unbeatable all-weather protection, are built to withstand rugged outdoor use, and will protect you wherever you go. They&rsquo;re great for daily wear, camping, fishing, hiking, skiing, snowboarding, skating, biking, and other outdoor activities. Keep an extra watch cap in your car for those spontaneous adventures that your friends or family came up with on the fly! Insulating Protection: These 100% wool hats provide nature&rsquo;s best protection from the elements. The knitted wool material enables a snug fit against your head to better insulate your body temperature. This insulation provides a helpful and convenient barrier against the cold. Comfortable Fit: In addition to keeping you warm, the softly knitted wool is extremely comfortable. Wear your military watch cap all day without any discomfort. One Size Fits Most: Our outdoor wool hats are for both men and women, accommodating most head sizes. The woven material aids in its unmatched versatility. The military cap can also be worn with the cuff up, hitting just above the ears; or for additional length and alternative styling, it can be uncuffed. We&rsquo;ve Got You Covered: Looking for additional winter accessories? Stay warm and dry with one of our Wool Scarves, a pair of our Fingerless Wool Gloves, or a pair of 8 Inch Extreme Cold Weather Hiking Boots that feature Rothco&rsquo;s Thermoblock Tech insulation.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "367"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "22165",
+      "item_index": "4972",
+      "rothco_item_no": "58380",
+      "upc": "613902020320",
+      "inventory": "99",
+      "created_date": "2022-08-30 15:00:13",
+      "weight": "0.2000",
+      "image_filename": "58380-A.jpg",
+      "catalog_page_no": "154",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22166",
+      "item_index": "4972",
+      "rothco_item_no": "58381",
+      "upc": "613902020337",
+      "inventory": "99",
+      "created_date": "2022-08-30 15:00:13",
+      "weight": "0.0000",
+      "image_filename": "58381-A.jpg",
+      "catalog_page_no": "154",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22167",
+      "item_index": "4972",
+      "rothco_item_no": "58382",
+      "upc": "613902020344",
+      "inventory": "99",
+      "created_date": "2022-08-30 15:00:13",
+      "weight": "0.0000",
+      "image_filename": "5832-A1.jpg",
+      "catalog_page_no": "154",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22168",
+      "item_index": "4972",
+      "rothco_item_no": "58383",
+      "upc": "613902020351",
+      "inventory": "99",
+      "created_date": "2022-08-30 16:00:12",
+      "weight": "0.0000",
+      "image_filename": "58383-A.jpg",
+      "catalog_page_no": "154",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Navy Blue"
+      },
+      "color": "Navy Blue",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

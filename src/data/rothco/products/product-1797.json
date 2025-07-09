@@ -1,0 +1,40 @@
+{
+  "item_index": "1797",
+  "item_name": "MasterLock Combination Lock",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Security and safety come first with the world&rsquo;s best combination padlock: the MasterLock Combination Lock. Featuring a dial combination for keyless convenience, this lock includes a preset 3-digit combination with 1500 possible combinations for enhanced security. Constructed with a durable stainless-steel lock body, it offers superior strength and protection against theft. The hardened steel shackle adds extra cut resistance, ensuring your gear stays safe.</p>",
+  "no_ratings": "0",
+  "sort_order": "462",
+  "description": "<p class=\"MsoNormal\">Security and safety come first with the world&rsquo;s best combination padlock: the MasterLock Combination Lock. Featuring a dial combination for keyless convenience, this lock includes a preset 3-digit combination with 1500 possible combinations for enhanced security. Constructed with a durable stainless-steel lock body, it offers superior strength and protection against theft. The hardened steel shackle adds extra cut resistance, ensuring your gear stays safe. Ideal for securing lockers at school, the gym, work, or anywhere you need to secure your belongings, the MasterLock Combination Lock is the reliable choice for all your security needs.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "239"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14",
+      "item_index": "1797",
+      "rothco_item_no": "10021",
+      "upc": "071649396502",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3688",
+      "image_filename": "10021-A.jpg",
+      "catalog_page_no": "219",
+      "msrp": 23.99,
+      "ship_length": "5.5000",
+      "ship_width": "3.5000",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 9.25,
+      "case_price": 9.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

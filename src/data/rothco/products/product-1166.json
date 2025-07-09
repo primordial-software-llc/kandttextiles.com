@@ -1,0 +1,42 @@
+{
+  "item_index": "1166",
+  "item_name": "Chlor Floc Military Water Purification Powder Packets",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Protect your hydration with Chlor Floc active-duty Water Purification Powder. Trusted by active-duty personnel, campers, and preppers alike, these packets effectively eliminate Giardia, bacteria, viruses, and sediment from your water, ensuring safe drinking. Each box contains 30 packets, treating up to 8 gallons of water. Simply add 1 or 2 packs, depending on water temperature, to 1 liter of water. These active-duty-grade purification tablets are instrumental in the removal of sediment and are used by the U.S. military.</p>",
+  "no_ratings": "0",
+  "sort_order": "2463",
+  "description": "<p>Protect your hydration with Chlor Floc active-duty Water Purification Powder. Trusted by active-duty personnel, campers, and preppers alike, these packets effectively eliminate Giardia, bacteria, viruses, and sediment from your water, ensuring safe drinking. Each box contains 30 packets, treating up to 8 gallons of water. Simply add 1 or 2 packs, depending on water temperature, to 1 liter of water. These active-duty-grade purification tablets are instrumental in the removal of sediment and are used by the U.S. military. With a shelf life of up to 3 years, you can rely on Chlor Floc for safe drinking water whenever you need it most.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "286",
+    "542",
+    "277"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8705",
+      "item_index": "1166",
+      "rothco_item_no": "7741",
+      "upc": "600016483011",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "7741-A.jpg",
+      "catalog_page_no": "289",
+      "msrp": 21.99,
+      "ship_length": "5.5000",
+      "ship_width": "3.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 8.75,
+      "case_price": 8.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "item_index": "4424",
+  "item_name": "Rothco Fingerless Padded Tactical Gloves",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Fingerless Padded Tactical Gloves offer the perfect combination of protection, durability, and comfort for those who need reliable gear in the field. These tactical gloves are constructed with a genuine cowhide leather shell, ensuring long-lasting durability and flexibility. The foam-padded back and knuckles provide maximum impact protection, safeguarding your hands during high-intensity activities. The reinforced suede palms enhance grip and add extra resilience.</p>",
+  "no_ratings": null,
+  "sort_order": "132737",
+  "description": "<p>Rothco's Fingerless Padded Tactical Gloves offer the perfect combination of protection, durability, and comfort for those who need reliable gear in the field. These tactical gloves are constructed with a genuine cowhide leather shell, ensuring long-lasting durability and flexibility. The foam-padded back and knuckles provide maximum impact protection, safeguarding your hands during high-intensity activities. The reinforced suede palms enhance grip and add extra resilience, making these uniform duty gloves ideal for tactical scenarios or demanding outdoor tasks. The fingerless design allows for enhanced dexterity, making it easier to handle equipment or perform detailed tasks without compromising on protection. The gloves also feature a hook &amp; loop wrist closure, ensuring a secure and customizable fit. Whether you're in the field or on the go, Rothco's Fingerless Padded Tactical Gloves are designed to keep your hands protected and comfortable.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "291",
+    "318",
+    "319",
+    "238",
+    "239",
+    "335"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18080",
+      "item_index": "4424",
+      "rothco_item_no": "2817",
+      "upc": "613902281714",
+      "inventory": "26",
+      "created_date": "2017-12-22 16:10:01",
+      "weight": "0.3500",
+      "image_filename": "2817-C-amazon.jpg",
+      "catalog_page_no": "190",
+      "msrp": 32.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Black"
+      },
+      "size": "S",
+      "color": "Black",
+      "price": 14.5,
+      "case_price": 14.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18081",
+      "item_index": "4424",
+      "rothco_item_no": "2817",
+      "upc": "613902281721",
+      "inventory": "0",
+      "created_date": "2017-12-22 16:10:01",
+      "weight": "0.3500",
+      "image_filename": "2817-C-amazon.jpg",
+      "catalog_page_no": "190",
+      "msrp": 32.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "07/31/2025",
+      "specs": {
+        "size": "M",
+        "color": "Black"
+      },
+      "size": "M",
+      "color": "Black",
+      "price": 14.5,
+      "case_price": 14.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18082",
+      "item_index": "4424",
+      "rothco_item_no": "2817",
+      "upc": "613902281738",
+      "inventory": "99",
+      "created_date": "2017-12-22 16:10:01",
+      "weight": "0.3500",
+      "image_filename": "2817-C-amazon.jpg",
+      "catalog_page_no": "190",
+      "msrp": 32.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Black"
+      },
+      "size": "L",
+      "color": "Black",
+      "price": 14.5,
+      "case_price": 14.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18083",
+      "item_index": "4424",
+      "rothco_item_no": "2817",
+      "upc": "613902281745",
+      "inventory": "99",
+      "created_date": "2017-12-22 16:10:01",
+      "weight": "0.3500",
+      "image_filename": "2817-C-amazon.jpg",
+      "catalog_page_no": "190",
+      "msrp": 32.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Black"
+      },
+      "size": "XL",
+      "color": "Black",
+      "price": 14.5,
+      "case_price": 14.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

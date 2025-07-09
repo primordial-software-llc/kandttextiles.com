@@ -1,0 +1,170 @@
+{
+  "item_index": "3517",
+  "item_name": "Rothco Deluxe Camo Watch Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Embrace the cold with confidence in Rothco's Deluxe Camo Watch Cap. Perfect for hunting and outdoor work, these caps offer unbeatable warmth and comfort in various camo patterns. In addition, the camouflage beanie hat offers unparalleled comfort and warmth. Crafted with durable 100% acrylic material, these hats offer long-lasting durability that withstands harsh winter weather. Suitable for both men and women, this cap is fully adjustable, accommodating most head sizes. Stay warm throughout the season with our Deluxe Camo Watch Cap.</p>",
+  "no_ratings": null,
+  "sort_order": "3872",
+  "description": "<p>Embrace the cold with confidence in Rothco's Deluxe Camo Watch Cap. Perfect for hunting and outdoor work, these caps offer unbeatable warmth and comfort in various camo patterns. In addition, the camouflage beanie hat offers unparalleled comfort and warmth. Crafted with durable 100% acrylic material, these hats offer long-lasting durability that withstands harsh winter weather. Suitable for both men and women, this cap is fully adjustable, accommodating most head sizes. Stay warm and stylish throughout the season with our Deluxe Camo Watch Cap. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "83",
+    "137",
+    "143",
+    "144",
+    "146",
+    "367"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5421",
+      "item_index": "3517",
+      "rothco_item_no": "5702",
+      "upc": "613902570214",
+      "inventory": "99",
+      "created_date": "2005-06-21 21:00:00",
+      "weight": "0.2000",
+      "image_filename": "5702-A-amazon.jpg",
+      "catalog_page_no": "158",
+      "msrp": 9.99,
+      "ship_length": "8.5000",
+      "ship_width": "8.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 3.75,
+      "case_price": 3.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14603",
+      "item_index": "3517",
+      "rothco_item_no": "5715",
+      "upc": "613902057159",
+      "inventory": "99",
+      "created_date": "2014-05-20 17:10:02",
+      "weight": "0.2000",
+      "image_filename": "5715-A-amazon.jpg",
+      "catalog_page_no": "158",
+      "msrp": 9.99,
+      "ship_length": "8.5000",
+      "ship_width": "8.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Digital Camo"
+      },
+      "color": "Woodland Digital Camo",
+      "price": 3.75,
+      "case_price": 3.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15067",
+      "item_index": "3517",
+      "rothco_item_no": "5719",
+      "upc": "613902057197",
+      "inventory": "99",
+      "created_date": "2015-01-28 17:10:02",
+      "weight": "0.2000",
+      "image_filename": "5719-A1.jpg",
+      "catalog_page_no": "158",
+      "msrp": 9.99,
+      "ship_length": "8.5000",
+      "ship_width": "8.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Subdued Urban Digital Camo"
+      },
+      "color": "Subdued Urban Digital Camo",
+      "price": 3.75,
+      "case_price": 3.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15907",
+      "item_index": "3517",
+      "rothco_item_no": "5713",
+      "upc": "613902571136",
+      "inventory": "99",
+      "created_date": "2015-11-10 14:10:01",
+      "weight": "0.2000",
+      "image_filename": "5713-A-amazon2.jpg",
+      "catalog_page_no": "158",
+      "msrp": 9.99,
+      "ship_length": "8.5000",
+      "ship_width": "8.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "City Digital Camo"
+      },
+      "color": "City Digital Camo",
+      "price": 3.75,
+      "case_price": 3.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15908",
+      "item_index": "3517",
+      "rothco_item_no": "5720",
+      "upc": "613902572201",
+      "inventory": "99",
+      "created_date": "2015-11-10 14:10:01",
+      "weight": "0.2000",
+      "image_filename": "5720-A-amazon.jpg",
+      "catalog_page_no": "158",
+      "msrp": 9.99,
+      "ship_length": "8.5000",
+      "ship_width": "8.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Desert Digital Camo"
+      },
+      "color": "Desert Digital Camo",
+      "price": 3.75,
+      "case_price": 3.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15909",
+      "item_index": "3517",
+      "rothco_item_no": "5722",
+      "upc": "613902557222",
+      "inventory": "99",
+      "created_date": "2015-11-10 14:10:01",
+      "weight": "0.2000",
+      "image_filename": "5722-A-amazon1.jpg",
+      "catalog_page_no": "158",
+      "msrp": 9.99,
+      "ship_length": "8.5000",
+      "ship_width": "8.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Midnight Digital Camo"
+      },
+      "color": "Midnight Digital Camo",
+      "price": 3.75,
+      "case_price": 3.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

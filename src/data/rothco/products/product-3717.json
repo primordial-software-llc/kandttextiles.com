@@ -1,0 +1,40 @@
+{
+  "item_index": "3717",
+  "item_name": "Rothco Bio-hazard Vintage Canvas Messenger Bag",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco has taken our classic canvas messenger bag and added a zombie twist. The shoulder bag features a neon green bio-hazard symbol on the front flap with a detachable shoulder strap. The bag is perfect for fighting off a pack of zombies or carrying your school books.</p>",
+  "no_ratings": null,
+  "sort_order": "555",
+  "description": "<p>Rothco has taken our classic canvas messenger bag and added a zombie twist. The shoulder bag features a neon green bio-hazard symbol on the front flap with a detachable shoulder strap. The bag is perfect for fighting off a pack of zombies or carrying your school books.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14492",
+      "item_index": "3717",
+      "rothco_item_no": "99139",
+      "upc": "613902991392",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.4000",
+      "image_filename": "99139-B1.jpg",
+      "catalog_page_no": "362",
+      "msrp": 35.99,
+      "ship_length": "17.2500",
+      "ship_width": "13.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 15.5,
+      "case_price": 15.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

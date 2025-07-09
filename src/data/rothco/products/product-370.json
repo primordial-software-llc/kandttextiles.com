@@ -1,0 +1,41 @@
+{
+  "item_index": "370",
+  "item_name": "U.S. Navy 2-Cell Flight Deck/Traffic Wand",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s U.S. Navy 2-Cell Flight Deck/Traffic Wand is a reliable signaling tool designed for optimal visibility in various conditions. Made in the USA, this lightweight wand features a sealed plastic handle for waterproof operation, ensuring functionality even in rainy weather. Equipped with 6 color filters&mdash;red, amber, green, blue, white, and clear&mdash;it offers versatile signaling options for different needs.</p>",
+  "no_ratings": "0",
+  "sort_order": "318",
+  "description": "<p>Rothco&rsquo;s U.S. Navy 2-Cell Flight Deck/Traffic Wand is a reliable signaling tool designed for optimal visibility in various conditions. Made in the USA, this lightweight wand features a sealed plastic handle for waterproof operation, ensuring functionality even in rainy weather. Equipped with 6 color filters&mdash;red, amber, green, blue, white, and clear&mdash;it offers versatile signaling options for different needs. The powerful light beam can be seen from up to a half mile away, making it perfect for directing traffic, signaling on flight decks, or ensuring visibility in low-light environments. With a runtime of up to 5 hours of continuous light, this wand is a dependable choice for nighttime operations.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "312",
+    "470"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "7798",
+      "item_index": "370",
+      "rothco_item_no": "696",
+      "upc": "613902069602",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5800",
+      "image_filename": "696-A.jpg",
+      "catalog_page_no": "277",
+      "msrp": 28.99,
+      "ship_length": "15.5000",
+      "ship_width": "2.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 14.25,
+      "case_price": 14.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

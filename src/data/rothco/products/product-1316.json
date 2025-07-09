@@ -1,0 +1,95 @@
+{
+  "item_index": "1316",
+  "item_name": "Rothco Vintage Canvas Pathfinder Laptop Bag With Leather Accents",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Vintage Canvas Pathfinder Laptop Bag is the perfect storage solution for your essential gear, making traveling with your laptop a breeze. Crafted from heavyweight washed canvas for maximum durability, this bag features brass hardware and leather accents, giving it a classic and stylish look. Measuring 15 inch x 11 inch x 5 inch, the messenger bag is ideal for laptops or other electronic devices, with a large main compartment and a zippered interior compartment for secure storage.</p>",
+  "no_ratings": "0",
+  "sort_order": "1162",
+  "description": "<p>Rothco's Vintage Canvas Pathfinder Laptop Bag is the perfect storage solution for your essential gear, making traveling with your laptop a breeze. Crafted from heavyweight washed canvas for maximum durability, this bag features brass hardware and leather accents, giving it a classic and stylish look. Measuring 15 inch x 11 inch x 5 inch, the messenger bag is ideal for laptops or other electronic devices, with a large main compartment and a zippered interior compartment for secure storage. The padded interior with a stretch strap ensures your devices are held securely in place. Additionally, the bag includes 2 front pockets under the main flap for storing essentials and a side zippered pocket for extra storage. The leather-wrapped top carry handle with antique brass snap closures and leather patches on the sides hold brass D-rings securely in place, connecting to the adjustable shoulder strap. The strap can be adjusted from 28 inches to 52 inches for shoulder or crossbody wear.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "208",
+    "209",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "11200",
+      "item_index": "1316",
+      "rothco_item_no": "9691",
+      "upc": "613902969100",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.7500",
+      "image_filename": "9691-Brown-A-amazon.jpg",
+      "catalog_page_no": "365",
+      "msrp": 61.99,
+      "ship_length": "20.5000",
+      "ship_width": "14.2500",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Earth Brown"
+      },
+      "color": "Earth Brown",
+      "price": 27.95,
+      "case_price": 27.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "11201",
+      "item_index": "1316",
+      "rothco_item_no": "9691",
+      "upc": "613902969117",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.7500",
+      "image_filename": "9691-Khaki-A-amazon.jpg",
+      "catalog_page_no": "365",
+      "msrp": 61.99,
+      "ship_length": "20.5000",
+      "ship_width": "14.2500",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki"
+      },
+      "color": "Khaki",
+      "price": 27.95,
+      "case_price": 27.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "11202",
+      "item_index": "1316",
+      "rothco_item_no": "9691",
+      "upc": "613902969124",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.7500",
+      "image_filename": "9691-OD-A-amazon.jpg",
+      "catalog_page_no": "365",
+      "msrp": 61.99,
+      "ship_length": "20.5000",
+      "ship_width": "14.2500",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 27.95,
+      "case_price": 27.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

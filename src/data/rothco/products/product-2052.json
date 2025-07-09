@@ -1,0 +1,40 @@
+{
+  "item_index": "2052",
+  "item_name": "Rothco Rescue Figure 8 Ring",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Big enough to handle the largest ropes--two of them. Extended horns on the upper ring make tying off a snap by preventing the rope from sliding up and locking off. Dual holes on the tie-in end allow the 8-Ring to remain attached to the harness while threading the rope, preventing loss of the device in extreme conditions. The industry standard for rescue grade descenders.</p>",
+  "no_ratings": "0",
+  "sort_order": "193",
+  "description": "<p>Big enough to handle the largest ropes--two of them. Extended horns on the upper ring make tying off a snap by preventing the rope from sliding up and locking off. Dual holes on the tie-in end allow the 8-Ring to remain attached to the harness while threading the rope, preventing loss of the device in extreme conditions. The industry standard for rescue grade descenders.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "290"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2508",
+      "item_index": "2052",
+      "rothco_item_no": "375",
+      "upc": "000194348308",
+      "inventory": "28",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4688",
+      "image_filename": "375-A.jpg",
+      "catalog_page_no": "254",
+      "msrp": 94.99,
+      "ship_length": "7.0000",
+      "ship_width": "6.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 47.5,
+      "case_price": 47.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

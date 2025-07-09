@@ -1,0 +1,48 @@
+{
+  "item_index": "4249",
+  "item_name": "Rothco Thin Red Line US Flag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show your support for firefighters with Rothco&rsquo;s Thin Red Line US Flag, crafted from durable 100% polyester. Featuring a bold red stripe on a subdued black-and-white American flag, this design honors the bravery and sacrifices of firefighting professionals. Available in 2 sizes, this flag is perfect for both indoor and outdoor display, whether at home, in an office, or at a community event. Reinforced edges ensure lasting durability, and the lightweight material allows it to fly gracefully in the wind.</p>",
+  "no_ratings": null,
+  "sort_order": "270",
+  "description": "<p>Show your support for firefighters with Rothco&rsquo;s Thin Red Line US Flag, crafted from durable 100% polyester. Featuring a bold red stripe on a subdued black-and-white American flag, this design honors the bravery and sacrifices of firefighting professionals. Available in 2 sizes, this flag is perfect for both indoor and outdoor display, whether at home, in an office, or at a community event. Reinforced edges ensure lasting durability, and the lightweight material allows it to fly gracefully in the wind. A portion of proceeds from every purchase goes to benefit the families of fallen first responders, making this flag a symbol of respect and a meaningful contribution to a noble cause.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "428",
+    "428"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16932",
+      "item_index": "4249",
+      "rothco_item_no": "1596",
+      "upc": "613902015968",
+      "inventory": "99",
+      "created_date": "2017-02-14 15:10:01",
+      "weight": "0.2500",
+      "image_filename": "1596-A-amazon.jpg",
+      "catalog_page_no": "210",
+      "msrp": 10.99,
+      "ship_length": "17.0000",
+      "ship_width": "10.5000",
+      "ship_height": "25.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3' x 5'",
+        "color": "Red / Black"
+      },
+      "size": "3' x 5'",
+      "color": "Red / Black",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

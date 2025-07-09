@@ -1,0 +1,44 @@
+{
+  "item_index": "4928",
+  "item_name": "Rothco General Purpose First Aid Kit - Adaptable (No Alcohol Prep Pads or Cold Pack)",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's General Purpose First Aid Kit includes over 50 essential emergency first aid items in a high-impact waterproof case.&nbsp;Please note that contents have been adapted for air shipments and export orders.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133241",
+  "description": "<p>Rothco's General Purpose First Aid Kit includes over 50 essential emergency first aid items in a high-impact water-resistant case.&nbsp;</p>\n<p>First Aid Supplies Included:&nbsp;</p>\n<p>&bull;1 - 10 Unit Box w/ label</p>\n<p>&bull;1 - Military Bandage</p>\n<p>&bull;4 - 2\" Steripad</p>\n<p>&bull;2 - 3\" Steripad</p>\n<p>&bull;2&nbsp; - Adhesive Tape Roll 1/2\"</p>\n<p>&bull;14&nbsp; - 3/4 x 3 Adhesive Bandage</p>\n<p>&bull;5 - 1 1/2\" X 7/8\" Adhesive Bandage</p>\n<p>&bull;1 - 4\" x 4\" Sponge - 2 pk.</p>\n<p>&bull;2 - 3\" x 4\" Telfa pad</p>\n<p>&bull;1 - 3x5 Conforming Bandage.</p>\n<p>&bull;1 - 3\" Elastic Bandage</p>\n<p>&bull;1 - Eye Patch</p>\n<p>&bull;4 - Antibiotic Ointment</p>\n<p>&bull;2 - Iodine PVP Prep Pad</p>\n<p>&bull;4 - BZK Towelette</p>\n<p>&bull;4 - Sm. Packet of Sugar</p>\n<p>&bull;2 - 1/2 oz. Soap</p>\n<p>&bull;1 - 4 oz Peroxide</p>\n<p>&bull;1 &ndash; Scissors</p>\n<p>&bull;1 &ndash; Tweezer</p>\n<p>&bull;4 - Aspirin (2 per package)</p>\n<p>&bull;1 - Pair Examination Gloves</p>\n<p>&bull;1 - Instructions</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "499",
+    "271"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9538",
+      "item_index": "4928",
+      "rothco_item_no": "8335E",
+      "upc": "613902083356",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.1000",
+      "image_filename": "8335-A.jpg",
+      "catalog_page_no": "295",
+      "msrp": 48.99,
+      "ship_length": "5.0000",
+      "ship_width": "8.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "options": "Air / Export"
+      },
+      "options": "Air / Export",
+      "price": 21.9,
+      "case_price": 21.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

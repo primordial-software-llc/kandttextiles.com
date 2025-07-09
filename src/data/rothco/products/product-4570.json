@@ -1,0 +1,76 @@
+{
+  "item_index": "4570",
+  "item_name": "Rothco R.E.D. (Remember Everyone Deployed) Low Profile Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p class=\"MsoNormal\">Show your support for deployed service personnel with Rothco&rsquo;s R.E.D. (Remember Everyone Deployed) Low Profile Cap. This patriotic cap features an embroidered American flag on the front panel, accompanied by the meaningful &ldquo;Remember Everyone Deployed&rdquo; text. Additional &ldquo;R.E.D.&rdquo; lettering is embroidered on the back for a complete design. Made from durable and soft brushed cotton twill, this baseball hat ensures superior comfort and longevity.</p>",
+  "no_ratings": null,
+  "sort_order": "132883",
+  "description": "<p>Show your support for deployed service personnel with Rothco&rsquo;s R.E.D. (Remember Everyone Deployed) Low Profile Cap. This patriotic cap features an embroidered American flag on the front panel, accompanied by the meaningful &ldquo;Remember Everyone Deployed&rdquo; text. Additional &ldquo;R.E.D.&rdquo; lettering is embroidered on the back for a complete design. Made from durable and soft brushed cotton twill, this baseball hat ensures superior comfort and longevity. The internal sweatband helps wick away moisture, while 6 vent holes provide excellent ventilation to keep your head cool. Designed for a secure and customizable fit, the cap includes an adjustable hook &amp; loop closure. Whether for casual wear or as a statement of solidarity, this cap combines comfort, style, and purpose. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from military personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "674",
+    "374",
+    "674",
+    "374"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19098",
+      "item_index": "4570",
+      "rothco_item_no": "4964",
+      "upc": "613902049642",
+      "inventory": "99",
+      "created_date": "2019-05-31 11:10:01",
+      "weight": "0.2500",
+      "image_filename": "4964-A-amazon.jpg",
+      "catalog_page_no": "139",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Red"
+      },
+      "size": "One Size",
+      "color": "Red",
+      "price": 7.25,
+      "case_price": 7.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21280",
+      "item_index": "4570",
+      "rothco_item_no": "49641",
+      "upc": "613902011014",
+      "inventory": "99",
+      "created_date": "2022-01-19 09:00:05",
+      "weight": "0.2500",
+      "image_filename": "49641-A1.jpg",
+      "catalog_page_no": "139",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Black"
+      },
+      "size": "One Size",
+      "color": "Black",
+      "price": 7.25,
+      "case_price": 7.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "item_index": "2826",
+  "item_name": "Rothco G.I. Type \"H\" Style LC-1 Suspenders",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s &ldquo;H&rdquo; Style LC-1 Suspenders are reminiscent of the Vietnam era, designed to evenly distribute the weight of your ALICE pack. These suspenders attach to your belt or butt pack, providing support for your loadout. With a four-point suspension system, these suspenders ensure heavy loads are distributed evenly, allowing for comfortable carrying during long treks. Each strap features 2 D-rings and a single row of webbing for additional attachments, offering versatility for customization.</p>",
+  "no_ratings": "0",
+  "sort_order": "2425",
+  "description": "<p>Rothco&rsquo;s &ldquo;H&rdquo; Style LC-1 Suspenders are reminiscent of the Vietnam era, designed to evenly distribute the weight of your ALICE pack. These suspenders attach to your belt or butt pack, providing support for your loadout. With a four-point suspension system, these suspenders ensure heavy loads are distributed evenly, allowing for comfortable carrying during long treks. Each strap features 2 D-rings and a single row of webbing for additional attachments, offering versatility for customization. The metal clips at the bottom allow for easy attachment of a butt pack or sleeping bag carrier, enhancing the functionality of your gear setup. Constructed from lightweight regulation webbing, these suspenders provide durability without adding unnecessary weight. Upgrade your load-bearing system with Rothco&rsquo;s &ldquo;H&rdquo; Style LC-1 Suspenders, ensuring comfort and efficiency during your outdoor adventures.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "202",
+    "386"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "7880",
+      "item_index": "2826",
+      "rothco_item_no": "7045",
+      "upc": "613902704503",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6125",
+      "image_filename": "7045-A-NOLOGO.jpg",
+      "catalog_page_no": "311",
+      "msrp": 18.99,
+      "ship_length": "14.0000",
+      "ship_width": "3.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7881",
+      "item_index": "2826",
+      "rothco_item_no": "7046",
+      "upc": "613902270466",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6125",
+      "image_filename": "7046-A-NOLOGO.jpg",
+      "catalog_page_no": "311",
+      "msrp": 18.99,
+      "ship_length": "14.0000",
+      "ship_width": "3.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

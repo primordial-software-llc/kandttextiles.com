@@ -1,0 +1,41 @@
+{
+  "item_index": "1307",
+  "item_name": "Rothco Vintage Canvas Backpack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Be a star with Rothco's Vintage Canvas Backpack. This classic canvas bag offers a ton of storage and organization.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "414",
+  "description": "<p>Be a star with Rothco's Vintage Canvas Backpack. This classic canvas bag offers a ton of storage and organization.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "204",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10631",
+      "item_index": "1307",
+      "rothco_item_no": "9165",
+      "upc": "613902916500",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.6500",
+      "image_filename": "9165-A.jpg",
+      "catalog_page_no": "343",
+      "msrp": 37.99,
+      "ship_length": "18.0000",
+      "ship_width": "14.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 16.9,
+      "case_price": 16.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

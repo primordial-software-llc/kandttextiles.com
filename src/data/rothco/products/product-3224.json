@@ -1,0 +1,143 @@
+{
+  "item_index": "3224",
+  "item_name": "Rothco Vintage Woodland Camo Tank Top",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Vintage Woodland Camo Tank Top is crafted from lightweight, breathable cotton for a relaxed, comfortable fit, making it perfect for everyday wear or outdoor activities. The vintage wash gives the tank top an authentic, worn-in feel, offering both style and comfort. Whether you're layering it under other clothing or wearing it solo, this camo tank is versatile enough for any activity. Its classic woodland camo print provides a stylish, rugged look, and the tank top is tagless for enhanced comfort.</p>",
+  "no_ratings": null,
+  "sort_order": "2840",
+  "description": "<p>Rothco's Vintage Woodland Camo Tank Top is crafted from lightweight, breathable cotton for a relaxed, comfortable fit, making it perfect for everyday wear or outdoor activities. The vintage wash gives the tank top an authentic, worn-in feel, offering both style and comfort. Whether you're layering it under other clothing or wearing it solo, this camo tank is versatile enough for any activity. Its classic woodland camo print provides a stylish, rugged look, and the tank top is tagless for enhanced comfort. Ideal for warm weather, workouts, or casual outings, Rothco&rsquo;s camo tank is built to keep you cool while still looking sharp. The durable construction ensures it holds up to repeated wear, making it a staple for your wardrobe.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "483",
+    "80",
+    "137"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12520",
+      "item_index": "3224",
+      "rothco_item_no": "9593",
+      "upc": "613902099593",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "9593-FRONT-A.jpg",
+      "catalog_page_no": "110",
+      "msrp": 16.99,
+      "ship_length": "18.0000",
+      "ship_width": "14.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 5.75,
+      "case_price": 5.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12521",
+      "item_index": "3224",
+      "rothco_item_no": "9593",
+      "upc": "613902995932",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "9593-FRONT-A.jpg",
+      "catalog_page_no": "110",
+      "msrp": 16.99,
+      "ship_length": "19.7500",
+      "ship_width": "15.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 5.75,
+      "case_price": 5.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12522",
+      "item_index": "3224",
+      "rothco_item_no": "9593",
+      "upc": "613902095939",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "9593-FRONT-A.jpg",
+      "catalog_page_no": "110",
+      "msrp": 16.99,
+      "ship_length": "21.0000",
+      "ship_width": "15.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 5.75,
+      "case_price": 5.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12523",
+      "item_index": "3224",
+      "rothco_item_no": "9593",
+      "upc": "613902099531",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "9593-FRONT-A.jpg",
+      "catalog_page_no": "110",
+      "msrp": 16.99,
+      "ship_length": "21.7500",
+      "ship_width": "14.7500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 5.75,
+      "case_price": 5.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12524",
+      "item_index": "3224",
+      "rothco_item_no": "9594",
+      "upc": "613902095946",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "9593-FRONT-A.jpg",
+      "catalog_page_no": "110",
+      "msrp": 17.99,
+      "ship_length": "23.0000",
+      "ship_width": "15.7500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

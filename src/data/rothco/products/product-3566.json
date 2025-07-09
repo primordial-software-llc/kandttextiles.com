@@ -1,0 +1,41 @@
+{
+  "item_index": "3566",
+  "item_name": "S&W Special Tactical Folding Knife",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Smith &amp; Wesson Special Tactical Folding Knife features a compact drop point tanto blade that is perfect for poking holes in objects, cutting against flat surfaces, and more.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "411",
+  "description": "<p>Open Length: 8.1&rdquo;, Blade Length: 3.5&rdquo; , Blade Style: 40% Serrated Tanto , Blade Material: 7cr17 High Carbon Stainless Steel With Black Coating , Handle Length: 4.6\" , Handle Material: Composite , Lock Style: Liner Lock , Carry System: Pocket Clip , Weight w/ Out Box: 3.7 Oz. , Packaging: Boxed</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "261",
+    "513"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12819",
+      "item_index": "3566",
+      "rothco_item_no": "3354",
+      "upc": "028634000784",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "3354-A.jpg",
+      "catalog_page_no": "270",
+      "msrp": 28.99,
+      "ship_length": "5.0000",
+      "ship_width": "1.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 11.5,
+      "case_price": 11.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "item_index": "2019",
+  "item_name": "Rothco Two-Tone Paracord Bracelet - Olive Drab / Black",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Two-Tone Paracord Bracelet is the ultimate paracord survival bracelet. Featuring 7-strand polyester paracord, and a quick-release side buckle, Rothco&rsquo;s Paracord Bracelets are the ideal survival item. Paracord Bracelets are perfect for military, tactical, survival and outdoor activities. With tons of survival applications, keep your paracord bracelet around your wrist and ready to deploy in case of an emergency. Rothco carries a massive selection of parachute cord including military 550 LBS paracord, para-cord bracelets and accessories</p>",
+  "no_ratings": "0",
+  "sort_order": "7324",
+  "description": "<p>Rothco&rsquo;s Two-Tone Paracord Bracelet is the ultimate paracord survival bracelet. Featuring 7-strand polyester paracord, and a quick-release side buckle, Rothco&rsquo;s Paracord Bracelets are the ideal survival item. Paracord Bracelets are perfect for military, tactical, survival and outdoor activities. With tons of survival applications, keep your paracord bracelet around your wrist and ready to deploy in case of an emergency. Rothco carries a massive selection of parachute cord including military 550 LBS paracord, para-cord bracelets and accessories</p>",
+  "selection_groups": [
+    "length"
+  ],
+  "statuses": "",
+  "categories": [
+    "445",
+    "446"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10682",
+      "item_index": "2019",
+      "rothco_item_no": "921",
+      "upc": "613902092105",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "921-HR2.jpg",
+      "catalog_page_no": "308",
+      "msrp": 5.99,
+      "ship_length": "8.0000",
+      "ship_width": "2.0000",
+      "ship_height": "0.5000",
+      "eta_date": null,
+      "specs": {
+        "length": "7 Inches",
+        "color": "Olive Drab / Black"
+      },
+      "length": "7 Inches",
+      "color": "Olive Drab / Black",
+      "price": 2.1,
+      "case_price": 2.1,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10683",
+      "item_index": "2019",
+      "rothco_item_no": "921",
+      "upc": "613902092112",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "921-HR2.jpg",
+      "catalog_page_no": "308",
+      "msrp": 5.99,
+      "ship_length": "9.0000",
+      "ship_width": "2.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "length": "8 Inches",
+        "color": "Olive Drab / Black"
+      },
+      "length": "8 Inches",
+      "color": "Olive Drab / Black",
+      "price": 2.1,
+      "case_price": 2.1,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10684",
+      "item_index": "2019",
+      "rothco_item_no": "921",
+      "upc": "613902092129",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "921-HR2.jpg",
+      "catalog_page_no": "308",
+      "msrp": 5.99,
+      "ship_length": "9.7500",
+      "ship_width": "2.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "length": "9 Inches",
+        "color": "Olive Drab / Black"
+      },
+      "length": "9 Inches",
+      "color": "Olive Drab / Black",
+      "price": 2.1,
+      "case_price": 2.1,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10685",
+      "item_index": "2019",
+      "rothco_item_no": "921",
+      "upc": "613902092136",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "921-HR2.jpg",
+      "catalog_page_no": "308",
+      "msrp": 5.99,
+      "ship_length": "10.7500",
+      "ship_width": "2.0000",
+      "ship_height": "0.5000",
+      "eta_date": null,
+      "specs": {
+        "length": "10 Inches",
+        "color": "Olive Drab / Black"
+      },
+      "length": "10 Inches",
+      "color": "Olive Drab / Black",
+      "price": 2.1,
+      "case_price": 2.1,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

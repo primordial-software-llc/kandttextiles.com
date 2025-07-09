@@ -1,0 +1,100 @@
+{
+  "item_index": "1279",
+  "item_name": "Rothco Canvas Medic Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Canvas Medic Bag is designed to simplify carrying everyday essentials. Its large main compartment, measuring 12.5 inches X 11 inches X 3.5 inches, accommodates notebooks, mobile devices, and other supplies. The front flap closure, secured with leather straps, ensures the safety of your gear. Crafted from sturdy 22oz. unwashed canvas, this bag is built to withstand daily use. The fully adjustable shoulder strap allows for comfortable crossbody or over-the-shoulder carry.</p>",
+  "no_ratings": "0",
+  "sort_order": "3459",
+  "description": "<p>Rothco&rsquo;s Canvas Medic Bag is designed to simplify carrying everyday essentials. Its large main compartment, measuring 12.5 inches X 11 inches X 3.5 inches, accommodates notebooks, mobile devices, and other supplies. The front flap closure, secured with leather straps, ensures the safety of your gear. Crafted from sturdy 22oz. unwashed canvas, this bag is built to withstand daily use. The fully adjustable shoulder strap allows for comfortable crossbody or over-the-shoulder carry. Whether for work or travel, this versatile bag is an essential accessory. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "208",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9341",
+      "item_index": "1279",
+      "rothco_item_no": "8147",
+      "upc": "613902814707",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.9500",
+      "image_filename": "8147_Brown-hr1.jpg",
+      "catalog_page_no": "360",
+      "msrp": 18.99,
+      "ship_length": "13.7500",
+      "ship_width": "13.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Brown",
+        "size": "One Size"
+      },
+      "color": "Brown",
+      "size": "One Size",
+      "price": 7.25,
+      "case_price": 7.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9342",
+      "item_index": "1279",
+      "rothco_item_no": "8148",
+      "upc": "613902814806",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.9500",
+      "image_filename": "8148_O.D_._.jpg",
+      "catalog_page_no": "360",
+      "msrp": 18.99,
+      "ship_length": "13.7500",
+      "ship_width": "13.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 7.25,
+      "case_price": 7.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18986",
+      "item_index": "1279",
+      "rothco_item_no": "8138",
+      "upc": "613902813809",
+      "inventory": "99",
+      "created_date": "2019-04-29 15:10:00",
+      "weight": "0.9500",
+      "image_filename": "8138-B-amazon.jpg",
+      "catalog_page_no": "360",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 7.25,
+      "case_price": 7.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

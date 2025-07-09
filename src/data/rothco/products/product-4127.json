@@ -1,0 +1,100 @@
+{
+  "item_index": "4127",
+  "item_name": "Rothco Concealed Carry Messenger Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Concealed Carry Messenger Bag has been expertly designed to securely carry your firearm while offering the practicality and durability you expect from a top-quality messenger bag. The CCW concealment compartment is fully lined with loop material to securely hold your tactical gear, accessible via top and side zippers for quick and easy access. Made from heavyweight canvas, this crossbody bag is built to withstand daily wear and tear.</p>",
+  "no_ratings": null,
+  "sort_order": "503",
+  "description": "<p>Rothco&rsquo;s Concealed Carry Messenger Bag has been expertly designed to securely carry your firearm while offering the practicality and durability you expect from a top-quality messenger bag. The CCW concealment compartment is fully lined with loop material to securely hold your tactical gear, accessible via top and side zippers for quick and easy access. Made from heavyweight canvas, this crossbody bag is built to withstand daily wear and tear. The canvas bag features 2 front magnetic closure pockets with MOLLE straps for added security, side open top pockets for quick access to essentials, and a hard divider insert for organized storage. Additionally, the messenger bag includes 2 elastic utility loops on the sides and a padded bottom to protect your gear. With a 11L capacity and measuring 15 inch x 11 inch x 6 inch, the Concealed Carry Messenger Bag combines functionality, security, and style, making it an essential accessory for everyday carry.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "598",
+    "208"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16345",
+      "item_index": "4127",
+      "rothco_item_no": "91218",
+      "upc": "613902912182",
+      "inventory": "99",
+      "created_date": "2016-05-12 18:10:01",
+      "weight": "2.1000",
+      "image_filename": "91218-A-amazon.jpg",
+      "catalog_page_no": "364",
+      "msrp": 39.99,
+      "ship_length": "21.0000",
+      "ship_width": "14.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 17.95,
+      "case_price": 17.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16346",
+      "item_index": "4127",
+      "rothco_item_no": "91219",
+      "upc": "613902912199",
+      "inventory": "99",
+      "created_date": "2016-05-13 14:10:03",
+      "weight": "2.1000",
+      "image_filename": "91219-A-amazon.jpg",
+      "catalog_page_no": "364",
+      "msrp": 39.99,
+      "ship_length": "21.0000",
+      "ship_width": "14.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Earth Brown",
+        "size": "One Size"
+      },
+      "color": "Earth Brown",
+      "size": "One Size",
+      "price": 17.95,
+      "case_price": 17.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18524",
+      "item_index": "4127",
+      "rothco_item_no": "91217",
+      "upc": "613902912175",
+      "inventory": "99",
+      "created_date": "2018-06-21 13:10:02",
+      "weight": "2.1000",
+      "image_filename": "91217-A-amazon1.jpg",
+      "catalog_page_no": "364",
+      "msrp": 39.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 17.95,
+      "case_price": 17.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

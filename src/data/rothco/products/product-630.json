@@ -1,0 +1,98 @@
+{
+  "item_index": "630",
+  "item_name": "Rothco Army Supreme Low Profile Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Army Supreme Low Profile Cap is designed with American spirit and functionality in mind. Featuring the bold \"ARMY\" embroidered lettering on the front 2 panels, this military cap showcases your support with style. Made from 100% brushed cotton twill, the uniform hat is both lightweight and durable, ensuring long-lasting wear. The ventilation holes on the top of the outdoor cap provide enhanced breathability, keeping you cool in various conditions.</p>",
+  "no_ratings": "0",
+  "sort_order": "2288",
+  "description": "<p>Rothco&rsquo;s Army Supreme Low Profile Cap is designed with American spirit and functionality in mind. Featuring the bold \"ARMY\" embroidered lettering on the front 2 panels, this military cap showcases your support with style. Made from 100% brushed cotton twill, the uniform hat is both lightweight and durable, ensuring long-lasting wear. The ventilation holes on the top of the outdoor cap provide enhanced breathability, keeping you cool in various conditions. An internal sweatband offers superior comfort and effectively prevents sweat from reaching your eyes, making it perfect for outdoor activities. The adjustable hook &amp; loop strap closure ensures a secure and customizable fit for most head sizes. Whether you're out for a casual day or engaging in rigorous activities, this military hat offers a blend of comfort, durability, and style.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "83",
+    "137",
+    "374",
+    "674"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10751",
+      "item_index": "630",
+      "rothco_item_no": "9278",
+      "upc": "613902927803",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.0000",
+      "image_filename": "9278-B.jpg",
+      "catalog_page_no": "140",
+      "msrp": 16.99,
+      "ship_length": "9.0000",
+      "ship_width": "8.5000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10761",
+      "item_index": "630",
+      "rothco_item_no": "9285",
+      "upc": "613902928503",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "9285-C.jpg",
+      "catalog_page_no": "140",
+      "msrp": 16.99,
+      "ship_length": "9.0000",
+      "ship_width": "8.5000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16950",
+      "item_index": "630",
+      "rothco_item_no": "8087",
+      "upc": "613902080874",
+      "inventory": "99",
+      "created_date": "2017-02-22 17:10:02",
+      "weight": "0.2500",
+      "image_filename": "8087-C.jpg",
+      "catalog_page_no": "140",
+      "msrp": 25.99,
+      "ship_length": "8.7500",
+      "ship_width": "8.7500",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam",
+        "size": "One Size"
+      },
+      "color": "MultiCam",
+      "size": "One Size",
+      "price": 9.9,
+      "case_price": 9.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

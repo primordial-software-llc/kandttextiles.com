@@ -1,0 +1,44 @@
+{
+  "item_index": "2021",
+  "item_name": "Rothco Paracord Keychain",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Paracord Keychain is a survival accessory with countless applications ready for use anytime and anywhere. Conveniently keep it hooked to your belt loops or bag for quick and easy access.</p>",
+  "no_ratings": "0",
+  "sort_order": "2076",
+  "description": "<p>Rothco&rsquo;s Paracord Keychain is a survival accessory with countless applications ready for use anytime and anywhere. Conveniently keep it hooked to your belt loops or bag for quick and easy access.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "465",
+    "445"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "11113",
+      "item_index": "2021",
+      "rothco_item_no": "959",
+      "upc": "613902999596",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2188",
+      "image_filename": "959-HR.jpg",
+      "catalog_page_no": "208",
+      "msrp": 4.99,
+      "ship_length": "6.2500",
+      "ship_width": "2.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 1.85,
+      "case_price": 1.85,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

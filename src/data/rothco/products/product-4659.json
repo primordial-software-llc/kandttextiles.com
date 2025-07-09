@@ -1,0 +1,125 @@
+{
+  "item_index": "4659",
+  "item_name": "Rothco Low-Profile Tactical Elbow Pads",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Face any mission head-on with the upmost confidence as our Low-Profile Tactical Elbow Pads help protect you from abrasions and quick falls without restricting your movements and dexterity. These tactical elbow pads are essential for field operations and are extremely useful for various outdoor sports, like airsoft and paintball.</p>",
+  "no_ratings": null,
+  "sort_order": "132972",
+  "description": "<p>Face any mission head-on with the upmost confidence as our Low-Profile Tactical Elbow Pads help protect you from abrasions and quick falls without restricting your movements and dexterity. These tactical elbow pads are essential for field operations and are extremely useful for various outdoor sports, like airsoft and paintball. Reliable Protection: The durable and thick thermoplastic cap provides unparalleled elbow protection from rough terrain, rocks, and other hard outdoor debris. The cap features a unique and lightweight low-profile design for additional flex and mobility, allowing you to stay on the move. Ergonomic Design: These tactical elbow pads absorb sudden impacts through dense EVA foam padding, and offer convenient cushioning when lying in the prone position for long periods of time. The breathable air-mesh backing provides optimal cooling airflow for better temperature regulation and comfort. Durable Material Construction: The heavy-duty nylon outers are scratch and water resistant, and are built for rugged outdoor use. The flex cap is reinforced by 6 exterior rivets, ensuring your elbows stay protected at all times. One Size Fits Most: Fasten the protective elbow pads securely with the dual hook &amp; loop straps. These elastic straps are easily adjustable for a precise fit all day long. We&rsquo;ve Got You Covered: Get yourself geared up with a matching pair of our Low-Profile Tactical Knee Pads for ultimate protection and coverage.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "331"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19435",
+      "item_index": "4659",
+      "rothco_item_no": "1186",
+      "upc": "613902211865",
+      "inventory": "99",
+      "created_date": "2020-01-14 12:00:00",
+      "weight": "0.4000",
+      "image_filename": "1186-B-Black-amazon.jpg",
+      "catalog_page_no": "255",
+      "msrp": 17.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Black"
+      },
+      "size": "One Size",
+      "color": "Black",
+      "price": 6.9,
+      "case_price": 6.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19436",
+      "item_index": "4659",
+      "rothco_item_no": "1186",
+      "upc": "613902311862",
+      "inventory": "99",
+      "created_date": "2020-01-14 12:00:00",
+      "weight": "0.4000",
+      "image_filename": "1186-B-coyote-amazon.jpg",
+      "catalog_page_no": "255",
+      "msrp": 17.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Coyote Brown"
+      },
+      "size": "One Size",
+      "color": "Coyote Brown",
+      "price": 6.9,
+      "case_price": 6.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22176",
+      "item_index": "4659",
+      "rothco_item_no": "1186",
+      "upc": "613902020436",
+      "inventory": "63",
+      "created_date": "2022-09-08 10:00:17",
+      "weight": "0.4000",
+      "image_filename": "1186-A1.jpg",
+      "catalog_page_no": "255",
+      "msrp": 17.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Olive Drab"
+      },
+      "size": "One Size",
+      "color": "Olive Drab",
+      "price": 6.9,
+      "case_price": 6.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22177",
+      "item_index": "4659",
+      "rothco_item_no": "11860",
+      "upc": "613902020450",
+      "inventory": "0",
+      "created_date": "2022-09-08 10:00:17",
+      "weight": "0.0000",
+      "image_filename": "11860-B.jpg",
+      "catalog_page_no": "255",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "07/17/2025",
+      "specs": {
+        "size": "One Size",
+        "color": "MultiCam"
+      },
+      "size": "One Size",
+      "color": "MultiCam",
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

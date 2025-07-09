@@ -1,0 +1,93 @@
+{
+  "item_index": "2337",
+  "item_name": "Rothco Web Belt Buckles",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Upgrade or replace your belt buckles with Rothco&rsquo;s Web Belt Buckles. These high-quality buckles are designed to fit seamlessly with our web belts, offering a secure and rugged solution for everyday wear. Available in several durable metal finishes, these buckles provide a polished and professional look while ensuring long-lasting performance. The versatile design allows for easy installation, making it simple to swap out your old buckles.</p>",
+  "no_ratings": "0",
+  "sort_order": "2862",
+  "description": "<p>Upgrade or replace your belt buckles with Rothco&rsquo;s Web Belt Buckles. These high-quality buckles are designed to fit seamlessly with our web belts, offering a secure and rugged solution for everyday wear. Available in several durable metal finishes, these buckles provide a polished and professional look while ensuring long-lasting performance. The versatile design allows for easy installation, making it simple to swap out your old buckles. Ideal for those who value functionality and style, Rothco Web Belt Buckles are sold in sets of 12, perfect for bulk orders or team outfitting. Whether for work, casual wear, or outdoor activities, these buckles deliver dependable performance and a sleek finish.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "382"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3188",
+      "item_index": "2337",
+      "rothco_item_no": "4400",
+      "upc": "613902440005",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0625",
+      "image_filename": "4400-A-amazon.jpg",
+      "catalog_page_no": "195",
+      "msrp": 2.99,
+      "ship_length": "2.5000",
+      "ship_width": "1.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Brass Plated"
+      },
+      "color": "Brass Plated",
+      "price": 0.8,
+      "case_price": 0.8,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3189",
+      "item_index": "2337",
+      "rothco_item_no": "4401",
+      "upc": "613902440104",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0688",
+      "image_filename": "4401-A-amazon.jpg",
+      "catalog_page_no": "195",
+      "msrp": 2.99,
+      "ship_length": "2.5000",
+      "ship_width": "1.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Chrome"
+      },
+      "color": "Chrome",
+      "price": 0.8,
+      "case_price": 0.8,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3190",
+      "item_index": "2337",
+      "rothco_item_no": "4402",
+      "upc": "613902440203",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "4402-A-amazon.jpg",
+      "catalog_page_no": "195",
+      "msrp": 2.99,
+      "ship_length": "2.5000",
+      "ship_width": "1.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 0.8,
+      "case_price": 0.8,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "item_index": "4880",
+  "item_name": "Rothco Canvas Crossbody Fanny Pack - Black",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Canvas Crossbody Fanny Pack makes it easy to take gear on-the-go with multiple zipper pockets and an extra-long adjustable shoulder strap that enables various methods of carrying.</p>",
+  "no_ratings": null,
+  "sort_order": "133193",
+  "description": "<p>Rothco&rsquo;s Canvas Crossbody Fanny Pack makes it easy to take gear on-the-go with multiple zipper pockets and an extra-long adjustable shoulder strap that enables multiple methods of carrying. The front zipper pocket allows for quick access to your keys, cell phone, wallet, and other essentials (measures 7 inches x 3.5 inches x 1.5 inches). A large main zipper pocket and compact back zipper pocket are perfect for storing EDC (everyday carry) items (Main pocket measures 13.5 inches X 5 inches X 3.5 inches, back pocket measures 4.25 inches X 13.5 inches X 0.5 inches). The versatile shoulder fanny pack can be worn as a waist pack or crossbody bag to meet your specific needs. The adjustable shoulder strap extends up to 53 inches for a one-size-fits-most tactical fanny pack, while the quick-release buckle on the shoulder strap makes putting on and taking off the shoulder fanny pack easy. The bag is composed of a durable, naturally water-resistant material composition and measures 13.5 inches X 5 inches X 5 inches.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "650"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20977",
+      "item_index": "4880",
+      "rothco_item_no": "54321",
+      "upc": "613902006447",
+      "inventory": "99",
+      "created_date": "2021-10-14 16:00:16",
+      "weight": "0.2900",
+      "image_filename": "54321-A-NOLOGO.jpg",
+      "catalog_page_no": "346",
+      "msrp": 12.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 4.95,
+      "case_price": 4.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

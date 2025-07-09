@@ -1,0 +1,47 @@
+{
+  "item_index": "3218",
+  "item_name": "Rothco Side Release Buckle-5/8\"",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Available In OD, White, Desert Tan and Black 5/8\" Contoured Side Release Buckle , Size Refers To Opening Where Webbing Is Inserted , Can Be Used With Any Webbing With A 5/8th In Width Including Cotton Webbing, Nylon Webbing, And Polypropylene Webbing</p>",
+  "no_ratings": null,
+  "sort_order": "1529",
+  "description": "<p>Available In OD, White, Desert Tan , 5/8\" Contoured Side Release Buckle , Size Refers To Opening Where Webbing Is Inserted , Can Be Used With Any Webbing With A 5/8th In Width Including Cotton Webbing, Nylon Webbing, And Polypropylene Webbing</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "465"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12210",
+      "item_index": "3218",
+      "rothco_item_no": "212",
+      "upc": "613902992122",
+      "inventory": "99",
+      "created_date": "2013-06-13 15:48:08",
+      "weight": "0.0125",
+      "image_filename": "212-HR.jpg",
+      "catalog_page_no": "0",
+      "msrp": 0.99,
+      "ship_length": "1.7500",
+      "ship_width": "0.7500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "White"
+      },
+      "color": "White",
+      "price": 0.39,
+      "case_price": 0.39,
+      "case_quantity": 1,
+      "statuses": [
+        "Inactive"
+      ]
+    }
+  ]
+}

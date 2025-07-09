@@ -1,0 +1,52 @@
+{
+  "item_index": "4710",
+  "item_name": "Rothco Womens Longer T-shirt - Coyote Brown",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Verdana; -webkit-text-stroke-color: #000000;\"><span class=\"s1\" style=\"font-kerning: none;\">Tuck it in or wear it out! Rothco&rsquo;s Long Length T-Shirt for women adds extra length while still being your most comfortable tee.</span></p>",
+  "no_ratings": null,
+  "sort_order": "133023",
+  "description": "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Verdana; -webkit-text-stroke-color: #000000;\"><span class=\"s1\" style=\"font-kerning: none;\">Tuck it in or wear it out! Rothco&rsquo;s Long Length T-Shirt for women adds extra length while still being your most comfortable tee. Made from a super soft material, this will be your go-to shirt.&nbsp;</span></p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "482",
+    "43",
+    "628",
+    "597"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19686",
+      "item_index": "4710",
+      "rothco_item_no": "5916",
+      "upc": "613902591653",
+      "inventory": "37",
+      "created_date": "2020-06-26 08:00:08",
+      "weight": "0.2200",
+      "image_filename": "5916-FRONT-A.jpg",
+      "catalog_page_no": "127",
+      "msrp": 13.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "2XL",
+        "amazon_size_map": "XX-Large"
+      },
+      "color": "Coyote Brown",
+      "size": "2XL",
+      "amazon_size_map": "XX-Large",
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

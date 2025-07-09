@@ -1,0 +1,93 @@
+{
+  "item_index": "1182",
+  "item_name": "Rothco Zipper First Aid Kit",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Zipper First Aid Kit is a compact and convenient solution for emergency medical needs, containing 20 essential first aid supplies. The heavy-duty canvas pouch features a U-shaped zipper opening for quick and easy access to the contents inside. Designed with a belt loop attachment, this first aid kit can be worn on your belt, allowing for hands-free carry and swift access while on the go.</p>",
+  "no_ratings": "0",
+  "sort_order": "1165",
+  "description": "<p>Rothco&rsquo;s Zipper First Aid Kit is a compact and convenient solution for emergency medical needs, containing 20 essential first aid supplies. The heavy-duty canvas pouch features a U-shaped zipper opening for quick and easy access to the contents inside. Designed with a belt loop attachment, this first aid kit can be worn on your belt, allowing for hands-free carry and swift access while on the go. Ideal for EMTs or as a general first aid kit for home use, camping, hiking, or other outdoor activities, this compact kit ensures you&rsquo;re prepared for minor medical emergencies. The kit is small enough to be stored in a larger medical bag or backpack, measuring just 4 3/4 inches x 3 1/2 inches x 1 3/4 inches. Refill contents can be purchased separately under Rothco item #1707. Note: This item is restricted for export and cannot be sold for use in some countries outside the U.S. Please contact Rothco for details. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "271"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9534",
+      "item_index": "1182",
+      "rothco_item_no": "8328",
+      "upc": "613902838208",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "8328-hr2.jpg",
+      "catalog_page_no": "295",
+      "msrp": 11.99,
+      "ship_length": "5.0000",
+      "ship_width": "4.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16408",
+      "item_index": "1182",
+      "rothco_item_no": "8318",
+      "upc": "613902831803",
+      "inventory": "99",
+      "created_date": "2016-05-23 12:10:02",
+      "weight": "0.2500",
+      "image_filename": "8318-A-amazon1.jpg",
+      "catalog_page_no": "295",
+      "msrp": 11.99,
+      "ship_length": "5.0000",
+      "ship_width": "4.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Red"
+      },
+      "color": "Red",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19964",
+      "item_index": "1182",
+      "rothco_item_no": "9328",
+      "upc": "613902932807",
+      "inventory": "20",
+      "created_date": "2020-10-26 13:00:08",
+      "weight": "0.2063",
+      "image_filename": "9328-B-NOLOGO.jpg",
+      "catalog_page_no": "295",
+      "msrp": 11.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "item_index": "4313",
+  "item_name": "Rothco Thin Blue Line Flag Commando Wallet",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's classic tri-fold commando style wallet embroidered with the Thin Blue Line Flag.</p>",
+  "no_ratings": null,
+  "sort_order": "33",
+  "description": "<p>Rothco's classic tri-fold commando style wallet embroidered with the Thin Blue Line Flag.&nbsp;The wallet features 5 inside pockets and a secure hook and loop closure. &nbsp;The 5 pockets are ideal for holding money, cards, and multiple forms of ID.&nbsp;The Thin Blue Line is a symbol of respect and support for Police and Law Enforcement Officials; show your support with Rothco's&nbsp;Thin Blue Line Flag Commando Wallet.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "415"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17394",
+      "item_index": "4313",
+      "rothco_item_no": "10649",
+      "upc": "613902106499",
+      "inventory": "0",
+      "created_date": "2017-06-01 15:10:02",
+      "weight": "0.0400",
+      "image_filename": "10649-A-amazon1.jpg",
+      "catalog_page_no": "0",
+      "msrp": 8.99,
+      "ship_length": "5.0000",
+      "ship_width": "3.5000",
+      "ship_height": "0.5000",
+      "eta_date": null,
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 3.25,
+      "case_price": 3.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

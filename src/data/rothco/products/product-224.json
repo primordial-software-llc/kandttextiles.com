@@ -1,0 +1,167 @@
+{
+  "item_index": "224",
+  "item_name": "Rothco Vintage T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Elevate your style with Rothco's Vintage Army T-Shirt. Featuring distressed &ldquo;ARMY&rdquo; lettering on the center chest, this graphic tee exudes a timeless military-inspired aesthetic. Crafted from a soft-washed 60% cotton / 40% polyester blend, the military t-shirt offers unbeatable comfort for all-day wear. The tag-less label prevents irritation, ensuring a smooth feel against your skin. Whether you're hitting the gym or running around town, this versatile tee is perfect for physical training or everyday wear.</p>",
+  "no_ratings": "0",
+  "sort_order": "4497",
+  "description": "<p>Elevate your style with Rothco's Vintage Army T-Shirt. Featuring distressed &ldquo;ARMY&rdquo; lettering on the center chest, this graphic tee exudes a timeless military-inspired aesthetic. Crafted from a soft-washed 60% cotton / 40% polyester blend, the military t-shirt offers unbeatable comfort for all-day wear. The tag-less label prevents irritation, ensuring a smooth feel against your skin. Whether you're hitting the gym or running around town, this versatile tee is perfect for physical training or everyday wear. Pair it effortlessly with Rothco's Vintage Paratrooper Fatigue Pants or Shorts for a coordinated ensemble that pays homage to classic military fashion. Add a touch of ruggedness to your wardrobe with Rothco's Vintage Army T-Shirt.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "42",
+    "49",
+    "69"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "7181",
+      "item_index": "224",
+      "rothco_item_no": "66400",
+      "upc": "613902664012",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "66400-RIGHT-C.jpg",
+      "catalog_page_no": "116",
+      "msrp": 20.99,
+      "ship_length": "14.0000",
+      "ship_width": "18.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7182",
+      "item_index": "224",
+      "rothco_item_no": "66400",
+      "upc": "613902664029",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "66400-RIGHT-C.jpg",
+      "catalog_page_no": "116",
+      "msrp": 20.99,
+      "ship_length": "15.2500",
+      "ship_width": "19.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7183",
+      "item_index": "224",
+      "rothco_item_no": "66400",
+      "upc": "613902664036",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "66400-RIGHT-C.jpg",
+      "catalog_page_no": "116",
+      "msrp": 20.99,
+      "ship_length": "15.2500",
+      "ship_width": "20.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7184",
+      "item_index": "224",
+      "rothco_item_no": "66400",
+      "upc": "613902664043",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "66400-RIGHT-C.jpg",
+      "catalog_page_no": "116",
+      "msrp": 20.99,
+      "ship_length": "15.5000",
+      "ship_width": "22.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7185",
+      "item_index": "224",
+      "rothco_item_no": "66401",
+      "upc": "613902664050",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5500",
+      "image_filename": "66400-RIGHT-C.jpg",
+      "catalog_page_no": "116",
+      "msrp": 21.99,
+      "ship_length": "16.5000",
+      "ship_width": "17.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 8,
+      "case_price": 8,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7186",
+      "item_index": "224",
+      "rothco_item_no": "66402",
+      "upc": "613902664067",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6000",
+      "image_filename": "66400-RIGHT-C.jpg",
+      "catalog_page_no": "116",
+      "msrp": 23.99,
+      "ship_length": "17.5000",
+      "ship_width": "26.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3XL"
+      },
+      "size": "3XL",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

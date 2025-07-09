@@ -1,0 +1,129 @@
+{
+  "item_index": "2383",
+  "item_name": "Rothco G.I. Type Camo Poncho Liner",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Discover unmatched warmth and versatility with Rothco's Poncho Liner, also known as the woobie. Equipped with ties for easy attachment to your poncho, this quilted rip-stop liner adds an extra layer of insulation, shielding you from the cold. Its multipurpose design works as a sleeping bag, blanket, temporary shelter, or sunshade. Crafted from soft and durable material, this essential outdoor companion is a perfect addition to your bug out bag or camping pack. Embrace comfort and protection&mdash;measures 62 inches x 82 inches.</p>",
+  "no_ratings": "0",
+  "sort_order": "3903",
+  "description": "<p>Discover unmatched warmth and versatility with Rothco's Poncho Liner, also known as the woobie. Equipped with ties for easy attachment to your poncho, this quilted rip-stop liner adds an extra layer of insulation, shielding you from the cold. Its multipurpose design works as a sleeping bag, blanket, temporary shelter, or sunshade. Crafted from soft and durable material, this essential outdoor companion is a perfect addition to your bug out bag or camping pack. Embrace comfort and protection&mdash;measures 62 inches x 82 inches.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "144",
+    "143",
+    "137",
+    "191",
+    "593"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9612",
+      "item_index": "2383",
+      "rothco_item_no": "8376",
+      "upc": "613902837607",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.7000",
+      "image_filename": "8370-8376-HR.jpg",
+      "catalog_page_no": "306",
+      "msrp": 57.99,
+      "ship_length": "23.0000",
+      "ship_width": "12.0000",
+      "ship_height": "6.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo",
+        "size": "One Size"
+      },
+      "color": "Woodland Camo",
+      "size": "One Size",
+      "price": 25.5,
+      "case_price": 25.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9728",
+      "item_index": "2383",
+      "rothco_item_no": "8475",
+      "upc": "613902847507",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.6000",
+      "image_filename": "8475-hr1.jpg",
+      "catalog_page_no": "306",
+      "msrp": 66.99,
+      "ship_length": "23.0000",
+      "ship_width": "12.0000",
+      "ship_height": "6.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "ACU Digital Camo",
+        "size": "One Size"
+      },
+      "color": "ACU Digital Camo",
+      "size": "One Size",
+      "price": 26.5,
+      "case_price": 26.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9729",
+      "item_index": "2383",
+      "rothco_item_no": "8476",
+      "upc": "613902847606",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.6000",
+      "image_filename": "8476-flat-hr1.jpg",
+      "catalog_page_no": "306",
+      "msrp": 57.99,
+      "ship_length": "23.0000",
+      "ship_width": "12.0000",
+      "ship_height": "6.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Digital Camo",
+        "size": "One Size"
+      },
+      "color": "Woodland Digital Camo",
+      "size": "One Size",
+      "price": 25.5,
+      "case_price": 25.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20441",
+      "item_index": "2383",
+      "rothco_item_no": "18475",
+      "upc": "613902000346",
+      "inventory": "99",
+      "created_date": "2021-04-01 15:00:02",
+      "weight": "0.0000",
+      "image_filename": "18475-A-no-logo1.jpg",
+      "catalog_page_no": "306",
+      "msrp": 63.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Desert Digital Camo"
+      },
+      "size": "One Size",
+      "color": "Desert Digital Camo",
+      "price": 25.5,
+      "case_price": 25.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

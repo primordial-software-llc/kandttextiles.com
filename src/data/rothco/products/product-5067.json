@@ -1,0 +1,118 @@
+{
+  "item_index": "5067",
+  "item_name": "Rothco Tactical Crossbody Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=OFPACVetpvI&t=1s",
+  "rating": "5",
+  "item_short_desc": "<p>Built with an ergonomic design that naturally contours with your body, our Tactical Crossbody Bag keeps your EDC essentials close to you and at the ready. Whether you are out on a military scouting operation or traveling around town, this utility bag ensures that your gear is safe and secure.</p>",
+  "no_ratings": null,
+  "sort_order": null,
+  "description": "<p>Built with an ergonomic design that naturally contours with your body, our Tactical Crossbody Bag keeps your EDC essentials close to you and at the ready. Whether you are out on a military scouting operation or traveling around town, this utility bag ensures that your gear is safe and secure. Every Day Carry: These sling bags feature a spacious main compartment with 2 internal pockets, 1 zippered and the other open top, allowing you tuck away your phone or wallet. The rear zipper pocket is ideal for flat items like documents and extra cash. The 5 exterior zipper pockets provide additional storage for small or frequently used items. On-the-Go Ruggedness: Designed to stay with you every step of the way, this compact tactical bag is made with a tough polyester construction that easily withstands any mission and any environment. Customizable Carry Options: This versatile utility bag uses an adjustable shoulder strap that extends up to 50 inches, allowing you to wear it across your body as a crossbody bag or behind your back as a daypack. The military bag measures 17 inch x 7 inch x 1.5 inch. Utility at the Forefront: The tactical sling bag features a front d-ring for mounting accessories. 2 of the front zipper pockets feature drain holes that empty out dirt and debris so your tools and equipment remain unobstructed.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "2",
+    "650"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "23708",
+      "item_index": "5067",
+      "rothco_item_no": "25980",
+      "upc": "613902039339",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.8750",
+      "image_filename": "25980-2.jpg",
+      "catalog_page_no": "347",
+      "msrp": 30.99,
+      "ship_length": "17.0000",
+      "ship_width": "7.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 13.95,
+      "case_price": 13.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "23709",
+      "item_index": "5067",
+      "rothco_item_no": "25981",
+      "upc": "613902039346",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.8750",
+      "image_filename": "25981-A.jpg",
+      "catalog_page_no": "347",
+      "msrp": 30.99,
+      "ship_length": "17.0000",
+      "ship_width": "7.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 13.95,
+      "case_price": 13.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "29693",
+      "item_index": "5067",
+      "rothco_item_no": "25982",
+      "upc": "613902045699",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.8750",
+      "image_filename": "25982-A.jpg",
+      "catalog_page_no": "347",
+      "msrp": 32.99,
+      "ship_length": "17.0000",
+      "ship_width": "7.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Midnight Black Camo"
+      },
+      "color": "Midnight Black Camo",
+      "price": 14.95,
+      "case_price": 14.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "29694",
+      "item_index": "5067",
+      "rothco_item_no": "25983",
+      "upc": "613902045705",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.8750",
+      "image_filename": "25983-A.jpg",
+      "catalog_page_no": "347",
+      "msrp": 32.99,
+      "ship_length": "17.0000",
+      "ship_width": "7.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Midnight Woodland Camo"
+      },
+      "color": "Midnight Woodland Camo",
+      "price": 14.95,
+      "case_price": 14.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

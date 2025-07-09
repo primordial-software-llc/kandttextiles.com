@@ -1,0 +1,47 @@
+{
+  "item_index": "3433",
+  "item_name": "Rothco Jungle Hat",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay protected from the sun with Rothco&rsquo;s Jungle Hat, designed for outdoor activities like hunting, fishing, and camping. This lightweight and breathable bucket-style hat is crafted from a durable cotton / polyester fabric blend, ensuring both comfort and durability in any environment. The adjustable chin strap guarantees a secure fit, while the 4 screened side vents keep you cool by allowing airflow during hot days. For added functionality, branch loops around the jungle hat let you customize your camouflage.</p>",
+  "no_ratings": null,
+  "sort_order": "4017",
+  "description": "<p>Stay protected from the sun with Rothco&rsquo;s Jungle Hat, designed for outdoor activities like hunting, fishing, and camping. This lightweight and breathable bucket-style hat is crafted from a durable cotton / polyester fabric blend, ensuring both comfort and durability in any environment. The adjustable chin strap guarantees a secure fit, while the 4 screened side vents keep you cool by allowing airflow during hot days. For added functionality, branch loops around the jungle hat let you customize your camouflage with natural elements like leaves and branches. Available in a variety of colors and sizes, Rothco&rsquo;s Jungle Hat is the perfect companion for all your outdoor adventures. If you're looking for more options, check out our Boonie Hat. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from military personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "head_size"
+  ],
+  "statuses": "",
+  "categories": [
+    "375"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5101",
+      "item_index": "3433",
+      "rothco_item_no": "5546",
+      "upc": "613902554610",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "5546_HR2.jpg",
+      "catalog_page_no": null,
+      "msrp": 14.99,
+      "ship_length": "8.5000",
+      "ship_width": "4.2500",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "head_size": "S"
+      },
+      "color": "Black",
+      "head_size": "S",
+      "price": 5.8,
+      "case_price": 5.8,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

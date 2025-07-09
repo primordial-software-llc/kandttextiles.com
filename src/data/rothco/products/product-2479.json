@@ -1,0 +1,118 @@
+{
+  "item_index": "2479",
+  "item_name": "Rothco Ammo Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Ammo Pouches offer durability and functionality for hunters, sport shooting pros, and other outdoor enthusiasts. Constructed with heavy-duty canvas, these 2-pocket pouches provide reliable storage for ammunition or other small essentials. Each ammunition pouch features a loop for easy attachment to your tactical belt, ensuring secure and convenient carry. Whether you're hunting, hiking, or engaging in other outdoor activities, these storage pouches keep your ammunition easily accessible and organized.</p>",
+  "no_ratings": "0",
+  "sort_order": "5659",
+  "description": "<p>Rothco's Ammo Pouches offer durability and functionality for hunters, sport shooting pros, and other outdoor enthusiasts. Constructed with heavy-duty canvas, these 2-pocket pouches provide reliable storage for ammunition or other small essentials. Each ammunition pouch features a loop for easy attachment to your tactical belt, ensuring secure and convenient carry. Whether you're hunting, hiking, or engaging in other outdoor activities, these storage pouches keep your ammunition easily accessible and organized. Rothco's commitment to quality ensures these pouches withstand rugged use in various environments. Stay prepared and organized with Rothco's 2-Pocket Ammo Pouches. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "505"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10475",
+      "item_index": "2479",
+      "rothco_item_no": "9002",
+      "upc": "613902900202",
+      "inventory": "99",
+      "created_date": "2002-04-21 21:00:00",
+      "weight": "0.3500",
+      "image_filename": "9002-A1.jpg",
+      "catalog_page_no": "368",
+      "msrp": 10.99,
+      "ship_length": "10.0000",
+      "ship_width": "7.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10498",
+      "item_index": "2479",
+      "rothco_item_no": "9009",
+      "upc": "613902900912",
+      "inventory": "99",
+      "created_date": "2002-04-21 21:00:00",
+      "weight": "0.3500",
+      "image_filename": "9009-A-amazon.jpg",
+      "catalog_page_no": "368",
+      "msrp": 10.99,
+      "ship_length": "10.0000",
+      "ship_width": "7.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "11323",
+      "item_index": "2479",
+      "rothco_item_no": "9802",
+      "upc": "613902980204",
+      "inventory": "99",
+      "created_date": "2002-04-21 21:00:00",
+      "weight": "0.3000",
+      "image_filename": "9802-A-amazon.jpg",
+      "catalog_page_no": "368",
+      "msrp": 10.99,
+      "ship_length": "10.0000",
+      "ship_width": "7.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18507",
+      "item_index": "2479",
+      "rothco_item_no": "9000",
+      "upc": "613902900035",
+      "inventory": "99",
+      "created_date": "2018-06-08 14:10:05",
+      "weight": "0.3500",
+      "image_filename": "9000-A-amazon.jpg",
+      "catalog_page_no": "368",
+      "msrp": 10.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

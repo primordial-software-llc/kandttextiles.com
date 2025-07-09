@@ -1,0 +1,167 @@
+{
+  "item_index": "2088",
+  "item_name": "Rothco Peace T-shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Celebrate peace in style with Rothco&rsquo;s Peace Sign T-Shirt. Made from a comfortable and durable blend of polyester and cotton, this olive drab t-shirt features a large peace sign on the front.&nbsp; Whether you're looking to express your individuality or stay comfortable throughout the day, this t-shirt offers the right blend of military-inspired ruggedness and everyday fashion.</p>",
+  "no_ratings": "0",
+  "sort_order": "1473",
+  "description": "<p>Celebrate peace in style with Rothco&rsquo;s Peace Sign T-Shirt. Made from a comfortable and durable blend of polyester and cotton, this olive drab t-shirt features a large peace sign on the front.&nbsp; Whether you're looking to express your individuality or stay comfortable throughout the day, this t-shirt offers the right blend of military-inspired ruggedness and everyday fashion.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "42",
+    "49",
+    "69"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5846",
+      "item_index": "2088",
+      "rothco_item_no": "60057",
+      "upc": "613902005747",
+      "inventory": "78",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "60057_OD_Peace.jpg",
+      "catalog_page_no": "118",
+      "msrp": 17.99,
+      "ship_length": "14.0000",
+      "ship_width": "17.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 5.95,
+      "case_price": 5.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5847",
+      "item_index": "2088",
+      "rothco_item_no": "60057",
+      "upc": "613902005716",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "60057_OD_Peace.jpg",
+      "catalog_page_no": "118",
+      "msrp": 17.99,
+      "ship_length": "14.7500",
+      "ship_width": "12.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 5.95,
+      "case_price": 5.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5848",
+      "item_index": "2088",
+      "rothco_item_no": "60057",
+      "upc": "613902005723",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "60057_OD_Peace.jpg",
+      "catalog_page_no": "118",
+      "msrp": 17.99,
+      "ship_length": "15.5000",
+      "ship_width": "21.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 5.95,
+      "case_price": 5.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5849",
+      "item_index": "2088",
+      "rothco_item_no": "60057",
+      "upc": "613902005730",
+      "inventory": "69",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "60057_OD_Peace.jpg",
+      "catalog_page_no": "118",
+      "msrp": 17.99,
+      "ship_length": "15.5000",
+      "ship_width": "22.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 5.95,
+      "case_price": 5.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5850",
+      "item_index": "2088",
+      "rothco_item_no": "60058",
+      "upc": "613902005891",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5000",
+      "image_filename": "60057_OD_Peace.jpg",
+      "catalog_page_no": "118",
+      "msrp": 18.99,
+      "ship_length": "17.0000",
+      "ship_width": "24.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 6.45,
+      "case_price": 6.45,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "25857",
+      "item_index": "2088",
+      "rothco_item_no": "60059",
+      "upc": "613902005907",
+      "inventory": "71",
+      "created_date": null,
+      "weight": "0.6000",
+      "image_filename": "60057_OD_Peace.jpg",
+      "catalog_page_no": null,
+      "msrp": 19.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3XL"
+      },
+      "size": "3XL",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

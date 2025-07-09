@@ -1,0 +1,98 @@
+{
+  "item_index": "1208",
+  "item_name": "Rothco Move Out Tactical Travel Backpack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=m9B7MEw6gfg",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Move Out Tactical Travel Backpack is the ultimate solution for versatile and organized travel. Designed to be carried in 3 different ways&mdash;using the top carry handle, side carry handle, or adjustable shoulder straps with D-rings&mdash;this rugged backpack adapts to your needs. The large zippered back pouch allows the shoulder straps to be tucked away, fully converting the outdoor backpack into a travel bag.</p>",
+  "no_ratings": "0",
+  "sort_order": "1370",
+  "description": "<p>Rothco&rsquo;s Move Out Tactical Travel Backpack is the ultimate solution for versatile and organized travel. Designed to be carried in 3 different ways&mdash;using the top carry handle, side carry handle, or adjustable shoulder straps with D-rings&mdash;this rugged backpack adapts to your needs. The large zippered back pouch allows the shoulder straps to be tucked away, fully converting the outdoor backpack into a travel bag. Its expansive zippered main compartment, complete with 2 interior adjustable tie-down straps and quick-release buckles, offers ample storage for your belongings. Additionally, the zippered organizer compartment features a pen holder, ID holder, and an inner pouch with hook &amp; loop closure, ensuring your essentials are always within reach. The backpack also includes a zippered pouch with three separate inner zippered pouches for extra organization and a front zippered mesh pouch for additional storage. Made from durable denier polyester with reinforced stitching, this travel bag is built to last. Measuring 14.5 inches x 21 inches x 8 inches, the hiking backpack includes a waist strap with a quick-release buckle for added stability. MOLLE compatibility and front MOLLE loops enhance its utility, making our Move Out Tactical Travel Backpack an indispensable companion for your journeys.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "143",
+    "200",
+    "201",
+    "204",
+    "223",
+    "305"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1204",
+      "item_index": "1208",
+      "rothco_item_no": "2297",
+      "upc": "613902229709",
+      "inventory": "63",
+      "created_date": "2011-02-01 21:00:00",
+      "weight": "4.7000",
+      "image_filename": "2299-A-CoyoteBrown.jpg",
+      "catalog_page_no": "319",
+      "msrp": 140.99,
+      "ship_length": "22.0000",
+      "ship_width": "16.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 69.95,
+      "case_price": 69.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1205",
+      "item_index": "1208",
+      "rothco_item_no": "2298",
+      "upc": "613902229808",
+      "inventory": "20",
+      "created_date": "2009-12-15 21:00:00",
+      "weight": "4.7000",
+      "image_filename": "2298-A-amazon1.jpg",
+      "catalog_page_no": "319",
+      "msrp": 174.99,
+      "ship_length": "22.0000",
+      "ship_width": "16.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "ACU Digital Camo"
+      },
+      "color": "ACU Digital Camo",
+      "price": 69.95,
+      "case_price": 69.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1206",
+      "item_index": "1208",
+      "rothco_item_no": "2299",
+      "upc": "613902229907",
+      "inventory": "42",
+      "created_date": "2010-01-05 21:00:00",
+      "weight": "4.7000",
+      "image_filename": "2299-A-Black.jpg",
+      "catalog_page_no": "319",
+      "msrp": 140.99,
+      "ship_length": "22.0000",
+      "ship_width": "16.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 69.95,
+      "case_price": 69.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

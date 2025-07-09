@@ -1,0 +1,71 @@
+{
+  "item_index": "2049",
+  "item_name": "Rothco Nylon Paracord 550lb 600 Ft Spool",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Nylon Paracord 550lb 600 Ft Spool is a versatile and essential tool for outdoor enthusiasts, campers, and survivalists. Crafted with a 7-strand core and tested to hold up to 550 lbs of weight, this high-quality parachute cord is strong, durable, and reliable in a variety of challenging situations. Made from 100% nylon with a 5/32 inch diameter, it&rsquo;s lightweight and easy to carry while being tough enough to withstand rugged use.</p>",
+  "no_ratings": "0",
+  "sort_order": "1150",
+  "description": "<p>Rothco&rsquo;s Nylon Paracord 550lb 600 Ft Spool is a versatile and essential tool for outdoor enthusiasts, campers, and survivalists. Crafted with a 7-strand core and tested to hold up to 550 lbs of weight, this high-quality parachute cord is strong, durable, and reliable in a variety of challenging situations. Made from 100% nylon with a 5/32 inch diameter, it&rsquo;s lightweight and easy to carry while being tough enough to withstand rugged use. Whether you're securing gear, setting up a shelter, or creating bracelets and keychains, this paracord is the ideal companion for any outdoor adventure. The 600 feet of cord packed into each spool provides more than enough length to handle a range of projects and emergency situations. Proudly made in the USA by a certified U.S. Government Contractor, Rothco&rsquo;s Paracord delivers premium performance you can trust. Whether for camping, hunting, or everyday preparedness, this paracord is designed to tackle it all.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "261",
+    "444"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1745",
+      "item_index": "2049",
+      "rothco_item_no": "301",
+      "upc": "613902301108",
+      "inventory": "39",
+      "created_date": "2009-01-26 21:00:00",
+      "weight": "2.7500",
+      "image_filename": "301-A-amazon.jpg",
+      "catalog_page_no": "307",
+      "msrp": 62.99,
+      "ship_length": "5.5000",
+      "ship_width": "5.5000",
+      "ship_height": "7.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 24.9,
+      "case_price": 24.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2399",
+      "item_index": "2049",
+      "rothco_item_no": "363",
+      "upc": "613902363007",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.7500",
+      "image_filename": "363_BIG.JPG",
+      "catalog_page_no": "307",
+      "msrp": 62.99,
+      "ship_length": "5.5000",
+      "ship_width": "5.5000",
+      "ship_height": "7.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 24.9,
+      "case_price": 24.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

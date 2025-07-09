@@ -1,0 +1,70 @@
+{
+  "item_index": "3131",
+  "item_name": "Rothco Tri-Fold Shovel",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Tri-Fold Shovel is an essential tool for military personnel, outdoor enthusiasts, and survivalists. The shovel&rsquo;s rugged construction and versatile design make it perfect for various tasks in the wilderness. This folding shovel is ideal for creating fire pits, clearing snow, digging cat holes, and more. With its compact size, the camp shovel easily fits into your backpack or rucksack, ensuring you have a reliable tool whenever you need it.</p>",
+  "no_ratings": null,
+  "sort_order": "2534",
+  "description": "<p class=\"MsoNormal\">Rothco&rsquo;s Tri-Fold Shovel is an essential tool for military personnel, outdoor enthusiasts, and survivalists. The shovel&rsquo;s rugged construction and versatile design make it perfect for various tasks in the wilderness. This folding shovel is ideal for creating fire pits, clearing snow, digging cat holes, and more. With its compact size, the camp shovel easily fits into your backpack or rucksack, ensuring you have a reliable tool whenever you need it. The trenching shovel extends to 24 inches long, providing ample leverage for digging, while its 3-section design folds down to just 9 inches for convenient storage. Measuring 5.5 inches wide, the camping tool offers a sturdy digging surface for various applications. Whether you're active-duty personnel, survivalist, camping enthusiast, or someone who enjoys spending time in the great outdoors, our Tri-Fold Shovel is a must-have tool for your adventures.</p>",
+  "selection_groups": [
+    "options"
+  ],
+  "statuses": "",
+  "categories": [
+    "542",
+    "275"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9496",
+      "item_index": "3131",
+      "rothco_item_no": "828",
+      "upc": "613902658288",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.8000",
+      "image_filename": "829-C-amazon.jpg",
+      "catalog_page_no": "276",
+      "msrp": 21.99,
+      "ship_length": "8.5000",
+      "ship_width": "5.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "options": "Without Cover"
+      },
+      "options": "Without Cover",
+      "price": 8.95,
+      "case_price": 8.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9502",
+      "item_index": "3131",
+      "rothco_item_no": "829",
+      "upc": "613902082908",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.9500",
+      "image_filename": "829-C-amazon.jpg",
+      "catalog_page_no": "276",
+      "msrp": 24.99,
+      "ship_length": "10.0000",
+      "ship_width": "7.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "options": "With Cover"
+      },
+      "options": "With Cover",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "item_index": "1144",
+  "item_name": "G.I. Canteen Straw Kit",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Fits All Military Canteens Including 1 2 &amp; 5 Qt Models , Clip Holds Valve In Position For On-the-go Hydration , 3 Foot Drinking Hose</p>",
+  "no_ratings": "0",
+  "sort_order": "907",
+  "description": "<p>Fits All Military Canteens Including 1 2 &amp; 5 Qt Models , Clip Holds Valve In Position For On-the-go Hydration , 3 Foot Drinking Hose WARNING: This product contains a chemical known to the State of California to cause cancer, birth defects and other reproductive harm.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "280",
+    "281"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5932",
+      "item_index": "1144",
+      "rothco_item_no": "602",
+      "upc": "742503130852",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "602-A-amazon.jpg",
+      "catalog_page_no": "285",
+      "msrp": 42.99,
+      "ship_length": "10.0000",
+      "ship_width": "6.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 16.95,
+      "case_price": 16.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

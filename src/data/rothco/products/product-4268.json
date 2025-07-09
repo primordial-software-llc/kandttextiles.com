@@ -1,0 +1,102 @@
+{
+  "item_index": "4268",
+  "item_name": "Rothco 'Murica US Flag T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show off your American spirit with Rothco's 'Murica US Flag T-Shirt, a rugged and comfortable option designed for an athletic fit. This tee features a bold black American flag graphic with 'MURICA proudly printed beneath. Its tailored design includes a slightly smaller chest, armhole, and sleeve opening for a more streamlined, athletic silhouette. Crafted from a soft yet durable blend of 60% cotton and 40% polyester, the shirt offers a perfect balance of comfort and longevity.</p>",
+  "no_ratings": null,
+  "sort_order": "194",
+  "description": "<p>Show off your American spirit with Rothco's 'Murica US Flag T-Shirt, a rugged and comfortable option designed for an athletic fit. This tee features a bold black American flag graphic with 'MURICA proudly printed beneath. Its tailored design includes a slightly smaller chest, armhole, and sleeve opening for a more streamlined, athletic silhouette. Crafted from a soft yet durable blend of 60% cotton and 40% polyester, the shirt offers a perfect balance of comfort and longevity. The insert collar adds a sleek touch, while the tag-less label ensures itch-free comfort for all-day wear. Whether you're heading out for a casual day or celebrating your love for the USA, this tee makes a statement with its bold design and comfortable fit.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "42",
+    "640",
+    "42",
+    "640"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17092",
+      "item_index": "4268",
+      "rothco_item_no": "2923",
+      "upc": "613902624573",
+      "inventory": "99",
+      "created_date": "2017-04-11 10:10:02",
+      "weight": "0.1800",
+      "image_filename": "2923-A3.jpg",
+      "catalog_page_no": "117",
+      "msrp": 19.99,
+      "ship_length": "15.2500",
+      "ship_width": "19.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "M"
+      },
+      "color": "Coyote Brown",
+      "size": "M",
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17094",
+      "item_index": "4268",
+      "rothco_item_no": "2923",
+      "upc": "613902521339",
+      "inventory": "69",
+      "created_date": "2017-04-11 10:10:02",
+      "weight": "0.1800",
+      "image_filename": "2923-A3.jpg",
+      "catalog_page_no": "117",
+      "msrp": 19.99,
+      "ship_length": "15.5000",
+      "ship_width": "22.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "XL"
+      },
+      "color": "Coyote Brown",
+      "size": "XL",
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17095",
+      "item_index": "4268",
+      "rothco_item_no": "2924",
+      "upc": "613902729230",
+      "inventory": "23",
+      "created_date": "2017-04-11 10:10:02",
+      "weight": "0.4500",
+      "image_filename": "2923-A3.jpg",
+      "catalog_page_no": "117",
+      "msrp": 21.99,
+      "ship_length": "16.5000",
+      "ship_width": "17.5000",
+      "ship_height": "25.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "2XL"
+      },
+      "color": "Coyote Brown",
+      "size": "2XL",
+      "price": 7.45,
+      "case_price": 7.45,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

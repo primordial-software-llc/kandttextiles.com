@@ -1,0 +1,41 @@
+{
+  "item_index": "3418",
+  "item_name": "Rothco Accessory Carabiner with Key Ring",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s 60mm Accessory Carabiner with Key Ring is constructed to ensure longevity and is made of a high strength aluminum.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "393",
+  "description": "<p>Rothco&rsquo;s 60mm Accessory Carabiner with Key Ring is constructed to ensure longevity and is made of a high strength aluminum.&nbsp; This accessory carabiner is designed to hold items or secure gear. It is not made for climbing purposes. These carabiners also come with an attached key ring to hold your keys.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "490",
+    "465"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1596",
+      "item_index": "3418",
+      "rothco_item_no": "281",
+      "upc": "613902302815",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "281-A-amazon.jpg",
+      "catalog_page_no": "208",
+      "msrp": 5.99,
+      "ship_length": "3.0000",
+      "ship_width": "2.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 2.05,
+      "case_price": 2.05,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

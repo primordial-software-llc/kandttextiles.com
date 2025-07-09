@@ -1,0 +1,45 @@
+{
+  "item_index": "1396",
+  "item_name": "Rothco Security Patch",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Backing 65% Cotton / 35% Polyester, Thread 100% Cotton</p>",
+  "no_ratings": "0",
+  "sort_order": "425",
+  "description": "<p>Backing 65% Cotton / 35% Polyester, Thread 100% Cotton</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "543"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "699",
+      "item_index": "1396",
+      "rothco_item_no": "1507",
+      "upc": "613902715073",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0063",
+      "image_filename": "1507-A-amazon.jpg",
+      "catalog_page_no": "216",
+      "msrp": 4.99,
+      "ship_length": "3.7500",
+      "ship_width": "2.7500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black / Gold"
+      },
+      "color": "Black / Gold",
+      "price": 1.8,
+      "case_price": 1.8,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "item_index": "1427",
+  "item_name": "Scrambled Eggs Military Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Scrambled Eggs Military patch is made of a cotton/polyester blend material and features an adhesive back, which cannot be seen, for easy application.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "544",
+  "description": "<p>Rothco&rsquo;s Scrambled Eggs Military patch is made of a cotton/polyester blend material and features an adhesive back.&nbsp; Worn by military officers, the phrase Scrambled Eggs became a slang term for the gold leaf-shaped embellishments worn on their caps. The military patch measures 4&rdquo; x 2&rdquo; in size.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "423"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "737",
+      "item_index": "1427",
+      "rothco_item_no": "1599",
+      "upc": "613902159907",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0200",
+      "image_filename": "1599-hr2-amazon.jpg",
+      "catalog_page_no": "215",
+      "msrp": 5.99,
+      "ship_length": "4.0000",
+      "ship_width": "2.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 2.25,
+      "case_price": 2.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "item_index": "4822",
+  "item_name": "Kiwi Horse Hair Shine Brush",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>KIWI&reg; Horse Hair Shine Brush is a top-quality brush made of soft, natural bristles set in a sturdy wooden handle.</p>",
+  "no_ratings": null,
+  "sort_order": "133135",
+  "description": "<p>KIWI&reg; Horse Hair Shine Brush is a top-quality brush made of soft, natural bristles set in a sturdy wooden handle.</p>\n<p>Directions:&nbsp;</p>\n<p>1. Shoes must be clean and dry before use.</p>\n<p>2. Apply polish with a cloth or polish applicator. Allow polish to dry.</p>\n<p>3. Buff to a gloss with a brush or soft cloth.</p>\n<p>4. For an extra high shine, apply another light coat of polish, sprinkle with water and buff with a soft cloth.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "362"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20673",
+      "item_index": "4822",
+      "rothco_item_no": "10141",
+      "upc": "031600194004",
+      "inventory": "0",
+      "created_date": "2021-05-20 12:00:11",
+      "weight": "0.3500",
+      "image_filename": "10141-A-no-logo.jpg",
+      "catalog_page_no": "185",
+      "msrp": 12.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": null,
+      "specs": [],
+      "price": 5.1,
+      "case_price": 5.1,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

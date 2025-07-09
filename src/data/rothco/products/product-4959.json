@@ -1,0 +1,40 @@
+{
+  "item_index": "4959",
+  "item_name": "XMRE 1300XT Meals With Heaters Case",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The XMRE 1300XT is designed as a military MRE (MEAL -READY-TO-EAT) that can also meet the needs of the civilian market.&nbsp;</p>\n<p>&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133272",
+  "description": "<p>The XMRE 1300XT is designed as a military MRE (MEAL -READY-TO-EAT) that can also meet the needs of the civilian market.&nbsp;</p>\n<p>&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "258"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "22039",
+      "item_index": "4959",
+      "rothco_item_no": "92130",
+      "upc": "864142000034",
+      "inventory": "57",
+      "created_date": "2022-08-02 11:00:30",
+      "weight": "18.0000",
+      "image_filename": "1300xt_and_box_mockup_1up_20201.png",
+      "catalog_page_no": "294",
+      "msrp": 366.99,
+      "ship_length": "15.7500",
+      "ship_width": "9.5000",
+      "ship_height": "10.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 146.5,
+      "case_price": 146.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

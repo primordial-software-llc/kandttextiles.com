@@ -1,0 +1,42 @@
+{
+  "item_index": "3136",
+  "item_name": "Rothco NIJ Approved Stainless Steel Handcuffs",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s NIJ Approved Stainless Steel Handcuffs offer superior security and durability, meeting NIJ Standard 0307.01. Made from high-quality stainless steel, these duty handcuffs feature a double-locking mechanism, providing enhanced control and preventing accidental tightening. The handcuffs come with 2 keys, ensuring you always have a backup on hand. Designed for law enforcement and security personnel, the cuffs provide a secure and reliable restraint solution while maintaining comfort and ease of use.</p>",
+  "no_ratings": null,
+  "sort_order": "149",
+  "description": "<p>Rothco&rsquo;s NIJ Approved Stainless Steel Handcuffs offer superior security and durability, meeting NIJ Standard 0307.01. Made from high-quality stainless steel, these duty handcuffs feature a double-locking mechanism, providing enhanced control and preventing accidental tightening. The handcuffs come with 2 keys, ensuring you always have a backup on hand. Designed for law enforcement and security personnel, the cuffs provide a secure and reliable restraint solution while maintaining comfort and ease of use. Built to withstand rigorous conditions, they are an essential tool for professional use. The sleek stainless steel design adds durability while resisting corrosion and wear, making these handcuffs a long-lasting addition to your duty gear.</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "234"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1743",
+      "item_index": "3136",
+      "rothco_item_no": "30094",
+      "upc": "613902300941",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6250",
+      "image_filename": "30094-A.jpg",
+      "catalog_page_no": "224",
+      "msrp": 46.99,
+      "ship_length": "4.5000",
+      "ship_width": "3.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 20.5,
+      "case_price": 20.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

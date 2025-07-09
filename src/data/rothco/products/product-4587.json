@@ -1,0 +1,50 @@
+{
+  "item_index": "4587",
+  "item_name": "Rothco \"This Is My Flag\" T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Comfortable and lightweight, this Patriotic T-Shirt features an American Flag graphic and is accompanied by the phrase &ldquo;This Is My Flag&rdquo;.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "132900",
+  "description": "<p>Comfortable and lightweight, this Patriotic T-Shirt features an American Flag graphic and is accompanied by the phrase &ldquo;This Is My Flag&rdquo;. The American flag shirt features a branded Rothco &ldquo;R&rdquo; on the left sleeve and a reverse distressed US flag graphic on the right sleeve. The USA flag shirt is designed with a tagless printed label for added comfort.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "42",
+    "640",
+    "42",
+    "640"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19143",
+      "item_index": "4587",
+      "rothco_item_no": "2742",
+      "upc": "613902127425",
+      "inventory": "20",
+      "created_date": "2019-07-12 16:10:00",
+      "weight": "0.4500",
+      "image_filename": "2742-C-amazon.jpg",
+      "catalog_page_no": "0",
+      "msrp": 18.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Black"
+      },
+      "size": "M",
+      "color": "Black",
+      "price": 6.5,
+      "case_price": 6.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

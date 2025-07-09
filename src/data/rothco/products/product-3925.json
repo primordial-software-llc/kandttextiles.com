@@ -1,0 +1,40 @@
+{
+  "item_index": "3925",
+  "item_name": "Rothco A Positive Blood Type Morale Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Be prepared for any situation with Rothco Blood Type Morale Patches. Designed for quick and easy identification, these tactical patches let medics know your blood type at a glance. Measuring 2\" x 1\", each patch features a durable hook backing for secure attachment to any loop field, making them ideal for tactical gear, backpacks, or uniforms. Stay mission-ready with this essential and highly visible accessory.</p>",
+  "no_ratings": null,
+  "sort_order": "559",
+  "description": "<p>Let the medic know your blood type quick and easy with Rothco Blood Type Morale Patches. This tactical morale patch measures 2\" x 1\" and feature a hook back for attaching to any loop field.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "424"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15389",
+      "item_index": "3925",
+      "rothco_item_no": "73190",
+      "upc": "613902703193",
+      "inventory": "99",
+      "created_date": "2015-05-01 15:10:01",
+      "weight": "0.0094",
+      "image_filename": "73190-A1.jpg",
+      "catalog_page_no": "215",
+      "msrp": 3.99,
+      "ship_length": "2.0000",
+      "ship_width": "1.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

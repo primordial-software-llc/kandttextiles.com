@@ -1,0 +1,75 @@
+{
+  "item_index": "164",
+  "item_name": "Rothco Security Supreme Low Profile Insignia Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Designed for security guards and public safety, our Supreme Low Profile Insignia Cap features embroidered &ldquo;SECURITY&rdquo; text, brushed cotton twill, and a padded sweatband for comfort.. Adjustable strap and ventilation holes ensure a perfect fit and cool wear.</p>",
+  "no_ratings": "0",
+  "sort_order": "2532",
+  "description": "<p>Designed for security guards and public safety, our Supreme Low Profile Insignia Cap features embroidered &ldquo;SECURITY&rdquo; text, brushed cotton twill, and a padded sweatband for comfort.. Adjustable strap and ventilation holes ensure a perfect fit and cool wear. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "374",
+    "522",
+    "674"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10758",
+      "item_index": "164",
+      "rothco_item_no": "9282",
+      "upc": "613902928206",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "9282-HR_LI.jpg",
+      "catalog_page_no": "144",
+      "msrp": 16.99,
+      "ship_length": "9.0000",
+      "ship_width": "8.5000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black / White",
+        "size": "One Size"
+      },
+      "color": "Black / White",
+      "size": "One Size",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10760",
+      "item_index": "164",
+      "rothco_item_no": "9284",
+      "upc": "613902928404",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "9284-HR_LI.jpg",
+      "catalog_page_no": "144",
+      "msrp": 16.99,
+      "ship_length": "9.0000",
+      "ship_width": "8.5000",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black / Gold",
+        "size": "One Size"
+      },
+      "color": "Black / Gold",
+      "size": "One Size",
+      "price": 6.25,
+      "case_price": 6.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

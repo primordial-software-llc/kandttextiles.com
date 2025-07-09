@@ -1,0 +1,41 @@
+{
+  "item_index": "1060",
+  "item_name": "Rothco Folding Cot",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<div>Experience comfort on the go with Rothco's Folding Cot. Boasting tough aluminum legs and a center bar, it supports up to 300 pounds. The denier polyester cover ensures durability and body support for a restful sleep. Easy to set up, this emergency cot measures 75\" x 26\" x 17 &frac12;\" when opened, providing ample space. When the adventure ends, it folds neatly for storage in the included polyester carrying case. Ideal for camping and emergency shelters, the cot's quick setup ensures you'll be camping in no time with reliable, portable comfort.</div>",
+  "no_ratings": "0",
+  "sort_order": "574",
+  "description": "<p>Experience comfort on the go with Rothco's Folding Cot. Boasting tough aluminum legs and a center bar, it supports up to 300 pounds. The denier polyester cover ensures durability and body support for a restful sleep. Easy to set up, this emergency cot measures 75\" x 26\" x 17 &frac12;\" when opened, providing ample space. When the adventure ends, it folds neatly for storage in the included polyester carrying case. Ideal for camping and emergency shelters, the cot's quick setup ensures you'll be camping in no time with reliable, portable comfort.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "137",
+    "266"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3525",
+      "item_index": "1060",
+      "rothco_item_no": "4579",
+      "upc": "613902645790",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "12.7500",
+      "image_filename": "4579-D.jpg",
+      "catalog_page_no": "300",
+      "msrp": 123.99,
+      "ship_length": "37.0000",
+      "ship_width": "7.0000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 60.95,
+      "case_price": 60.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

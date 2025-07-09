@@ -1,0 +1,128 @@
+{
+  "item_index": "4605",
+  "item_name": "Rothco Deluxe Modular Duty Belt Rig",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Deluxe Duty Belt Rig is a comprehensive modular pouch system designed for public safety and law enforcement professionals. Featuring a holder, utility case, radio pouch, and other modular gear, the duty belt ensures officers are equipped for duty. Constructed with enhanced ballistic material and durable denier polyester, each attachable modular pouch guarantees longevity.</p>",
+  "no_ratings": null,
+  "sort_order": "132918",
+  "description": "<p>Rothco&rsquo;s Deluxe Duty Belt Rig is a comprehensive modular pouch system designed for public safety and law enforcement professionals. Featuring a holder, utility case, radio pouch, and other modular gear, the duty belt ensures officers are equipped for duty. Constructed with enhanced ballistic material and durable denier polyester, each attachable modular pouch guarantees longevity. The rig includes a silent key holder with snap and hook &amp; loop closure, snap closure handcuff case, hook &amp; loop pepper spray holder, heavy-duty latex glove pouch, AA Mini Maglite holder, universal radio pouch, and utility holder. Ideal for police officers, security guards, and law enforcement personnel, this utility belt enhances readiness and organization.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "255",
+    "238",
+    "239",
+    "383"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19201",
+      "item_index": "4605",
+      "rothco_item_no": "8350",
+      "upc": "613902835030",
+      "inventory": "35",
+      "created_date": "2019-08-02 17:10:00",
+      "weight": "2.0000",
+      "image_filename": "8350-A-amazon.jpg",
+      "catalog_page_no": "228",
+      "msrp": 98.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "46 - 50",
+        "color": "Black"
+      },
+      "size": "46 - 50",
+      "color": "Black",
+      "price": 44.9,
+      "case_price": 44.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19204",
+      "item_index": "4605",
+      "rothco_item_no": "8350",
+      "upc": "613902835016",
+      "inventory": "99",
+      "created_date": "2019-08-02 17:10:00",
+      "weight": "2.0000",
+      "image_filename": "8350-A-amazon.jpg",
+      "catalog_page_no": "228",
+      "msrp": 98.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "32 - 38",
+        "color": "Black"
+      },
+      "size": "32 - 38",
+      "color": "Black",
+      "price": 44.9,
+      "case_price": 44.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19205",
+      "item_index": "4605",
+      "rothco_item_no": "8350",
+      "upc": "613902835023",
+      "inventory": "81",
+      "created_date": "2019-08-02 17:10:00",
+      "weight": "2.0000",
+      "image_filename": "8350-A-amazon.jpg",
+      "catalog_page_no": "228",
+      "msrp": 98.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "40 - 44",
+        "color": "Black"
+      },
+      "size": "40 - 44",
+      "color": "Black",
+      "price": 44.9,
+      "case_price": 44.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21749",
+      "item_index": "4605",
+      "rothco_item_no": "8350",
+      "upc": "613902015128",
+      "inventory": "20",
+      "created_date": "2022-04-06 16:00:28",
+      "weight": "2.0000",
+      "image_filename": "8350-A-amazon.jpg",
+      "catalog_page_no": "228",
+      "msrp": 98.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "52 - 56"
+      },
+      "color": "Black",
+      "size": "52 - 56",
+      "price": 44.9,
+      "case_price": 44.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

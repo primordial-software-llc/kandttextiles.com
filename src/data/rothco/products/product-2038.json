@@ -1,0 +1,69 @@
+{
+  "item_index": "2038",
+  "item_name": "Locking D Carabiner",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Locking D Carabiner is a reliable and durable tool designed for securing gear and ensuring safety during outdoor activities like hiking, climbing, or camping. Constructed from high-strength aluminum, this carabiner is lightweight yet offers an impressive breaking strength of 27kN, with a strength rating of 6,070 lbs. The screwgate locking mechanism adds an extra layer of security, ensuring the carabiner stays locked in place during use.</p>",
+  "no_ratings": "0",
+  "sort_order": "872",
+  "description": "<p>Rothco&rsquo;s Locking D Carabiner is a reliable and durable tool designed for securing gear and ensuring safety during outdoor activities like hiking, climbing, or camping. Constructed from high-strength aluminum, this carabiner is lightweight yet offers an impressive breaking strength of 27kN, with a strength rating of 6,070 lbs. The screwgate locking mechanism adds an extra layer of security, ensuring the carabiner stays locked in place during use. With a 16 mm gate opening, it easily attaches to harnesses, ropes, or gear loops, making it a versatile addition to your outdoor toolkit. Meeting CE and UIAA specifications, Rothco&rsquo;s Locking D Carabiner is a trusted choice for both professional and recreational use. Compact and weighing only 80 grams, this carabiner provides unbeatable strength without unnecessary bulk.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "290"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1563",
+      "item_index": "2038",
+      "rothco_item_no": "276",
+      "upc": "000194058917",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "276-hr11.jpg",
+      "catalog_page_no": "254",
+      "msrp": 26.99,
+      "ship_length": "3.0000",
+      "ship_width": "2.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 10.5,
+      "case_price": 10.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2524",
+      "item_index": "2038",
+      "rothco_item_no": "376",
+      "upc": "000194058900",
+      "inventory": "76",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1650",
+      "image_filename": "376_Big1.jpg",
+      "catalog_page_no": "254",
+      "msrp": 20.99,
+      "ship_length": "3.0000",
+      "ship_width": "2.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Silver"
+      },
+      "color": "Silver",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

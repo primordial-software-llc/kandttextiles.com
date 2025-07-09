@@ -1,0 +1,41 @@
+{
+  "item_index": "1137",
+  "item_name": "Rothco Five Gallon Collapsible Water Carrier",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay hydrated wherever you go with Rothco's 5 Gallon Collapsible Water Carrier. Made from durable see-through polyethylene, this lightweight water carrier is designed for convenience and practicality. It features a sturdy on/off spigot for easy water access, a comfortable carry handle for effortless portability, and a collapsible design that folds flat when not in use. Ideal for camping, hiking, outdoor adventures, or emergency preparedness, this water carrier offers ample capacity for your hydration needs.</p>",
+  "no_ratings": "0",
+  "sort_order": "654",
+  "description": "<p>Stay hydrated wherever you go with Rothco's 5 Gallon Collapsible Water Carrier. Made from durable see-through polyethylene, this lightweight water carrier is designed for convenience and practicality. It features a sturdy on/off spigot for easy water access, a comfortable carry handle for effortless portability, and a collapsible design that folds flat when not in use. Ideal for camping, hiking, outdoor adventures, or emergency preparedness, this water carrier offers ample capacity for your hydration needs while being compact enough to store away. With its robust construction and user-friendly design, the Rothco water carrier is a must-have for any adventure or emergency kit.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "280",
+    "282"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "4815",
+      "item_index": "1137",
+      "rothco_item_no": "535",
+      "upc": "613902535350",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6000",
+      "image_filename": "535-A-amazon.jpg",
+      "catalog_page_no": "303",
+      "msrp": 14.99,
+      "ship_length": "10.0000",
+      "ship_width": "10.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 5.75,
+      "case_price": 5.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

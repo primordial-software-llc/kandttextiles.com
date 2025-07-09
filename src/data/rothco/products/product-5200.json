@@ -1,0 +1,37 @@
+{
+  "item_index": "5200",
+  "item_name": "Griffin Suede Cleaner",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Griffin&rsquo;s Suede Cleaner is built to keep duty boots and uniform shoes looking sharp and inspection-ready. This powerful formula removes dirt and stains from suede without damaging the material. The shoe cleaner is ideal for military personnel, law enforcement, and first responders who rely on suede footwear in the field or on duty. Maintain a clean, professional look&mdash;quickly and easily. Proudly crafted in the United States for superior quality and durability.</p>",
+  "no_ratings": null,
+  "sort_order": null,
+  "description": "<p>Griffin&rsquo;s Suede Cleaner is built to keep duty boots and uniform shoes looking sharp and inspection-ready. This powerful formula removes dirt and stains from suede without damaging the material. The shoe cleaner is ideal for military personnel, law enforcement, and first responders who rely on suede footwear in the field or on duty. Maintain a clean, professional look&mdash;quickly and easily. Proudly crafted in the United States for superior quality and durability.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "variations": [
+    {
+      "item_variation_id": "31337",
+      "item_index": "5200",
+      "rothco_item_no": "20211",
+      "upc": "075914976031",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.6000",
+      "image_filename": "20211-A.jpg",
+      "catalog_page_no": null,
+      "msrp": 17.99,
+      "ship_length": "7.5000",
+      "ship_width": "2.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

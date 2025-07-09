@@ -1,0 +1,46 @@
+{
+  "item_index": "4203",
+  "item_name": "Rothco Mourning Band",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Mourning Band is a black elasticized band that will stretch to fit onto a badge.The morning band measures 7/8\" wide x 4.25\" circumference.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "88",
+  "description": "<p>Rothco's Mourning Band is a black elasticized band that will stretch to fit onto a badge. The morning band measures 7/8\" wide x 4.25\" circumference. Packaged 24 per polybag, priced separately.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "233",
+    "494"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16608",
+      "item_index": "4203",
+      "rothco_item_no": "1005",
+      "upc": "613902110052",
+      "inventory": "99",
+      "created_date": "2016-10-13 11:10:01",
+      "weight": "0.0006",
+      "image_filename": "1005-A-amazon.jpg",
+      "catalog_page_no": "219",
+      "msrp": 1.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 0.75,
+      "case_price": 0.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

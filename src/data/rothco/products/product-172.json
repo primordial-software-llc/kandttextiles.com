@@ -1,0 +1,168 @@
+{
+  "item_index": "172",
+  "item_name": "Rothco Kids Vintage Paratrooper Fatigue Pants",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Kids Vintage Paratrooper Fatigue Pants are designed to combine style, comfort, and functionality for active children. Made from a blend of 55% cotton and 45% polyester, these cargo pants are super soft yet durable, ensuring they can withstand the rough and tumble of everyday adventures. The fabric is washed for an authentic vintage look and feel, providing extra comfort for all-day wear. The fatigue pants feature an inside waist drawstring for a customizable fit, allowing them to grow with your child.</p>",
+  "no_ratings": "0",
+  "sort_order": "3032",
+  "description": "<p>Rothco&rsquo;s Kids Vintage Paratrooper Fatigue Pants are designed to combine style, comfort, and functionality for active children. Made from a blend of 55% cotton and 45% polyester, these cargo pants are super soft yet durable, ensuring they can withstand the rough and tumble of everyday adventures. The fabric is washed for an authentic vintage look and feel, providing extra comfort for all-day wear. The fatigue pants feature an inside waist drawstring for a customizable fit, allowing them to grow with your child. Equipped with 6 spacious pockets, these hiking pants offer ample storage for all the essentials kids like to carry. The zipper fly ensures easy and secure closure. Whether your child is exploring the outdoors or playing, Rothco&rsquo;s Kids Vintage Paratrooper Fatigue Pants are the perfect choice for both style and practicality.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "12",
+    "14",
+    "18",
+    "63",
+    "122",
+    "137",
+    "139",
+    "143"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1352",
+      "item_index": "172",
+      "rothco_item_no": "2546",
+      "upc": "613902254602",
+      "inventory": "41",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2000",
+      "image_filename": "2546-A.jpg",
+      "catalog_page_no": "133",
+      "msrp": 41.99,
+      "ship_length": "13.0000",
+      "ship_width": "12.2500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo",
+        "size": "XS"
+      },
+      "color": "Woodland Camo",
+      "size": "XS",
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "1353",
+      "item_index": "172",
+      "rothco_item_no": "2546",
+      "upc": "613902254619",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2000",
+      "image_filename": "2546-A.jpg",
+      "catalog_page_no": "133",
+      "msrp": 41.99,
+      "ship_length": "14.0000",
+      "ship_width": "12.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo",
+        "size": "S"
+      },
+      "color": "Woodland Camo",
+      "size": "S",
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "1354",
+      "item_index": "172",
+      "rothco_item_no": "2546",
+      "upc": "613902254626",
+      "inventory": "49",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2000",
+      "image_filename": "2546-A.jpg",
+      "catalog_page_no": "133",
+      "msrp": 41.99,
+      "ship_length": "16.0000",
+      "ship_width": "12.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo",
+        "size": "M"
+      },
+      "color": "Woodland Camo",
+      "size": "M",
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "1355",
+      "item_index": "172",
+      "rothco_item_no": "2546",
+      "upc": "613902254633",
+      "inventory": "53",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2000",
+      "image_filename": "2546-A.jpg",
+      "catalog_page_no": "133",
+      "msrp": 41.99,
+      "ship_length": "16.0000",
+      "ship_width": "13.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo",
+        "size": "L"
+      },
+      "color": "Woodland Camo",
+      "size": "L",
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    },
+    {
+      "item_variation_id": "1356",
+      "item_index": "172",
+      "rothco_item_no": "2546",
+      "upc": "613902254640",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2000",
+      "image_filename": "2546-A.jpg",
+      "catalog_page_no": "133",
+      "msrp": 41.99,
+      "ship_length": "16.0000",
+      "ship_width": "15.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo",
+        "size": "XL"
+      },
+      "color": "Woodland Camo",
+      "size": "XL",
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    }
+  ]
+}

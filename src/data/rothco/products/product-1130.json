@@ -1,0 +1,41 @@
+{
+  "item_index": "1130",
+  "item_name": "Rothco Camper's Survivor Mirror",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Rothco Camper's Survivor Mirror is a must-have tool for any outdoor adventure. Constructed from high-quality stainless steel, this 3'' x 4'' mirror is both durable and rust-resistant, ensuring it stands up to the elements.</p>",
+  "no_ratings": "0",
+  "sort_order": "774",
+  "description": "<p>The Rothco Camper's Survivor Mirror is a must-have tool for any outdoor adventure. Constructed from high-quality stainless steel, this 3'' x 4'' mirror is both durable and rust-resistant, ensuring it stands up to the elements. Its double-faced design provides versatility, serving as both a signaling device in emergencies and a handy mirror for personal grooming. Compact and lightweight, it's easy to carry and store, making it an essential addition to any camper's, hiker's, or survivalist's gear.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "256",
+    "261"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "4000",
+      "item_index": "1130",
+      "rothco_item_no": "498",
+      "upc": "613902004986",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0700",
+      "image_filename": "498-A.jpg",
+      "catalog_page_no": "304",
+      "msrp": 3.99,
+      "ship_length": "3.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

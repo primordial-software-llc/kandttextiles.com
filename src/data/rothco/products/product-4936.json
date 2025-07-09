@@ -1,0 +1,40 @@
+{
+  "item_index": "4936",
+  "item_name": "Ben's 30 Tick & Insect Repellent 6 Oz. Eco-Spray",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Ben's 30 Tick &amp; Insect Repellent is your ultimate protector from biting insects, providing hours of lasting protection for the whole family.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133249",
+  "description": "<p>Ben's 30 Tick &amp; Insect Repellent is your ultimate protector from biting insects, providing hours of lasting protection for the whole family. This 30% DEET bug spray is proven to repel disease-carrying insects, including ticks and mosquitoes that may carry Lyme disease, Zika virus, West Nile virus, and dengue fever. Ben's 30 also repels chiggers, biting flies, and no-see-ums, so you can enjoy the outdoors bite-free. The Eco-Spray&reg; bottle sprays at any angle and releases a fine, continuous mist for consistent coverage in just seconds.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "270"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "21751",
+      "item_index": "4936",
+      "rothco_item_no": "77368",
+      "upc": "044224671783",
+      "inventory": "99",
+      "created_date": "2022-04-07 12:00:24",
+      "weight": "0.5200",
+      "image_filename": "77368-A1.jpg",
+      "catalog_page_no": "299",
+      "msrp": 17.99,
+      "ship_length": "2.0000",
+      "ship_width": "2.0000",
+      "ship_height": "7.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 6.9,
+      "case_price": 6.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

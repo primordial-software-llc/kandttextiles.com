@@ -1,0 +1,45 @@
+{
+  "item_index": "4511",
+  "item_name": "Rothco Suck Meter Morale Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>When the suck is off the charts, embrace it with Rothco&rsquo;s Suck Meter Morale Patch.</p>",
+  "no_ratings": null,
+  "sort_order": "132824",
+  "description": "<p>When the suck is off the charts, embrace it with Rothco&rsquo;s Suck Meter Morale Patch. Measuring 2 &frac12;&rdquo; X 1 &frac14;&rdquo;, the suck meter patch comes in Multicam colors and features a hook back to attach to other loop gear, such as Rothco&rsquo;s Special Ops Jacket, Transport Pack, and/or Tactical Vests. The suck patch is the perfect gift to give your airsoft/paintball friends.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "424"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18662",
+      "item_index": "4511",
+      "rothco_item_no": "1879",
+      "upc": "613902018792",
+      "inventory": "99",
+      "created_date": "2018-09-20 10:10:00",
+      "weight": "0.0094",
+      "image_filename": "1879-A-amazon.jpg",
+      "catalog_page_no": "214",
+      "msrp": 3.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam",
+        "size": "One Size"
+      },
+      "color": "MultiCam",
+      "size": "One Size",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

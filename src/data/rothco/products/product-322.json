@@ -1,0 +1,73 @@
+{
+  "item_index": "322",
+  "item_name": "Rothco G.I. Type Web Belt Buckle And Tip Pack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Upgrade or replace your web belt accessories with Rothco's Web Belt Buckle and Tip Pack. Designed to fit 1.25 inch wide web belts, this durable iron buckle and tip offer long-lasting functionality and style. The set is perfect for creating a custom look or restoring worn-out belts, ensuring your belt remains secure and reliable. Available in multiple color options, the buckle and tip complement a wide range of outfits and belt designs.</p>",
+  "no_ratings": "0",
+  "sort_order": "1551",
+  "description": "<p>Upgrade or replace your web belt accessories with Rothco's Web Belt Buckle and Tip Pack. Designed to fit 1.25 inch wide web belts, this durable iron buckle and tip offer long-lasting functionality and style. The set is perfect for creating a custom look or restoring worn-out belts, ensuring your belt remains secure and reliable. Available in multiple color options, the buckle and tip complement a wide range of outfits and belt designs. Whether for casual wear, professional attire, or outdoor use, Rothco's Web Belt Buckle and Tip Pack provide a practical and stylish solution for maintaining and personalizing your belt collection.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "382"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3079",
+      "item_index": "322",
+      "rothco_item_no": "4300",
+      "upc": "613902430006",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0688",
+      "image_filename": "3400-A-amazon-gold.jpg",
+      "catalog_page_no": "195",
+      "msrp": 3.99,
+      "ship_length": "2.7500",
+      "ship_width": "2.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Brass",
+        "size": "One Size"
+      },
+      "color": "Brass",
+      "size": "One Size",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3080",
+      "item_index": "322",
+      "rothco_item_no": "4300",
+      "upc": "613902430013",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0688",
+      "image_filename": "3400-A-amazon-silver.jpg",
+      "catalog_page_no": "195",
+      "msrp": 3.99,
+      "ship_length": "2.7500",
+      "ship_width": "2.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Chrome",
+        "size": "One Size"
+      },
+      "color": "Chrome",
+      "size": "One Size",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

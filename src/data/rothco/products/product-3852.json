@@ -1,0 +1,69 @@
+{
+  "item_index": "3852",
+  "item_name": "Rothco Hook & Loop Patch Book",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Hook &amp; Loop Patch Book, the ultimate solution for organizing and storing your favorite flag, rank, skill, and morale patches. With 10 pages of loop material, this morale patch book provides ample space to showcase your collection. The strong hook and loop closure ensures your patches stay securely in place, while the cord-secured removable pages offer flexibility for display options, allowing you to mount them on walls as decorative pieces.</p>",
+  "no_ratings": null,
+  "sort_order": "1297",
+  "description": "<p>Rothco's Hook &amp; Loop Patch Book, the ultimate solution for organizing and storing your favorite flag, rank, skill, and morale patches. With 10 pages of loop material, this morale patch book provides ample space to showcase your collection. The strong hook and loop closure ensures your patches stay securely in place, while the cord-secured removable pages offer flexibility for display options, allowing you to mount them on walls as decorative pieces. The front cover features a 2 inch by 4 inch loop patch, perfect for adding a personalized touch with name patches or custom designs. Crafted from durable materials, this patch book is built to withstand years of use, ensuring your patches remain safely stored and easily accessible whenever you need them.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "420"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15031",
+      "item_index": "3852",
+      "rothco_item_no": "90210",
+      "upc": "613902901254",
+      "inventory": "99",
+      "created_date": "2014-12-17 12:44:32",
+      "weight": "1.2000",
+      "image_filename": "90210-C-amazon.jpg",
+      "catalog_page_no": "216",
+      "msrp": 41.99,
+      "ship_length": "9.0000",
+      "ship_width": "12.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19997",
+      "item_index": "3852",
+      "rothco_item_no": "90211",
+      "upc": "613902902114",
+      "inventory": "99",
+      "created_date": "2020-10-30 16:00:13",
+      "weight": "1.2000",
+      "image_filename": "90211-F-amazon.jpg",
+      "catalog_page_no": "216",
+      "msrp": 41.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

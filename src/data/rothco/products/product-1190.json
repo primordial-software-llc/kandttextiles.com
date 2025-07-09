@@ -1,0 +1,40 @@
+{
+  "item_index": "1190",
+  "item_name": "Sparkie Fire Starter",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Sparkie Fire Starter is a one-hand operated survival solution that generates sparks three times hotter than a normal match, even when wet! Simply press down on the thumb tab to produce fire-starting sparks.</p>",
+  "no_ratings": "0",
+  "sort_order": "372",
+  "description": "<p>The Sparkie Fire Starter is a one-hand operated survival solution that generates sparks three times hotter than a normal match. Simply press down on the thumb tab to produce fire-starting sparks. This lightweight flint fire starter features a reconfigured strike tab enclosure and spark bar, with a rubberized grip for maximum control. The striker is set to the perfect angle to achieve maximum sparks and is designed to work in adverse weather conditions.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "264"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10532",
+      "item_index": "1190",
+      "rothco_item_no": "905",
+      "upc": "661120263029",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0938",
+      "image_filename": "905-A-no-logo.jpg",
+      "catalog_page_no": "293",
+      "msrp": 21.99,
+      "ship_length": "5.7500",
+      "ship_width": "3.7500",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

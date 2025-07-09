@@ -1,0 +1,45 @@
+{
+  "item_index": "4364",
+  "item_name": "Rothco Easy Grip Handcuff Key With Clip",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Easy Grip Handcuff Key With Clip is constructed with a rugged design and fits with most double lock handcuffs.</p>",
+  "no_ratings": null,
+  "sort_order": "3792",
+  "description": "<p>Rothco's Easy Grip Handcuff Key With Clip is constructed with a rugged design and fits with most double lock handcuffs. The handcuff key has a textured handle for extra grip, measures in total 3.75\".</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "234",
+    "238",
+    "239"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17636",
+      "item_index": "4364",
+      "rothco_item_no": "1017",
+      "upc": "613902010178",
+      "inventory": "99",
+      "created_date": "2017-10-04 11:10:01",
+      "weight": "0.0188",
+      "image_filename": "1017-A-amazon.jpg",
+      "catalog_page_no": "225",
+      "msrp": 9.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 3.75,
+      "case_price": 3.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

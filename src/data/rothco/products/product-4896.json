@@ -1,0 +1,41 @@
+{
+  "item_index": "4896",
+  "item_name": "Rothco 3-in-1 Survival Hatchet",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s 3-in-1 Survival Hatchet is a compact and convenient survival instrument that provides you with the tools you need to brave the wilderness in a sleek, low-profile design.</p>",
+  "no_ratings": null,
+  "sort_order": "133209",
+  "description": "<p>Rothco&rsquo;s 3-in-1 Survival Hatchet is a compact and convenient survival instrument that provides you with the tools you need to brave the wilderness in a sleek, low-profile design. The hatchet blade is perfect for splitting small pieces of wood and can be sharpened for years of use. A blunt hammer edge on the survival axe is perfect for nails and tent stakes. The camping hatchet also features a two-prong pry bar and nail remover. The compact camping axe is easy-to-pack and includes a rubber blade protector for safe storage.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "499",
+    "276"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "21036",
+      "item_index": "4896",
+      "rothco_item_no": "45045",
+      "upc": "613902007550",
+      "inventory": "99",
+      "created_date": "2021-11-26 11:00:06",
+      "weight": "2.1800",
+      "image_filename": "45045-A1.jpg",
+      "catalog_page_no": "275",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

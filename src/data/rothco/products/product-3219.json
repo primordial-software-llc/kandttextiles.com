@@ -1,0 +1,51 @@
+{
+  "item_index": "3219",
+  "item_name": "Rothco Paracord Compass Bracelet",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Never be without essential navigation and survival tools with Rothco's Paracord Compass Survival Bracelet. Made from durable 7-strand polyester paracord, this outdoor bracelet is designed to withstand tough conditions while providing multiple survival applications. The survival bracelet features a small, integrated compass, ensuring you always have a navigation tool at hand. The quick-release buckle allows for easy on and off, making it convenient to wear and use.</p>",
+  "no_ratings": null,
+  "sort_order": "5928",
+  "description": "<p>Never be without essential navigation and survival tools with Rothco's Paracord Compass Survival Bracelet. Made from durable 7-strand polyester paracord, this outdoor bracelet is designed to withstand tough conditions while providing multiple survival applications. The survival bracelet features a small, integrated compass, ensuring you always have a navigation tool at hand. The quick-release buckle allows for easy on and off, making it convenient to wear and use. Perfect for outdoor enthusiasts, campers, preppers, and anyone who loves adventure, this paracord bracelet combines practicality with comfort. The robust paracord can be unraveled in emergency situations to provide strong, reliable cordage for various uses, from building shelters to making traps. Lightweight and comfortable, the Rothco Paracord Compass Survival Bracelet is an indispensable accessory for hiking, camping, and exploring the great outdoors.</p>",
+  "selection_groups": [
+    "length",
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "269",
+    "445",
+    "446"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12551",
+      "item_index": "3219",
+      "rothco_item_no": "999",
+      "upc": "613902099999",
+      "inventory": "78",
+      "created_date": "2013-06-13 15:52:42",
+      "weight": "0.0563",
+      "image_filename": "999.jpg",
+      "catalog_page_no": "282",
+      "msrp": 6.99,
+      "ship_length": "10.0000",
+      "ship_width": "2.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "length": "9 Inches",
+        "color": "Olive Drab / Black"
+      },
+      "length": "9 Inches",
+      "color": "Olive Drab / Black",
+      "price": 2.65,
+      "case_price": 2.65,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

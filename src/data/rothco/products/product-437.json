@@ -1,0 +1,142 @@
+{
+  "item_index": "437",
+  "item_name": "Rothco Street Shield Cut Resistant Police Gloves  ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco &lsquo;s Street Shield Cut Resistant Police Gloves offer superior protection and durability, making them the ideal choice for law enforcement and tactical professionals. Designed with a cut-resistant lining inside the fingers, these duty gloves safeguard your hands from potential injuries while on duty. The uniform gloves are made from synthetic leather, providing a robust and resilient exterior, while the non-skid grip material enhances your control during critical situations.</p>",
+  "no_ratings": "0",
+  "sort_order": "535",
+  "description": "<p>Rothco &lsquo;s Street Shield Cut Resistant Police Gloves offer superior protection and durability, making them the ideal choice for law enforcement and tactical professionals. Designed with a cut-resistant lining inside the fingers, these duty gloves safeguard your hands from potential injuries while on duty. The uniform gloves are made from synthetic leather, providing a robust and resilient exterior, while the non-skid grip material enhances your control during critical situations. The neoprene and nylon spandex backing ensure a snug and comfortable fit, allowing for maximum dexterity and precision. Additionally, the terry cloth on the outer thumb provides a convenient way to wipe away sweat, keeping your hands dry and ready for action. The hook &amp; loop closure system allows you to adjust the tactical gloves for a secure and custom fit, ensuring they stay in place during intense activities. Rothco&rsquo;s Street Shield Cut Resistant Police Gloves are the ultimate combination of protection, comfort, and functionality for those who demand the best in their line of work.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "318",
+    "239"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2195",
+      "item_index": "437",
+      "rothco_item_no": "3466",
+      "upc": "613902346611",
+      "inventory": "99",
+      "created_date": "2007-02-08 21:00:00",
+      "weight": "0.2450",
+      "image_filename": "3466_group-hr-amazon.jpg",
+      "catalog_page_no": "190",
+      "msrp": 35.99,
+      "ship_length": "9.2500",
+      "ship_width": "4.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 15.9,
+      "case_price": 15.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2196",
+      "item_index": "437",
+      "rothco_item_no": "3466",
+      "upc": "613902346628",
+      "inventory": "99",
+      "created_date": "2007-02-08 21:00:00",
+      "weight": "0.2450",
+      "image_filename": "3466_group-hr-amazon.jpg",
+      "catalog_page_no": "190",
+      "msrp": 35.99,
+      "ship_length": "10.5000",
+      "ship_width": "4.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 15.9,
+      "case_price": 15.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2197",
+      "item_index": "437",
+      "rothco_item_no": "3466",
+      "upc": "613902346635",
+      "inventory": "99",
+      "created_date": "2007-02-08 21:00:00",
+      "weight": "0.2450",
+      "image_filename": "3466_group-hr-amazon.jpg",
+      "catalog_page_no": "190",
+      "msrp": 35.99,
+      "ship_length": "10.5000",
+      "ship_width": "4.7500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 15.9,
+      "case_price": 15.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2198",
+      "item_index": "437",
+      "rothco_item_no": "3466",
+      "upc": "613902346642",
+      "inventory": "99",
+      "created_date": "2007-02-08 21:00:00",
+      "weight": "0.2450",
+      "image_filename": "3466_group-hr-amazon.jpg",
+      "catalog_page_no": "190",
+      "msrp": 35.99,
+      "ship_length": "10.5000",
+      "ship_width": "4.7500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 15.9,
+      "case_price": 15.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2199",
+      "item_index": "437",
+      "rothco_item_no": "3466",
+      "upc": "613902346604",
+      "inventory": "99",
+      "created_date": "2007-02-08 21:00:00",
+      "weight": "0.2450",
+      "image_filename": "3466_group-hr-amazon.jpg",
+      "catalog_page_no": "190",
+      "msrp": 35.99,
+      "ship_length": "10.5000",
+      "ship_width": "4.7500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 15.9,
+      "case_price": 15.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

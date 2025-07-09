@@ -1,0 +1,72 @@
+{
+  "item_index": "4770",
+  "item_name": "Rothco Multi-Use Tactical Wrap with Shemagh Print",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "https://www.youtube.com/watch?v=ZQts-4KG0ck",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Multi-Use Tactical Wrap with Shemagh Print is the ultimate survival accessory for those who need adaptable protection and style. This versatile wrap can be worn in over a dozen different ways, including as a neck gaiter, bandana face covering, balaclava, or headwrap, making it an essential piece of tactical gear for any outdoor activity. Featuring a classic shemagh pattern, the wrap not only provides a rugged, tactical look but also delivers exceptional comfort.</p>",
+  "no_ratings": null,
+  "sort_order": "133083",
+  "description": "<p>Rothco's Multi-Use Tactical Wrap with Shemagh Print is the ultimate survival accessory for those who need adaptable protection and style. This versatile wrap can be worn in over a dozen different ways, including as a neck gaiter, bandana face covering, balaclava, or headwrap, making it an essential piece of tactical gear for any outdoor activity. Featuring a classic shemagh pattern, the wrap not only provides a rugged, tactical look but also delivers exceptional comfort. Made from moisture wicking and wind-resistant material, this wrap keeps you cool and dry in any environment. The seamless tube design ensures a comfortable fit that won&rsquo;t irritate your skin, and the fabric easily expands to accommodate most head sizes. Lightweight and portable, this tactical wrap is easy to take on the go, offering essential protection from wind, dust, and sunlight. Whether you're out on a hike, running, fishing, or engaged in other athletic activities, Rothco's Multi-Use Tactical Wrap has you covered.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "413",
+    "378",
+    "372",
+    "682"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20069",
+      "item_index": "4770",
+      "rothco_item_no": "2070",
+      "upc": "613902920705",
+      "inventory": "85",
+      "created_date": "2020-12-01 15:00:21",
+      "weight": "0.0000",
+      "image_filename": "2070-A-NOLOGO.jpg",
+      "catalog_page_no": "168",
+      "msrp": 7.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 2.85,
+      "case_price": 2.85,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20070",
+      "item_index": "4770",
+      "rothco_item_no": "2080",
+      "upc": "613902920804",
+      "inventory": "91",
+      "created_date": "2020-12-01 15:00:21",
+      "weight": "0.0625",
+      "image_filename": "2080-A-NOLOGO.jpg",
+      "catalog_page_no": "168",
+      "msrp": 7.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 2.85,
+      "case_price": 2.85,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

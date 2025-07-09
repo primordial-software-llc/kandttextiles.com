@@ -1,0 +1,95 @@
+{
+  "item_index": "5063",
+  "item_name": "Rothco Backwoods Waxed Canvas Log Carrier",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Easily transport cut logs, split wood, and an assortment of branches from the wilderness to your campgrounds with our Backwoods Wax Canvas Log Carrier. The open-end design allows you carry different lengths of wood and can be laid down flat for easier loading. This design also makes it easy to unload logs into a wood box or log rack.</p>",
+  "no_ratings": null,
+  "sort_order": "133371",
+  "description": "<p>Easily transport cut logs, split wood, and an assortment of branches from the wilderness to your campgrounds with our Backwoods Wax Canvas Log Carrier. The open-end design allows you carry different lengths of wood and can be laid down flat for easier loading. This design also makes it easy to unload logs into a wood box or log rack. Top Grade Waxed Canvas: Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. These log carrier bags are made of heavy-duty waxed cotton canvas for a handsome and weather-stricken look that can tackle harsh outdoor elements. No one comes close to Rothco&rsquo;s collection of premium canvas bags and packs. Built Like a Lumberjack: The leather trim strap provides additional support throughout the center, ensuring that the firewood remains stacked and secured. Reinforced with box X stitching and brass grommets, the leather-wrapped web handles easily withstand heavy loads. The leather handle wrap offers extra cushioning and comfort as you haul wood to-and-fro. All-Weather Design: Whether you are collecting tree limbs and branches for a campfire or transporting split wood inside for a fireplace, the canvas log carrier is built to be used both indoors and outdoors. The weather-resistant wax canvas material can safely be placed onto snow as you load your winter stockpile into the house. Easy to Store: Measuring 38 inch x 28 inch, the firewood carrier is capable of hauling large loads while maintaining a size that is easy to fold for storage. Conveniently hang the log carrier on a hook or tuck it away underneath a firewood rack.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "2",
+    "223",
+    "264"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "23559",
+      "item_index": "5063",
+      "rothco_item_no": "71080",
+      "upc": "613902038103",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.0000",
+      "image_filename": "71080-A.jpg",
+      "catalog_page_no": "350",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 11.95,
+      "case_price": 11.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "23560",
+      "item_index": "5063",
+      "rothco_item_no": "71081",
+      "upc": "613902038127",
+      "inventory": "0",
+      "created_date": null,
+      "weight": "1.8500",
+      "image_filename": "71081-A.jpg",
+      "catalog_page_no": "350",
+      "msrp": 26.99,
+      "ship_length": "13.0000",
+      "ship_width": "10.5000",
+      "ship_height": "1.0000",
+      "eta_date": "10/05/2025",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 11.95,
+      "case_price": 11.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "23561",
+      "item_index": "5063",
+      "rothco_item_no": "71082",
+      "upc": "613902038141",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.0000",
+      "image_filename": "71082-D.jpg",
+      "catalog_page_no": "350",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Earth Brown"
+      },
+      "color": "Earth Brown",
+      "price": 11.95,
+      "case_price": 11.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

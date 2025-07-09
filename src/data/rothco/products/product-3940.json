@@ -1,0 +1,47 @@
+{
+  "item_index": "3940",
+  "item_name": "Rothco Double Pistol Carry Case",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>With a lockable external double zipper closure, the Rothco Double Pistol Carry Case will keep your sidearms secure. The pistol case fits two full frame pistols and includes 5 elastic loops to hold magazines.</p>",
+  "no_ratings": null,
+  "sort_order": "266",
+  "description": "<p>With a lockable external double zipper closure, the Rothco Double Pistol Carry Case will keep your sidearms secure. The pistol case fits two full frame pistols and includes 5 elastic loops to hold magazines.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "248",
+    "255",
+    "496",
+    "553",
+    "248",
+    "255",
+    "496",
+    "553"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15447",
+      "item_index": "3940",
+      "rothco_item_no": "3907",
+      "upc": "613902139077",
+      "inventory": "87",
+      "created_date": "2015-05-18 10:10:02",
+      "weight": "1.0600",
+      "image_filename": "3907-B-amazon.jpg",
+      "catalog_page_no": "261",
+      "msrp": 30.99,
+      "ship_length": "12.0000",
+      "ship_width": "10.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 13.9,
+      "case_price": 13.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

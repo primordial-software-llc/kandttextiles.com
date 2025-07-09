@@ -1,0 +1,73 @@
+{
+  "item_index": "4766",
+  "item_name": "Rothco MultiCam Reusable 3-Layer Face Mask - Reversible MultiCam / Coyote",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's MultiCam Reusable 3-Layer Face Mask is a versatile accessory designed for both style and functionality. With its reversible MultiCam and solid coyote brown color pattern, this mask offers flexibility to coordinate with various outfits and uniforms, making it ideal for everyday wear. Constructed with a durable three-layer fabric, this mask provides enhanced protection and durability, ensuring long-lasting use. The soft and stretchy material, along with the adjustable nose bridge, conforms comfortably to the shape of your face.</p>",
+  "no_ratings": null,
+  "sort_order": "133079",
+  "description": "<p>Rothco's MultiCam Reusable 3-Layer Face Mask is a versatile accessory designed for both style and functionality. With its reversible MultiCam and solid coyote brown color pattern, this mask offers flexibility to coordinate with various outfits and uniforms, making it ideal for everyday wear. Constructed with a durable three-layer fabric, this mask provides enhanced protection and durability, ensuring long-lasting use. The soft and stretchy material, along with the adjustable nose bridge, conforms comfortably to the shape of your face, offering a snug and secure fit while minimizing discomfort and gaps. The ear loop design further enhances convenience by securely holding the mask in place, allowing you to go about your day with confidence. Whether you're running errands, commuting, or engaging in outdoor activities, Rothco's Reusable Face Mask is a reliable choice to keep you protected. Please note that these masks are not medical-grade surgical masks or N95 respirators and may not prevent infection or transmission of viruses. Rothco makes no warranties or implications regarding their efficacy against pathogens. However, they offer an additional layer of protection and peace of mind during your daily routine. Additionally, these masks are available in 2 sizes to accommodate various face shapes and sizes, ensuring a comfortable fit for most individuals.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "680"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20046",
+      "item_index": "4766",
+      "rothco_item_no": "1249",
+      "upc": "613902012493",
+      "inventory": "99",
+      "created_date": "2020-11-11 13:00:01",
+      "weight": "0.0500",
+      "image_filename": "1249-A-AMAZON1.jpg",
+      "catalog_page_no": "169",
+      "msrp": 8.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote / MultiCam",
+        "size": "S / M"
+      },
+      "color": "Coyote / MultiCam",
+      "size": "S / M",
+      "price": 3.5,
+      "case_price": 3.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20047",
+      "item_index": "4766",
+      "rothco_item_no": "1249",
+      "upc": "613902112490",
+      "inventory": "99",
+      "created_date": "2020-11-11 13:00:01",
+      "weight": "0.0500",
+      "image_filename": "1249-A-AMAZON1.jpg",
+      "catalog_page_no": "169",
+      "msrp": 8.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote / MultiCam",
+        "size": "L / XL"
+      },
+      "color": "Coyote / MultiCam",
+      "size": "L / XL",
+      "price": 3.5,
+      "case_price": 3.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

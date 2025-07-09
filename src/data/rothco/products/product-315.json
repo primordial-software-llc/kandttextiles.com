@@ -1,0 +1,40 @@
+{
+  "item_index": "315",
+  "item_name": "Rothco Jolly Roger Web Belt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Jolly Roger Web Belt takes the classic military web belt to the next level with a bold white skull and crossbones pattern that repeats around the entire belt. Crafted from durable, high-quality webbing, this belt is built for long-lasting use while offering a comfortable, adjustable fit. Whether you&rsquo;re looking to add some style to your everyday outfits or complete a pirate costume, this belt provides the perfect combination of function and fashion.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "496",
+  "description": "<p>Rothco's Jolly Roger Web Belt takes the classic military web belt to the next level with a bold white skull and crossbones pattern that repeats around the entire belt. Crafted from durable, high-quality webbing, this belt is built for long-lasting use while offering a comfortable, adjustable fit. Whether you&rsquo;re looking to add some style to your everyday outfits or complete a pirate costume, this belt provides the perfect combination of function and fashion.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "380"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3041",
+      "item_index": "315",
+      "rothco_item_no": "4284",
+      "upc": "613902428409",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "4284-HR.jpg",
+      "catalog_page_no": "194",
+      "msrp": 7.99,
+      "ship_length": "3.7500",
+      "ship_width": "2.5000",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 3.25,
+      "case_price": 3.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

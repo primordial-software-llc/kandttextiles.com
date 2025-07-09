@@ -1,0 +1,45 @@
+{
+  "item_index": "4460",
+  "item_name": "Rothco Plastic Web Belt Buckle",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Plastic Web Belt Buckle offers you tactical advantages over your typical military web belt buckle with a metal detector friendly sturdy plastic buckle.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "132773",
+  "description": "<p>Rothco&rsquo;s Plastic Web Belt Buckle offers you tactical advantages over your typical military web belt buckle with a metal detector friendly sturdy plastic buckle. Measuring 1 &frac14;&rdquo; wide, this tactical belt buckle is ideal for military web belts.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "382"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18477",
+      "item_index": "4460",
+      "rothco_item_no": "4970",
+      "upc": "613902149700",
+      "inventory": "61",
+      "created_date": "2018-05-15 11:10:03",
+      "weight": "0.0625",
+      "image_filename": "4970-A-amazon.jpg",
+      "catalog_page_no": "195",
+      "msrp": 4.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Black"
+      },
+      "size": "One Size",
+      "color": "Black",
+      "price": 1.65,
+      "case_price": 1.65,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

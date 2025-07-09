@@ -1,0 +1,94 @@
+{
+  "item_index": "3814",
+  "item_name": "Rothco Advanced Tactical Adjustable Airsoft Helmet",
+  "has_restrictions": "1",
+  "controlled_by_map": "0",
+  "video_link": "https://www.youtube.com/watch?v=uyccWzHI7X4",
+  "rating": "5",
+  "item_short_desc": "<p>Elevate your tactical gear with Rothco&rsquo;s Advanced Tactical Adjustable Airsoft Helmet. Crafted for airsoft, paintball, or tactical training, this lightweight ABS plastic helmet offers comfort and versatility for any mission.</p>",
+  "no_ratings": null,
+  "sort_order": "1926",
+  "description": "<p>Elevate your tactical gear with Rothco&rsquo;s Advanced Tactical Adjustable Airsoft Helmet. Crafted for airsoft, paintball, or tactical training, this lightweight ABS plastic helmet offers comfort and versatility for any mission.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "332",
+    "324"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14857",
+      "item_index": "3814",
+      "rothco_item_no": "1294",
+      "upc": "613902129405",
+      "inventory": "99",
+      "created_date": "2014-10-02 14:10:01",
+      "weight": "1.6000",
+      "image_filename": "1294-Black-B-amazon.jpg",
+      "catalog_page_no": "257",
+      "msrp": 94.99,
+      "ship_length": "8.5000",
+      "ship_width": "11.0000",
+      "ship_height": "6.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 42.95,
+      "case_price": 42.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14858",
+      "item_index": "3814",
+      "rothco_item_no": "1294",
+      "upc": "613902129412",
+      "inventory": "99",
+      "created_date": "2014-10-02 14:10:01",
+      "weight": "1.6000",
+      "image_filename": "1294-Coyote-B-amazon.jpg",
+      "catalog_page_no": "257",
+      "msrp": 94.99,
+      "ship_length": "8.5000",
+      "ship_width": "11.0000",
+      "ship_height": "6.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 42.95,
+      "case_price": 42.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14859",
+      "item_index": "3814",
+      "rothco_item_no": "1294",
+      "upc": "613902129429",
+      "inventory": "99",
+      "created_date": "2014-10-02 14:10:01",
+      "weight": "1.6000",
+      "image_filename": "1294-OD-B-amazon.jpg",
+      "catalog_page_no": "257",
+      "msrp": 94.99,
+      "ship_length": "8.5000",
+      "ship_width": "11.0000",
+      "ship_height": "6.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 42.95,
+      "case_price": 42.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

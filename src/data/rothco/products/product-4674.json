@@ -1,0 +1,50 @@
+{
+  "item_index": "4674",
+  "item_name": "Rothco Deluxe NASA Meatball Logo Embroidered Watch Cap - Black",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Showcase your support for the American space program with this officially-licensed NASA watch cap!</p>",
+  "no_ratings": null,
+  "sort_order": "132987",
+  "description": "<p>Showcase your support for the American space program with this officially-licensed NASA watch cap! The cap displays the iconic NASA meatball logo that was officially coined in 1959 when the National Advisory Committee on Aeronautics (NACA) transformed into the National Aeronautics and Space Organization under the leadership of President Dwight D. Eisenhower. This 100% acrylic watch cap is warm, light, comfortable, and machine washable.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "367",
+    "374"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19508",
+      "item_index": "4674",
+      "rothco_item_no": "5424",
+      "upc": "613902054240",
+      "inventory": "99",
+      "created_date": "2020-04-09 12:00:17",
+      "weight": "0.1813",
+      "image_filename": "5424-A-amazon1.jpg",
+      "catalog_page_no": "157",
+      "msrp": 13.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "One Size",
+        "amazon_size_map": "One Size",
+        "amazon_color_map": "Black"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "amazon_size_map": "One Size",
+      "amazon_color_map": "Black",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

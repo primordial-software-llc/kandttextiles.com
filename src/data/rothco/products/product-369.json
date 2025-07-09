@@ -1,0 +1,72 @@
+{
+  "item_index": "369",
+  "item_name": "Genuine G.I. Anglehead Flashlight",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Experience unparalleled durability and functionality with our Anglehead Flashlight. Designed for tactical professionals, survivalists, outdoor enthusiasts, emergency situations, and household tasks, this fully waterproof flashlight thrives in any weather condition. The camping flashlight comes with 2 additional colored lenses (blue and red) and a spare bulb, ensuring versatility in various scenarios. Powered by 2 D cell batteries (not included).</p>",
+  "no_ratings": "0",
+  "sort_order": "2433",
+  "description": "<p>Experience unparalleled durability and functionality with our Anglehead Flashlight. Designed for tactical professionals, survivalists, outdoor enthusiasts, emergency situations, and household tasks, this fully waterproof flashlight thrives in any weather condition. The camping flashlight comes with 2 additional colored lenses (blue and red) and a spare bulb, ensuring versatility in various scenarios. Powered by 2 D cell batteries (not included), this right angle flashlight boasts dimensions of 8 1/8 inches in height, 1 &frac12; inches in body width, and a 3-inch head length. Being GSA compliant, this flashlight meets the highest standards of quality and reliability.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "143",
+    "470",
+    "274"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "7696",
+      "item_index": "369",
+      "rothco_item_no": "688",
+      "upc": "613902068803",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5400",
+      "image_filename": "688-A-amazon.jpg",
+      "catalog_page_no": "277",
+      "msrp": 22.99,
+      "ship_length": "8.2500",
+      "ship_width": "3.5000",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 11.25,
+      "case_price": 11.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7697",
+      "item_index": "369",
+      "rothco_item_no": "689",
+      "upc": "613902068902",
+      "inventory": "94",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5400",
+      "image_filename": "689-A-amazon.jpg",
+      "catalog_page_no": "277",
+      "msrp": 22.99,
+      "ship_length": "8.2500",
+      "ship_width": "3.5000",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 11.25,
+      "case_price": 11.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

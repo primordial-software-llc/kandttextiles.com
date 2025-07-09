@@ -1,0 +1,101 @@
+{
+  "item_index": "2207",
+  "item_name": "Rothco ACU Digital \"Booty Camp\" Booty Shorts",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s ACU Digital \"Booty Camp\" Booty Shorts offers the perfect blend of style, comfort, and functionality, making it ideal for lounging or as underwear. Crafted from a soft and breathable cotton / spandex blend, this loungewear set ensures all-day comfort and flexibility. The shorts feature the playful \"Booty Camp\" text across the back and waistband, adding a fun, stylish touch. An elastic waistband on the shorts provides additional stretch, ensuring a secure yet comfortable fit.</p>",
+  "no_ratings": "0",
+  "sort_order": "6072",
+  "description": "<p>Rothco&rsquo;s ACU Digital \"Booty Camp\" Booty Shorts offer the perfect blend of style, comfort, and functionality, making it ideal for lounging or as underwear. Crafted from a soft and breathable cotton / spandex blend, this loungewear set ensures all-day comfort and flexibility. The shorts feature the playful \"Booty Camp\" text across the back and waistband, adding a fun, stylish touch. An elastic waistband on the shorts provides additional stretch, ensuring a secure yet comfortable fit.&nbsp;</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "95",
+    "102",
+    "143"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2257",
+      "item_index": "2207",
+      "rothco_item_no": "3477",
+      "upc": "613902347724",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "3477-A-Flat.jpg",
+      "catalog_page_no": "128",
+      "msrp": 11.99,
+      "ship_length": "11.0000",
+      "ship_width": "11.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "piece_": "Bottom"
+      },
+      "size": "M",
+      "piece_": "Bottom",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2258",
+      "item_index": "2207",
+      "rothco_item_no": "3477",
+      "upc": "613902347731",
+      "inventory": "41",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "3477-A-Flat.jpg",
+      "catalog_page_no": "128",
+      "msrp": 11.99,
+      "ship_length": "11.2500",
+      "ship_width": "11.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "piece_": "Bottom"
+      },
+      "size": "L",
+      "piece_": "Bottom",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2259",
+      "item_index": "2207",
+      "rothco_item_no": "3477",
+      "upc": "613902347748",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "3477-A-Flat.jpg",
+      "catalog_page_no": "128",
+      "msrp": 11.99,
+      "ship_length": "11.2500",
+      "ship_width": "13.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "piece_": "Bottom"
+      },
+      "size": "XL",
+      "piece_": "Bottom",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

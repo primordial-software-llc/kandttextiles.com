@@ -1,0 +1,45 @@
+{
+  "item_index": "4202",
+  "item_name": "Rothco Thin Blue Line Mourning Band",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show your respect and support for Police and Law Enforcement Officials with&nbsp;Rothco's Thin Blue Line Mourning Band.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "343",
+  "description": "<p>Rothco's Thin Blue Line Mourning Band is a black elasticized band that will stretch to fit onto a badge. The black mourning band features a thin blue line in the center and measures 7/8\" wide x 4.25\" circumference.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "233"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16607",
+      "item_index": "4202",
+      "rothco_item_no": "1004",
+      "upc": "613902210042",
+      "inventory": "24",
+      "created_date": "2016-10-13 11:10:01",
+      "weight": "0.0006",
+      "image_filename": "1004-A-amazon.jpg",
+      "catalog_page_no": "219",
+      "msrp": 1.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black / Blue",
+        "size": "One Size"
+      },
+      "color": "Black / Blue",
+      "size": "One Size",
+      "price": 0.75,
+      "case_price": 0.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

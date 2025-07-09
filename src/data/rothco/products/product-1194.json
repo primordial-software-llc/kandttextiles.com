@@ -1,0 +1,41 @@
+{
+  "item_index": "1194",
+  "item_name": "Datrex 2400 Calorie Emergency Food Ration",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Datrex 2400 Calorie Emergency Food Ration is a must-have for any emergency preparedness kit. Each pack contains 12 high-energy coconut-flavored bars, providing a total of 2400 calories to sustain you during critical times. These bars are ready to eat and made from all-natural ingredients, including wheat flour, cane sugar, water, and coconut, ensuring you get essential nutrients and energy when you need it most. With a 5-year shelf life from the manufacturing date, you can trust that they will be ready whenever you need them.</p>",
+  "no_ratings": "0",
+  "sort_order": "1803",
+  "description": "<p>The Datrex 2400 Calorie Emergency Food Ration is a must-have for any emergency preparedness kit. Each pack contains 12 high-energy coconut-flavored bars, providing a total of 2400 calories to sustain you during critical times. These bars are ready to eat and made from all-natural ingredients, including wheat flour, cane sugar, water, and coconut, ensuring you get essential nutrients and energy when you need it most. With a 5-year shelf life from the manufacturing date, you can trust that these emergency rations will be ready whenever you need them. Whether you're facing a natural disaster, stranded on a road trip, or need a reliable food source for your bug out bag, the Datrex 2400 Calorie Emergency Food Ration is designed to keep you going.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "542",
+    "258"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10680",
+      "item_index": "1194",
+      "rothco_item_no": "9208",
+      "upc": "816664020007",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.0500",
+      "image_filename": "9208-A-amazon.jpg",
+      "catalog_page_no": "294",
+      "msrp": 11.99,
+      "ship_length": "4.5000",
+      "ship_width": "2.7500",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 4.75,
+      "case_price": 4.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

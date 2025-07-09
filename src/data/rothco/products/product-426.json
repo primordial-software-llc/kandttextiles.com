@@ -1,0 +1,141 @@
+{
+  "item_index": "426",
+  "item_name": "Rothco Police Duty Search Gloves",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Gear up with Rothco&rsquo;s Police Duty Search Gloves. Crafted from soft cowhide leather, these duty gloves provide comfortable wear that lasts all-day. The protective leather extends to palm, fingers, and thumb for complete safety. The shirred elastic wrist ensures secure and adjustable fit for an easy on / off. For best performance and durability, hand wash and hang dry only. The duty gloves are ideal for mechanics, electricians, law enforcement personnel, and more.</p>",
+  "no_ratings": "0",
+  "sort_order": "1810",
+  "description": "<p>Gear up with Rothco&rsquo;s Police Duty Search Gloves. Crafted from soft cowhide leather, these duty gloves provide comfortable wear that lasts all-day. The protective leather extends to palm, fingers, and thumb for complete safety. The shirred elastic wrist ensures secure and adjustable fit for an easy on / off. For best performance and durability, hand wash and hang dry only. The duty gloves are ideal for mechanics, electricians, law enforcement personnel, and more.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "319"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2103",
+      "item_index": "426",
+      "rothco_item_no": "3450",
+      "upc": "613902345003",
+      "inventory": "99",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "0.2300",
+      "image_filename": "3450-C.jpg",
+      "catalog_page_no": "190",
+      "msrp": 28.99,
+      "ship_length": "10.2500",
+      "ship_width": "4.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2104",
+      "item_index": "426",
+      "rothco_item_no": "3450",
+      "upc": "613902345010",
+      "inventory": "99",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "0.2300",
+      "image_filename": "3450-C.jpg",
+      "catalog_page_no": "190",
+      "msrp": 28.99,
+      "ship_length": "10.2500",
+      "ship_width": "4.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2105",
+      "item_index": "426",
+      "rothco_item_no": "3450",
+      "upc": "613902345027",
+      "inventory": "99",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "0.2300",
+      "image_filename": "3450-C.jpg",
+      "catalog_page_no": "190",
+      "msrp": 28.99,
+      "ship_length": "11.0000",
+      "ship_width": "4.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2106",
+      "item_index": "426",
+      "rothco_item_no": "3450",
+      "upc": "613902345034",
+      "inventory": "99",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "0.2300",
+      "image_filename": "3450-C.jpg",
+      "catalog_page_no": "190",
+      "msrp": 28.99,
+      "ship_length": "10.5000",
+      "ship_width": "4.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2107",
+      "item_index": "426",
+      "rothco_item_no": "3450",
+      "upc": "613902345041",
+      "inventory": "99",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "0.2300",
+      "image_filename": "3450-C.jpg",
+      "catalog_page_no": "190",
+      "msrp": 28.99,
+      "ship_length": "11.0000",
+      "ship_width": "4.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

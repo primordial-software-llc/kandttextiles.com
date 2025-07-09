@@ -1,0 +1,94 @@
+{
+  "item_index": "201",
+  "item_name": "Rothco Vintage Air Corps Fatigue Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Vintage Air Corps Fatigue Cap combines classic style with modern durability. Made from a lightweight and durable cotton blend, this cap features washed twill fabric and distressed details that give it an authentic vintage look and feel. The iconic Air Corps Star emblem is prominently displayed on the front center, making it a standout accessory for history enthusiasts and those who love timeless designs. With multiple sizes available, this cap offers a comfortable, tailored fit for all-day wear.</p>",
+  "no_ratings": "0",
+  "sort_order": "2584",
+  "description": "<p>Rothco&rsquo;s Vintage Air Corps Fatigue Cap combines classic style with modern durability. Made from a lightweight and durable cotton blend, this cap features washed twill fabric and distressed details that give it an authentic vintage look and feel. The iconic Air Corps Star emblem is prominently displayed on the front center, making it a standout accessory for history enthusiasts and those who love timeless designs. With multiple sizes available, this cap offers a comfortable, tailored fit for all-day wear. Whether for casual outings or adding a unique touch to your wardrobe, this cap is a versatile addition to any collection. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from military personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "68",
+    "370"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3455",
+      "item_index": "201",
+      "rothco_item_no": "4539",
+      "upc": "613902453913",
+      "inventory": "67",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "4539-A.jpg",
+      "catalog_page_no": "148",
+      "msrp": 13.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.2500",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3457",
+      "item_index": "201",
+      "rothco_item_no": "4539",
+      "upc": "613902453937",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "4539-A.jpg",
+      "catalog_page_no": "148",
+      "msrp": 13.99,
+      "ship_length": "8.5000",
+      "ship_width": "7.5000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3458",
+      "item_index": "201",
+      "rothco_item_no": "4539",
+      "upc": "613902453944",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "4539-A.jpg",
+      "catalog_page_no": "148",
+      "msrp": 13.99,
+      "ship_length": "8.5000",
+      "ship_width": "7.7500",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

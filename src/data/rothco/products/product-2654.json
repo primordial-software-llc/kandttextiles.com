@@ -1,0 +1,47 @@
+{
+  "item_index": "2654",
+  "item_name": "Sabre Super Red Pepper Defense Spray",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Sabre Supre Red Pepper Defense Spray is designed for security personnel&nbsp;and law enforcement professionals.&nbsp;Not available for sale in NY, MA, WI, and HI.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "697",
+  "description": "<p>Sabre Supre Red Pepper Defense Spray is designed for security personnel&nbsp;and law enforcement professionals. The 4oz Magnum 120 Spray offers serious protection with a maximum strength red pepper and can spray up to 8-10 feet. A UV Marking Dye allows for easy identification. The Sabre Supre Red Pepper Spray contains&nbsp;Genuine Oleoresin Capsicum and is Iso 9001 Certified.&nbsp;</p>",
+  "selection_groups": [
+    "volume"
+  ],
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "244"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5",
+      "item_index": "2654",
+      "rothco_item_no": "10005",
+      "upc": "023063100227",
+      "inventory": "99",
+      "created_date": "2002-04-21 21:00:00",
+      "weight": "0.1500",
+      "image_filename": "10005-A.jpg",
+      "catalog_page_no": "223",
+      "msrp": 14.99,
+      "ship_length": "9.5000",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "volume": "22 Grams"
+      },
+      "volume": "22 Grams",
+      "price": 5.9,
+      "case_price": 5.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

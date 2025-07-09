@@ -1,0 +1,42 @@
+{
+  "item_index": "1041",
+  "item_name": "Rothco Polarshield Survival Blankets",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Polarshield Survival Blanket is an essential tool for outdoor enthusiasts and emergency preparedness. Compact, lightweight, and durable, this survival blanket is designed to reflect up to 90% of your body heat, ensuring you stay warm in cold or unpredictable conditions. Whether you're hiking, camping, or facing an unexpected emergency, the Polarshield blanket offers reliable insulation to protect you from the elements. Made from high-quality materials, it&rsquo;s built to withstand tough outdoor environments.</p>",
+  "no_ratings": "0",
+  "sort_order": "2195",
+  "description": "<p>Rothco's Polarshield Survival Blanket is an essential tool for outdoor enthusiasts and emergency preparedness. Compact, lightweight, and durable, this survival blanket is designed to reflect up to 90% of your body heat, ensuring you stay warm in cold or unpredictable conditions. Whether you're hiking, camping, or facing an unexpected emergency, the Polarshield blanket offers reliable insulation to protect you from the elements. Made from high-quality materials, it&rsquo;s built to withstand tough outdoor environments while remaining easy to pack in your backpack, emergency kit, or glove compartment. Its versatility makes it perfect for various situations, from outdoor adventures to emergency preparedness. Keep the Rothco Polarshield Survival Blanket with you to stay safe, warm, and ready for anything nature throws your way.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "256",
+    "542",
+    "272"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "167",
+      "item_index": "1041",
+      "rothco_item_no": "1032",
+      "upc": "613902103207",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1250",
+      "image_filename": "1032-C.jpg",
+      "catalog_page_no": "304",
+      "msrp": 4.99,
+      "ship_length": "6.5000",
+      "ship_width": "4.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 1.95,
+      "case_price": 1.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

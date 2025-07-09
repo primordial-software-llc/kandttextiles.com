@@ -1,0 +1,42 @@
+{
+  "item_index": "1678",
+  "item_name": "Smith & Wesson Border Guard Rescue Knife",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p class=\"MsoNormal\">The Smith &amp; Wesson Border Guard Rescue Knife is an essential tool designed for first responders and emergency situations. This multifunctional folding knife includes an integrated seat-belt cutter and glass breaker, making it indispensable for rescue operations. Built with a convenient pocket clip carrying system, the knife is always accessible in urgent situations. Measuring 10 inches overall, it features a 4.4-inch black-coated stainless steel tanto blade for durability.</p>",
+  "no_ratings": "0",
+  "sort_order": "743",
+  "description": "<p>The Smith &amp; Wesson Border Guard Rescue Knife is an essential tool designed for first responders and emergency situations. This multifunctional folding knife includes an integrated seat-belt cutter and glass breaker, making it indispensable for rescue operations. Built with a convenient pocket clip carrying system, the knife is always accessible in urgent situations. Measuring 10 inches overall, it features a 4.4-inch black-coated stainless steel tanto blade for durability and a 5.6-inch black-coated aluminum handle with Trac Tec inserts for enhanced grip and maneuverability. The honed cutting edge ensures prolonged sharpness, making it reliable for repeated use. Whether you are cutting through seat belts, breaking windows, or performing other critical tasks, the Smith &amp; Wesson Border Guard Rescue Knife is crafted to deliver outstanding performance and reliability when every second counts.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "295",
+    "297",
+    "513"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1809",
+      "item_index": "1678",
+      "rothco_item_no": "3096",
+      "upc": "028634702466",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5875",
+      "image_filename": "3096_big.jpg",
+      "catalog_page_no": "270",
+      "msrp": 59.99,
+      "ship_length": "6.0000",
+      "ship_width": "1.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 23.95,
+      "case_price": 23.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

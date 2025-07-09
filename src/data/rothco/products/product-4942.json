@@ -1,0 +1,40 @@
+{
+  "item_index": "4942",
+  "item_name": "Rothco Tactical Car Seat Panel - Black",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Tactical Car Seat Panel enables you to keep your car clean and organized with multiple storage pouches, loop fields, and rows of MOLLE webbing.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133255",
+  "description": "<p>Rothco's Tactical Car Seat Panel enables you to keep your car clean and organized with multiple storage pouches, loop fields, and rows of MOLLE webbing. The tactical seat panel attached to your headrest spikes via two webbing straps with metal grommets for easy installation &ndash; multiple grommets enable the organization panel to fit in most standard size SUVs. Three utility pockets with hook and loop closures for storing essential items (center pocket measures 6 inches x 8 inches x 1 inch, outside pockets measure 6 inches x 4.5 inches x 1 inch). The backseat organizer invludes six rows of MOLLE webbing, as well as two loop fields for adding flags, morale patches, and hook-backed attachments. Two document pockets on the tactical panel feature hook and loop closures and web handles for easy opening (Upper pocket measures 17 x 14.25 inches, lower pocket measures 17 x 9.5 inches). The tactical car panel is composed of a rugged 600D polyester material and measures 22.5 inches x 17 inches.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "21830",
+      "item_index": "4942",
+      "rothco_item_no": "3902",
+      "upc": "613902016125",
+      "inventory": "99",
+      "created_date": "2022-04-27 15:00:24",
+      "weight": "1.5000",
+      "image_filename": "3902-A.jpg",
+      "catalog_page_no": "252",
+      "msrp": 43.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 19.95,
+      "case_price": 19.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

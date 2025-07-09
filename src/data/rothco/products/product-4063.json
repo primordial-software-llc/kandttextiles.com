@@ -1,0 +1,46 @@
+{
+  "item_index": "4063",
+  "item_name": "Rothco Thin Blue Line Flag Bandana",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show your support for Police and Law Enforcement Officials with the Rothco's Thin Blue Line Flag Bandana.</p>",
+  "no_ratings": null,
+  "sort_order": "716",
+  "description": "<p>The Thin Blue Line is a symbol of respect and support for Police and Law Enforcement Officials; show your support with the Rothco's Thin Blue Line Flag Bandana. Made from 100% cotton, the bandana measures 22\" x 22\".</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "369",
+    "679"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15926",
+      "item_index": "4063",
+      "rothco_item_no": "44074",
+      "upc": "613902440746",
+      "inventory": "99",
+      "created_date": "2015-11-19 14:10:03",
+      "weight": "0.0700",
+      "image_filename": "44074-A-amazon.jpg",
+      "catalog_page_no": "164",
+      "msrp": 3.99,
+      "ship_length": "11.0000",
+      "ship_width": "11.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Subdued",
+        "size": "22 x 22 Inches"
+      },
+      "color": "Subdued",
+      "size": "22 x 22 Inches",
+      "price": 1.4,
+      "case_price": 1.4,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

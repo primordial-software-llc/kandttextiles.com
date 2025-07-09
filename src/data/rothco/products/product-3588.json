@@ -1,0 +1,71 @@
+{
+  "item_index": "3588",
+  "item_name": "Rothco GI Style MOLLE Canteen Cover",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s GI Style MOLLE Canteen Cover secures one-quart canteens to MOLLE compatible gear and features a hook and loop pouch for holding water purification tablets.</p>",
+  "no_ratings": null,
+  "sort_order": "1046",
+  "description": "<p>Rothco's GI style MOLLE Canteen Cover features 2 MOLLE straps on the back, which allows the user to attach the canteen cover to other MOLLE compatible gear. The canteen cover is fleece-lined with a front tab pouch. Rothco's updated MOLLE canteen cover is available in coyote and 1000D Codura Nylon MultiCam Fabric.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "140",
+    "230",
+    "284"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "13238",
+      "item_index": "3588",
+      "rothco_item_no": "612",
+      "upc": "613902006126",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "612-A1.jpg",
+      "catalog_page_no": "285",
+      "msrp": 19.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 7.9,
+      "case_price": 7.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14814",
+      "item_index": "3588",
+      "rothco_item_no": "695",
+      "upc": "613902006959",
+      "inventory": "99",
+      "created_date": "2014-09-19 16:10:02",
+      "weight": "0.2500",
+      "image_filename": "695-A-amazon.jpg",
+      "catalog_page_no": "285",
+      "msrp": 10.99,
+      "ship_length": "8.0000",
+      "ship_width": "7.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 4.1,
+      "case_price": 4.1,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "item_index": "1167",
+  "item_name": "Potable Aqua P.A. Plus 2 Step Water Treatment",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": "0",
+  "sort_order": "563",
+  "description": "<p>Contains One Bottle Potable Aqua Tablets And One Bottle P.a. Plus Tablets To Remove Iodine Taste And Color From Treated Water , U.S. Made</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "286",
+    "277"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8706",
+      "item_index": "1167",
+      "rothco_item_no": "7743",
+      "upc": "368093003040",
+      "inventory": "99",
+      "created_date": "2002-04-17 21:00:00",
+      "weight": "0.1650",
+      "image_filename": "7743-A.jpg",
+      "catalog_page_no": "289",
+      "msrp": 28.99,
+      "ship_length": "6.0000",
+      "ship_width": "4.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 11.25,
+      "case_price": 11.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

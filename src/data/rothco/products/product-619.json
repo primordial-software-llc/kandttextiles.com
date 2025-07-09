@@ -1,0 +1,167 @@
+{
+  "item_index": "619",
+  "item_name": "Rothco Gov't Spec 2 Ply Multicam Army Ranger Fatigue Cap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Gov't Spec 2-Ply Multicam Fatigue Army Ranger Cap combines durability and comfort, ideal for outdoor enthusiasts and those on the go. Constructed from lightweight and tough cotton rip-stop material, this cap resists wear and tear while offering excellent breathability. The Multicam&reg; fabric, licensed through Crye Industries, ensures a stylish and practical design. This cap features a loop strap on the back, perfect for attaching branch and name tape for personalization.</p>",
+  "no_ratings": "0",
+  "sort_order": "1257",
+  "description": "<p>Rothco's Gov't Spec 2-Ply Multicam Fatigue Army Ranger Cap combines durability and comfort, ideal for outdoor enthusiasts and those on the go. Constructed from lightweight and tough cotton rip-stop material, this cap resists wear and tear while offering excellent breathability. The Multicam&reg; fabric, licensed through Crye Industries, ensures a stylish and practical design. This cap features a loop strap on the back, perfect for attaching branch and name tape for personalization. With its U.S. made craftsmanship, it stands up to the demands of active use while maintaining a professional appearance. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from military personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "head_size"
+  ],
+  "statuses": "",
+  "categories": [
+    "83",
+    "140",
+    "370"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "5446",
+      "item_index": "619",
+      "rothco_item_no": "5747",
+      "upc": "613902574700",
+      "inventory": "0",
+      "created_date": "2012-05-17 21:00:00",
+      "weight": "0.1500",
+      "image_filename": "5747-HR1.jpg",
+      "catalog_page_no": "148",
+      "msrp": 24.99,
+      "ship_length": "8.0000",
+      "ship_width": "6.5000",
+      "ship_height": "3.7500",
+      "eta_date": null,
+      "specs": {
+        "head_size": "6 1/2"
+      },
+      "head_size": "6 1/2",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5447",
+      "item_index": "619",
+      "rothco_item_no": "5747",
+      "upc": "613902574717",
+      "inventory": "0",
+      "created_date": "2012-05-17 21:00:00",
+      "weight": "0.1500",
+      "image_filename": "5747-HR1.jpg",
+      "catalog_page_no": "148",
+      "msrp": 24.99,
+      "ship_length": "8.0000",
+      "ship_width": "6.5000",
+      "ship_height": "3.7500",
+      "eta_date": null,
+      "specs": {
+        "head_size": "6 3/4"
+      },
+      "head_size": "6 3/4",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5448",
+      "item_index": "619",
+      "rothco_item_no": "5747",
+      "upc": "613902574724",
+      "inventory": "79",
+      "created_date": "2012-05-17 21:00:00",
+      "weight": "0.1500",
+      "image_filename": "5747-HR1.jpg",
+      "catalog_page_no": "148",
+      "msrp": 24.99,
+      "ship_length": "8.5000",
+      "ship_width": "6.5000",
+      "ship_height": "3.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "head_size": "7"
+      },
+      "head_size": "7",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5449",
+      "item_index": "619",
+      "rothco_item_no": "5747",
+      "upc": "613902574731",
+      "inventory": "99",
+      "created_date": "2012-05-17 21:00:00",
+      "weight": "0.1500",
+      "image_filename": "5747-HR1.jpg",
+      "catalog_page_no": "148",
+      "msrp": 24.99,
+      "ship_length": "8.5000",
+      "ship_width": "7.0000",
+      "ship_height": "3.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "head_size": "7 1/4"
+      },
+      "head_size": "7 1/4",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5450",
+      "item_index": "619",
+      "rothco_item_no": "5747",
+      "upc": "613902574748",
+      "inventory": "99",
+      "created_date": "2012-05-17 21:00:00",
+      "weight": "0.1500",
+      "image_filename": "5747-HR1.jpg",
+      "catalog_page_no": "148",
+      "msrp": 24.99,
+      "ship_length": "8.7500",
+      "ship_width": "7.0000",
+      "ship_height": "3.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "head_size": "7 1/2"
+      },
+      "head_size": "7 1/2",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "5451",
+      "item_index": "619",
+      "rothco_item_no": "5747",
+      "upc": "613902574755",
+      "inventory": "0",
+      "created_date": "2012-05-17 21:00:00",
+      "weight": "0.1500",
+      "image_filename": "5747-HR1.jpg",
+      "catalog_page_no": "148",
+      "msrp": 24.99,
+      "ship_length": "9.0000",
+      "ship_width": "7.0000",
+      "ship_height": "3.7500",
+      "eta_date": null,
+      "specs": {
+        "head_size": "7 3/4"
+      },
+      "head_size": "7 3/4",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

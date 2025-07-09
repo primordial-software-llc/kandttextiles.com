@@ -1,0 +1,119 @@
+{
+  "item_index": "1261",
+  "item_name": "Rothco MOLLE Roll-Up Utility Dump Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Easily store small gear and tactical essentials with Rothco&rsquo;s MOLLE Roll-Up Utility Dump Pouch. Designed for rugged use, this versatile pouch features MOLLE straps for easy attachment to MOLLE vests, backpacks, and more. The pouch offers a secure cord lock drawstring closure and a hook &amp; loop flap closure to keep your items safe while you're out in the field.</p>",
+  "no_ratings": "0",
+  "sort_order": "1755",
+  "description": "<p>Easily store small gear and tactical essentials with Rothco&rsquo;s MOLLE Roll-Up Utility Dump Pouch. Designed for rugged use, this versatile pouch features MOLLE straps for easy attachment to MOLLE vests, backpacks, and more. The pouch offers a secure cord lock drawstring closure and a hook &amp; loop flap closure to keep your items safe while you're out in the field. An interior loop field holds the top flap open when in use, providing quick and easy access to your gear. When not in use, the pouch can be folded up and sealed via the exterior rear loop field for compact storage. A grommet drain hole at the bottom ensures that moisture escapes, keeping your gear dry. Measuring 8.5 inches high x 5.5 inches in diameter, this utility dump pouch is an essential addition to your tactical gear.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "140",
+    "306",
+    "333"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "4529",
+      "item_index": "1261",
+      "rothco_item_no": "51007",
+      "upc": "613902510074",
+      "inventory": "99",
+      "created_date": "2012-12-20 21:00:00",
+      "weight": "0.4000",
+      "image_filename": "51007-Black-B-amazon.jpg",
+      "catalog_page_no": "246",
+      "msrp": 17.99,
+      "ship_length": "11.5000",
+      "ship_width": "9.5000",
+      "ship_height": "4.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "4530",
+      "item_index": "1261",
+      "rothco_item_no": "51007",
+      "upc": "613902051072",
+      "inventory": "99",
+      "created_date": "2012-12-20 21:00:00",
+      "weight": "0.4000",
+      "image_filename": "51007-Coyote-B-amazon.jpg",
+      "catalog_page_no": "246",
+      "msrp": 17.99,
+      "ship_length": "11.5000",
+      "ship_width": "9.5000",
+      "ship_height": "4.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15411",
+      "item_index": "1261",
+      "rothco_item_no": "51009",
+      "upc": "613902510098",
+      "inventory": "99",
+      "created_date": "2015-05-04 16:10:01",
+      "weight": "0.4000",
+      "image_filename": "51009-A-amazon1.jpg",
+      "catalog_page_no": "246",
+      "msrp": 35.99,
+      "ship_length": "11.5000",
+      "ship_width": "9.5000",
+      "ship_height": "4.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 15.95,
+      "case_price": 15.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15434",
+      "item_index": "1261",
+      "rothco_item_no": "51007",
+      "upc": "613902990517",
+      "inventory": "99",
+      "created_date": "2015-05-13 17:10:02",
+      "weight": "0.4000",
+      "image_filename": "51007-OD-B-amazon.jpg",
+      "catalog_page_no": "246",
+      "msrp": 17.99,
+      "ship_length": "11.5000",
+      "ship_width": "9.5000",
+      "ship_height": "4.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

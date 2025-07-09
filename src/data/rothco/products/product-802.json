@@ -1,0 +1,42 @@
+{
+  "item_index": "802",
+  "item_name": "Marksman Folding Slingshot",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Experience unmatched precision and convenience with the Marksman Folding Slingshot. Designed for outdoor enthusiasts, this slingshot features a comfortable hinged arm brace that enhances stability during use, ensuring every shot is accurate. The hinged brace conveniently folds away, making it easy to store and transport, whether you're heading to the range or packing for an outdoor adventure. Equipped with durable latex bands and a high-quality leather launching pouch, this slingshot delivers consistent power and performance with every shot.</p>",
+  "no_ratings": "0",
+  "sort_order": "629",
+  "description": "<p>Experience unmatched precision and convenience with the Marksman Folding Slingshot. Designed for outdoor enthusiasts, this slingshot features a comfortable hinged arm brace that enhances stability during use, ensuring every shot is accurate. The hinged brace conveniently folds away, making it easy to store and transport, whether you're heading to the range or packing for an outdoor adventure. Equipped with durable latex bands and a high-quality leather launching pouch, this slingshot delivers consistent power and performance with every shot. Whether you're a seasoned shooter or a beginner, the Marksman Folding Slingshot is your go-to tool for precise targeting and reliable performance.</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "345"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3692",
+      "item_index": "802",
+      "rothco_item_no": "4720",
+      "upc": "026785030407",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.7750",
+      "image_filename": "4720.jpg",
+      "catalog_page_no": "266",
+      "msrp": 21.99,
+      "ship_length": "10.0000",
+      "ship_width": "5.5000",
+      "ship_height": "3.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "item_index": "48",
+  "item_name": "Rothco Classic A-2 Leather Flight Jacket",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Step into timeless aviation style with Rothco's Classic A-2 Leather Flight Jacket. Crafted from premium genuine Nappa leather, it exudes the vintage look and feel of a pilot's favorite. The jacket features a breathable zip-out polyester liner, ensuring comfort in any weather condition. With 2 front patch pockets adorned with flap and snap closures, along with convenient slash pockets behind them, you'll have ample storage space for your essentials.</p>",
+  "no_ratings": "0",
+  "sort_order": "409",
+  "description": "<p>Step into timeless aviation style with Rothco's Classic A-2 Leather Flight Jacket. Crafted from premium genuine Nappa leather, it exudes the vintage look and feel of a pilot's favorite. The jacket features a breathable zip-out polyester liner, ensuring comfort in any weather condition. With 2 front patch pockets adorned with flap and snap closures, along with convenient slash pockets behind them, you'll have ample storage space for your essentials. The fold-down collar, accented with snaps, adds to the jacket's classic aesthetic and allows for customizable styling options. Additionally, ribbed wrist cuffs and waistband ensure a secure and comfortable fit, while adding an extra layer of authenticity to the jacket's design. Whether you're exploring the city or taking to the skies, Rothco's A-2 Leather Flight Jacket is the epitome of timeless style and functionality, perfect for any adventure.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "169"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8502",
+      "item_index": "48",
+      "rothco_item_no": "7577",
+      "upc": "805280224418",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.1000",
+      "image_filename": "7577-LEFT-C.jpg",
+      "catalog_page_no": "39",
+      "msrp": 362.99,
+      "ship_length": "24.0000",
+      "ship_width": "13.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Brown"
+      },
+      "size": "M",
+      "color": "Brown",
+      "price": 144.95,
+      "case_price": 144.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8504",
+      "item_index": "48",
+      "rothco_item_no": "7577",
+      "upc": "805280224432",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.1000",
+      "image_filename": "7577-LEFT-C.jpg",
+      "catalog_page_no": "39",
+      "msrp": 362.99,
+      "ship_length": "24.0000",
+      "ship_width": "13.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Brown"
+      },
+      "size": "XL",
+      "color": "Brown",
+      "price": 144.95,
+      "case_price": 144.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8505",
+      "item_index": "48",
+      "rothco_item_no": "7578",
+      "upc": "805280224449",
+      "inventory": "51",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.4000",
+      "image_filename": "7577-LEFT-C.jpg",
+      "catalog_page_no": "39",
+      "msrp": 412.99,
+      "ship_length": "24.0000",
+      "ship_width": "13.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL",
+        "color": "Brown"
+      },
+      "size": "2XL",
+      "color": "Brown",
+      "price": 164.95,
+      "case_price": 164.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30230",
+      "item_index": "48",
+      "rothco_item_no": "7577",
+      "upc": "805280224425",
+      "inventory": "20",
+      "created_date": null,
+      "weight": "3.1000",
+      "image_filename": "7577-LEFT-C.jpg",
+      "catalog_page_no": "39",
+      "msrp": 362.99,
+      "ship_length": "24.0000",
+      "ship_width": "13.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 144.95,
+      "case_price": 144.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

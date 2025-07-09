@@ -1,0 +1,41 @@
+{
+  "item_index": "3845",
+  "item_name": "Datrex Blue 3600 Calorie Emergency Food Ration",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Be prepared for any emergency with the Datrex Blue 3600 Calorie Emergency Food Ration. This essential survival pack contains 18 high-energy, coconut-flavored bars, each providing 200 calories to keep you fueled during critical times. Made from all-natural ingredients, including wheat flour, cane sugar, water, and coconut, these bars offer a tasty and nutritious option when you need it most. The bars are individually wrapped, making them easy to portion out and share, or store for later use.</p>",
+  "no_ratings": null,
+  "sort_order": "906",
+  "description": "<p>Be prepared for any emergency with the Datrex Blue 3600 Calorie Emergency Food Ration. This essential survival pack contains 18 high-energy, coconut-flavored bars, each providing 200 calories to keep you fueled during critical times. Made from all-natural ingredients, including wheat flour, cane sugar, water, and coconut, these bars offer a tasty and nutritious option when you need it most. The bars are individually wrapped, making them easy to portion out and share, or store for later use. The Datrex Blue bars are ready to eat straight out of the package, no preparation required, making them ideal for emergency kits, camping trips, or any situation where reliable nourishment is essential. With a 5-year shelf life from the manufacturing date, these bars are designed to last, providing peace of mind knowing you have a dependable food source ready when you need it.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "542",
+    "258"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15004",
+      "item_index": "3845",
+      "rothco_item_no": "9204",
+      "upc": "816664020014",
+      "inventory": "99",
+      "created_date": "2014-12-05 12:10:01",
+      "weight": "1.7000",
+      "image_filename": "9204-A-amazon.jpg",
+      "catalog_page_no": "294",
+      "msrp": 18.99,
+      "ship_length": "22.0000",
+      "ship_width": "13.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

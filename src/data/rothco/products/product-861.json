@@ -1,0 +1,98 @@
+{
+  "item_index": "861",
+  "item_name": "McNett Camo Form - Self Cling Camo Wrap",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Instantly camouflage and protect your outdoor gear with McNett Camo Form - Self Cling Camo Wrap. Designed to be removable and reusable, this wrap does not stick or leave residue on your gear, making it perfect for a variety of applications. Whether you're covering weapons, scopes, binoculars, flashlights, ammo clips, or canteens, this wrap provides superior concealment and protection. It also serves as an excellent medical support and compression bandage.</p>",
+  "no_ratings": "0",
+  "sort_order": "2803",
+  "description": "<p>Instantly camouflage and protect your outdoor gear with McNett Camo Form - Self Cling Camo Wrap. Designed to be removable and reusable, this wrap does not stick or leave residue on your gear, making it perfect for a variety of applications. Whether you're covering weapons, scopes, binoculars, flashlights, ammo clips, or canteens, this wrap provides superior concealment and protection. It also serves as an excellent medical support and compression bandage. The wrap measures 2 inches wide and 144 inches long, offering ample material to cover various items. Made in the U.S.A., this camo wrap is ideal for tactical use, hunting, MilSim, and other outdoor activities. McNett Camo Form ensures that your gear remains functional and concealed in any environment.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "143",
+    "144",
+    "145",
+    "140",
+    "255"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10784",
+      "item_index": "861",
+      "rothco_item_no": "9312",
+      "upc": "021563194180",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1700",
+      "image_filename": "9312-A.jpg",
+      "catalog_page_no": "266",
+      "msrp": 25.99,
+      "ship_length": "8.0000",
+      "ship_width": "4.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 10.25,
+      "case_price": 10.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10965",
+      "item_index": "861",
+      "rothco_item_no": "9412",
+      "upc": "021563194128",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1750",
+      "image_filename": "9412-hr11.jpg",
+      "catalog_page_no": "266",
+      "msrp": 25.99,
+      "ship_length": "8.0000",
+      "ship_width": "4.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Digital Camo"
+      },
+      "color": "Woodland Digital Camo",
+      "price": 10.25,
+      "case_price": 10.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10966",
+      "item_index": "861",
+      "rothco_item_no": "9413",
+      "upc": "021563194135",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1750",
+      "image_filename": "9413-A.jpg",
+      "catalog_page_no": "266",
+      "msrp": 25.99,
+      "ship_length": "8.0000",
+      "ship_width": "4.5000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Desert Digital Camo"
+      },
+      "color": "Desert Digital Camo",
+      "price": 10.25,
+      "case_price": 10.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

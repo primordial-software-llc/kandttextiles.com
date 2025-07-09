@@ -1,0 +1,47 @@
+{
+  "item_index": "1185",
+  "item_name": "Rothco GI Type Mosquito Head Net",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Military Style Type Mosquito Head Net provides superior protection against insects while camping, hiking, or during other outdoor activities.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "925",
+  "description": "<p>Rothco&rsquo;s Military Style Type Mosquito Head Net provides superior protection against insects while camping, hiking, or during other outdoor activities. The Mesh drape net provides facial and neck protection from mosquitoes especially (including the species that transmits the zika virus). The protective top covers the base of your head with a solid cotton material.&nbsp;Bug net features a hoop ring to ensure the netting keeps away from your face for proper protection and comfort. Includes a bottom tie for extra security to keeps bugs out.&nbsp;A must have item those who want to enjoy the outdoors without the pesky or dangerous bug bites!</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "268",
+    "523",
+    "601"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9823",
+      "item_index": "1185",
+      "rothco_item_no": "8533",
+      "upc": "613902853300",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "8533-A-amazon.jpg",
+      "catalog_page_no": "153",
+      "msrp": 9.99,
+      "ship_length": "10.5000",
+      "ship_width": "10.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Olive Drab"
+      },
+      "size": "One Size",
+      "color": "Olive Drab",
+      "price": 3.75,
+      "case_price": 3.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

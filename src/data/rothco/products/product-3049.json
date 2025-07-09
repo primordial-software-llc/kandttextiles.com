@@ -1,0 +1,94 @@
+{
+  "item_index": "3049",
+  "item_name": "Rothco Military Marching Compass",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Embark on your outdoor journeys with confidence using Rothco's Military Marching Compass. Designed for military use, this compass is a reliable navigation tool for active-duty personnel, adventurers, hikers, campers, and outdoor enthusiasts. Constructed with precision and durability in mind, Rothco's Marching Compass features a liquid-filled design that minimizes excessive swing or wobble, ensuring optimal accuracy even in challenging terrain or conditions.</p>",
+  "no_ratings": null,
+  "sort_order": "4335",
+  "description": "<p>Embark on your outdoor journeys with confidence using Rothco's Military Marching Compass. Designed for military use, this compass is a reliable navigation tool for active-duty personnel, adventurers, hikers, campers, and outdoor enthusiasts. Constructed with precision and durability in mind, Rothco's Military Marching Compass features a liquid-filled design that minimizes excessive swing or wobble, ensuring optimal accuracy even in challenging terrain or conditions. This fluid enhances readability and protects the compass's internal mechanisms from wear and tear during extended use. Equipped with essential navigational aids, this compass includes a slide ruler for precise measurements and calculations, allowing you to plot your course with accuracy. The integrated magnifying glass provides clear visibility of map details and fine print, enhancing your ability to interpret topographic maps or trail guides. Crafted with an aluminum cast case, Rothco's Military Compass is built to withstand rugged outdoor environments, ensuring reliable performance in any situation. Its sturdy construction offers protection against impacts, bumps, and other hazards encountered during outdoor expeditions. Available in three distinct colors, including black, olive drab, and coyote brown, the compass allows you to choose the option that best suits your preferences or blends seamlessly with your outdoor gear and apparel. Whether you're embarking on a hiking expedition, navigating unfamiliar terrain, or exploring the great outdoors, Rothco's Marching Compass is an essential tool for ensuring you stay on course and reach your destination safely. With its durable construction, reliable performance, and versatile features, this compass is a must-have addition to your outdoor gear collection.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "542",
+    "269"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2777",
+      "item_index": "3049",
+      "rothco_item_no": "405",
+      "upc": "613902040502",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "405-hr1-amazon.jpg",
+      "catalog_page_no": "280",
+      "msrp": 11.99,
+      "ship_length": "9.2500",
+      "ship_width": "4.7500",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Tan"
+      },
+      "color": "Tan",
+      "price": 4.75,
+      "case_price": 4.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2785",
+      "item_index": "3049",
+      "rothco_item_no": "406",
+      "upc": "613902004061",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "406-hr1-amazon.jpg",
+      "catalog_page_no": "280",
+      "msrp": 11.99,
+      "ship_length": "9.2500",
+      "ship_width": "4.7500",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 4.75,
+      "case_price": 4.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2794",
+      "item_index": "3049",
+      "rothco_item_no": "407",
+      "upc": "613902407305",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3100",
+      "image_filename": "407-hr1-amazon.jpg",
+      "catalog_page_no": "280",
+      "msrp": 11.99,
+      "ship_length": "9.2500",
+      "ship_width": "4.7500",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 4.75,
+      "case_price": 4.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

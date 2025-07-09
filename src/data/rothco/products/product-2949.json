@@ -1,0 +1,41 @@
+{
+  "item_index": "2949",
+  "item_name": "Rothco Military Phosphorescent Luminous Tape",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Illuminate your surroundings with Rothco's Luminous Tape. This tape features a self-adhesive backing for easy application on various surfaces and glows in total darkness for up to 4 hours after exposure to a light source. The glow in the dark tape measures 1 inch x 5 yards, providing sufficient length for multiple applications. Made in the USA, the hi-vis tape is perfect for various applications including helmets, sporting goods, walkways, escape routes, light switches, and more.</p>",
+  "no_ratings": null,
+  "sort_order": "1612",
+  "description": "<p>Illuminate your surroundings with Rothco's Luminous Tape. This tape features a self-adhesive backing for easy application on various surfaces and glows in total darkness for up to 4 hours after exposure to a light source. The glow in the dark tape measures 1 inch x 5 yards, providing sufficient length for multiple applications. Made in the USA, the hi-vis tape is perfect for various applications including helmets, sporting goods, walkways, escape routes, light switches, and more.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "240",
+    "434"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9406",
+      "item_index": "2949",
+      "rothco_item_no": "8235",
+      "upc": "613902823501",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "8235-HR.jpg",
+      "catalog_page_no": "256",
+      "msrp": 20.99,
+      "ship_length": "3.7500",
+      "ship_width": "3.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

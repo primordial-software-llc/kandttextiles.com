@@ -1,0 +1,47 @@
+{
+  "item_index": "4531",
+  "item_name": "Rothco Canvas Pocketed Military Gear Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Canvas Pocketed Gear Bag is designed to offer maximum storage and organization for all your essentials. Constructed from 100% durable canvas, this bag features 8 front pockets, 2 side pockets, and a spacious main compartment with a U-shaped zipper for easy access to all your gear. The main compartment measures 25.5 inches x 11.5 inches x 13 inches, providing ample space for larger items, while the left side pocket with zippered closure and open right side pocket offer additional storage for smaller necessities.</p>",
+  "no_ratings": null,
+  "sort_order": "132844",
+  "description": "<p>Rothco&rsquo;s Canvas Pocketed Gear Bag is designed to offer maximum storage and organization for all your essentials. Constructed from 100% durable canvas, this bag features 8 front pockets, 2 side pockets, and a spacious main compartment with a U-shaped zipper for easy access to all your gear. The main compartment measures 25.5 inches x 11.5 inches x 13 inches, providing ample space for larger items, while the left side pocket with zippered closure and open right side pocket offer additional storage for smaller necessities. The bag also includes a 53 inch detachable and adjustable shoulder strap with a padded 7 inch shoulder pad for comfortable carrying, as well as 2 carry handles with a hook and loop fold-over closure. With its durable construction and functional design, this canvas gear bag is perfect for travel, work, or outdoor activities. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "215",
+    "223",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18770",
+      "item_index": "4531",
+      "rothco_item_no": "2483",
+      "upc": "613902248304",
+      "inventory": "63",
+      "created_date": "2018-12-07 11:10:00",
+      "weight": "3.3400",
+      "image_filename": "2483-E-amazon.jpg",
+      "catalog_page_no": "325",
+      "msrp": 72.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size",
+        "color": "Black"
+      },
+      "size": "One Size",
+      "color": "Black",
+      "price": 32.95,
+      "case_price": 32.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

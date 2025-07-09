@@ -1,0 +1,45 @@
+{
+  "item_index": "2463",
+  "item_name": "Rothco EMS Trauma Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay prepared for any emergency with this&nbsp;Heavy-Duty Water-Resistant Medical Bag. Designed for durability and organization, this bag features 5 large interior panels, mesh pockets, and elastic dividers for instruments and oxygen bottles, ensuring that all your medical supplies are secure and easily accessible. With specialized sectioned pockets for large bandages and instruments, the bag opens flat for fast, hassle-free access in critical situations</p>",
+  "no_ratings": "0",
+  "sort_order": "760",
+  "description": "<p>Stay prepared for any emergency with this Heavy-Duty Water-Resistant Medical Bag. Designed for durability and organization, this bag features 5 large interior panels, mesh pockets, and elastic dividers for instruments and oxygen bottles, ensuring that all your medical supplies are secure and easily accessible. With specialized sectioned pockets for large bandages and instruments, the bag opens flat for fast, hassle-free access in critical situations.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "225",
+    "226",
+    "242"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1233",
+      "item_index": "2463",
+      "rothco_item_no": "2344",
+      "upc": "613902234406",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2500",
+      "image_filename": "2344-HR111.jpg",
+      "catalog_page_no": "250",
+      "msrp": 41.99,
+      "ship_length": "18.5000",
+      "ship_width": "11.7500",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Orange"
+      },
+      "color": "Orange",
+      "price": 18.5,
+      "case_price": 18.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

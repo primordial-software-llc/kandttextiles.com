@@ -1,0 +1,71 @@
+{
+  "item_index": "5027",
+  "item_name": "Rothco Canvas Full Work Apron",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Tackle any task at hand with the help of our Canvas Full Work Apron. Whether you&rsquo;re looking for body protection against debris or a quick place to store your tools and spare parts, this 33 inch x 26 inch shop apron has you covered. With 20 utility accessories and tool pockets, the canvas apron is great for carpenters, painters, woodworkers, mechanics, DIYers, and more! The more it increases your productivity, the more you&rsquo;ll want it as part of your go-to workwear wardrobe!</p>",
+  "no_ratings": null,
+  "sort_order": "133340",
+  "description": "<p>Tackle any task at hand with the help of our Full-Body Canvas Work Apron. Whether you&rsquo;re looking for body protection against debris or a quick place to store your tools and spare parts, this 33 inch x 26 inch shop apron has you covered. With 20 utility accessories and tool pockets, the canvas apron is great for carpenters, painters, woodworkers, mechanics, DIYers, and more! The more it increases your productivity, the more you&rsquo;ll want it as part of your go-to workwear wardrobe! Tough as Nails: Made of heavy-duty 22 oz. cotton canvas, these rugged aprons easily withstand a hard day&rsquo;s work while keeping your tools secure and organized. These tool aprons are reinforced with double-stitched seams and brass finished metal hardware for long-lasting durability and dependable performance. Multiple Tool Pockets: Need an extra pair of hands for your tools and gear? The carpenter&rsquo;s apron features a top zipper pocket for securing small or loose hardware. In addition to 3 front pen pockets, they also feature 8 open top pockets and 4 side pockets that are ideal for holding screwdrivers, pliers, levels, wrenches, paint brushes, and other tools you often carry. One Size Fits Most: These tool aprons are fully adjustable and provide protective coverage from the upper chest to the knee. For a comfortable fit, cross the nylon web straps at the back before tying off. To do this, lead the strap from your left shoulder to your right hip, and vice versa for the other side, before tying the loose ends together behind your back. Quick Access: Keep your measuring tape within arm&rsquo;s reach with the metal tape measure clip, and your hammer alongside you with the canvas hammer loop. The bottom key clip and d-ring allow you to attach small accessories, and can be used to hang rags. When the day&rsquo;s over, conveniently hang your artist apron with the incorporated neck loop. Top Grade Canvas: Made from Rothco&rsquo;s rugged, durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of premium canvas bags, packs, and workwear.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "2",
+    "221",
+    "382"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "23039",
+      "item_index": "5027",
+      "rothco_item_no": "42028",
+      "upc": "613902032194",
+      "inventory": "99",
+      "created_date": "2023-07-11 09:41:14",
+      "weight": "0.0000",
+      "image_filename": "42028-LEFT-B.jpg",
+      "catalog_page_no": "339",
+      "msrp": 38.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 17.5,
+      "case_price": 17.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "23040",
+      "item_index": "5027",
+      "rothco_item_no": "42029",
+      "upc": "613902032200",
+      "inventory": "99",
+      "created_date": "2023-07-11 09:41:14",
+      "weight": "0.0000",
+      "image_filename": "42029-WORKAPRON-C-FRONT-A.jpg",
+      "catalog_page_no": "339",
+      "msrp": 38.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 17.5,
+      "case_price": 17.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

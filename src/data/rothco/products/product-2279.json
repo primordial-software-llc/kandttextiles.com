@@ -1,0 +1,40 @@
+{
+  "item_index": "2279",
+  "item_name": "Rothco GI Type Enhanced Shoulder Straps",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Upgrade your ALICE pack frame with Rothco&rsquo;s Enhanced Shoulder Straps, designed for added comfort and durability. These straps are made from rugged 1000 denier nylon material, ensuring long-lasting resilience even under heavy loads. Adjustable buckles allow for a customized fit, providing ample support for extended wear. Perfect as replacement straps for your existing pack or as an addition to a new ALICE frame, these enhanced straps make carrying equipment easier and more comfortable.</p>",
+  "no_ratings": "0",
+  "sort_order": "314",
+  "description": "<p>Upgrade your ALICE pack frame with Rothco&rsquo;s Enhanced Shoulder Straps, designed for added comfort and durability. These straps are made from rugged 1000 denier nylon material, ensuring long-lasting resilience even under heavy loads. Adjustable buckles allow for a customized fit, providing ample support for extended wear. Perfect as replacement straps for your existing pack or as an addition to a new ALICE frame, these enhanced straps make carrying equipment easier and more comfortable. Originally designed to improve the functionality of ALICE packs, these shoulder straps remain an essential accessory for outdoor enthusiasts and professionals alike.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "202"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1185",
+      "item_index": "2279",
+      "rothco_item_no": "2269",
+      "upc": "613902522695",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5700",
+      "image_filename": "2269.jpg",
+      "catalog_page_no": "311",
+      "msrp": 27.99,
+      "ship_length": "10.2500",
+      "ship_width": "4.0000",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 12.5,
+      "case_price": 12.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

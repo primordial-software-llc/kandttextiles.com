@@ -1,0 +1,48 @@
+{
+  "item_index": "2550",
+  "item_name": "Rothco Pen And Knife Combo",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Pen and Knife Combo doubles as both a pen and a knife! The alloy steel blade is completely hidden at the opposite side of the pen point. The blade length of the knife measure 2 &frac12;&rdquo; and is covered by the copper pen cap. The overall length of this tactical pen is approximately 5 5/8&rdquo;, perfect to keep hidden away in your pocket.</p>",
+  "no_ratings": "0",
+  "sort_order": "1473",
+  "description": "<p>Rothco&rsquo;s Pen and Knife Combo doubles as both a pen and a knife! The alloy steel blade is completely hidden at the opposite side of the pen point. The blade length of the knife measure 2 &frac12;&rdquo; and is covered by the copper pen cap. The overall length of this tactical pen is approximately 5 5/8&rdquo;, perfect to keep hidden away in your pocket.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "302",
+    "586"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1856",
+      "item_index": "2550",
+      "rothco_item_no": "3170",
+      "upc": "613902531703",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "3170-A-amazon.jpg",
+      "catalog_page_no": "273",
+      "msrp": 11.99,
+      "ship_length": "5.2500",
+      "ship_width": "0.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 4.75,
+      "case_price": 4.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

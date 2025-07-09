@@ -1,0 +1,69 @@
+{
+  "item_index": "1881",
+  "item_name": "Rothco Deluxe Security Enforcement Officer Badge",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Deluxe Security Enforcement Badge adds a touch of professionalism and authority to any security uniform. Available in both gold and silver finishes, this badge measures 3 1/8 inch x 2 1/4 inch, making it a standard size suitable for most security badges. Crafted with durability in mind, it is built to withstand daily wear and tear, maintaining its polished appearance over time.</p>",
+  "no_ratings": "0",
+  "sort_order": "4045",
+  "description": "<p>Rothco's Deluxe Security Enforcement Badge adds a touch of professionalism and authority to any security uniform. Available in both gold and silver finishes, this badge measures 3 1/8 inch x 2 1/4 inch, making it a standard size suitable for most security badges. Crafted with durability in mind, it is built to withstand daily wear and tear, maintaining its polished appearance over time. The badge features a sturdy pin backing, ensuring easy and secure attachment to clothing or accessories. Whether you're a security professional, law enforcement officer, or badge collector, this Deluxe Security Enforcement Badge offers versatile use and an authentic look. It's perfect for enhancing the appearance of your uniform or adding to your collection. Elevate your presence and command respect with Rothco's Deluxe Security Enforcement Badge.</p>\n<p>&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "233"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "883",
+      "item_index": "1881",
+      "rothco_item_no": "1915",
+      "upc": "613902191501",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1500",
+      "image_filename": "1915-A-amazon.jpg",
+      "catalog_page_no": "220",
+      "msrp": 18.99,
+      "ship_length": "5.5000",
+      "ship_width": "3.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Silver"
+      },
+      "color": "Silver",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "884",
+      "item_index": "1881",
+      "rothco_item_no": "1916",
+      "upc": "613902191600",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2000",
+      "image_filename": "1916-A.jpg",
+      "catalog_page_no": "220",
+      "msrp": 18.99,
+      "ship_length": "5.5000",
+      "ship_width": "3.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Gold"
+      },
+      "color": "Gold",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

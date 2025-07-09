@@ -1,0 +1,93 @@
+{
+  "item_index": "1638",
+  "item_name": "Rothco G.I. Military Assorted Military Patches",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": "0",
+  "sort_order": "240",
+  "description": "<p>Assortment of Military Patches - Available in bags of 50, 100 or 500</p>",
+  "selection_groups": [
+    "pieces_per_pack"
+  ],
+  "statuses": "",
+  "categories": [
+    "423"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8404",
+      "item_index": "1638",
+      "rothco_item_no": "7489",
+      "upc": "613902074897",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6000",
+      "image_filename": "7489-A-All-amazon.jpg",
+      "catalog_page_no": "217",
+      "msrp": 39.99,
+      "ship_length": "9.5000",
+      "ship_width": "4.5000",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "pieces_per_pack": "50 pieces"
+      },
+      "pieces_per_pack": "50 pieces",
+      "price": 15.9,
+      "case_price": 15.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9620",
+      "item_index": "1638",
+      "rothco_item_no": "8389",
+      "upc": "613902838901",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0125",
+      "image_filename": "7489-A-All-amazon.jpg",
+      "catalog_page_no": "217",
+      "msrp": 72.99,
+      "ship_length": "9.7500",
+      "ship_width": "6.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "pieces_per_pack": "100 pieces"
+      },
+      "pieces_per_pack": "100 pieces",
+      "price": 29,
+      "case_price": 29,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9747",
+      "item_index": "1638",
+      "rothco_item_no": "8489",
+      "upc": "613902084896",
+      "inventory": "92",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "5.3000",
+      "image_filename": "7489-A-All-amazon.jpg",
+      "catalog_page_no": "217",
+      "msrp": 272.99,
+      "ship_length": "13.5000",
+      "ship_width": "10.0000",
+      "ship_height": "5.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "pieces_per_pack": "500 pieces"
+      },
+      "pieces_per_pack": "500 pieces",
+      "price": 109,
+      "case_price": 109,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

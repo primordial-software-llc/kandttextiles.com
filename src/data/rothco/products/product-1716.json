@@ -1,0 +1,41 @@
+{
+  "item_index": "1716",
+  "item_name": "Rothco Military Fighting Utility Knife With Leather Handle",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Utility Knife is inspired by classic military fighting knives and features a leather handle and sheath.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "533",
+  "description": "<p>Rothco's Utility Knife is inspired by classic military fighting knives and features a leather handle and sheath. The combat utility knife is ideal for the outdoors, fishing, and more.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "294",
+    "300"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1918",
+      "item_index": "1716",
+      "rothco_item_no": "3261",
+      "upc": "613902532618",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8500",
+      "image_filename": "3261-hr1.jpg",
+      "catalog_page_no": "269",
+      "msrp": 32.99,
+      "ship_length": "12.2500",
+      "ship_width": "2.7500",
+      "ship_height": "1.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 14.5,
+      "case_price": 14.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

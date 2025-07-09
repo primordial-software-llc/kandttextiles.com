@@ -1,0 +1,42 @@
+{
+  "item_index": "1311",
+  "item_name": "Rothco Canvas Outfitter Backpack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Rothco Canvas Outfitter Backpack is the perfect bag for carrying books and other supplies on the go. With 1 main compartment and 3 additional quick-release closure pockets, you will have plenty of storage space for everything.</p>",
+  "no_ratings": "0",
+  "sort_order": "582",
+  "description": "<p>The Rothco Canvas Outfitter Backpack is the perfect bag for carrying books and other supplies on the go. With 1 main compartment and 3 additional quick-release closure pockets, you will have plenty of storage space for your gear. The backpack measures 18&rdquo; x 18&rdquo; x 12&rdquo; and is made from a heavy-duty, sturdy canvas material. The drawstring top closure and storm flap will protect your gear against the elements. The adjustable padded shoulder straps provide additional comfort and an ideal fit that is perfect for all-day wear.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "199",
+    "200",
+    "204"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10676",
+      "item_index": "1311",
+      "rothco_item_no": "9202",
+      "upc": "613902920200",
+      "inventory": "58",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.3000",
+      "image_filename": "9202-A.jpg",
+      "catalog_page_no": "343",
+      "msrp": 42.99,
+      "ship_length": "17.0000",
+      "ship_width": "12.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 18.95,
+      "case_price": 18.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

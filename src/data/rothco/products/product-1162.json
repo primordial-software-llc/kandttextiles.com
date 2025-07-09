@@ -1,0 +1,70 @@
+{
+  "item_index": "1162",
+  "item_name": "Ben's 100 Max DEET Insect Repellent Spray Pump",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Ben's 100 is the ultimate in long lasting protection! Up to 10 hours of protection per application. Ben's&reg; Tick &amp; Insect Repellents are DEET based and are designed for outdoor enthusiasts who need long lasting protection against biting insects and ticks. Keeps your family safe from ticks that carry Lyme Disease, and mosquitoes that can carry Eastern Equine Encephalitis (EEE), West Nile Virus (WNV), malaria, Zika Virus and other infectious diseases. The bug spray has been proven to repel ticks, mosquitoes, black flies, chiggers, deer flies and other biting insects.</p>",
+  "no_ratings": "0",
+  "sort_order": "1356",
+  "description": "<p>Ben's 100 is the ultimate in long lasting protection! Up to 10 hours of protection per application. Ben's&reg; Tick &amp; Insect Repellents are DEET based and are designed for outdoor enthusiasts who need long lasting protection against biting insects and ticks. Keeps your family safe from ticks that carry Lyme Disease, and mosquitoes that can carry Eastern Equine Encephalitis (EEE), West Nile Virus (WNV), malaria, Zika Virus and other infectious diseases. The bug spray has been proven to repel ticks, mosquitoes, black flies, chiggers, deer flies and other biting insects.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "270",
+    "600"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8698",
+      "item_index": "1162",
+      "rothco_item_no": "7728",
+      "upc": "044224102058",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1350",
+      "image_filename": "7728-hr1.jpg",
+      "catalog_page_no": "299",
+      "msrp": 16.99,
+      "ship_length": "6.5000",
+      "ship_width": "4.0000",
+      "ship_height": "6.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "1.25 oz "
+      },
+      "size": "1.25 oz ",
+      "price": 5.6,
+      "case_price": 5.6,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14670",
+      "item_index": "1162",
+      "rothco_item_no": "7758",
+      "upc": "044224070807",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3000",
+      "image_filename": "7758-C2.jpg",
+      "catalog_page_no": "299",
+      "msrp": 22.99,
+      "ship_length": "8.2500",
+      "ship_width": "5.0000",
+      "ship_height": "8.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3.4 oz"
+      },
+      "size": "3.4 oz",
+      "price": 8.95,
+      "case_price": 8.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

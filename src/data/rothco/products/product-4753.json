@@ -1,0 +1,73 @@
+{
+  "item_index": "4753",
+  "item_name": "Rothco Reusable 3 Layer Facemask With Security Print",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Reusable 3-Layer Polyester Security Facemask is crafted for comfort and durability, making it ideal for public safety professionals. Featuring a 3-layer construction, this mask molds comfortably to the shape of your face for extended wear. The bold \"Security\" print on the front ensures clear identification. An adjustable nose bridge provides a secure fit, while soft fabric ear straps offer all-day comfort. Measuring 7 inch x 5 inch with 2 available sizes, the mask fits most wearers.</p>",
+  "no_ratings": null,
+  "sort_order": "133066",
+  "description": "<p>Rothco&rsquo;s Reusable 3-Layer Polyester Security Facemask is crafted for comfort and durability, making it ideal for public safety professionals. Featuring a 3-layer construction, this mask molds comfortably to the shape of your face for extended wear. The bold \"Security\" print on the front ensures clear identification. An adjustable nose bridge provides a secure fit, while soft fabric ear straps offer all-day comfort. Measuring 7 inch x 5 inch with 2 available sizes, the mask fits most wearers. Washable and reusable, it&rsquo;s an excellent addition to your everyday essentials and personal protective equipment. Please note: This is not a medical-grade or N95 respirator mask and does not guarantee protection from viruses or infections.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "372"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19940",
+      "item_index": "4753",
+      "rothco_item_no": "1275",
+      "upc": "613902012752",
+      "inventory": "98",
+      "created_date": "2020-10-19 15:00:08",
+      "weight": "0.0313",
+      "image_filename": "1275-C-amazon.jpg",
+      "catalog_page_no": "169",
+      "msrp": 4.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "S / M"
+      },
+      "color": "Black",
+      "size": "S / M",
+      "price": 1.95,
+      "case_price": 1.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19941",
+      "item_index": "4753",
+      "rothco_item_no": "1275",
+      "upc": "613902127500",
+      "inventory": "99",
+      "created_date": "2020-10-19 15:00:08",
+      "weight": "0.0313",
+      "image_filename": "1275-C-amazon.jpg",
+      "catalog_page_no": "169",
+      "msrp": 4.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "M / L"
+      },
+      "color": "Black",
+      "size": "M / L",
+      "price": 1.95,
+      "case_price": 1.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

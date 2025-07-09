@@ -1,0 +1,142 @@
+{
+  "item_index": "940",
+  "item_name": "Rothco Kids WWII Aviator Flight Jacket",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Prepare your child for take off in our Kids WWII Aviator Flight Jacket. Featuring a faux fur collar and quilted nylon lining in the sleeves, this kids flight jacket will keep your junior pilot warm and comfortable. The bomber jacket consists of washed synthetic leather outer shell for an authentic vintage appearance. The map print lining adds historical flair to the interior. The 2 front snap pockets and zippered utility pocket &amp; pen pockets on the left sleeve offer additional space.</p>",
+  "no_ratings": "0",
+  "sort_order": "817",
+  "description": "<p>Prepare your child for take off in our Kids WWII Aviator Flight Jacket. Featuring a faux fur collar and quilted nylon lining in the sleeves, this kids flight jacket will keep your junior pilot warm and comfortable. The bomber jacket consists of washed synthetic leather outer shell for an authentic vintage appearance. The map print lining adds historical flair to the interior. The 2 front snap pockets and zippered utility pocket &amp; pen pockets on the left sleeve offer additional space. In addition, the front zipper closure and storm flap keep the cold out while the elastic cuffs and waist add maximum comfort and room to stretch. This kids bomber style jacket comes with 4 patches: U.S. Flag, Fighter Pilot, 1953 Jet, and F-14 Jet. Elevate your child&rsquo;s warmth and style with Rothco's Kids WWII Aviator Flight Jacket.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "123",
+    "169"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8608",
+      "item_index": "940",
+      "rothco_item_no": "7675",
+      "upc": "613902767515",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3500",
+      "image_filename": "7675-AA.jpg",
+      "catalog_page_no": "130",
+      "msrp": 70.99,
+      "ship_length": "18.5000",
+      "ship_width": "9.0000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 31.95,
+      "case_price": 31.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8609",
+      "item_index": "940",
+      "rothco_item_no": "7675",
+      "upc": "613902767522",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3500",
+      "image_filename": "7675-AA.jpg",
+      "catalog_page_no": "130",
+      "msrp": 70.99,
+      "ship_length": "18.5000",
+      "ship_width": "9.0000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 31.95,
+      "case_price": 31.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8610",
+      "item_index": "940",
+      "rothco_item_no": "7675",
+      "upc": "613902767539",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3500",
+      "image_filename": "7675-AA.jpg",
+      "catalog_page_no": "130",
+      "msrp": 70.99,
+      "ship_length": "18.5000",
+      "ship_width": "9.0000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 31.95,
+      "case_price": 31.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8611",
+      "item_index": "940",
+      "rothco_item_no": "7675",
+      "upc": "613902767546",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3500",
+      "image_filename": "7675-AA.jpg",
+      "catalog_page_no": "130",
+      "msrp": 70.99,
+      "ship_length": "18.5000",
+      "ship_width": "9.0000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 31.95,
+      "case_price": 31.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "8612",
+      "item_index": "940",
+      "rothco_item_no": "7675",
+      "upc": "613902767508",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.3500",
+      "image_filename": "7675-AA.jpg",
+      "catalog_page_no": "130",
+      "msrp": 70.99,
+      "ship_length": "18.5000",
+      "ship_width": "9.0000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XS"
+      },
+      "size": "XS",
+      "price": 31.95,
+      "case_price": 31.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

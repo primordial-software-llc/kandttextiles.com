@@ -1,0 +1,168 @@
+{
+  "item_index": "1871",
+  "item_name": "Rothco Tactical Protective Gear Knee Pads",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Tactical Protective Gear Knee Pads are designed to offer essential protection for public safety professionals. With 1/2-inch foam padding, these knee pads effectively shield your knees from impacts during rigorous activities. The dual hook-and-loop locking system ensures a secure fit, providing peace of mind while on duty. Featuring non-slip rubber kneecaps, these knee pads offer enhanced stability, preventing slipping even in challenging conditions.</p>",
+  "no_ratings": "0",
+  "sort_order": "4364",
+  "description": "<p>Rothco&rsquo;s Tactical Protective Gear Knee Pads are designed to offer essential protection for public safety professionals. With 1/2-inch foam padding, these knee pads effectively shield your knees from impacts during rigorous activities. The dual hook-and-loop locking system ensures a secure fit, providing peace of mind while on duty. Featuring non-slip rubber kneecaps, these knee pads offer enhanced stability, preventing slipping even in challenging conditions. Constructed from durable materials, they are built to withstand the rigors of fieldwork, ensuring longevity and reliability. Additionally, the 6 grommets provide ventilation to prevent excessive sweating, allowing for extended wear in comfort. Designed to fit most sizes, these knee pads are versatile and suitable for various professionals who require reliable knee protection. Add Rothco&rsquo;s Tactical Protective Gear Knee Pads to your gear arsenal and stay safe during demanding tasks.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "143",
+    "245",
+    "335"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "466",
+      "item_index": "1871",
+      "rothco_item_no": "11058",
+      "upc": "613902105805",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8000",
+      "image_filename": "11058_O.D__.-A_-amazon_.jpg",
+      "catalog_page_no": "255",
+      "msrp": 30.99,
+      "ship_length": "13.5000",
+      "ship_width": "8.2500",
+      "ship_height": "3.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 13.95,
+      "case_price": 13.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "467",
+      "item_index": "1871",
+      "rothco_item_no": "11058",
+      "upc": "613902105812",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8000",
+      "image_filename": "11058_Black-A-amazon.jpg",
+      "catalog_page_no": "255",
+      "msrp": 30.99,
+      "ship_length": "13.5000",
+      "ship_width": "8.2500",
+      "ship_height": "3.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 13.95,
+      "case_price": 13.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "468",
+      "item_index": "1871",
+      "rothco_item_no": "11058",
+      "upc": "613902105829",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8000",
+      "image_filename": "11058_Woodland-A-amazon.jpg",
+      "catalog_page_no": "255",
+      "msrp": 30.99,
+      "ship_length": "13.5000",
+      "ship_width": "8.2500",
+      "ship_height": "3.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 13.95,
+      "case_price": 13.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "469",
+      "item_index": "1871",
+      "rothco_item_no": "11058",
+      "upc": "613902105836",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8000",
+      "image_filename": "11058_Khaki-A-amazon.jpg",
+      "catalog_page_no": "255",
+      "msrp": 30.99,
+      "ship_length": "13.5000",
+      "ship_width": "8.2500",
+      "ship_height": "3.5000",
+      "eta_date": null,
+      "specs": {
+        "color": "Desert Tan"
+      },
+      "color": "Desert Tan",
+      "price": 13.95,
+      "case_price": 13.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "471",
+      "item_index": "1871",
+      "rothco_item_no": "11058",
+      "upc": "613902105867",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8000",
+      "image_filename": "11058_Coyote-A-amazon.jpg",
+      "catalog_page_no": "255",
+      "msrp": 30.99,
+      "ship_length": "13.5000",
+      "ship_width": "8.2500",
+      "ship_height": "3.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 13.95,
+      "case_price": 13.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12199",
+      "item_index": "1871",
+      "rothco_item_no": "11068",
+      "upc": "613902110687",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8000",
+      "image_filename": "11068_big-amazon.jpg",
+      "catalog_page_no": "255",
+      "msrp": 35.99,
+      "ship_length": "13.5000",
+      "ship_width": "8.2500",
+      "ship_height": "3.5000",
+      "eta_date": "07/17/2025",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 15.95,
+      "case_price": 15.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "item_index": "3260",
+  "item_name": "Rothco G.I. Type Air Force Pilots Sunglasses With Case",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco G.I. Type Air Force Pilots Sunglasses combine classic military style with functional performance. Featuring a gold frame and smoke lens, these sunglasses offer a timeless look and reliable eye protection.</p>",
+  "no_ratings": null,
+  "sort_order": "412",
+  "description": "<p>Rothco G.I. Type Air Force Pilots Sunglasses combine classic military style with functional performance. Featuring a gold frame and smoke lens, these sunglasses offer a timeless look and reliable eye protection.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "393"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "128",
+      "item_index": "3260",
+      "rothco_item_no": "10220",
+      "upc": "613902102200",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2100",
+      "image_filename": "10220-A-amazon.jpg",
+      "catalog_page_no": "202",
+      "msrp": 15.99,
+      "ship_length": "6.7500",
+      "ship_width": "2.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 5.95,
+      "case_price": 5.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

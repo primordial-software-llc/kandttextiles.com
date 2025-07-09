@@ -1,0 +1,42 @@
+{
+  "item_index": "1824",
+  "item_name": "Smith & Wesson Handcuff Push Pin",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": "0",
+  "sort_order": "184",
+  "description": "The Smith and Wesson Push Pin Handcuffs are made with heat treated internal lockworks, featuring smooth ratchets for swift cuffing and double locks to prevent tampering. They pass the US National Institute of Justice tests for workmanship, strength, corrosion and tamper resistance.\r\n",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "234"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "51",
+      "item_index": "1824",
+      "rothco_item_no": "10095",
+      "upc": "022188501353",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8000",
+      "image_filename": "10095_Handcuff_Nickel-HR.jpg",
+      "catalog_page_no": "225",
+      "msrp": 82.99,
+      "ship_length": "4.2500",
+      "ship_width": "3.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 32.9,
+      "case_price": 32.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

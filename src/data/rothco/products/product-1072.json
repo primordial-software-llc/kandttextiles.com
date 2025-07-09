@@ -1,0 +1,41 @@
+{
+  "item_index": "1072",
+  "item_name": "Rothco U.S.Wool Blanket",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Embrace outdoor comfort with Rothco's U.S. Made Wool Blanket. Crafted from 70% Virgin Wool, this 62 inch x 80 inch blanket ensures superior warmth and natural fire retardancy. Ideal for camping, backpacking, and survival readiness, proudly made in the USA.</p>",
+  "no_ratings": "0",
+  "sort_order": "3235",
+  "description": "<p>Embrace outdoor comfort with Rothco's U.S. Made Wool Blanket. Crafted from 70% Virgin Wool, this 62 inch x 80 inch blanket ensures superior warmth and natural fire retardancy. Ideal for camping, backpacking, and survival readiness, proudly made in the USA.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "256",
+    "542"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10554",
+      "item_index": "1072",
+      "rothco_item_no": "9084",
+      "upc": "613902908406",
+      "inventory": "99",
+      "created_date": "2002-04-21 21:00:00",
+      "weight": "2.8500",
+      "image_filename": "9084-A1.jpg",
+      "catalog_page_no": "305",
+      "msrp": 67.99,
+      "ship_length": "22.5000",
+      "ship_width": "16.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 26.95,
+      "case_price": 26.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

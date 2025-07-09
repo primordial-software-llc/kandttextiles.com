@@ -1,0 +1,70 @@
+{
+  "item_index": "792",
+  "item_name": "Rothco SWAT Belt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s SWAT Belt is designed to be fully customizable and adaptable to your tactical preferences. Featuring 4 removable hook &amp; loop pouches, this uniform belt allows you to modify its layout to suit your needs, whether you require extra space for tactical equipment or prefer a streamlined setup. The adjustable waist belt extends up to 49 inches, making it ideal for various body types. Crafted from 100% polyester, this durable yet lightweight duty belt is built to withstand wear and tear.</p>",
+  "no_ratings": "0",
+  "sort_order": "1476",
+  "description": "<p>Rothco&rsquo;s SWAT Belt is designed to be fully customizable and adaptable to your tactical preferences. Featuring 4 removable hook &amp; loop pouches, this uniform belt allows you to modify its layout to suit your needs, whether you require extra space for tactical equipment or prefer a streamlined setup. The adjustable waist belt extends up to 49 inches, making it ideal for various body types. Crafted from 100% polyester, this durable yet lightweight duty belt is built to withstand wear and tear, ensuring long-lasting use in the field. With a width of 1 7/8 inches, it provides a secure fit without sacrificing comfort. Whether you&rsquo;re small game hunting, participating in outdoor tournaments, or looking for a tactical-style belt for costumes, Rothco&rsquo;s SWAT Belt delivers functionality and reliability.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "238",
+    "333"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2990",
+      "item_index": "792",
+      "rothco_item_no": "4249",
+      "upc": "613902424906",
+      "inventory": "99",
+      "created_date": "2007-06-17 21:00:00",
+      "weight": "0.3000",
+      "image_filename": "4249-A3.jpg",
+      "catalog_page_no": "310",
+      "msrp": 21.99,
+      "ship_length": "11.0000",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 8.9,
+      "case_price": 8.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2991",
+      "item_index": "792",
+      "rothco_item_no": "4250",
+      "upc": "613902425002",
+      "inventory": "99",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "0.4100",
+      "image_filename": "4250-C2.jpg",
+      "catalog_page_no": "310",
+      "msrp": 21.99,
+      "ship_length": "11.0000",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 8.9,
+      "case_price": 8.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

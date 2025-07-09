@@ -1,0 +1,45 @@
+{
+  "item_index": "1635",
+  "item_name": "Rothco Tools Of The Trade Morale Patch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Tools Of The Trade Morale Patch with hook backing pairs perfectly with any of our hook &amp; loop accessories including our Special Ops Jacket and or Tactical Vests.</p>",
+  "no_ratings": "0",
+  "sort_order": "1255",
+  "description": "<p>Rothco's Tools Of The Trade Morale Patch with hook backing pairs perfectly with any of our hook &amp; loop accessories including our Special Ops Tactical Jacket and or Tactical Vests.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "424"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "8193",
+      "item_index": "1635",
+      "rothco_item_no": "72192",
+      "upc": "613902721920",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0094",
+      "image_filename": "72192-A.jpg",
+      "catalog_page_no": "215",
+      "msrp": 3.99,
+      "ship_length": "3.2500",
+      "ship_width": "3.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 1.25,
+      "case_price": 1.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

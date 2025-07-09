@@ -1,0 +1,72 @@
+{
+  "item_index": "346",
+  "item_name": "Rothco Deluxe Carry Shopping Bag",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Deluxe Camo Shopping Bag is the perfect solution for merchants seeking stylish and durable bags for promotional events or everyday use. Made from heavy-duty materials, this reusable bag features a striking camouflage design that sets it apart from standard bags, making it an excellent choic for retail stores, trade shows, or giveaways. Measuring 18 inch x 24 inch, the spacious bag provides ample room for carrying large items, groceries, or merchandise, while its strong handles ensure durability and comfort during use.</p>",
+  "no_ratings": "0",
+  "sort_order": "1040",
+  "description": "<p>Rothco&rsquo;s Deluxe Camo Shopping Bag is the perfect solution for merchants seeking stylish and durable bags for promotional events or everyday use. Made from heavy-duty materials, this reusable bag features a striking camouflage design that sets it apart from standard bags, making it an excellent choic for retail stores, trade shows, or giveaways. Measuring 18 inch x 24 inch, the spacious bag provides ample room for carrying large items, groceries, or merchandise, while its strong handles ensure durability and comfort during use. Ideal for both in-store promotions and general retail needs, Rothco&rsquo;s Deluxe Camo Shopping Bag is sold in convenient bundles of 50, making it an affordable and versatile option for any business looking to provide their customers with a unique and practical tote.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "137",
+    "143",
+    "506",
+    "432"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "11206",
+      "item_index": "346",
+      "rothco_item_no": "9695",
+      "upc": "613902969506",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "4.0000",
+      "image_filename": "9695-HR.jpg",
+      "catalog_page_no": "369",
+      "msrp": 54.99,
+      "ship_length": "18.0000",
+      "ship_width": "9.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "ACU Digital Camo"
+      },
+      "color": "ACU Digital Camo",
+      "price": 24.95,
+      "case_price": 24.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "11586",
+      "item_index": "346",
+      "rothco_item_no": "9995",
+      "upc": "613902999954",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "4.0000",
+      "image_filename": "9995_HR.jpg",
+      "catalog_page_no": "369",
+      "msrp": 54.99,
+      "ship_length": "18.0000",
+      "ship_width": "9.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 24.95,
+      "case_price": 24.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

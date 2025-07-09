@@ -1,0 +1,45 @@
+{
+  "item_index": "3146",
+  "item_name": "Sabre Pepper Spray Tear Gas / Magnum (M-120L)",
+  "has_restrictions": "1",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Sabre Pepper Spray 3-in-1 Magnum is a perfect tactical spray for security officers, police officers, and even for home defense. Not available for sale in NY, MA, WI, and HI.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "483",
+  "description": "<p>Sabre Pepper Spray 3-in-1 Magnum is a perfect tactical spray for security officers, police officers, and even for home defense. Sabre advanced 3-IN-1 maximum strength formula is backed by a high-performance liquid chromatography laboratory which guarantees maximum stopping power, every single time, eliminating the 30% failure rate experienced with other pepper spray brands (University of Utah study). Plus UV marking dye aids in suspect identification. The locking top safety prevents accidental discharge and boasts an impressive 12-foot range which bursts in a powerful cone delivery for greater facial coverage. Sabre pepper spray is the #1 brand trusted by police and consumers worldwide. Including New York, Chicago Pd, Los Angeles County Sheriffs and U.S. Marshals. Made In the U.S.A and is Iso 9001:2008 certified with a 4-year shelf life from the date of manufacturer.</p>\n<p>&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "244"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2",
+      "item_index": "3146",
+      "rothco_item_no": "10002",
+      "upc": "023063601212",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4000",
+      "image_filename": "10002-A.jpg",
+      "catalog_page_no": "223",
+      "msrp": 25.99,
+      "ship_length": "9.5000",
+      "ship_width": "5.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "diameter": ""
+      },
+      "diameter": "",
+      "price": 10.25,
+      "case_price": 10.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

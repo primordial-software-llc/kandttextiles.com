@@ -1,0 +1,119 @@
+{
+  "item_index": "776",
+  "item_name": "Rothco Deluxe Adjustable Universal Drop Leg Tactical Holster",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Designed for tactical, public safety, or professional use, Rothco's Deluxe Adjustable Drop Leg Tactical Holster ensures quick access to your firearm. This holster is fully adjustable and is designed to accommodate most full-frame semi-automatic pistols.</p>",
+  "no_ratings": "0",
+  "sort_order": "3555",
+  "description": "<p>Designed for tactical, public safety, or professional use, Rothco's Deluxe Adjustable Drop Leg Tactical Holster ensures quick access to your firearm. This holster is fully adjustable and is designed to accommodate most full-frame semi-automatic pistols.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "140",
+    "251",
+    "333"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "370",
+      "item_index": "776",
+      "rothco_item_no": "10752",
+      "upc": "613902107526",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8438",
+      "image_filename": "10752-hr1.jpg",
+      "catalog_page_no": "233",
+      "msrp": 35.99,
+      "ship_length": "11.5000",
+      "ship_width": "7.0000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 15.5,
+      "case_price": 15.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "371",
+      "item_index": "776",
+      "rothco_item_no": "10753",
+      "upc": "613902107533",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8440",
+      "image_filename": "10753-Flat.jpg",
+      "catalog_page_no": "233",
+      "msrp": 35.99,
+      "ship_length": "11.5000",
+      "ship_width": "7.0000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 15.5,
+      "case_price": 15.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12192",
+      "item_index": "776",
+      "rothco_item_no": "10754",
+      "upc": "613902107540",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8438",
+      "image_filename": "10754-D.jpg",
+      "catalog_page_no": "233",
+      "msrp": 35.99,
+      "ship_length": "11.5000",
+      "ship_width": "7.0000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 15.5,
+      "case_price": 15.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12721",
+      "item_index": "776",
+      "rothco_item_no": "10751",
+      "upc": "613902107519",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.9000",
+      "image_filename": "10751-A1.jpg",
+      "catalog_page_no": "233",
+      "msrp": 48.99,
+      "ship_length": "11.5000",
+      "ship_width": "7.0000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 21.9,
+      "case_price": 21.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

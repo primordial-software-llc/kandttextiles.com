@@ -1,0 +1,150 @@
+{
+  "item_index": "500",
+  "item_name": "Rothco Digital Camo Bandana",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Discover endless possibilities with Rothco&rsquo;s Digital Camo Bandana, a versatile accessory designed for a multitude of uses. Made from 100% cotton, this bandana combines comfort and durability, ensuring it can withstand daily wear and tear. Measuring 22 inches x 22 inches, the survival tool offers ample coverage for various applications. Whether you need a face covering, handkerchief, washcloth, or skull cap, this camo bandana fits the bill.</p>",
+  "no_ratings": "0",
+  "sort_order": "8716",
+  "description": "<p>Discover endless possibilities with Rothco&rsquo;s Digital Camo Bandana, a versatile accessory designed for a multitude of uses. Made from 100% cotton, this bandana combines comfort and durability, ensuring it can withstand daily wear and tear. Measuring 22 inches x 22 inches, the survival tool offers ample coverage for various applications. Whether you need a face covering, handkerchief, washcloth, or skull cap, this camo bandana fits the bill. Its digital camouflage patterns add a stylish touch, making it not just functional but fashionable. The lightweight and breathable fabric ensures the hiking bandana is comfortable to wear in any situation. Perfect for outdoor activities, sports, or casual wear, our Digital Camo Bandana is a must-have accessory. Easy to fold and carry, the camo headwrap fits conveniently in your pocket or bag, ready to be used whenever needed. Its high-quality construction ensures it remains soft and gentle on your skin, even after multiple washes. Embrace the versatility and practicality of our bandana, an essential item for anyone looking to combine style with utility. Keep your head in the game with Rothco&rsquo;s collection of headwear and accessories. Designed with precision and purpose, our headgear is built to withstand the harshest conditions. Whether you&rsquo;re tackling the cold in one of our Watch Caps or Balaclavas, or out on a mission in a Boonie Hat or Fatigue Cap, our diverse range of headwear provides unmatched comfort and protection for everyone from active-duty personnel to outdoor enthusiasts.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "83",
+    "143",
+    "144",
+    "145",
+    "146",
+    "582",
+    "576",
+    "467",
+    "369",
+    "679"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2694",
+      "item_index": "500",
+      "rothco_item_no": "4001",
+      "upc": "613902400191",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "4001-Flat-HR1.jpg",
+      "catalog_page_no": "165",
+      "msrp": 3.99,
+      "ship_length": "11.0000",
+      "ship_width": "11.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Desert Digital Camo"
+      },
+      "color": "Desert Digital Camo",
+      "price": 1.4,
+      "case_price": 1.4,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2774",
+      "item_index": "500",
+      "rothco_item_no": "4041",
+      "upc": "613902404106",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0700",
+      "image_filename": "4041-HR1.jpg",
+      "catalog_page_no": "165",
+      "msrp": 3.99,
+      "ship_length": "11.0000",
+      "ship_width": "11.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "ACU Digital Camo"
+      },
+      "color": "ACU Digital Camo",
+      "price": 1.4,
+      "case_price": 1.4,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2775",
+      "item_index": "500",
+      "rothco_item_no": "4042",
+      "upc": "613902404205",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0700",
+      "image_filename": "4042-HR1.jpg",
+      "catalog_page_no": "165",
+      "msrp": 3.99,
+      "ship_length": "11.0000",
+      "ship_width": "11.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Digital Camo"
+      },
+      "color": "Woodland Digital Camo",
+      "price": 1.4,
+      "case_price": 1.4,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2806",
+      "item_index": "500",
+      "rothco_item_no": "4086",
+      "upc": "613902040861",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "4086_Subdued_Urban_Dig-HR.jpg",
+      "catalog_page_no": "165",
+      "msrp": 3.99,
+      "ship_length": "11.0000",
+      "ship_width": "11.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Subdued Urban Digital Camo"
+      },
+      "color": "Subdued Urban Digital Camo",
+      "price": 1.4,
+      "case_price": 1.4,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14137",
+      "item_index": "500",
+      "rothco_item_no": "44086",
+      "upc": "613902440869",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "44086-A_LI.jpg",
+      "catalog_page_no": "165",
+      "msrp": 3.99,
+      "ship_length": "11.0000",
+      "ship_width": "11.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "City Digital Camo"
+      },
+      "color": "City Digital Camo",
+      "price": 1.4,
+      "case_price": 1.4,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

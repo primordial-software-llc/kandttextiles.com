@@ -1,0 +1,74 @@
+{
+  "item_index": "4394",
+  "item_name": "Rothco Moisture Wicking Sock",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Moisture Wicking Sock is engineered for those who demand the best in comfort and durability, especially in extreme and rugged environments. Crafted from a premium blend of polyester, cotton, and spandex, these crew socks provide exceptional breathability while ensuring a snug and supportive fit. The moisture wicking technology efficiently pulls sweat away from your skin, keeping your feet dry and comfortable throughout the day.</p>",
+  "no_ratings": null,
+  "sort_order": "132707",
+  "description": "<p>Rothco&rsquo;s Moisture Wicking Sock is engineered for those who demand the best in comfort and durability, especially in extreme and rugged environments. Crafted from a premium blend of polyester, cotton, and spandex, these crew socks provide exceptional breathability while ensuring a snug and supportive fit. The moisture wicking technology efficiently pulls sweat away from your skin, keeping your feet dry and comfortable throughout the day. Whether you're hiking, working outdoors, playing sports, or simply on your feet for extended periods, our Moisture Wicking Sock offers the perfect balance of cushioning and support. The half-cushioned footbed adds an extra layer of comfort, while the ribbed top ensures the sport socks stay in place without slipping. Designed with arch support, these moisture control socks help reduce foot fatigue, making them an essential addition to your active wardrobe.</p>",
+  "selection_groups": [
+    "color",
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "408"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17870",
+      "item_index": "4394",
+      "rothco_item_no": "4628",
+      "upc": "613902046283",
+      "inventory": "99",
+      "created_date": "2017-11-22 16:10:02",
+      "weight": "0.2000",
+      "image_filename": "4628-Black-A-amazon.jpg",
+      "catalog_page_no": "183",
+      "msrp": 9.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "M"
+      },
+      "color": "Black",
+      "size": "M",
+      "price": 3.95,
+      "case_price": 3.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17878",
+      "item_index": "4394",
+      "rothco_item_no": "4628",
+      "upc": "613902946286",
+      "inventory": "20",
+      "created_date": "2017-11-22 16:10:02",
+      "weight": "0.2000",
+      "image_filename": "4628-Coyote-A-amazon.jpg",
+      "catalog_page_no": "183",
+      "msrp": 9.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "M"
+      },
+      "color": "Coyote Brown",
+      "size": "M",
+      "price": 3.95,
+      "case_price": 3.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

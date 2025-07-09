@@ -1,0 +1,45 @@
+{
+  "item_index": "3486",
+  "item_name": "Rothco Woodland Camo Mini Desert Canteen",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Woodland Camo Mini Desert Canteen is a must-have for any outdoor enthusiast, whether you're camping, hiking, or exploring the great outdoors. This survival canteen features a sturdy plastic/polyethylene inner body and a durable tinplate outer body, ensuring it can withstand the rigors of any adventure. The soft terylene and acrylic fabric cover add an extra layer of comfort and protection. With a 25 oz capacity, this BPA-free canteen is both safe and functional, making it an essential addition to your outdoor gear collection.</p>",
+  "no_ratings": null,
+  "sort_order": "1566",
+  "description": "<p>Rothco's Woodland Camo Mini Desert Canteen is a must-have for any outdoor enthusiast, whether you're camping, hiking, or exploring the great outdoors. This survival canteen features a sturdy plastic/polyethylene inner body and a durable tinplate outer body, ensuring it can withstand the rigors of any adventure. The soft terylene and acrylic fabric cover add an extra layer of comfort and protection. With a 25 oz capacity, this BPA-free canteen is both safe and functional, making it an essential addition to your outdoor gear collection. The screw-on cap is securely attached to the bottle, preventing any leaks or loss of the cap. Additionally, the adjustable web shoulder strap allows you to carry the canteen at your desired length, offering hands-free convenience during your activities. The classic woodland camo design ensures you stay stylish while staying hydrated in the field.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "137",
+    "281",
+    "500"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "806",
+      "item_index": "3486",
+      "rothco_item_no": "173",
+      "upc": "613902173453",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3500",
+      "image_filename": "173_A.jpg",
+      "catalog_page_no": "289",
+      "msrp": 11.99,
+      "ship_length": "9.0000",
+      "ship_width": "6.2500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Woodland Camo"
+      },
+      "color": "Woodland Camo",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "item_index": "4890",
+  "item_name": "Rothco Concealed Carry Neoprene Belly Band Holster",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=MX3pFsB16Bc",
+  "rating": "5",
+  "item_short_desc": "<p>Comfortably conceal and carry with Rothco&rsquo;s Concealed Carry Neoprene Belly Band Holster. This customizable ambidextrous holster features a mag pouch, an elastic storage slit, and a soft neoprene backing that you can wear all day long.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133203",
+  "description": "<p>Comfortably conceal and carry with Rothco&rsquo;s Concealed Carry Neoprene Belly Band Holster. This customizable ambidextrous holster features a mag pouch, an elastic storage slit, and a soft neoprene backing that you can wear all day long. The pistol holster is designed to fit most standard sized sidearms including Glock 19, Ruger LCP, Sig Sauer P365, and more. The removable ambidextrous (right and left) pistol holster and adjustable mag pouch enable full customization. An elastic on the concealed carry holster is great for holding your cell phone, multitool, or other EDC (everyday carry) essentials (Pocket measures 3.5 inches x 3.75 inches). The belly holster fastens around your body with strong hook and loop closure and is adaptable for multiple methods of carrying, including: inside the waistband (IWB), outside the waistband (OWB), cross draw, appendix (AIWB), 5 O&rsquo;clock, and much more. The holster secures your CCW (concealed carry weapon) with a metal snap closure.&nbsp;</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "251",
+    "555"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "21006",
+      "item_index": "4890",
+      "rothco_item_no": "10645",
+      "upc": "613902007055",
+      "inventory": "99",
+      "created_date": "2021-11-10 10:00:11",
+      "weight": "0.5000",
+      "image_filename": "10645-N-NOLOGO.jpg",
+      "catalog_page_no": "231",
+      "msrp": 30.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S / M"
+      },
+      "size": "S / M",
+      "price": 13.9,
+      "case_price": 13.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21007",
+      "item_index": "4890",
+      "rothco_item_no": "10646",
+      "upc": "613902007062",
+      "inventory": "99",
+      "created_date": "2021-11-10 10:00:11",
+      "weight": "0.5000",
+      "image_filename": "10645-N-NOLOGO.jpg",
+      "catalog_page_no": "231",
+      "msrp": 32.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L / XL"
+      },
+      "size": "L / XL",
+      "price": 14.9,
+      "case_price": 14.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

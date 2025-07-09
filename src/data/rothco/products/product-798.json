@@ -1,0 +1,40 @@
+{
+  "item_index": "798",
+  "item_name": "Non-Corded Earplugs ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Non-Corded Earplugs are composed with a comfortable soft foam material and feature an ergonomic tapered shape for easy insertion.</p>",
+  "no_ratings": "0",
+  "sort_order": "278",
+  "description": "<p>The non-corded earplugs offered by Rothco feature a noise reduction rating (nrr) of 33. The soft foam earplugs offer superior comfort and outstanding protections; and the tapered shape makes it easy for insertion. Hygienic-use once and discard compliant to ANSI S3.19-1974 carries CE certified symbol on box &amp; individual poly bags each pair is individually wrapped in a poly bag. 200 pairs per box.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "252"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3684",
+      "item_index": "798",
+      "rothco_item_no": "4715",
+      "upc": "662728093001",
+      "inventory": "20",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.4000",
+      "image_filename": "4715-C.jpg",
+      "catalog_page_no": "263",
+      "msrp": 64.99,
+      "ship_length": "8.0000",
+      "ship_width": "4.0000",
+      "ship_height": "8.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 25.75,
+      "case_price": 25.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

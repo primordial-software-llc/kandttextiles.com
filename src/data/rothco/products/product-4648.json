@@ -1,0 +1,152 @@
+{
+  "item_index": "4648",
+  "item_name": "Rothco Womens MA-1 Flight Jacket - Black",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Women&rsquo;s MA-1 Flight Jacket delivers both style and functionality with a classic bomber jacket look tailored specifically for women. Featuring a 100% nylon water-repellent outer shell, this jacket offers protection from the elements, making it perfect for cooler climates. The fully reversible rescue orange polyester lining adds versatility and a pop of color, while the poly fiberfill ensures warmth without bulk.</p>",
+  "no_ratings": null,
+  "sort_order": "132961",
+  "description": "<p>Rothco&rsquo;s Women&rsquo;s MA-1 Flight Jacket delivers both style and functionality with a classic bomber jacket look tailored specifically for women. Featuring a 100% nylon water-repellent outer shell, this jacket offers protection from the elements, making it perfect for cooler climates. The fully reversible rescue orange polyester lining adds versatility and a pop of color, while the poly fiberfill ensures warmth without bulk. Designed with ribbed knit collar, cuffs, and waistband for a snug, comfortable fit, this jacket also includes 2 front slash pockets and 2 inside pockets, offering ample storage for your essentials. A zippered utility pocket with an outside pencil pocket provides additional space for small items. The zippered front closure, complete with double MA-1 pull tabs and a storm flap, adds both style and weather protection. Brass zippers and leather pull tabs complete the jacket&rsquo;s timeless appeal, combining function with fashion for any occasion.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "93",
+    "169"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19342",
+      "item_index": "4648",
+      "rothco_item_no": "7313",
+      "upc": "613902731301",
+      "inventory": "31",
+      "created_date": "2019-12-09 16:00:31",
+      "weight": "1.4000",
+      "image_filename": "7313-A-amazon.jpg",
+      "catalog_page_no": "129",
+      "msrp": 62.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "XS"
+      },
+      "color": "Black",
+      "size": "XS",
+      "price": 24.95,
+      "case_price": 24.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19343",
+      "item_index": "4648",
+      "rothco_item_no": "7313",
+      "upc": "613902731318",
+      "inventory": "36",
+      "created_date": "2019-12-09 16:00:31",
+      "weight": "1.4000",
+      "image_filename": "7313-A-amazon.jpg",
+      "catalog_page_no": "129",
+      "msrp": 62.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "S"
+      },
+      "color": "Black",
+      "size": "S",
+      "price": 24.95,
+      "case_price": 24.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19344",
+      "item_index": "4648",
+      "rothco_item_no": "7313",
+      "upc": "613902731325",
+      "inventory": "72",
+      "created_date": "2019-12-09 16:00:31",
+      "weight": "1.4000",
+      "image_filename": "7313-A-amazon.jpg",
+      "catalog_page_no": "129",
+      "msrp": 62.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "M"
+      },
+      "color": "Black",
+      "size": "M",
+      "price": 24.95,
+      "case_price": 24.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19345",
+      "item_index": "4648",
+      "rothco_item_no": "7313",
+      "upc": "613902731332",
+      "inventory": "47",
+      "created_date": "2019-12-09 16:00:31",
+      "weight": "1.4000",
+      "image_filename": "7313-A-amazon.jpg",
+      "catalog_page_no": "129",
+      "msrp": 62.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "L"
+      },
+      "color": "Black",
+      "size": "L",
+      "price": 24.95,
+      "case_price": 24.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19346",
+      "item_index": "4648",
+      "rothco_item_no": "7313",
+      "upc": "613902731349",
+      "inventory": "20",
+      "created_date": "2019-12-09 16:00:31",
+      "weight": "1.4000",
+      "image_filename": "7313-A-amazon.jpg",
+      "catalog_page_no": "129",
+      "msrp": 62.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "XL"
+      },
+      "color": "Black",
+      "size": "XL",
+      "price": 24.95,
+      "case_price": 24.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

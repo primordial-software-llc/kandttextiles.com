@@ -1,0 +1,142 @@
+{
+  "item_index": "2129",
+  "item_name": "Officially Licensed NYPD T-shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p class=\"MsoNormal\">Celebrate your support for the New York City Police Department with Rothco's Officially Licensed NYPD T-Shirt. Featuring the iconic NYPD emblem and name, this shirt proudly displays your allegiance to the force. Made from soft, breathable cotton, it ensures all-day comfort while you represent one of the most prestigious police departments in the world. The short-sleeved design is perfect for year-round wear, and each shirt includes a hologram hang tag for authenticity.</p>",
+  "no_ratings": "0",
+  "sort_order": "2215",
+  "description": "<p class=\"MsoNormal\">Celebrate your support for the New York City Police Department with Rothco's Officially Licensed NYPD T-Shirt. Featuring the iconic NYPD emblem and name, this shirt proudly displays your allegiance to the force. Made from soft, breathable cotton, it ensures all-day comfort while you represent one of the most prestigious police departments in the world. The short-sleeved design is perfect for year-round wear, and each shirt includes a hologram hang tag for authenticity. Ideal for NYPD supporters and those who appreciate quality, officially licensed apparel. Whether you&rsquo;re attending events, running errands, or just relaxing, this graphic shirt is a great way to show your pride.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "484",
+    "46"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "7164",
+      "item_index": "2129",
+      "rothco_item_no": "6638",
+      "upc": "613902166387",
+      "inventory": "42",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "6638-RIGHT-B.jpg",
+      "catalog_page_no": "111",
+      "msrp": 25.99,
+      "ship_length": "14.5000",
+      "ship_width": "12.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 8.75,
+      "case_price": 8.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7165",
+      "item_index": "2129",
+      "rothco_item_no": "6638",
+      "upc": "613902266384",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "6638-RIGHT-B.jpg",
+      "catalog_page_no": "111",
+      "msrp": 25.99,
+      "ship_length": "14.7500",
+      "ship_width": "13.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 8.75,
+      "case_price": 8.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7166",
+      "item_index": "2129",
+      "rothco_item_no": "6638",
+      "upc": "613902366381",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "6638-RIGHT-B.jpg",
+      "catalog_page_no": "111",
+      "msrp": 25.99,
+      "ship_length": "15.0000",
+      "ship_width": "13.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 8.75,
+      "case_price": 8.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7167",
+      "item_index": "2129",
+      "rothco_item_no": "6638",
+      "upc": "613902466388",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "6638-RIGHT-B.jpg",
+      "catalog_page_no": "111",
+      "msrp": 25.99,
+      "ship_length": "15.7500",
+      "ship_width": "13.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 8.75,
+      "case_price": 8.75,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7174",
+      "item_index": "2129",
+      "rothco_item_no": "6639",
+      "upc": "613902066397",
+      "inventory": "74",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5500",
+      "image_filename": "6638-RIGHT-B.jpg",
+      "catalog_page_no": "111",
+      "msrp": 31.99,
+      "ship_length": "15.7500",
+      "ship_width": "13.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 10.9,
+      "case_price": 10.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

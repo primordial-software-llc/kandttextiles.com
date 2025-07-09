@@ -1,0 +1,73 @@
+{
+  "item_index": "4719",
+  "item_name": "Rothco Half Skull Reusable 3-Layer Polyester Face Mask ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Stay protected in style with Rothco&rsquo;s Half Skull Reusable 3-Layer Polyester Face Mask. Crafted with a soft and stretchy 3-layer polyester construction, this face mask offers a comfortable fit that contours to your face, making it ideal for everyday wear. The bold Half Skull design gives the mask a unique look, while the adjustable nose bridge ensures a secure fit to minimize air leakage. Ear loops on both sides hold the mask securely in place, providing reliable coverage as you go about your day.</p>",
+  "no_ratings": null,
+  "sort_order": "133032",
+  "description": "<p>Stay protected in style with Rothco&rsquo;s Half Skull Reusable 3-Layer Polyester Face Mask. Crafted with a soft and stretchy 3-layer polyester construction, this face mask offers a comfortable fit that contours to your face, making it ideal for everyday wear. The bold Half Skull design gives the mask a unique look, while the adjustable nose bridge ensures a secure fit to minimize air leakage. Ear loops on both sides hold the mask securely in place, providing reliable coverage as you go about your day. Measuring 7 inches wide by 5 inches high (3.25 inches at the sides), the mask comes in 2 sizes, Small/Medium and Large/X-Large, ensuring a proper fit for various face shapes. This reusable and washable face covering is perfect for daily use but is not a medical-grade or N95 mask. Add Rothco's Half Skull Face Mask to your daily essentials for a stylish and functional way to protect yourself.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "680"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19806",
+      "item_index": "4719",
+      "rothco_item_no": "11283",
+      "upc": "613902112834",
+      "inventory": "99",
+      "created_date": "2020-07-02 13:00:11",
+      "weight": "0.0313",
+      "image_filename": "11283-A-AMAZON.jpg",
+      "catalog_page_no": "169",
+      "msrp": 5.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "S / M"
+      },
+      "color": "Black",
+      "size": "S / M",
+      "price": 2.25,
+      "case_price": 2.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19807",
+      "item_index": "4719",
+      "rothco_item_no": "11283",
+      "upc": "613902112865",
+      "inventory": "99",
+      "created_date": "2020-07-02 13:00:11",
+      "weight": "0.0313",
+      "image_filename": "11283-A-AMAZON.jpg",
+      "catalog_page_no": "169",
+      "msrp": 5.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "L / XL"
+      },
+      "color": "Black",
+      "size": "L / XL",
+      "price": 2.25,
+      "case_price": 2.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

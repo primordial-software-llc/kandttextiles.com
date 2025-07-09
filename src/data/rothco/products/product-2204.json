@@ -1,0 +1,153 @@
+{
+  "item_index": "2204",
+  "item_name": "Rothco Olive Drab \"Booty Camp\" Booty Shorts & Tank Top",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Booty Camp Booty Shorts &amp; Tank Top is perfect to wear as underwear or loungewear. The cotton/spandex blend provides breathability, comfortability, and the booty shorts feature an elastic waistband that adds the ideal stretch.</p>",
+  "no_ratings": "0",
+  "sort_order": "3858",
+  "description": "<p>Rothco&rsquo;s Booty Camp Booty Shorts &amp; Tank Top is perfect to wear as underwear or loungewear. The cotton/spandex blend provides breathability, comfortability, and the booty shorts feature an elastic waistband that adds the ideal stretch.</p>",
+  "selection_groups": [
+    "size",
+    "piece_"
+  ],
+  "statuses": "",
+  "categories": [
+    "102",
+    "95"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1926",
+      "item_index": "2204",
+      "rothco_item_no": "3276",
+      "upc": "613902327603",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "3276-hr11.jpg",
+      "catalog_page_no": "128",
+      "msrp": 11.99,
+      "ship_length": "10.5000",
+      "ship_width": "11.2500",
+      "ship_height": "0.2500",
+      "eta_date": null,
+      "specs": {
+        "size": "XS",
+        "piece_": "Bottom"
+      },
+      "size": "XS",
+      "piece_": "Bottom",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1927",
+      "item_index": "2204",
+      "rothco_item_no": "3276",
+      "upc": "613902327610",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "3276-hr11.jpg",
+      "catalog_page_no": "128",
+      "msrp": 11.99,
+      "ship_length": "10.7500",
+      "ship_width": "11.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "piece_": "Bottom"
+      },
+      "size": "S",
+      "piece_": "Bottom",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1928",
+      "item_index": "2204",
+      "rothco_item_no": "3276",
+      "upc": "613902327627",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "3276-hr11.jpg",
+      "catalog_page_no": "128",
+      "msrp": 11.99,
+      "ship_length": "11.0000",
+      "ship_width": "11.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "piece_": "Bottom"
+      },
+      "size": "M",
+      "piece_": "Bottom",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1929",
+      "item_index": "2204",
+      "rothco_item_no": "3276",
+      "upc": "613902327634",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "3276-hr11.jpg",
+      "catalog_page_no": "128",
+      "msrp": 11.99,
+      "ship_length": "11.2500",
+      "ship_width": "11.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "piece_": "Bottom"
+      },
+      "size": "L",
+      "piece_": "Bottom",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1930",
+      "item_index": "2204",
+      "rothco_item_no": "3276",
+      "upc": "613902327641",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.1000",
+      "image_filename": "3276-hr11.jpg",
+      "catalog_page_no": "128",
+      "msrp": 11.99,
+      "ship_length": "11.2500",
+      "ship_width": "13.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "piece_": "Bottom"
+      },
+      "size": "XL",
+      "piece_": "Bottom",
+      "price": 4.5,
+      "case_price": 4.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

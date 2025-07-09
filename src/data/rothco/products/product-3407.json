@@ -1,0 +1,100 @@
+{
+  "item_index": "3407",
+  "item_name": "Rothco Police Issue Hook n' Loop Neckties",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Public Safety Hook n&rsquo; Loop Neckties are designed for ease and professionalism, making them ideal for law enforcement and public safety officials. Featuring a hook and loop closure behind the neck, these ties can be put on or removed quickly in any situation. The necktie is adjustable, accommodating neck sizes from 14.5 to 21 inches, ensuring a comfortable fit for a wide range of users. Made from durable materials, this necktie is built for long-lasting use, whether in the field or during formal occasions.</p>",
+  "no_ratings": null,
+  "sort_order": "1437",
+  "description": "<p>Rothco&rsquo;s Public Safety Hook n&rsquo; Loop Neckties are designed for ease and professionalism, making them ideal for law enforcement and public safety officials. Featuring a hook and loop closure behind the neck, these ties can be put on or removed quickly in any situation. The necktie is adjustable, accommodating neck sizes from 14.5 to 21 inches, ensuring a comfortable fit for a wide range of users. Made from durable materials, this necktie is built for long-lasting use, whether in the field or during formal occasions. It provides a polished, professional look while offering practical functionality. Whether you're on duty or attending a special event, Rothco&rsquo;s Police Issue Neckties deliver the perfect balance of style and convenience.</p>",
+  "selection_groups": [
+    "color",
+    "length"
+  ],
+  "statuses": "",
+  "categories": [
+    "239"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1735",
+      "item_index": "3407",
+      "rothco_item_no": "30081",
+      "upc": "613902008106",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "30081-A-amazon2.jpg",
+      "catalog_page_no": "197",
+      "msrp": 13.99,
+      "ship_length": "18.0000",
+      "ship_width": "3.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Midnight Navy Blue",
+        "length": "18 Inches"
+      },
+      "color": "Midnight Navy Blue",
+      "length": "18 Inches",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1737",
+      "item_index": "3407",
+      "rothco_item_no": "30083",
+      "upc": "613902008304",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0500",
+      "image_filename": "30085-A-amazon.jpg",
+      "catalog_page_no": "197",
+      "msrp": 13.99,
+      "ship_length": "18.0000",
+      "ship_width": "3.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "length": "18 Inches"
+      },
+      "color": "Black",
+      "length": "18 Inches",
+      "price": 5.25,
+      "case_price": 5.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1739",
+      "item_index": "3407",
+      "rothco_item_no": "30085",
+      "upc": "613902008410",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0600",
+      "image_filename": "30085-A-amazon.jpg",
+      "catalog_page_no": "197",
+      "msrp": 14.99,
+      "ship_length": "20.0000",
+      "ship_width": "3.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "length": "20 Inches"
+      },
+      "color": "Black",
+      "length": "20 Inches",
+      "price": 5.4,
+      "case_price": 5.4,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

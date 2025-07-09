@@ -1,0 +1,41 @@
+{
+  "item_index": "3514",
+  "item_name": "Rothco Thermal Reflective Sleeping Pad with Ties - Olive Drab",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": null,
+  "sort_order": "814",
+  "description": "<p>Olive Drab W/Aluminum Foil Mat Bottom W/2 Elastic Ties, Thermal, Reflective Aluminum Foil Bottom Mat Retains Heat, Measures: 180 X 60 X 1cm</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "261",
+    "272"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12773",
+      "item_index": "3514",
+      "rothco_item_no": "4422",
+      "upc": "613902044227",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8750",
+      "image_filename": "4422.jpg",
+      "catalog_page_no": "300",
+      "msrp": 30.99,
+      "ship_length": "23.0000",
+      "ship_width": "6.0000",
+      "ship_height": "6.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 13.95,
+      "case_price": 13.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

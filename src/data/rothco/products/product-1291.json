@@ -1,0 +1,71 @@
+{
+  "item_index": "1291",
+  "item_name": "Rothco Vintage M-51 Engineers Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Vintage M-51 Engineers Bag is a timeless piece, designed for those who appreciate both style and functionality. With 16L capacity and measuring 12 inch x 14 inch x 5.75 inch, this vintage style bag offers ample storage space for your EDC essentials. The crossbody bag is crafted from heavyweight washed cotton canvas, providing long-lasting durability and a genuine vintage appearance. The main flap and straps are accented with leather for an added touch of authenticity.</p>",
+  "no_ratings": "0",
+  "sort_order": "1305",
+  "description": "<p>Rothco&rsquo;s Vintage M-51 Engineers Bag is a timeless piece, designed for those who appreciate both style and functionality. With 16L capacity and measuring 12 inch x 14 inch x 5.75 inch, this vintage style bag offers ample storage space for your EDC essentials. The crossbody bag is crafted from heavyweight washed cotton canvas, providing long-lasting durability and a genuine vintage appearance. The main flap and straps are accented with leather for an added touch of authenticity. The spacious main compartment is secured with a metal turning lock closure and includes a zipper closure pocket for additional security. For your organizational needs, the bag features multiple pockets: a 2 hook &amp; loop pockets, an open top storage pocket, and 2 side pockets, perfect for small electronic devices and other gear. Additionally, there are 5 pen holder loops and a plastic document pocket with hook &amp; loop closure under the main flap. The bag offers a detachable and adjustable shoulder strap, extending up to 59 inches, and a top carry handle for versatile carrying options. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "208",
+    "507",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10008",
+      "item_index": "1291",
+      "rothco_item_no": "8626",
+      "upc": "613902862692",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.5000",
+      "image_filename": "8626-B1.jpg",
+      "catalog_page_no": "358",
+      "msrp": 65.99,
+      "ship_length": "14.0000",
+      "ship_width": "13.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 29.95,
+      "case_price": 29.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12752",
+      "item_index": "1291",
+      "rothco_item_no": "8638",
+      "upc": "613902086388",
+      "inventory": "96",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.5000",
+      "image_filename": "8638-A.jpg",
+      "catalog_page_no": "358",
+      "msrp": 65.99,
+      "ship_length": "14.0000",
+      "ship_width": "13.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 29.95,
+      "case_price": 29.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "item_index": "2824",
+  "item_name": "Rothco G.I. Type Large Alice Pack with Frame",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Inspired by the field-proven Alice backpack, Rothco&rsquo;s Large Alice Pack is designed to active-duty specifications that are ideal for camping, hiking, or active-duty personnel. This heavy-duty rucksack offers high-capacity storage, waterproof lining, and enhanced comfort features. This is one backpack you&rsquo;ll want to have alongside you every step of the way.</p>",
+  "no_ratings": "0",
+  "sort_order": "1130",
+  "description": "<p>Inspired by the field-proven Alice backpack, Rothco&rsquo;s Large Alice Pack is designed to active-duty specifications that are ideal for camping, hiking, or active-duty personnel. This heavy-duty rucksack offers high-capacity storage, waterproof lining, and enhanced comfort features. This is one backpack you&rsquo;ll want to have alongside you every step of the way.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "143",
+    "202"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1171",
+      "item_index": "2824",
+      "rothco_item_no": "2240",
+      "upc": "613902224001",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "4.2000",
+      "image_filename": "2240-Black-A.jpg",
+      "catalog_page_no": "312",
+      "msrp": 153.99,
+      "ship_length": "23.0000",
+      "ship_width": "16.5000",
+      "ship_height": "7.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 69.95,
+      "case_price": 69.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "1182",
+      "item_index": "2824",
+      "rothco_item_no": "2266",
+      "upc": "613902226609",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "5.2800",
+      "image_filename": "2266-A.jpg",
+      "catalog_page_no": "312",
+      "msrp": 153.99,
+      "ship_length": "23.0000",
+      "ship_width": "16.5000",
+      "ship_height": "7.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 69.95,
+      "case_price": 69.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "16189",
+      "item_index": "2824",
+      "rothco_item_no": "2966",
+      "upc": "613902296602",
+      "inventory": "26",
+      "created_date": "2016-03-07 17:10:01",
+      "weight": "5.2800",
+      "image_filename": "2966-B-amazon.jpg",
+      "catalog_page_no": "312",
+      "msrp": 153.99,
+      "ship_length": "23.0000",
+      "ship_width": "16.5000",
+      "ship_height": "7.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 69.95,
+      "case_price": 69.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "item_index": "1970",
+  "item_name": "Smith & Wesson Commando Watch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Smith &amp; Wesson Commando Watch is water resistant up to 3 ATM/ 30 meters/ 99 ft.</p>",
+  "no_ratings": "0",
+  "sort_order": "179",
+  "description": "<p>The Smith &amp; Wesson Commando Watch is water resistant up to 3 ATM/ 30 meters/ 99 ft. It is equipped with precision quartz and comes with a bezel that rotates counter clockwise. The adjustable wristband is nylon for the perfect fit.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "418"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3092",
+      "item_index": "1970",
+      "rothco_item_no": "4316",
+      "upc": "810112980899",
+      "inventory": "36",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3300",
+      "image_filename": "4316-A-amazon.jpg",
+      "catalog_page_no": "205",
+      "msrp": 96.99,
+      "ship_length": "3.2500",
+      "ship_width": "3.2500",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 38.5,
+      "case_price": 38.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

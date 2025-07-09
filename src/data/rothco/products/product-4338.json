@@ -1,0 +1,47 @@
+{
+  "item_index": "4338",
+  "item_name": "Rothco Womens Thin Red Line Longer T-Shirt ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Show your support for your local firefighters with Rothco Women's Thin Red Line Longer T-Shirt!</p>",
+  "no_ratings": null,
+  "sort_order": "60",
+  "description": "<p>Rothco&rsquo;s Women&rsquo;s Thin Red Line Longer T-Shirt is made from a soft cotton/poly blend. The longer length style of this shirt extends past the waist and features a tagless label for extra comfort. A vertical distressed thin red line flag imprint is centered on the front chest of the t-shirt, as a symbol of respect and support for Firefighters.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "101"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17469",
+      "item_index": "4338",
+      "rothco_item_no": "5698",
+      "upc": "613902556980",
+      "inventory": "20",
+      "created_date": "2017-06-22 16:10:01",
+      "weight": "0.2200",
+      "image_filename": "5698-A-amazon2.jpg",
+      "catalog_page_no": null,
+      "msrp": 14.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL",
+        "color": "Black"
+      },
+      "size": "2XL",
+      "color": "Black",
+      "price": 5.9,
+      "case_price": 5.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

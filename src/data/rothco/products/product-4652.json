@@ -1,0 +1,46 @@
+{
+  "item_index": "4652",
+  "item_name": "Rothco Compact Shoe Care Kit",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Compact Shoe Care Kit contains everything you need to fix and enhance the shine of your favorite uniform shoes and boots.</p>",
+  "no_ratings": null,
+  "sort_order": "132965",
+  "description": "<p>Rothco&rsquo;s Compact Shoe Care Kit contains everything you need to fix and enhance the shine of your favorite uniform shoes and boots. Included in the shoe care kit are two 16g tins of black polish, which are great for cleaning old/worn-out boots, shoes, and other leather items. The large dauber brush is ideal for removing dirt and debris before polishing and applying the black polish to your items. For reaching smaller areas and edges on your boots, use the secondary brush. Buff out any irregulars and leave a glossy finish with the multi-purpose cleaning cloth. Rothco&rsquo;s shoe kit comes with a foldable shoehorn as well, which allows you to put on your dress shoes with ease and prevents damage to the heel. Store all the shoe care essentials inside the oxford zippered nylon pouch (6 &frac12;&rdquo; X 3 &frac14;&rdquo; X 1 &frac34;&rdquo;).</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "358",
+    "362"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19313",
+      "item_index": "4652",
+      "rothco_item_no": "1269",
+      "upc": "613902912694",
+      "inventory": "0",
+      "created_date": "2019-11-25 12:00:10",
+      "weight": "0.5000",
+      "image_filename": "1269-A-amazon.jpg",
+      "catalog_page_no": "185",
+      "msrp": 17.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": null,
+      "specs": {
+        "color": "Black",
+        "size": "One Size"
+      },
+      "color": "Black",
+      "size": "One Size",
+      "price": 6.9,
+      "case_price": 6.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

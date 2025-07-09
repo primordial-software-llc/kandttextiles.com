@@ -1,0 +1,94 @@
+{
+  "item_index": "5001",
+  "item_name": "Rothco Nomad Canvas Duffle Backpack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Crafted with both style and functionality in mind, the Rothco Nomad Canvas Duffle Backpack is perfect for the modern explorer. Whether you're a frequent traveler or just looking for a reliable backpack for your next adventure, this duffle bag backpack is the perfect choice.</p>",
+  "no_ratings": null,
+  "sort_order": "133314",
+  "description": "<p>The Nomad Canvas Duffle Backpack is the ultimate travel companion for the adventurous soul. It&rsquo;s made from a heavy-duty 22oz cotton canvas material and can withstand any journey you embark on. Whether trekking through the woods or exploring a new city, this duffle bag backpack has your back. With a 38-liter capacity, you'll have space to store all your essentials. The durable cotton canvas material ensures that your belongings are protected from the elements, and the adjustable padded shoulder straps make it comfortable for all-day travel.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "204",
+    "215"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "22502",
+      "item_index": "5001",
+      "rothco_item_no": "24850",
+      "upc": "613902024243",
+      "inventory": "99",
+      "created_date": "2022-12-06 17:00:15",
+      "weight": "0.0000",
+      "image_filename": "24850-A.jpg",
+      "catalog_page_no": "333",
+      "msrp": 30.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 13.9,
+      "case_price": 13.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22503",
+      "item_index": "5001",
+      "rothco_item_no": "24851",
+      "upc": "613902024250",
+      "inventory": "99",
+      "created_date": "2022-12-06 17:00:15",
+      "weight": "0.0000",
+      "image_filename": "24851-A.jpg",
+      "catalog_page_no": "333",
+      "msrp": 30.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 13.9,
+      "case_price": 13.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22504",
+      "item_index": "5001",
+      "rothco_item_no": "24852",
+      "upc": "613902024229",
+      "inventory": "99",
+      "created_date": "2022-12-06 17:00:15",
+      "weight": "0.0000",
+      "image_filename": "24851-A1.jpg",
+      "catalog_page_no": "333",
+      "msrp": 30.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 13.9,
+      "case_price": 13.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

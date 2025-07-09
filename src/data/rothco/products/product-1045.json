@@ -1,0 +1,128 @@
+{
+  "item_index": "1045",
+  "item_name": "Rothco Wool Rescue Survival Blanket",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Wool Rescue Survival Blanket is the ultimate companion for outdoor enthusiasts and emergency preparedness. Crafted from a blend of 55% Wool and 45% Synthetic Fibers, this blanket combines the softness you crave with unmatched durability. Experience the superior insulation of natural wool, Mother Nature's best insulator, keeping you incredibly warm and dry in diverse environments. Safety is a priority with the built-in fire-retardant properties, providing peace of mind during camping trips or emergency situations.</p>",
+  "no_ratings": "0",
+  "sort_order": "3011",
+  "description": "<p>Rothco's Wool Rescue Survival Blanket is the ultimate companion for outdoor enthusiasts and emergency preparedness. Crafted from a blend of 55% Wool and 45% Synthetic Fibers, this blanket combines the softness you crave with unmatched durability. Experience the superior insulation of natural wool, Mother Nature's best insulator, keeping you incredibly warm and dry in diverse environments. Safety is a priority with the built-in fire-retardant properties, providing peace of mind during camping trips, emergency situations, or when included in bug-out bags. The soft yet durable feel of the blanket ensures lasting comfort, making it a versatile and essential item for various outdoor activities. Whether you're camping under the stars or facing unexpected emergencies, Rothco's Wool Blanket is designed to meet the challenges, keeping you warm, safe, and prepared for whatever comes your way. Elevate your outdoor experience with the reliability and quality that Rothco is known for.</p>",
+  "selection_groups": [
+    "color",
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "542",
+    "261",
+    "272"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "244",
+      "item_index": "1045",
+      "rothco_item_no": "10429",
+      "upc": "613902104297",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.9000",
+      "image_filename": "10529-A1.jpg",
+      "catalog_page_no": "305",
+      "msrp": 24.99,
+      "ship_length": "22.5000",
+      "ship_width": "16.2500",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Grey",
+        "size": "60\" x 80\""
+      },
+      "color": "Grey",
+      "size": "60\" x 80\"",
+      "price": 10.95,
+      "case_price": 10.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14638",
+      "item_index": "1045",
+      "rothco_item_no": "10430",
+      "upc": "613902104303",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "3.9000",
+      "image_filename": "10531-A-no-logo.jpg",
+      "catalog_page_no": "305",
+      "msrp": 24.99,
+      "ship_length": "22.5000",
+      "ship_width": "16.2500",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "60\" x 80\""
+      },
+      "color": "Olive Drab",
+      "size": "60\" x 80\"",
+      "price": 11.5,
+      "case_price": 11.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15723",
+      "item_index": "1045",
+      "rothco_item_no": "10529",
+      "upc": "613902105294",
+      "inventory": "99",
+      "created_date": "2015-09-28 14:10:01",
+      "weight": "3.2000",
+      "image_filename": "10529-A1.jpg",
+      "catalog_page_no": "305",
+      "msrp": 26.99,
+      "ship_length": "22.5000",
+      "ship_width": "16.2500",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Grey",
+        "size": "66\" x 90\""
+      },
+      "color": "Grey",
+      "size": "66\" x 90\"",
+      "price": 11.5,
+      "case_price": 11.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20755",
+      "item_index": "1045",
+      "rothco_item_no": "10531",
+      "upc": "613902003460",
+      "inventory": "66",
+      "created_date": "2021-06-08 15:00:09",
+      "weight": "3.9500",
+      "image_filename": "10531-A-no-logo.jpg",
+      "catalog_page_no": "305",
+      "msrp": 26.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "66\" x 90\""
+      },
+      "color": "Olive Drab",
+      "size": "66\" x 90\"",
+      "price": 11.95,
+      "case_price": 11.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "item_index": "3004",
+  "item_name": "Rothco Tri-Color Desert SWAT Cloth BDU Pants",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Tri-Color Desert SWAT Cloth BDU Pants are designed for durability, comfort, and versatility. Made from a tough TC rip-stop fabric, these pants are built to withstand rugged outdoor conditions, making them ideal for work or tactical use. The adjustable waist ensures a custom fit, while reinforced seat and knees provide extra durability in high-wear areas. Multiple utility pockets offer convenient storage for tools, gear, or personal items, making these BDU pants practical for any activity.</p>",
+  "no_ratings": null,
+  "sort_order": "993",
+  "description": "<p>Rothco&rsquo;s Tri-Color Desert SWAT Cloth BDU Pants are designed for durability, comfort, and versatility. Made from a tough TC rip-stop fabric, these pants are built to withstand rugged outdoor conditions, making them ideal for work or tactical use. The adjustable waist ensures a custom fit, while reinforced seat and knees provide extra durability in high-wear areas. Multiple utility pockets offer convenient storage for tools, gear, or personal items, making these BDU pants practical for any activity. Whether you're working outdoors, exploring, or just need a reliable pair of pants, Rothco&rsquo;s Tri-Color Desert BDU Pants are designed to handle the challenge. The rip-stop fabric resists tearing, keeping you protected and comfortable in tough environments. The classic tri-color desert pattern offers both style and functionality, blending seamlessly into desert terrains while maintaining a tactical look.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "7",
+    "13",
+    "16",
+    "454",
+    "79",
+    "86",
+    "139"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "11332",
+      "item_index": "3004",
+      "rothco_item_no": "9815",
+      "upc": "613902981515",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.4400",
+      "image_filename": "9810-9817-hr4.jpg",
+      "catalog_page_no": "0",
+      "msrp": 47.99,
+      "ship_length": "17.0000",
+      "ship_width": "14.5000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Tri-Color Desert Camo"
+      },
+      "size": "S",
+      "color": "Tri-Color Desert Camo",
+      "price": 18.9,
+      "case_price": 18.9,
+      "case_quantity": 1,
+      "statuses": [
+        "Active"
+      ]
+    }
+  ]
+}

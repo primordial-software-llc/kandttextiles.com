@@ -1,0 +1,46 @@
+{
+  "item_index": "3989",
+  "item_name": "Rothco Tactical Foldable Backpack",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Tactical Foldable Backpack converts from a 5\" x 5\" x 4.75\" storable pouch, into a fully functional 11.75\" x 7\" x 18\" backpack complete with hydration and MOLLE compatibility. The pouch acts as front compartments for the pack when it's fully opened, designed to store away when not required and provide extra capacity when needed. Features include 31\" adjustable backpack straps, a 8.5\" top carry handle, hydration compartment, MOLLE loops, and elastic cord cinch area.</p>",
+  "no_ratings": null,
+  "sort_order": "135",
+  "description": "<p>Rothco's Tactical Foldable Backpack converts from a 5\" x 5\" x 4.75\" storable pouch, into a fully functional 11.75\" x 7\" x 18\" backpack complete with hydration and MOLLE compatibility. The pouch acts as front compartments for the pack when it's fully opened, designed to store away when not required and provide extra capacity when needed. Features include 31\" adjustable backpack straps, a 8.5\" top carry handle, hydration compartment, MOLLE loops, and elastic cord cinch area.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "201",
+    "204"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15585",
+      "item_index": "3989",
+      "rothco_item_no": "27710",
+      "upc": "613902277106",
+      "inventory": "51",
+      "created_date": "2015-08-24 14:10:01",
+      "weight": "0.8125",
+      "image_filename": "27710-A-amazon1.jpg",
+      "catalog_page_no": "345",
+      "msrp": 38.99,
+      "ship_length": "7.0000",
+      "ship_width": "5.0000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "amazon_color_map": "Black",
+        "color": "Black"
+      },
+      "amazon_color_map": "Black",
+      "color": "Black",
+      "price": 17.5,
+      "case_price": 17.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

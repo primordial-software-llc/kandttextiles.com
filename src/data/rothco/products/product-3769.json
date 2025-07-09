@@ -1,0 +1,190 @@
+{
+  "item_index": "3769",
+  "item_name": "Rothco Spec Ops Soft Shell Security Jacket",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Gear up with Rothco&rsquo;s Special Ops Soft Shell Security Jacket, the ultimate outerwear for security professionals. Engineered with versatility and performance in mind, this jacket combines the warmth of a fleece lining with the protection of a waterproof outer shell. Designed for duty, \"SECURITY\" is prominently displayed on both the front chest and across the back, ensuring clear identification in any situation.</p>",
+  "no_ratings": null,
+  "sort_order": "401",
+  "description": "<p>Gear up with Rothco&rsquo;s Special Ops Soft Shell Security Jacket, the ultimate outerwear for security professionals. Engineered with versatility and performance in mind, this jacket combines the warmth of a fleece lining with the protection of a waterproof outer shell. Designed for duty, \"SECURITY\" is prominently displayed on both the front chest and across the back, ensuring clear identification in any situation. Crafted with a 3-layer material construction, this jacket is wind-resistant, moisture-wicking, and retains body heat to keep you comfortable in harsh conditions. The 2 zippered chest pockets feature an internal D-ring, wire pass-through port, and small pouch, offering convenient storage for essentials like your cell phone. Additionally, there are 2 zippered shoulder pockets and 2 internal zipper pockets for added storage versatility. For customization and identification purposes, each sleeve is equipped with a 4 inch by 4 inch loop field for attaching flag and morale patches. The dual entry back zipper pocket provides high-capacity space for storing larger items, while the double-layer reinforced forearm ensures durability in high-wear areas. Underarm ventilation zippers allow for optimal airflow to regulate body temperature during intense activities. Adjustability is key for a perfect fit, which is why this jacket features a drawstring waist and elastic hook &amp; loop wrist cuffs. Plus, the collar comes with a concealed detachable hood for added protection against the elements. With a two-way zipper design, accessing internal pockets is quick and hassle-free. Whether you're on patrol, conducting surveillance, or working in cold weather environments, the Special Ops Soft Shell Security Jacket provides the durability, functionality, and comfort you need to stay focused on the task at hand. Elevate your tactical gear with this essential piece of outerwear.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "448",
+    "173"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14878",
+      "item_index": "3769",
+      "rothco_item_no": "97670",
+      "upc": "613902976740",
+      "inventory": "47",
+      "created_date": "2014-10-07 11:10:03",
+      "weight": "2.2000",
+      "image_filename": "97670-LEFT-B.jpg",
+      "catalog_page_no": "75",
+      "msrp": 140.99,
+      "ship_length": "15.0000",
+      "ship_width": "23.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 69.95,
+      "case_price": 69.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14879",
+      "item_index": "3769",
+      "rothco_item_no": "97670",
+      "upc": "613902976757",
+      "inventory": "99",
+      "created_date": "2014-10-07 11:10:03",
+      "weight": "2.2000",
+      "image_filename": "97670-LEFT-B.jpg",
+      "catalog_page_no": "75",
+      "msrp": 140.99,
+      "ship_length": "16.5000",
+      "ship_width": "23.5000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 69.95,
+      "case_price": 69.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14880",
+      "item_index": "3769",
+      "rothco_item_no": "97670",
+      "upc": "613902976764",
+      "inventory": "99",
+      "created_date": "2014-10-07 11:10:03",
+      "weight": "2.2000",
+      "image_filename": "97670-LEFT-B.jpg",
+      "catalog_page_no": "75",
+      "msrp": 140.99,
+      "ship_length": "17.0000",
+      "ship_width": "25.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 69.95,
+      "case_price": 69.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14881",
+      "item_index": "3769",
+      "rothco_item_no": "97670",
+      "upc": "613902976771",
+      "inventory": "99",
+      "created_date": "2014-10-07 11:10:03",
+      "weight": "2.2000",
+      "image_filename": "97670-LEFT-B.jpg",
+      "catalog_page_no": "75",
+      "msrp": 140.99,
+      "ship_length": "17.0000",
+      "ship_width": "25.5000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 69.95,
+      "case_price": 69.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14882",
+      "item_index": "3769",
+      "rothco_item_no": "97671",
+      "upc": "613902976788",
+      "inventory": "99",
+      "created_date": "2014-10-07 13:10:01",
+      "weight": "2.2000",
+      "image_filename": "97670-LEFT-B.jpg",
+      "catalog_page_no": "75",
+      "msrp": 150.99,
+      "ship_length": "17.5000",
+      "ship_width": "26.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 74.95,
+      "case_price": 74.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "14883",
+      "item_index": "3769",
+      "rothco_item_no": "97672",
+      "upc": "613902976795",
+      "inventory": "73",
+      "created_date": "2014-10-07 13:10:01",
+      "weight": "2.3000",
+      "image_filename": "97670-LEFT-B.jpg",
+      "catalog_page_no": "75",
+      "msrp": 160.99,
+      "ship_length": "17.5000",
+      "ship_width": "26.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3XL"
+      },
+      "size": "3XL",
+      "price": 79.95,
+      "case_price": 79.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21667",
+      "item_index": "3769",
+      "rothco_item_no": "97673",
+      "upc": "613902014145",
+      "inventory": "27",
+      "created_date": "2022-03-09 13:00:02",
+      "weight": "0.0000",
+      "image_filename": "97670-LEFT-B.jpg",
+      "catalog_page_no": "75",
+      "msrp": 170.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "4XL"
+      },
+      "size": "4XL",
+      "price": 84.95,
+      "case_price": 84.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "item_index": "3582",
+  "item_name": "Rothco Inside The Waistband Holster",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Inside Waistband Holster provides a discreet and comfortable way to carry your handgun. Designed to fit most handguns, this holster ensures secure placement inside your pants for maximum concealment. The hard plastic clip attaches easily to your belt or pants, keeping the holster firmly in place throughout your daily activities. Featuring an adjustable hook &amp; loop retention strap, you can customize the fit to your specific firearm, offering quick access when needed.</p>",
+  "no_ratings": null,
+  "sort_order": "1016",
+  "description": "<p>Rothco's Inside Waistband Holster provides a discreet and comfortable way to carry your handgun. Designed to fit most handguns, this holster ensures secure placement inside your pants for maximum concealment. The hard plastic clip attaches easily to your belt or pants, keeping the holster firmly in place throughout your daily activities. Featuring an adjustable hook &amp; loop retention strap, you can customize the fit to your specific firearm, offering quick access when needed. Available in 2 versatile sizes, this holster suits a variety of handgun models. Whether you're heading to the range or need a reliable everyday carry option, Rothco's holster delivers functionality and peace of mind.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "251",
+    "555"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12994",
+      "item_index": "3582",
+      "rothco_item_no": "4983",
+      "upc": "613902498396",
+      "inventory": "99",
+      "created_date": "2013-09-20 14:13:59",
+      "weight": "0.0938",
+      "image_filename": "4983-C.jpg",
+      "catalog_page_no": "231",
+      "msrp": 15.99,
+      "ship_length": "12.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 6.15,
+      "case_price": 6.15,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12995",
+      "item_index": "3582",
+      "rothco_item_no": "4983",
+      "upc": "613902949836",
+      "inventory": "99",
+      "created_date": "2013-09-20 14:13:59",
+      "weight": "0.0938",
+      "image_filename": "4983-C.jpg",
+      "catalog_page_no": "231",
+      "msrp": 15.99,
+      "ship_length": "12.0000",
+      "ship_width": "4.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 6.15,
+      "case_price": 6.15,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "item_index": "4633",
+  "item_name": "Rothco MOLLE / Belt Clip Bottle Carrier",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>On your belt or on your pack, Rothco&rsquo;s MOLLE / Belt Clip Bottle Carrier provides an easy and convenient way to carry your water bottle on-the-go.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "132946",
+  "description": "<p>On your belt or on your pack, Rothco&rsquo;s MOLLE / Belt Clip Bottle Carrier provides an easy and convenient way to carry your water bottle on-the-go. Featuring a hook &amp; loop MOLLE (Modular Lightweight Load-Carrying Equipment) strap and snap button, the water bottle carrier can clip-on to your tactical belt, military pack, or various other MOLLE compatible gear. The split quick release buckle design can secure around different sized water bottles at the neck with a diameter of approximately 1&rdquo;. Whether a BDU, riggers, or garrison belt, the MOLLE bottle holder can cinch around belts up to 2 &frac12;&rdquo; wide. The bottle belt clip is made of high-quality material to bear the weight of your bottle wherever you go.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "280",
+    "304",
+    "500",
+    "261"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19309",
+      "item_index": "4633",
+      "rothco_item_no": "2090",
+      "upc": "613902209077",
+      "inventory": "99",
+      "created_date": "2019-11-22 20:00:07",
+      "weight": "0.0625",
+      "image_filename": "2090-A-Coy-amazon.jpg",
+      "catalog_page_no": "288",
+      "msrp": 4.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab",
+        "size": "One Size"
+      },
+      "color": "Olive Drab",
+      "size": "One Size",
+      "price": 1.95,
+      "case_price": 1.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19310",
+      "item_index": "4633",
+      "rothco_item_no": "2090",
+      "upc": "613902209084",
+      "inventory": "99",
+      "created_date": "2019-11-22 20:00:07",
+      "weight": "0.0625",
+      "image_filename": "2090-A-OD-amazon.jpg",
+      "catalog_page_no": "288",
+      "msrp": 4.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "One Size"
+      },
+      "color": "Coyote Brown",
+      "size": "One Size",
+      "price": 1.95,
+      "case_price": 1.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

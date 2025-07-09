@@ -1,0 +1,126 @@
+{
+  "item_index": "4464",
+  "item_name": "Rothco Athletic Fit Freedom T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Athletic Fit Freedom T-Shirt combines comfort, style, and a patriotic design for those who want a versatile shirt with an athletic fit. Made from a soft cotton / polyester ring-spun blend, this t-shirt feels great against the skin and is durable enough for everyday wear. The \"Freedom\" graphic is proudly printed on the center chest, serving as a bold statement. Its updated fit includes an insert collar, wider chest, and smaller sleeves, creating a more streamlined and athletic appearance.</p>",
+  "no_ratings": null,
+  "sort_order": "132777",
+  "description": "<p>Rothco&rsquo;s Athletic Fit Freedom T-Shirt combines comfort, style, and a patriotic design for those who want a versatile shirt with an athletic fit. Made from a soft cotton / polyester ring-spun blend, this t-shirt feels great against the skin and is durable enough for everyday wear. The \"Freedom\" graphic is proudly printed on the center chest, serving as a bold statement. Its updated fit includes an insert collar, wider chest, and smaller sleeves, creating a more streamlined and athletic appearance. The tag-less label ensures that you stay comfortable all day long without the irritation of a traditional tag. Whether you&rsquo;re heading to the gym, out for a casual day, or just relaxing, Rothco&rsquo;s Athletic Fit Freedom T-Shirt is designed for maximum comfort and mobility.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "640",
+    "42"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18439",
+      "item_index": "4464",
+      "rothco_item_no": "1187",
+      "upc": "613902611870",
+      "inventory": "46",
+      "created_date": "2018-05-07 13:10:03",
+      "weight": "0.1800",
+      "image_filename": "1187-A-amazon.jpg",
+      "catalog_page_no": "117",
+      "msrp": 19.99,
+      "ship_length": "14.0000",
+      "ship_width": "18.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S",
+        "color": "Black"
+      },
+      "size": "S",
+      "color": "Black",
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18440",
+      "item_index": "4464",
+      "rothco_item_no": "1187",
+      "upc": "613902111875",
+      "inventory": "20",
+      "created_date": "2018-05-07 13:10:03",
+      "weight": "0.1800",
+      "image_filename": "1187-A-amazon.jpg",
+      "catalog_page_no": "117",
+      "msrp": 19.99,
+      "ship_length": "15.2500",
+      "ship_width": "19.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M",
+        "color": "Black"
+      },
+      "size": "M",
+      "color": "Black",
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18441",
+      "item_index": "4464",
+      "rothco_item_no": "1187",
+      "upc": "613902211872",
+      "inventory": "67",
+      "created_date": "2018-05-07 13:10:03",
+      "weight": "0.1800",
+      "image_filename": "1187-A-amazon.jpg",
+      "catalog_page_no": "117",
+      "msrp": 19.99,
+      "ship_length": "15.2500",
+      "ship_width": "20.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L",
+        "color": "Black"
+      },
+      "size": "L",
+      "color": "Black",
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18442",
+      "item_index": "4464",
+      "rothco_item_no": "1187",
+      "upc": "613902311879",
+      "inventory": "20",
+      "created_date": "2018-05-07 13:10:03",
+      "weight": "0.1800",
+      "image_filename": "1187-A-amazon.jpg",
+      "catalog_page_no": "117",
+      "msrp": 19.99,
+      "ship_length": "15.5000",
+      "ship_width": "22.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL",
+        "color": "Black"
+      },
+      "size": "XL",
+      "color": "Black",
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

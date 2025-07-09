@@ -1,0 +1,44 @@
+{
+  "item_index": "3757",
+  "item_name": "Rothco Vintage Weekender Canvas Backpack with Star",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Vintage Weekender Bag Is Made Using Washed Out Canvas and Features 2 Front Inside Pockets With Drawstring Closure, Inner Zipper Pouch, 2 Side Pockets With Flaps And Side Pockets With Strap Closures With Metal Buckles, Star on Front.</p>",
+  "no_ratings": null,
+  "sort_order": "917",
+  "description": "<p>Rothco's Vintage Weekender Bag is made using washed out canvas and features 2 front inside pockets with drawstring closure, inner zipper pouch, 2 side pockets with flaps and side pockets with strap closures with metal buckles, Star on Front.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "204",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10625",
+      "item_index": "3757",
+      "rothco_item_no": "9158",
+      "upc": "613902915800",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.0500",
+      "image_filename": "9158-A.jpg",
+      "catalog_page_no": "343",
+      "msrp": 61.99,
+      "ship_length": "15.5000",
+      "ship_width": "14.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 27.95,
+      "case_price": 27.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

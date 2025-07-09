@@ -1,0 +1,41 @@
+{
+  "item_index": "1834",
+  "item_name": "Rothco Boatman's Whistle",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Boatman&rsquo;s Whistle is the ideal accessory for boating enthusiasts and sailors, combining timeless design with reliable functionality. Crafted with a traditional nautical appearance and a polished gold finish, this whistle brings an authentic maritime touch to your adventures. It features a long chain for convenient access, ensuring it's always within reach when needed. Perfect for signaling on the water or as a collector&rsquo;s piece, this whistle is both stylish and practical.</p>",
+  "no_ratings": "0",
+  "sort_order": "870",
+  "description": "<p>Rothco&rsquo;s Boatman&rsquo;s Whistle is the ideal accessory for boating enthusiasts and sailors, combining timeless design with reliable functionality. Crafted with a traditional nautical appearance and a polished gold finish, this whistle brings an authentic maritime touch to your adventures. It features a long chain for convenient access, ensuring it's always within reach when needed. Perfect for signaling on the water or as a collector&rsquo;s piece, this whistle is both stylish and practical. Lightweight and durable, it&rsquo;s a must-have for maritime outings or as a thoughtful gift for any sailor or boating fan. Whether for use on the water or to add a nautical flair to your gear, the Rothco Boatman&rsquo;s Whistle is a reliable tool with a classic charm.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "243",
+    "232"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "194",
+      "item_index": "1834",
+      "rothco_item_no": "10372",
+      "upc": "613902103726",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0600",
+      "image_filename": "10372-hr1-amazon.jpg",
+      "catalog_page_no": "218",
+      "msrp": 14.99,
+      "ship_length": "5.2500",
+      "ship_width": "1.0000",
+      "ship_height": "5.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

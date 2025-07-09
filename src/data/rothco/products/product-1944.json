@@ -1,0 +1,40 @@
+{
+  "item_index": "1944",
+  "item_name": "Rothco Trucker Wallet",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Snap your Rothco Trucker Wallet to your belt loop for secure and quick access to your identification, credit cards, cash, and other vital documents.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "1139",
+  "description": "<p>Snap your Rothco Trucker Wallet to your belt loop for secure and quick access to your identification, credit cards, cash, and other vital documents. This compact wallet features 3 large open compartments and 1 zipper compartment with a smaller compartment inside for additional storage. The snap belt loop with chain will keep your wallet secured to you at all times.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "415"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "310",
+      "item_index": "1944",
+      "rothco_item_no": "10631",
+      "upc": "613902106314",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "10631 bk-HR.jpg",
+      "catalog_page_no": "204",
+      "msrp": 15.99,
+      "ship_length": "7.2500",
+      "ship_width": "3.7500",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 6.1,
+      "case_price": 6.1,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

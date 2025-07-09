@@ -1,0 +1,145 @@
+{
+  "item_index": "773",
+  "item_name": "Rothco MOLLE Modular Ambidextrous Holster",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's MOLLE Modular Ambidextrous Holster is the epitome of versatility and functionality. Designed to accommodate both right and left-handed draws, this holster features an elastic cord with cinch webbing, ensuring reliable firearm security in any situation. Its ambidextrous design makes it suitable for a wide range of users, providing flexibility and convenience.</p>",
+  "no_ratings": "0",
+  "sort_order": "4237",
+  "description": "<p>Rothco's MOLLE Modular Ambidextrous Holster is the epitome of versatility and functionality. Designed to accommodate both right and left-handed draws, this holster features an elastic cord with cinch webbing, ensuring reliable firearm security in any situation. Its ambidextrous design makes it suitable for a wide range of users, providing flexibility and convenience. The holster comes with 2 removable MOLLE straps equipped with snap closures, allowing for easy mounting on tactical vests, assault packs, battle belts, or any gear with a MOLLE panel. Additionally, a detachable hook and loop mag pouch are included, providing extra storage for additional rounds. Whether you're a soldier, public safety professional, or MilSim player, this holster is tailored to meet your needs and demands. With its durable construction and versatile design, Rothco's MOLLE Modular Ambidextrous Holster is the perfect choice for those who prioritize functionality and adaptability in their gear.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "143",
+    "140",
+    "308",
+    "555",
+    "333"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "262",
+      "item_index": "773",
+      "rothco_item_no": "10477",
+      "upc": "613902104778",
+      "inventory": "99",
+      "created_date": "2010-06-30 21:00:00",
+      "weight": "0.4438",
+      "image_filename": "10477-HR1.jpg",
+      "catalog_page_no": "233",
+      "msrp": 26.99,
+      "ship_length": "9.5000",
+      "ship_width": "6.2500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "ACU Digital Camo"
+      },
+      "color": "ACU Digital Camo",
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "263",
+      "item_index": "773",
+      "rothco_item_no": "10478",
+      "upc": "613902104785",
+      "inventory": "99",
+      "created_date": "2012-06-18 21:00:00",
+      "weight": "0.4438",
+      "image_filename": "10478-A1.jpg",
+      "catalog_page_no": "233",
+      "msrp": 26.99,
+      "ship_length": "9.5000",
+      "ship_width": "6.2500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12185",
+      "item_index": "773",
+      "rothco_item_no": "10479",
+      "upc": "613902104792",
+      "inventory": "99",
+      "created_date": "2013-06-13 15:47:52",
+      "weight": "0.4438",
+      "image_filename": "10479-A2.jpg",
+      "catalog_page_no": "233",
+      "msrp": 26.99,
+      "ship_length": "9.5000",
+      "ship_width": "6.2500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "12720",
+      "item_index": "773",
+      "rothco_item_no": "10475",
+      "upc": "613902104754",
+      "inventory": "99",
+      "created_date": "2013-08-05 14:09:22",
+      "weight": "0.5000",
+      "image_filename": "10475-B2.jpg",
+      "catalog_page_no": "233",
+      "msrp": 39.99,
+      "ship_length": "9.5000",
+      "ship_width": "6.2500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 17.9,
+      "case_price": 17.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15400",
+      "item_index": "773",
+      "rothco_item_no": "10489",
+      "upc": "613902104891",
+      "inventory": "99",
+      "created_date": "2015-05-01 17:10:01",
+      "weight": "0.4438",
+      "image_filename": "10489-A2.jpg",
+      "catalog_page_no": "233",
+      "msrp": 26.99,
+      "ship_length": "9.5000",
+      "ship_width": "6.2500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

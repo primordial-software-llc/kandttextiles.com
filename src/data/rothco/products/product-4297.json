@@ -1,0 +1,127 @@
+{
+  "item_index": "4297",
+  "item_name": "Rothco Womens Lightweight MA-1 Flight Jacket",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Brave the elements with Rothco&rsquo;s specially designed Women's Lightweight MA-1 Flight Jacket, tailored for the female silhouette. Built with water-repellent nylon, the women&rsquo;s bomber jacket keeps you dry and comfortable in light rain. The reversible orange polyester lining pays homage to the the original MA-1 design while offering alternative style options. With practicality in mind, the women&rsquo;s flight jacket boasts a left arm utility pocket and slash pockets with snaps.</p>",
+  "no_ratings": null,
+  "sort_order": "13",
+  "description": "<p>Brave the elements with Rothco&rsquo;s specially designed Women's Lightweight MA-1 Flight Jacket, tailored for the female silhouette. Built with water-repellent nylon, the women&rsquo;s bomber jacket keeps you dry and comfortable in light rain. The reversible orange polyester lining pays homage to the the original MA-1 design while offering alternative style options. With practicality in mind, the women&rsquo;s flight jacket boasts a left arm utility pocket and slash pockets with snaps. The zippers are black shine plated brass for added durability, and it's finished with a zippered front closure with storm flap, along with ribbed knit collar, cuffs, and waistband for a comfortable fit. This flight bomber jacket is ideal for those seeking both style and functionality in their outerwear.</p>",
+  "selection_groups": [
+    "color",
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "93",
+    "169"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17319",
+      "item_index": "4297",
+      "rothco_item_no": "2410",
+      "upc": "613902241008",
+      "inventory": "45",
+      "created_date": "2017-05-24 13:10:01",
+      "weight": "1.0000",
+      "image_filename": "2410-RIGHT-B.jpg",
+      "catalog_page_no": "129",
+      "msrp": 72.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "XXS"
+      },
+      "color": "Black",
+      "size": "XXS",
+      "price": 28.9,
+      "case_price": 28.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17320",
+      "item_index": "4297",
+      "rothco_item_no": "2410",
+      "upc": "613902241015",
+      "inventory": "34",
+      "created_date": "2017-05-24 13:10:01",
+      "weight": "1.0000",
+      "image_filename": "2410-RIGHT-B.jpg",
+      "catalog_page_no": "129",
+      "msrp": 72.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "XS"
+      },
+      "color": "Black",
+      "size": "XS",
+      "price": 28.9,
+      "case_price": 28.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17324",
+      "item_index": "4297",
+      "rothco_item_no": "2410",
+      "upc": "613902241053",
+      "inventory": "20",
+      "created_date": "2017-05-24 13:10:01",
+      "weight": "1.0000",
+      "image_filename": "2410-RIGHT-B.jpg",
+      "catalog_page_no": "129",
+      "msrp": 72.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "XL"
+      },
+      "color": "Black",
+      "size": "XL",
+      "price": 28.9,
+      "case_price": 28.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17325",
+      "item_index": "4297",
+      "rothco_item_no": "2420",
+      "upc": "613902242005",
+      "inventory": "34",
+      "created_date": "2017-05-24 13:10:01",
+      "weight": "1.0000",
+      "image_filename": "2420-C-amazon.jpg",
+      "catalog_page_no": "0",
+      "msrp": 72.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Sage Green",
+        "size": "XXS"
+      },
+      "color": "Sage Green",
+      "size": "XXS",
+      "price": 28.9,
+      "case_price": 28.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

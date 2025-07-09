@@ -1,0 +1,105 @@
+{
+  "item_index": "102",
+  "item_name": "Rothco MOLLE Modular Vest",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s MOLLE Modular Vest is designed for ultimate versatility and durability, featuring MOLLE compatible webbing for attaching modular pouches and tactical accessories. This vest is perfect for those needing customizable and reliable gear. 2 inner mesh zippered utility pockets offer additional storage for accessories and personal items, ensuring everything you need is within reach. The vest is constructed with a zippered front and 2 quick-release buckles for added security and stability.</p>",
+  "no_ratings": "0",
+  "sort_order": "2285",
+  "description": "<p>Rothco&rsquo;s MOLLE Modular Vest is designed for ultimate versatility and durability, featuring MOLLE compatible webbing for attaching modular pouches and tactical accessories. This vest is perfect for those needing customizable and reliable gear. 2 inner mesh zippered utility pockets offer additional storage for accessories and personal items, ensuring everything you need is within reach. The vest is constructed with a zippered front and 2 quick-release buckles for added security and stability. Padded recoil shoulders provide comfort during use, while the emergency drag handle and hanging loops for attaching pistol or duty belts enhance functionality. Whether on the job or in the field, Rothco&rsquo;s MOLLE Modular Vest is the perfect choice for keeping your gear organized and accessible.</p>",
+  "selection_groups": [
+    "color",
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "143",
+    "140",
+    "183",
+    "307",
+    "544",
+    "333"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "4920",
+      "item_index": "102",
+      "rothco_item_no": "5403",
+      "upc": "613902540309",
+      "inventory": "63",
+      "created_date": "2011-10-25 21:00:00",
+      "weight": "2.0000",
+      "image_filename": "5403-A.jpg",
+      "catalog_page_no": "238",
+      "msrp": 70.99,
+      "ship_length": "19.5000",
+      "ship_width": "13.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "Regular"
+      },
+      "color": "Black",
+      "size": "Regular",
+      "price": 31.95,
+      "case_price": 31.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "4921",
+      "item_index": "102",
+      "rothco_item_no": "5404",
+      "upc": "613902540408",
+      "inventory": "38",
+      "created_date": "2011-10-25 21:00:00",
+      "weight": "2.0000",
+      "image_filename": "5404-Front-HR1.jpg",
+      "catalog_page_no": "238",
+      "msrp": 70.99,
+      "ship_length": "19.5000",
+      "ship_width": "13.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown",
+        "size": "Regular"
+      },
+      "color": "Coyote Brown",
+      "size": "Regular",
+      "price": 31.95,
+      "case_price": 31.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "4922",
+      "item_index": "102",
+      "rothco_item_no": "5405",
+      "upc": "613902540507",
+      "inventory": "0",
+      "created_date": "2011-10-25 21:00:00",
+      "weight": "2.0000",
+      "image_filename": "5405-A-amazon.jpg",
+      "catalog_page_no": "238",
+      "msrp": 70.99,
+      "ship_length": "19.5000",
+      "ship_width": "13.0000",
+      "ship_height": "2.0000",
+      "eta_date": null,
+      "specs": {
+        "color": "Olive Drab",
+        "size": "Regular"
+      },
+      "color": "Olive Drab",
+      "size": "Regular",
+      "price": 31.95,
+      "case_price": 31.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

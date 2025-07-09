@@ -1,0 +1,117 @@
+{
+  "item_index": "4258",
+  "item_name": "Rothco Molon Labe Skull T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Molon Labe Skull T-Shirt brings a bold and historic message to your wardrobe, featuring a powerful graphic of a skull with 2 crossed rifles and the iconic &ldquo;Molon Labe&rdquo; phrase, which translates to \"Come and Take It.\" This statement originates from King Leonidas of Sparta, symbolizing defiance and strength. Printed on a durable yet soft cotton / polyester fabric blend, the graphic shirt offers both comfort and longevity, making it perfect for everyday wear or as a standout piece for special occasions.</p>",
+  "no_ratings": null,
+  "sort_order": "147",
+  "description": "<p>Rothco&rsquo;s Molon Labe Skull T-Shirt brings a bold and historic message to your wardrobe, featuring a powerful graphic of a skull with 2 crossed rifles and the iconic &ldquo;Molon Labe&rdquo; phrase, which translates to \"Come and Take It.\" This statement originates from King Leonidas of Sparta, symbolizing defiance and strength. Printed on a durable yet soft cotton / polyester fabric blend, the graphic shirt offers both comfort and longevity, making it perfect for everyday wear or as a standout piece for special occasions. The Molon Labe text is displayed across a banner beneath the skull graphic, adding depth and detail to the design. With a tag-less label for added comfort, you&rsquo;ll enjoy a smooth, irritation-free fit. Whether for personal use or as a gift, Rothco&rsquo;s Molon Labe Skull T-Shirt is perfect for those who value both history and style.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "42"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17080",
+      "item_index": "4258",
+      "rothco_item_no": "2917",
+      "upc": "613902829060",
+      "inventory": "99",
+      "created_date": "2017-04-11 09:10:01",
+      "weight": "0.1800",
+      "image_filename": "2917-A2.jpg",
+      "catalog_page_no": "117",
+      "msrp": 18.99,
+      "ship_length": "15.2500",
+      "ship_width": "19.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17081",
+      "item_index": "4258",
+      "rothco_item_no": "2917",
+      "upc": "613902445161",
+      "inventory": "99",
+      "created_date": "2017-04-11 09:10:01",
+      "weight": "0.1800",
+      "image_filename": "2917-A2.jpg",
+      "catalog_page_no": "117",
+      "msrp": 18.99,
+      "ship_length": "15.2500",
+      "ship_width": "20.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17082",
+      "item_index": "4258",
+      "rothco_item_no": "2917",
+      "upc": "613902249714",
+      "inventory": "65",
+      "created_date": "2017-04-11 09:10:01",
+      "weight": "0.1800",
+      "image_filename": "2917-A2.jpg",
+      "catalog_page_no": "117",
+      "msrp": 18.99,
+      "ship_length": "15.5000",
+      "ship_width": "22.2500",
+      "ship_height": "25.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 7.5,
+      "case_price": 7.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17089",
+      "item_index": "4258",
+      "rothco_item_no": "2918",
+      "upc": "613902189270",
+      "inventory": "52",
+      "created_date": "2017-04-11 10:10:02",
+      "weight": "0.4500",
+      "image_filename": "2917-A2.jpg",
+      "catalog_page_no": "117",
+      "msrp": 19.99,
+      "ship_length": "16.5000",
+      "ship_width": "17.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 8,
+      "case_price": 8,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

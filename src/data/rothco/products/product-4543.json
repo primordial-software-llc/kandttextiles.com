@@ -1,0 +1,43 @@
+{
+  "item_index": "4543",
+  "item_name": "Rothco Rubber Training Knife ",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Rubber Training Knife is made to replicate a real knife in almost every way, providing you with a safe, more realistic way to train (It is recommended to wear appropriate face and eye protection as this item can still cause harm).</p>",
+  "no_ratings": null,
+  "sort_order": "132856",
+  "description": "<p>Rothco&rsquo;s Rubber Training Knife is made to replicate a real knife in almost every way, providing you with a safe, more realistic way to train. Constructed with thermoplastic rubber, the training knife&rsquo;s design is resilient enough to hold its shape, while flexible enough to bend. The handle measures 5 &frac12;&rdquo; X 1&rdquo;, and features grip texture and a finger groove for better control while training. With a 6&rdquo; blade and an overall length of 11 &frac12;&rdquo;, the rubber training knife is perfect for a variety of training exercises, including knife training, self-defense drills, and much more.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "498"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18850",
+      "item_index": "4543",
+      "rothco_item_no": "3777",
+      "upc": "613902037779",
+      "inventory": "99",
+      "created_date": "2019-01-11 13:10:00",
+      "weight": "0.5000",
+      "image_filename": "3777-A-amazon.jpg",
+      "catalog_page_no": "273",
+      "msrp": 15.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 5.9,
+      "case_price": 5.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "item_index": "4693",
+  "item_name": "Rothco Veteran T-Shirt - Marines, Navy and Air Force",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Veteran T-Shirt is a lightweight, breathable, and comfortable shirt for veterans.</p>",
+  "no_ratings": null,
+  "sort_order": "133006",
+  "description": "<p>Rothco&rsquo;s Veteran T-Shirt is a lightweight, breathable, and comfortable shirt for veterans. Each veteran t-shirt comes with military veteran prints on the left chest and center back, available in Navy, Air Force, and Marines versions. Tagless printed red label provides additional comfort for all-day wear.&nbsp;</p>",
+  "selection_groups": [
+    "color",
+    "size",
+    "amazon_size_map",
+    "emblem"
+  ],
+  "statuses": "",
+  "categories": [
+    "42",
+    "640",
+    "549",
+    "550"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "19646",
+      "item_index": "4693",
+      "rothco_item_no": "3555",
+      "upc": "613902035577",
+      "inventory": "64",
+      "created_date": "2020-06-11 12:00:19",
+      "weight": "0.4500",
+      "image_filename": "3555-B-amazon.jpg",
+      "catalog_page_no": "0",
+      "msrp": 34.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "S",
+        "amazon_size_map": "Small",
+        "emblem": "Marines"
+      },
+      "color": "Black",
+      "size": "S",
+      "amazon_size_map": "Small",
+      "emblem": "Marines",
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "19647",
+      "item_index": "4693",
+      "rothco_item_no": "3555",
+      "upc": "613902135574",
+      "inventory": "25",
+      "created_date": "2020-06-11 12:00:19",
+      "weight": "0.4500",
+      "image_filename": "3555-B-amazon.jpg",
+      "catalog_page_no": "0",
+      "msrp": 34.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black",
+        "size": "M",
+        "amazon_size_map": "Medium",
+        "emblem": "Marines"
+      },
+      "color": "Black",
+      "size": "M",
+      "amazon_size_map": "Medium",
+      "emblem": "Marines",
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

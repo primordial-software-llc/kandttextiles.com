@@ -1,0 +1,71 @@
+{
+  "item_index": "2480",
+  "item_name": "Rothco Vintage Canvas B-15 Pilot Messenger Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Vintage Canvas B-15 Pilot Messenger Bag combines a classic design with modern functionality, making it the ideal travel companion. Crafted from heavyweight washed canvas and accented with genuine leather trim, this bag brings a vintage aesthetic along with long-lasting durability. The spacious main compartment is ideal for packing clothes, books, or a laptop, while front and back zippered pockets provide convenient access to essential items.</p>",
+  "no_ratings": "0",
+  "sort_order": "1254",
+  "description": "<p>&nbsp;</p>\n<p>&nbsp;Rothco's Vintage Canvas B-15 Pilot Messenger Bag combines a classic design with modern functionality, making it the ideal travel companion. Crafted from heavyweight washed canvas and accented with genuine leather trim, this bag brings a vintage aesthetic along with long-lasting durability. The spacious main compartment is ideal for packing clothes, books, or a laptop, while front and back zippered pockets provide convenient access to essential items. The bag also includes 2 side pockets with secure hook &amp; loop closures, perfect for stashing smaller items, and an interior zippered pocket for added security. With brass hardware and clips adding a touch of timeless style, this messenger bag is both functional and rugged, suitable for work, travel, or everyday use. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "208",
+    "209",
+    "574"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10567",
+      "item_index": "2480",
+      "rothco_item_no": "9110",
+      "upc": "613902911000",
+      "inventory": "82",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.4000",
+      "image_filename": "9110-AA.jpg",
+      "catalog_page_no": "365",
+      "msrp": 65.99,
+      "ship_length": "18.5000",
+      "ship_width": "12.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 29.95,
+      "case_price": 29.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10574",
+      "item_index": "2480",
+      "rothco_item_no": "9117",
+      "upc": "613902911703",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "2.4000",
+      "image_filename": "9117-AA.jpg",
+      "catalog_page_no": "365",
+      "msrp": 65.99,
+      "ship_length": "18.5000",
+      "ship_width": "12.5000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 29.95,
+      "case_price": 29.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "item_index": "2056",
+  "item_name": "Rothco Paracord Bracelet With D-Shackle",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Paracord Bracelet w/ D-shackle. Paracord Bracelets are perfect for military, tactical, survival and outdoor activities. Complete with a durable stainless steel D-Shackle closure and 7-Strand cord; Rothco&rsquo;s Paracord Bracelets are the ideal survival item. With tons of survival applications, keep your paracord bracelet on your wrist and ready to deploy in case of an emergency. Rothco carries a massive selection of parachute cord including military 550 LBS paracord, para-cord bracelets and accessories.</p>",
+  "no_ratings": "0",
+  "sort_order": "4528",
+  "description": "<p>Rothco&rsquo;s Paracord Bracelet w/ D-shackle. Paracord Bracelets are perfect for military, tactical, survival and outdoor activities. Complete with a durable stainless steel D-Shackle closure and 7-Strand cord; Rothco&rsquo;s Paracord Bracelets are the ideal survival item. With tons of survival applications, keep your paracord bracelet on your wrist and ready to deploy in case of an emergency. Rothco carries a massive selection of parachute cord including military 550 LBS paracord, para-cord bracelets and accessories.</p>",
+  "selection_groups": [
+    "length"
+  ],
+  "statuses": "",
+  "categories": [
+    "445",
+    "446"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10610",
+      "item_index": "2056",
+      "rothco_item_no": "914",
+      "upc": "613902914094",
+      "inventory": "0",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0938",
+      "image_filename": "914-HR2.jpg",
+      "catalog_page_no": "0",
+      "msrp": 7.99,
+      "ship_length": "10.0000",
+      "ship_width": "2.0000",
+      "ship_height": "0.5000",
+      "eta_date": null,
+      "specs": {
+        "color": "Olive Drab",
+        "length": "9 Inches"
+      },
+      "color": "Olive Drab",
+      "length": "9 Inches",
+      "price": 2.9,
+      "case_price": 2.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

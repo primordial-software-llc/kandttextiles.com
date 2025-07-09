@@ -1,0 +1,40 @@
+{
+  "item_index": "1674",
+  "item_name": "Smith & Wesson Extreme OPS Rescue Knife",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p class=\"MsoNormal\">The Smith &amp; Wesson Extreme OPS Rescue Knife is a versatile tool combining glass breaker, seat belt cutter, and blade functionalities, designed for law enforcement, EMS personnel, and civilian use alike. Crafted with sturdy stainless steel, it ensures reliable performance in emergency situations. With its secure liner lock system and textured rubber handle, it offers a secure grip and easy handling. Ideal for rescuing distressed individuals trapped in vehicles or as part of everyday carry gear.</p>",
+  "no_ratings": "0",
+  "sort_order": "832",
+  "description": "<p>The Smith &amp; Wesson Extreme OPS Rescue Knife is a versatile tool combining glass breaker, seat belt cutter, and blade functionalities, designed for law enforcement, EMS personnel, and civilian use alike. Crafted with sturdy stainless steel, it ensures reliable performance in emergency situations. With its secure liner lock system and textured rubber handle, it offers a secure grip and easy handling. Ideal for rescuing distressed individuals trapped in vehicles or as part of everyday carry gear.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "513"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1805",
+      "item_index": "1674",
+      "rothco_item_no": "3092",
+      "upc": "028634701605",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2750",
+      "image_filename": "3092_hr1.jpg",
+      "catalog_page_no": "270",
+      "msrp": 56.99,
+      "ship_length": "5.0000",
+      "ship_width": "1.7500",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 22.5,
+      "case_price": 22.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

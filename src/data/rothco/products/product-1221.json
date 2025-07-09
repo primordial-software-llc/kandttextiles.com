@@ -1,0 +1,69 @@
+{
+  "item_index": "1221",
+  "item_name": "Rothco Large Mesh Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Large Mesh Bag is the ideal solution for your laundry and travel needs. Constructed from durable nylon, this lightweight mesh bag offers excellent breathability and sturdiness, making it perfect for storing laundry or carrying travel essentials. The bag features a drawstring top, ensuring secure closure and easy access to your items. With its spacious design measuring 24 inches x 30 inches, the Rothco Large Mesh Bag can accommodate a large volume of clothes or gear.</p>",
+  "no_ratings": "0",
+  "sort_order": "581",
+  "description": "<p>Rothco&rsquo;s Large Mesh Bag is the ideal solution for your laundry and travel needs. Constructed from durable nylon, this lightweight mesh bag offers excellent breathability and sturdiness, making it perfect for storing laundry or carrying travel essentials. The bag features a drawstring top, ensuring secure closure and easy access to your items. With its spacious design measuring 24 inches x 30 inches, the Rothco Large Mesh Bag can accommodate a large volume of clothes or gear, making it a versatile addition to your travel or home organization setup. Whether you&rsquo;re heading to the gym, camping, or simply organizing your laundry, this mesh bag offers the convenience and reliability you need.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "213"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1471",
+      "item_index": "1221",
+      "rothco_item_no": "2626",
+      "upc": "613902262607",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2438",
+      "image_filename": "2626-A-amazon.jpg",
+      "catalog_page_no": "367",
+      "msrp": 9.99,
+      "ship_length": "9.0000",
+      "ship_width": "7.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 3.95,
+      "case_price": 3.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18505",
+      "item_index": "1221",
+      "rothco_item_no": "2625",
+      "upc": "613902262508",
+      "inventory": "99",
+      "created_date": "2018-06-06 10:10:02",
+      "weight": "0.2438",
+      "image_filename": "2625-A-amazon.jpg",
+      "catalog_page_no": "367",
+      "msrp": 9.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 3.95,
+      "case_price": 3.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

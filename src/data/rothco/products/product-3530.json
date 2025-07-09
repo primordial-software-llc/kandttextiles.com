@@ -1,0 +1,41 @@
+{
+  "item_index": "3530",
+  "item_name": "Rothco Paracord Accessory Compass",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Paracord Accessory Compass is made of lightweight ABS plastic material.</p>",
+  "no_ratings": null,
+  "sort_order": "697",
+  "description": "<p>Rothco&rsquo;s Paracord Accessory Compass is made of lightweight ABS plastic material and measures 2cm. The compass can easily attach to types of cord or rope and is great for making Paracord bracelets.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "269",
+    "465"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "12815",
+      "item_index": "3530",
+      "rothco_item_no": "3957",
+      "upc": "613902395794",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0625",
+      "image_filename": "3957-A_LI.jpg",
+      "catalog_page_no": "282",
+      "msrp": 1.99,
+      "ship_length": "0.7500",
+      "ship_width": "0.7500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 0.55,
+      "case_price": 0.55,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

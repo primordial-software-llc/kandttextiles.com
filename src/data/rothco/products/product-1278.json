@@ -1,0 +1,70 @@
+{
+  "item_index": "1278",
+  "item_name": "Rothco Canvas Nato Medic Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Canvas Nato Medic Bag offers a perfect blend of style and functionality, keeping your gear protected and secure with its classic medical cross design. Made from 100% cotton canvas with genuine leather accents, this shoulder bag is durable and reliable. The large main compartment provides ample storage space for all your essential gear, making it ideal for various uses. Leather closing straps ensure the medic bag remains securely closed, while the adjustable shoulder strap adds comfort and versatility.</p>",
+  "no_ratings": "0",
+  "sort_order": "3094",
+  "description": "<p>Rothco's Canvas Nato Medic Bag offers a perfect blend of style and functionality, keeping your gear protected and secure with its classic medical cross design. Made from 100% cotton canvas with genuine leather accents, this shoulder bag is durable and reliable. The large main compartment provides ample storage space for all your essential gear, making it ideal for various uses. Leather closing straps ensure the medic bag remains securely closed, while the adjustable shoulder strap adds comfort and versatility. Whether you're heading out for a day in the field or need a dependable everyday carry bag, Rothco's Canvas Nato Medic Bag is the perfect choice. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "208",
+    "226"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9337",
+      "item_index": "1278",
+      "rothco_item_no": "8141",
+      "upc": "613902814103",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.9500",
+      "image_filename": "8141-A-amazon.jpg",
+      "catalog_page_no": "360",
+      "msrp": 20.99,
+      "ship_length": "13.7500",
+      "ship_width": "13.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9338",
+      "item_index": "1278",
+      "rothco_item_no": "8142",
+      "upc": "613902814219",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.9000",
+      "image_filename": "8142-A-amazon.jpg",
+      "catalog_page_no": "360",
+      "msrp": 20.99,
+      "ship_length": "13.7500",
+      "ship_width": "13.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

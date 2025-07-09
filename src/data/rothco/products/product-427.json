@@ -1,0 +1,121 @@
+{
+  "item_index": "427",
+  "item_name": "Rothco Full-Finger Rappelling Gloves",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Full-Finger Rappelling Gloves offer the ultimate in protection and durability for public safety professionals and tactical enthusiasts alike. Designed with rugged cowhide leather, these gloves provide a strong yet flexible barrier, perfect for rappelling and other high-demand tasks. The padded knuckles, thumb, and fingers shield your hands from debris and impacts, while reinforced palms ensure long-lasting use during intense activities.</p>",
+  "no_ratings": "0",
+  "sort_order": "513",
+  "description": "<p>Rothco&rsquo;s Full-Finger Rappelling Gloves offer the ultimate in protection and durability for public safety professionals and tactical enthusiasts alike. Designed with rugged cowhide leather, these gloves provide a strong yet flexible barrier, perfect for rappelling and other high-demand tasks. The padded knuckles, thumb, and fingers shield your hands from debris and impacts, while reinforced palms ensure long-lasting use during intense activities. The gloves' full-finger design offers superior protection while maintaining dexterity for precision tasks. For a secure fit, a hook &amp; loop closure keeps the gloves firmly in place throughout any operation. Whether you&rsquo;re rappelling, climbing, or performing other physically demanding tasks, Rothco&rsquo;s Full-Finger Rappelling Gloves are built to handle the challenge, ensuring comfort and protection in the field.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "291",
+    "318",
+    "239",
+    "335",
+    "516"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2108",
+      "item_index": "427",
+      "rothco_item_no": "3451",
+      "upc": "613902345157",
+      "inventory": "99",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "0.3500",
+      "image_filename": "3451_group-hr-amazon.jpg",
+      "catalog_page_no": "191",
+      "msrp": 35.99,
+      "ship_length": "10.7500",
+      "ship_width": "4.5000",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 15.9,
+      "case_price": 15.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2109",
+      "item_index": "427",
+      "rothco_item_no": "3451",
+      "upc": "613902345164",
+      "inventory": "99",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "0.3500",
+      "image_filename": "3451_group-hr-amazon.jpg",
+      "catalog_page_no": "191",
+      "msrp": 35.99,
+      "ship_length": "11.0000",
+      "ship_width": "4.5000",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 15.9,
+      "case_price": 15.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2110",
+      "item_index": "427",
+      "rothco_item_no": "3451",
+      "upc": "613902345171",
+      "inventory": "99",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "0.3500",
+      "image_filename": "3451_group-hr-amazon.jpg",
+      "catalog_page_no": "191",
+      "msrp": 35.99,
+      "ship_length": "11.2500",
+      "ship_width": "4.5000",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 15.9,
+      "case_price": 15.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "2111",
+      "item_index": "427",
+      "rothco_item_no": "3451",
+      "upc": "613902345188",
+      "inventory": "99",
+      "created_date": "2002-04-16 21:00:00",
+      "weight": "0.3500",
+      "image_filename": "3451_group-hr-amazon.jpg",
+      "catalog_page_no": "191",
+      "msrp": 35.99,
+      "ship_length": "11.2500",
+      "ship_width": "4.5000",
+      "ship_height": "2.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 15.9,
+      "case_price": 15.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

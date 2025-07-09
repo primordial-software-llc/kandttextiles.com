@@ -1,0 +1,44 @@
+{
+  "item_index": "3073",
+  "item_name": "Genuine G.I 3 Piece 1 QT. Canteen with Clip",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The Genuine G.I. 3 Piece 1 Quart Canteen with Clip is perfect for holding and transporting water for convenient hydration in the field.&nbsp;&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "274",
+  "description": "<p>Genuine G.I 3 Piece 1 qt. Canteen with Clip is made of a high-density polyethylene plastic that is BPA Free, with a rigid, single wall construction. The military canteen features a screw cap and clip and will fit into any our G.I Style Canteen Covers. U.S. Made, NSN# 8465-00-889-3744 MIL SPEC: MIL-C-43103</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "281",
+    "500"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "6064",
+      "item_index": "3073",
+      "rothco_item_no": "610",
+      "upc": "613902061002",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3500",
+      "image_filename": "610-A-no-logo.jpg",
+      "catalog_page_no": "285",
+      "msrp": 7.99,
+      "ship_length": "8.5000",
+      "ship_width": "4.0000",
+      "ship_height": "5.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 3.95,
+      "case_price": 3.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "item_index": "4034",
+  "item_name": "Rothco G.I. Style MultiCam Sewing & Repair Kit",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco G.I. Style Sewing Kit includes scissors, MultiCam threads, thimble, buttons, snaps, pins, needles, and measuring tape. Comes in a coyote brown pouch with button down flap and single MOLLE strap on the back.</p>",
+  "no_ratings": null,
+  "sort_order": "147",
+  "description": "<p>Rothco G.I. Style Sewing Kit includes scissors, MultiCam threads, thimble, buttons, snaps, pins, needles, and measuring tape. Comes in a coyote brown pouch with button down flap and single MOLLE strap on the back.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "306",
+    "499",
+    "634",
+    "261"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15716",
+      "item_index": "4034",
+      "rothco_item_no": "1117",
+      "upc": "613902011175",
+      "inventory": "99",
+      "created_date": "2015-09-23 16:10:02",
+      "weight": "0.1250",
+      "image_filename": "1117-A-amazon1.jpg",
+      "catalog_page_no": "204",
+      "msrp": 12.99,
+      "ship_length": "5.0000",
+      "ship_width": "4.5000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 4.9,
+      "case_price": 4.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "item_index": "4889",
+  "item_name": "Rothco MOLLE Open Top Single Mag Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s MOLLE Open Top Single Mag Pouch fits most standard sized rifle magazines and features two MOLLE clips on the back for mounting on tactical vests.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133202",
+  "description": "<p>Rothco&rsquo;s MOLLE Open Top Single Mag Pouch fits most standard sized rifle magazines and features two MOLLE clips on the back for mounting on tactical vests. The tactical magazine pouch measures 3.75 inches X 5.5 inches X 1.25 inches. Three MOLLE loops on the front of the plate carrier mag pouch enable additional attachments. The open top design and elastic pull tabs on the AK mag pouch enable rapid access to your magazine. The tactical pouch is made with durable materials for years of use in the field.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "251",
+    "254",
+    "255"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "21013",
+      "item_index": "4889",
+      "rothco_item_no": "31001",
+      "upc": "613902007123",
+      "inventory": "20",
+      "created_date": "2021-11-11 12:00:10",
+      "weight": "0.2500",
+      "image_filename": "31001-A-NOLOGO.jpg",
+      "catalog_page_no": "244",
+      "msrp": 20.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21014",
+      "item_index": "4889",
+      "rothco_item_no": "31002",
+      "upc": "613902007109",
+      "inventory": "99",
+      "created_date": "2021-11-11 12:00:10",
+      "weight": "0.2500",
+      "image_filename": "31002-A-NOLOGO.jpg",
+      "catalog_page_no": "244",
+      "msrp": 20.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21015",
+      "item_index": "4889",
+      "rothco_item_no": "31003",
+      "upc": "613902007130",
+      "inventory": "99",
+      "created_date": "2021-11-11 12:00:10",
+      "weight": "0.2500",
+      "image_filename": "31003-A-NOLOGO.jpg",
+      "catalog_page_no": "244",
+      "msrp": 23.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 10.5,
+      "case_price": 10.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "item_index": "1210",
+  "item_name": "Rothco EMS Rescue Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s EMS Rescue Bag is expertly designed for first responders and emergency personnel to carry essential medical supplies securely and efficiently. Made from heavy-duty, water-resistant 1000D polyester, this durable bag is built to withstand demanding situations. It features multiple storage options, including 2 side pockets, 2 interior compartments, and a 4-section divider, ideal for organizing instruments like shears. The adjustable and detachable 1.5-inch nylon web shoulder strap ensures comfortable transport.</p>",
+  "no_ratings": "0",
+  "sort_order": "1332",
+  "description": "<p>Rothco&rsquo;s EMS Rescue Bag is expertly designed for first responders and emergency personnel to carry essential medical supplies securely and efficiently. Made from heavy-duty, water-resistant 1000D polyester, this durable bag is built to withstand demanding situations. It features multiple storage options, including 2 side pockets, 2 interior compartments, and a 4-section divider, ideal for organizing instruments like shears. The adjustable and detachable 1.5-inch nylon web shoulder strap ensures comfortable transport, while the compact design allows for easy portability. Complete with the Star of Life emblem, this bag offers both functionality and professional style for emergency medical services.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "208",
+    "226",
+    "242"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "1232",
+      "item_index": "1210",
+      "rothco_item_no": "2343",
+      "upc": "613902234307",
+      "inventory": "99",
+      "created_date": "2004-09-23 21:00:00",
+      "weight": "0.7000",
+      "image_filename": "2343-A.jpg",
+      "catalog_page_no": "250",
+      "msrp": 35.99,
+      "ship_length": "11.7500",
+      "ship_width": "7.7500",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Orange"
+      },
+      "color": "Orange",
+      "price": 15.9,
+      "case_price": 15.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

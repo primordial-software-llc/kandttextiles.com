@@ -1,0 +1,98 @@
+{
+  "item_index": "2477",
+  "item_name": "Rothco Flexipack MOLLE Tactical Shoulder Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Flexipack MOLLE Tactical Shoulder Bag is the ideal compact travel pack for those who need a durable, versatile solution for carrying essentials. Made from 100% polyester, this tactical shoulder bag is built to withstand the rigors of outdoor activities and daily use. The bag features a 1.5 inch wide adjustable and detachable shoulder strap with a detachable shoulder pad, ensuring comfort during extended wear. The flap closure with a 2 inch wide front quick-release buckle provides easy access to your gear while keeping it secure.</p>",
+  "no_ratings": "0",
+  "sort_order": "1309",
+  "description": "<p>Rothco&rsquo;s Flexipack MOLLE Tactical Shoulder Bag is the ideal compact travel pack for those who need a durable, versatile solution for carrying essentials. Made from 100% polyester, this tactical shoulder bag is built to withstand the rigors of outdoor activities and daily use. The bag features a 1.5 inch wide adjustable and detachable shoulder strap with a detachable shoulder pad, ensuring comfort during extended wear. The flap closure with a 2 inch wide front quick-release buckle provides easy access to your gear while keeping it secure. Inside, the bag boasts a 2-pouch interior with a drawstring closure top, perfect for organizing and securing your items. The front zipper pouch includes both an interior and exterior pocket, offering additional storage options. Measuring 12 inch x 4 inch x 6 inch, this rugged shoulder bag is compact yet spacious enough to carry your essentials. MOLLE attachment straps on the back allow for easy customization and expansion with other MOLLE-compatible gear.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "201",
+    "206",
+    "650",
+    "504",
+    "305",
+    "306"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9526",
+      "item_index": "2477",
+      "rothco_item_no": "8319",
+      "upc": "613902831902",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.0000",
+      "image_filename": "8319 front-HR.jpg",
+      "catalog_page_no": "321",
+      "msrp": 39.99,
+      "ship_length": "12.0000",
+      "ship_width": "11.5000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 17.6,
+      "case_price": 17.6,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "9527",
+      "item_index": "2477",
+      "rothco_item_no": "8320",
+      "upc": "613902832008",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.0000",
+      "image_filename": "8320 front-HR.jpg",
+      "catalog_page_no": "321",
+      "msrp": 39.99,
+      "ship_length": "12.0000",
+      "ship_width": "11.5000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 17.6,
+      "case_price": 17.6,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15114",
+      "item_index": "2477",
+      "rothco_item_no": "8374",
+      "upc": "613902083745",
+      "inventory": "99",
+      "created_date": "2015-03-10 16:10:02",
+      "weight": "1.0000",
+      "image_filename": "8374-A-amazon.jpg",
+      "catalog_page_no": "321",
+      "msrp": 39.99,
+      "ship_length": "12.0000",
+      "ship_width": "11.5000",
+      "ship_height": "4.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 17.6,
+      "case_price": 17.6,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

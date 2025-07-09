@@ -1,0 +1,70 @@
+{
+  "item_index": "4199",
+  "item_name": "Rothco Deluxe Tactical 2-Point Sling",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Deluxe 2-Point Sling delivers exceptional functionality for your shooting needs, with the ability to convert into a single-point sling for enhanced versatility. Made from durable nylon webbing, this sling resists wear and tear while offering long-lasting comfort during use. The bungee material provides flexibility and quick access to your rifle, making it a reliable companion for outdoor activities. Fully adjustable, the sling extends from 50.25 inches to 64.5 inches, fitting most standard-sized long rifles.</p>",
+  "no_ratings": null,
+  "sort_order": "53",
+  "description": "<p>Rothco&rsquo;s Deluxe 2-Point Sling delivers exceptional functionality for your shooting needs, with the ability to convert into a single-point sling for enhanced versatility. Made from durable nylon webbing, this sling resists wear and tear while offering long-lasting comfort during use. The bungee material provides flexibility and quick access to your rifle, making it a reliable companion for outdoor activities. Fully adjustable, the sling extends from 50.25 inches to 64.5 inches, fitting most standard-sized long rifles. It also features webbing attachment points for easy setup, fasteners for organizing excess material, and quick-release buckles for effortless mounting and removal. Whether you're at the range or in the field, this sling ensures reliable support and adaptability.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "250",
+    "333"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "16603",
+      "item_index": "4199",
+      "rothco_item_no": "4651",
+      "upc": "613902146518",
+      "inventory": "99",
+      "created_date": "2016-10-11 12:10:03",
+      "weight": "0.5000",
+      "image_filename": "4651-B-amazon.jpg",
+      "catalog_page_no": "259",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "20633",
+      "item_index": "4199",
+      "rothco_item_no": "46510",
+      "upc": "613902001800",
+      "inventory": "99",
+      "created_date": "2021-05-03 15:00:21",
+      "weight": "0.5000",
+      "image_filename": "46510-A-no-logo.jpg",
+      "catalog_page_no": "259",
+      "msrp": 24.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

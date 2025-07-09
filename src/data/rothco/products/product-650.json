@@ -1,0 +1,93 @@
+{
+  "item_index": "650",
+  "item_name": "Rothco G.I. Type Cats Eye Helmet Bands",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco Cats Eye Helmet Bands are designed to enhance visibility and provide secure camouflage for your helmet. These bands feature reflective luminous tabs, ensuring you stay visible in low-light conditions. The coyote-colored band fits current issue helmets perfectly, offering a snug and reliable fit. Made from elastic spun nylon, these helmet bands are durable and stretchable, allowing them to hold branches and other natural materials for effective camouflage.</p>",
+  "no_ratings": "0",
+  "sort_order": "2313",
+  "description": "<p>Rothco Cats Eye Helmet Bands are designed to enhance visibility and provide secure camouflage for your helmet. These bands feature reflective luminous tabs, ensuring you stay visible in low-light conditions. The coyote-colored band fits current issue helmets perfectly, offering a snug and reliable fit. Made from elastic spun nylon, these helmet bands are durable and stretchable, allowing them to hold branches and other natural materials for effective camouflage. Whether you're on a night patrol or in a woodland environment, Rothco Cats Eye Helmet Bands provide the functionality and reliability you need.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "325"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10690",
+      "item_index": "650",
+      "rothco_item_no": "9219",
+      "upc": "613902921900",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0250",
+      "image_filename": "9256-b.jpg",
+      "catalog_page_no": "258",
+      "msrp": 4.99,
+      "ship_length": "12.0000",
+      "ship_width": "0.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 1.6,
+      "case_price": 1.6,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10730",
+      "item_index": "650",
+      "rothco_item_no": "9253",
+      "upc": "613902992535",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0250",
+      "image_filename": "9219-a1.jpg",
+      "catalog_page_no": "258",
+      "msrp": 4.99,
+      "ship_length": "12.0000",
+      "ship_width": "0.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki"
+      },
+      "color": "Khaki",
+      "price": 1.6,
+      "case_price": 1.6,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10731",
+      "item_index": "650",
+      "rothco_item_no": "9256",
+      "upc": "613902925601",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0250",
+      "image_filename": "9256-A.jpg",
+      "catalog_page_no": "258",
+      "msrp": 4.99,
+      "ship_length": "12.0000",
+      "ship_width": "0.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 1.6,
+      "case_price": 1.6,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

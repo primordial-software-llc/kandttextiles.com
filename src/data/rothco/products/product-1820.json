@@ -1,0 +1,42 @@
+{
+  "item_index": "1820",
+  "item_name": "Smith & Wesson Hinged Handcuffs",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "",
+  "no_ratings": "0",
+  "sort_order": "241",
+  "description": "The Smith and Wesson hinged pass all NILEC and NJI specifications.  It has a double lock slot and uses a standard key.  Each handcuffs are stamped with serial number and model number.\r\n",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "234"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "46",
+      "item_index": "1820",
+      "rothco_item_no": "10089",
+      "upc": "022188500967",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8000",
+      "image_filename": "10089-A.jpg",
+      "catalog_page_no": "225",
+      "msrp": 93.99,
+      "ship_length": "4.2500",
+      "ship_width": "4.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 37.25,
+      "case_price": 37.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

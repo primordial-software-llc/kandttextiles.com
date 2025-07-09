@@ -1,0 +1,143 @@
+{
+  "item_index": "2138",
+  "item_name": "Rothco Vintage 'Choose Your Caliber' T-Shirt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Vintage 'Choose Your Caliber' T-Shirt combines comfort and style with a unique graphic design that features over 10 different types of ammunition. Made from a super soft washed cotton / polyester blend, this black, vintage t-shirt ensures all-day comfort, making it ideal for casual wear or any relaxed occasion. The front of the shirt proudly displays a variety of ammunition rounds, adding a distinctive touch that sets it apart from ordinary t-shirts.</p>",
+  "no_ratings": "0",
+  "sort_order": "3415",
+  "description": "<p>Rothco's Vintage 'Choose Your Caliber' T-Shirt combines comfort and style with a unique graphic design that features over 10 different types of ammunition. Made from a super soft washed cotton / polyester blend, this black, vintage t-shirt ensures all-day comfort, making it ideal for casual wear or any relaxed occasion. The front of the shirt proudly displays a variety of ammunition rounds, adding a distinctive touch that sets it apart from ordinary t-shirts. The tag-less label enhances comfort by eliminating irritation, making this t-shirt perfect for those who appreciate both comfort and style. Whether you're a firearm enthusiast or simply enjoy unique graphic tees, Rothco's 'Choose Your Caliber' T-Shirt is a versatile addition to your wardrobe. Its durable construction ensures it will remain a staple in your collection for years to come. Embrace the combination of softness, durability, and standout design with Rothco's vintage-style t-shirt.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "42",
+    "49",
+    "69"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "7529",
+      "item_index": "2138",
+      "rothco_item_no": "67380",
+      "upc": "613902673885",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3500",
+      "image_filename": "67380-A1.jpg",
+      "catalog_page_no": "117",
+      "msrp": 24.99,
+      "ship_length": "14.0000",
+      "ship_width": "18.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7530",
+      "item_index": "2138",
+      "rothco_item_no": "67380",
+      "upc": "613902673830",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3500",
+      "image_filename": "67380-A1.jpg",
+      "catalog_page_no": "117",
+      "msrp": 24.99,
+      "ship_length": "15.2500",
+      "ship_width": "19.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7531",
+      "item_index": "2138",
+      "rothco_item_no": "67380",
+      "upc": "613902673847",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3500",
+      "image_filename": "67380-A1.jpg",
+      "catalog_page_no": "117",
+      "msrp": 24.99,
+      "ship_length": "15.2500",
+      "ship_width": "20.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7532",
+      "item_index": "2138",
+      "rothco_item_no": "67380",
+      "upc": "613902673854",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3500",
+      "image_filename": "67380-A1.jpg",
+      "catalog_page_no": "117",
+      "msrp": 24.99,
+      "ship_length": "15.5000",
+      "ship_width": "22.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 8.5,
+      "case_price": 8.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "7533",
+      "item_index": "2138",
+      "rothco_item_no": "67381",
+      "upc": "613902673816",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.4500",
+      "image_filename": "67380-A1.jpg",
+      "catalog_page_no": "117",
+      "msrp": 25.99,
+      "ship_length": "16.5000",
+      "ship_width": "17.5000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 9,
+      "case_price": 9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

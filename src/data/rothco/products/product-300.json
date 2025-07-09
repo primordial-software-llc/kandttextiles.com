@@ -1,0 +1,40 @@
+{
+  "item_index": "300",
+  "item_name": "Rothco Tactical Belt",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Tactical Duty Belt is constructed of heavy-duty material to ensure stability and reliability while holding the weight of your professional gear. The police belt is also fully adjustable comfortable fitting most waist sizes.</p>",
+  "no_ratings": "0",
+  "sort_order": "595",
+  "description": "<p>Rothco&rsquo;s Tactical Duty Belt is constructed of a heavy-duty material to ensure stability and reliability while holding the weight of your professional gear. The police belt is also fully adjustable comfortable fitting most waist sizes.&nbsp; Hold public safety items such as your firearm, handcuffs, and other uniform gear. The belt is equipped with two removable pouches with hook &amp; loop closures that are ideal for storing folding knives or other small security items.&nbsp; The 2\" wide quick release buckle allows for easy removal. Tactical belt fits a 48\" waist at the largest and 29.5\" at the smallest.&nbsp; Tactical belt is ideally worn by police, military, public safety, and law enforcement personnel.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "383"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "763",
+      "item_index": "300",
+      "rothco_item_no": "16491",
+      "upc": "613902164918",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.7500",
+      "image_filename": "16491-A-amazon.jpg",
+      "catalog_page_no": "310",
+      "msrp": 24.99,
+      "ship_length": "21.0000",
+      "ship_width": "2.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 9.5,
+      "case_price": 9.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

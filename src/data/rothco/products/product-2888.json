@@ -1,0 +1,40 @@
+{
+  "item_index": "2888",
+  "item_name": "Rothco 9MM Pistol Cleaning Kit",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s 9MM Pistol Cleaning Kit is designed to provide a complete solution for maintaining and cleaning your 9mm handgun. This all-inclusive kit features a wool brush, brass brush, and bristle brush to ensure every part of your handgun is cleaned thoroughly. Additionally, it comes with 2 brass rod extensions and a solvent holder with a dauber to assist in achieving precision cleaning.</p>",
+  "no_ratings": null,
+  "sort_order": "595",
+  "description": "<p>Rothco&rsquo;s 9MM Pistol Cleaning Kit is designed to provide a complete solution for maintaining and cleaning your 9mm handgun. This all-inclusive kit features a wool brush, brass brush, and bristle brush to ensure every part of your handgun is cleaned thoroughly. Additionally, it comes with 2 brass rod extensions and a solvent holder with a dauber to assist in achieving precision cleaning. The components are carefully crafted for durability, allowing for long-lasting use while maintaining the performance of your firearm. For added convenience, all of the cleaning tools are neatly organized in a compact storage case, making it easy to transport and keep everything in one place. Whether you're a regular user or just need to perform routine maintenance, this cleaning kit offers everything you need to keep your 9mm handgun in optimal condition.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "249"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2563",
+      "item_index": "2888",
+      "rothco_item_no": "3816",
+      "upc": "613902038165",
+      "inventory": "99",
+      "created_date": "2010-06-24 21:00:00",
+      "weight": "0.3200",
+      "image_filename": "3816-hr2-amazon.jpg",
+      "catalog_page_no": "262",
+      "msrp": 17.99,
+      "ship_length": "4.0000",
+      "ship_width": "4.2500",
+      "ship_height": "1.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 6.95,
+      "case_price": 6.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

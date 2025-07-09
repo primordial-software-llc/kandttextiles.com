@@ -1,0 +1,41 @@
+{
+  "item_index": "1373",
+  "item_name": "Rothco US Navy Flag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s officially-licensed United States Navy Flag features the iconic eagle, globe, and anchor design and makes a great gift for sailors, veterans, or anybody looking to showcase their patriotism.</p>",
+  "no_ratings": "0",
+  "sort_order": "1363",
+  "description": "<p>Rothco&rsquo;s US Navy Flag measures 3&rsquo; x 5&rsquo; and is made of a durable, double stitched polyester material. It also features grommets along the side for easy display. This military flag is officially licensed by the United States Navy.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "428",
+    "549"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "668",
+      "item_index": "1373",
+      "rothco_item_no": "1458",
+      "upc": "767720304145",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.3300",
+      "image_filename": "1458-A1.jpg",
+      "catalog_page_no": "210",
+      "msrp": 10.99,
+      "ship_length": "10.0000",
+      "ship_width": "8.2500",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

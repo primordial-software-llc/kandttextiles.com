@@ -1,0 +1,41 @@
+{
+  "item_index": "4971",
+  "item_name": "Rothco Enhanced Molded Single Magazine Pouch - Black",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Enhanced Molded Single Magazine Pouch is designed to attach to your duty belt for quick access to additional ammo.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133284",
+  "description": "<p>Enhanced Molded Single Magazine Pouch is designed to attach to your duty belt for quick access to additional ammo. The magazine holder stores one 9mm or .45 mag, mounting onto your belt with a secure metal clip. A strong snap closure on the ammo pouch fastens your spare rounds in place while in motion. This tactical mag pouch is perfect for public safety, MilSim players, the range, and more. Measures approximately 6 inches x 2 &frac34; inches x 1 3/5 inches.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "255",
+    "238"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "22163",
+      "item_index": "4971",
+      "rothco_item_no": "20573",
+      "upc": "613902020306",
+      "inventory": "99",
+      "created_date": "2022-08-30 11:00:15",
+      "weight": "0.0000",
+      "image_filename": "20573_A.jpg",
+      "catalog_page_no": "229",
+      "msrp": 14.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 5.5,
+      "case_price": 5.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "item_index": "3926",
+  "item_name": "Rothco Cold Weather All Purpose Duty Gloves",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Prepare for cold weather with Rothco&rsquo;s Cold Weather All-Purpose Duty Gloves. These gloves are crafted with a moisture wicking polyester spandex fabric, combined with 5mm thick open-cell foam to draw moisture away from the body. Lined with Thermoblock insulation, the tactical gloves keep hands warm even in chilly conditions. The gloves are reinforced with a breathable waterproof bladder, ensuring hands stay dry. Featuring an elastic cuff with hook and loop closure, the cold weather gloves provide a secure fit.</p>",
+  "no_ratings": null,
+  "sort_order": "250",
+  "description": "<p>Prepare for cold weather with Rothco&rsquo;s Cold Weather All-Purpose Duty Gloves. These gloves are crafted with a moisture wicking polyester spandex fabric, combined with 5mm thick open-cell foam to draw moisture away from the body. Lined with Thermoblock insulation, the tactical gloves keep hands warm even in chilly conditions. The gloves are reinforced with a breathable waterproof bladder, ensuring hands stay dry. Featuring an elastic cuff with hook and loop closure, the cold weather gloves provide a secure fit. Finger and knuckle patches offer added protection, while the synthetic leather palm and fingers enhance grip and durability.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "321"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15436",
+      "item_index": "3926",
+      "rothco_item_no": "5469",
+      "upc": "613902546912",
+      "inventory": "99",
+      "created_date": "2015-05-14 15:10:01",
+      "weight": "0.4500",
+      "image_filename": "5469-c.jpg",
+      "catalog_page_no": "192",
+      "msrp": 25.99,
+      "ship_length": "11.0000",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "S"
+      },
+      "size": "S",
+      "price": 11.35,
+      "case_price": 11.35,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15437",
+      "item_index": "3926",
+      "rothco_item_no": "5469",
+      "upc": "613902546929",
+      "inventory": "99",
+      "created_date": "2015-05-14 15:10:01",
+      "weight": "0.4500",
+      "image_filename": "5469-c.jpg",
+      "catalog_page_no": "192",
+      "msrp": 25.99,
+      "ship_length": "11.0000",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 11.35,
+      "case_price": 11.35,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15438",
+      "item_index": "3926",
+      "rothco_item_no": "5469",
+      "upc": "613902546936",
+      "inventory": "99",
+      "created_date": "2015-05-14 15:10:01",
+      "weight": "0.4500",
+      "image_filename": "5469-c.jpg",
+      "catalog_page_no": "192",
+      "msrp": 25.99,
+      "ship_length": "11.0000",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 11.35,
+      "case_price": 11.35,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "15439",
+      "item_index": "3926",
+      "rothco_item_no": "5469",
+      "upc": "613902546943",
+      "inventory": "99",
+      "created_date": "2015-05-14 15:10:01",
+      "weight": "0.4500",
+      "image_filename": "5469-c.jpg",
+      "catalog_page_no": "192",
+      "msrp": 25.99,
+      "ship_length": "11.0000",
+      "ship_width": "5.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XL"
+      },
+      "size": "XL",
+      "price": 11.35,
+      "case_price": 11.35,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21983",
+      "item_index": "3926",
+      "rothco_item_no": "5469",
+      "upc": "613902017702",
+      "inventory": "99",
+      "created_date": "2022-07-08 09:00:09",
+      "weight": "0.0000",
+      "image_filename": "5469-c.jpg",
+      "catalog_page_no": "192",
+      "msrp": 25.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "2XL"
+      },
+      "size": "2XL",
+      "price": 11.35,
+      "case_price": 11.35,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

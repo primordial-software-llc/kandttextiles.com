@@ -1,0 +1,41 @@
+{
+  "item_index": "691",
+  "item_name": "Rothco Deluxe POW/MIA Low Profile Cap",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Deluxe POW/MIA Low Profile Cap is made from a durable 100% brushed cotton twill, featuring a raised 3-D embroidered POW/MIA insignia on the front panel as well as &ldquo;POW*MIA&rdquo; on the brim. This military hat also features a hook and loop closure in back for adjustability.</p>",
+  "no_ratings": "0",
+  "sort_order": "609",
+  "description": "<p>Rothco&rsquo;s Deluxe POW/MIA Low Profile Cap is made from a durable 100% brushed cotton twill, featuring a raised 3-D embroidered POW/MIA insignia on the front panel as well as &ldquo;POW*MIA&rdquo; on the brim. This military hat also features a hook and loop closure in back for adjustability.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "374",
+    "674"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10889",
+      "item_index": "691",
+      "rothco_item_no": "9369",
+      "upc": "613902936904",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "9369-HR.jpg",
+      "catalog_page_no": "142",
+      "msrp": 18.99,
+      "ship_length": "8.7500",
+      "ship_width": "8.7500",
+      "ship_height": "4.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 7.25,
+      "case_price": 7.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

@@ -20,21 +20,21 @@ function readConfig() {
 }
 
 // Function to read product IDs from file
-function readProductIds() {
+function readRothcoItemIndexes() {
   try {
-    const idsPath = path.join(__dirname, 'rothco-ids.txt');
+    const idsPath = path.join(__dirname, 'rothco-item-indexes.txt');
     const idsData = fs.readFileSync(idsPath, 'utf8');
-    return idsData.trim().split(',').map(id => id.trim());
+    return idsData.trim().split('\n').map(id => id.trim()).filter(id => id);
   } catch (error) {
     console.error('❌ Error reading product IDs file:', error.message);
-    console.error('Please ensure scripts/rothco-ids.txt exists with your product IDs');
+    console.error('Please ensure scripts/rothco-item-indexes.txt exists with your product IDs');
     process.exit(1);
   }
 }
 
 async function saveProductJson(productData, basePath, filename) {
   return new Promise((resolve, reject) => {
-    // Ensure the base directory exists
+
     if (!fs.existsSync(basePath)) {
       fs.mkdirSync(basePath, { recursive: true });
     }
@@ -109,11 +109,11 @@ async function fetchRothcoApi(path, urlParams, apiKey) {
   });
 }
 
-async function loadProduct(rothcoId, apiKey) {
+async function syncProduct(rothcoId, apiKey) {
   try {
-    const productResponse = await fetchRothcoApi('api/products/items', `&rothco_ids=${rothcoId}&fields=selection_groups,description,rating,categories,short_description,no_ratings,sort`, apiKey);
-    const product = productResponse.items.length ? productResponse.items[0] : null;
-    if (product) {
+    const products = await fetchRothcoApi('api/products/items', `&item_indexes=${rothcoId}&fields=selection_groups,description,rating,categories,short_description,no_ratings,sort`, apiKey);
+    if (products && products.items && products.items.length) {
+      const product = products.items[0];
       const variationsResponse = await fetchRothcoApi('api/products/variations', `&item_indexes=${product.item_index}&fields=specs,price,weight,image,catalog_page,msrp,caseprice,ship_size,eta_date`, apiKey);
       const variations = variationsResponse.item_variations.length ? variationsResponse.item_variations : [];
       
@@ -142,15 +142,13 @@ async function loadProduct(rothcoId, apiKey) {
       console.log('❌ No product found with that variation ID');
     }
     
-    console.log(product);
   } catch (error) {
     console.error('Error:', error.message);
   }
 }
 
-// Read configuration and product IDs from files
 const config = readConfig();
-const variationIds = readProductIds();
+const rothcoItemIndexes = readRothcoItemIndexes();
 const apiKey = config.rothco_api_key;
 
 if (!apiKey || apiKey === 'your_api_key_here') {
@@ -158,23 +156,24 @@ if (!apiKey || apiKey === 'your_api_key_here') {
   process.exit(1);
 }
 
-console.log(`📋 Processing ${variationIds.length} product IDs: ${variationIds.join(', ')}`);
+console.log(`📋 Processing ${rothcoItemIndexes.length} product IDs: ${rothcoItemIndexes.join(', ')}`);
 
 async function processAllVariations() {
-  for (let i = 0; i < variationIds.length; i++) {
-    const variationId = variationIds[i];
-    console.log(`\n🔍 Processing variation ${i + 1}/${variationIds.length}: ${variationId}`);
+  for (let i = 0; i < rothcoItemIndexes.length; i++) {
+    const rothcoItemIndex = rothcoItemIndexes[i];
+    console.log(`\n🔍 Processing variation ${i + 1}/${rothcoItemIndexes.length}: ${rothcoItemIndex}`);
     console.log('━'.repeat(50));
     
-    await syncProduct(variationId, apiKey);
+    await syncProduct(rothcoItemIndex, apiKey);
     
     // Add a small delay between requests to be respectful to the API
-    if (i < variationIds.length - 1) {
+    if (i < rothcoItemIndexes.length - 1) {
       await new Promise(resolve => setTimeout(resolve, 1000));
     }
   }
   
-  console.log(`\n✅ Completed processing ${variationIds.length} variation(s)`);
+  console.log(`\n✅ Completed processing ${rothcoItemIndexes.length} variation(s)`);
 }
 
 processAllVariations();
+

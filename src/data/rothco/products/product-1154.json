@@ -1,0 +1,42 @@
+{
+  "item_index": "1154",
+  "item_name": "Rothco Ranger Flint & Striker Firestarter",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Compact, dependable and effective Rothco's Ranger Flint is the ultimate fire starter. Great for camping and emergency&nbsp;situations, this fire starter is GSA approved and used by the US Marines and Airforce.&nbsp;&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "775",
+  "description": "<p>Compact, dependable and effective Rothco's Ranger Flint is the ultimate fire starter. Great for camping and emergency&nbsp;situations, this fire starter is GSA approved and used by the US Marines and Airforce. NSN: 5110-99-565-2549.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "542",
+    "261",
+    "264"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "7536",
+      "item_index": "1154",
+      "rothco_item_no": "674",
+      "upc": "5060801940368",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.0625",
+      "image_filename": "674-A.jpg",
+      "catalog_page_no": "293",
+      "msrp": 14.99,
+      "ship_length": "4.0000",
+      "ship_width": "2.0000",
+      "ship_height": "0.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 5.75,
+      "case_price": 5.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

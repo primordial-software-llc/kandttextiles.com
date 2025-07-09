@@ -1,0 +1,78 @@
+{
+  "item_index": "4551",
+  "item_name": "Rothco Womens Unwashed Camo Paratrooper Fatigue Pants",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Women Unwashed Camo Paratrooper Fatigues feature 8 versatile pockets and are perfect for any occasion.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "132864",
+  "description": "<p>Rothco&rsquo;s Women Unwashed Camo Paratrooper Fatigues feature 8 versatile pockets and are perfect for any occasion. Made of a super soft and durable ramie/cotton blend, these paratrooper fatigues are not only comfortable and soft, but they are also built with maximum durability and are lightweight. Zipper fly, drawstring ties, and a button are present on these camo pants as well.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "13",
+    "17",
+    "79",
+    "88",
+    "90",
+    "137"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18950",
+      "item_index": "4551",
+      "rothco_item_no": "3833",
+      "upc": "613902383319",
+      "inventory": "99",
+      "created_date": "2019-04-02 15:10:00",
+      "weight": "1.5000",
+      "image_filename": "3833-A-amazon1.jpg",
+      "catalog_page_no": "126",
+      "msrp": 41.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XS",
+        "color": "Woodland Camo"
+      },
+      "size": "XS",
+      "color": "Woodland Camo",
+      "price": 16.5,
+      "case_price": 16.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18953",
+      "item_index": "4551",
+      "rothco_item_no": "3833",
+      "upc": "613902383302",
+      "inventory": "90",
+      "created_date": "2019-04-02 15:10:00",
+      "weight": "1.5000",
+      "image_filename": "3833-A-amazon1.jpg",
+      "catalog_page_no": "126",
+      "msrp": 41.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "XXS",
+        "color": "Woodland Camo"
+      },
+      "size": "XXS",
+      "color": "Woodland Camo",
+      "price": 16.5,
+      "case_price": 16.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

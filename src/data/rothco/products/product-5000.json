@@ -1,0 +1,69 @@
+{
+  "item_index": "5000",
+  "item_name": "Rothco Cold Weather Heavyweight Boot Insoles",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Cold Weather Heavyweight Boot Insoles provide powerful insulation and ergonomic comfort for your tactical boots.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133313",
+  "description": "<p>Rothco&rsquo;s Cold Weather Heavyweight Boot Insoles provide powerful insulation and ergonomic comfort for your tactical boots. The insoles feature a high-density composition with a soft felt surface. The Boot insoles come in two sizes: medium fits up to a US men&rsquo;s size 9, and large fits up to a US men&rsquo;s size 13.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "361"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "22500",
+      "item_index": "5000",
+      "rothco_item_no": "61870",
+      "upc": "613902024106",
+      "inventory": "96",
+      "created_date": "2022-12-06 16:00:29",
+      "weight": "0.0000",
+      "image_filename": "61870-A.jpg",
+      "catalog_page_no": "175",
+      "msrp": 14.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "M"
+      },
+      "size": "M",
+      "price": 5.95,
+      "case_price": 5.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "22501",
+      "item_index": "5000",
+      "rothco_item_no": "61870",
+      "upc": "613902024113",
+      "inventory": "99",
+      "created_date": "2022-12-06 16:00:29",
+      "weight": "0.0000",
+      "image_filename": "61870-A.jpg",
+      "catalog_page_no": "175",
+      "msrp": 14.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "L"
+      },
+      "size": "L",
+      "price": 5.95,
+      "case_price": 5.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

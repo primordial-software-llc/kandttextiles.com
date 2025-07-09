@@ -1,0 +1,40 @@
+{
+  "item_index": "4844",
+  "item_name": "Sabre Mighty Discreet Pepper Spray",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The SABRE Mighty Discreet Pepper Spray Black contains 16 bursts and has a 12-foot (4-meter) range.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "133157",
+  "description": "<p>The SABRE Mighty Discreet Pepper Spray Black contains 16 bursts and has a 12-foot (4-meter) range. This pepper spray is 40 percent smaller than traditional pepper sprays and has an ultra-compact design with a twist top safety. Comes with a key ring and a snap clip.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "244"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "20645",
+      "item_index": "4844",
+      "rothco_item_no": "11024",
+      "upc": "023063109152",
+      "inventory": "75",
+      "created_date": "2021-05-14 13:00:14",
+      "weight": "0.0000",
+      "image_filename": "11024-A-no-logo1.jpg",
+      "catalog_page_no": "223",
+      "msrp": 16.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 6.65,
+      "case_price": 6.65,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

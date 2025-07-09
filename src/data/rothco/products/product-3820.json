@@ -1,0 +1,45 @@
+{
+  "item_index": "3820",
+  "item_name": "Rothco Arctic Fleece Tactical Cap/Liner",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Arctic Fleece Tactical Cap &amp; Helmet Liner is a lightweight skull cap with ear flaps designed to keep you warm. Wear this tactical cap under your helmet or as is.</p>",
+  "no_ratings": null,
+  "sort_order": "1101",
+  "description": "<p>Rothco's Arctic Fleece Tactical Cap &amp; Helmet Liner is a lightweight skull cap with ear flaps designed to keep you warm. Wear this tactical cap under your helmet or as is. One Size fits most.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "367"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14876",
+      "item_index": "3820",
+      "rothco_item_no": "55287",
+      "upc": "613902528710",
+      "inventory": "99",
+      "created_date": "2014-10-06 13:10:02",
+      "weight": "0.0625",
+      "image_filename": "55287-Black-A1.jpg",
+      "catalog_page_no": "156",
+      "msrp": 13.99,
+      "ship_length": "11.0000",
+      "ship_width": "7.2500",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 5.9,
+      "case_price": 5.9,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

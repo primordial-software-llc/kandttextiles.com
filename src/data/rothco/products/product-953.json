@@ -1,0 +1,42 @@
+{
+  "item_index": "953",
+  "item_name": "Kiwi Desert Boot Care Kit",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>KIWI Desert Boot Care Kit provides complete care for your desert and coyote color boots.</p>",
+  "no_ratings": "0",
+  "sort_order": "1090",
+  "description": "<p>KIWI Desert Boot Care Kit provides complete care for your desert and coyote color boots. It deep cleans suede and nylon uppers, conditions suede, eliminates tough stains and shiny spots, and protects boots against dust and dirt. The Desert Boot Care Kit includes: 4 oz. cleaner, 4 oz. protector, brush, block, and cloth. Made in USA.</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "362"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "63",
+      "item_index": "953",
+      "rothco_item_no": "10109",
+      "upc": "031600280158",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8500",
+      "image_filename": "10109-A1.jpg",
+      "catalog_page_no": "185",
+      "msrp": 41.99,
+      "ship_length": "4.0000",
+      "ship_width": "7.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 16.75,
+      "case_price": 16.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

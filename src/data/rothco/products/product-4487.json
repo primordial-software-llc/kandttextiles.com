@@ -1,0 +1,96 @@
+{
+  "item_index": "4487",
+  "item_name": "Rothco Fast Access Tactical Trauma Kit",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Fast Access Tactical Trauma Kit is your go-to solution for emergency preparedness, packed with over 80 essential first aid supplies in a durable and versatile Tactical Convertipack. The medical kit is designed for fast accessibility, allowing you to carry it as a waist pack, sling bag, or front pack, depending on your needs. With multiple compartments, including a large main compartment with an interior mesh pocket, 2 zippered side pouches, and a zippered front pouch with 3 interior pockets, it offers organized storage.</p>",
+  "no_ratings": null,
+  "sort_order": "132800",
+  "description": "<p>Rothco&rsquo;s Fast Access Tactical Trauma Kit is your go-to solution for emergency preparedness, packed with over 80 essential first aid supplies in a durable and versatile Tactical Convertipack. The medical kit is designed for fast accessibility, allowing you to carry it as a waist pack, sling bag, or front pack, depending on your needs. With multiple compartments, including a large main compartment with an interior mesh pocket, 2 zippered side pouches, and a zippered front pouch with 3 interior pockets, it offers organized storage for all your first aid essentials. The emergency kit also includes MOLLE compatibility and 4 d-rings, making it easy to attach to other tactical gear. Built from heavyweight polyester, this trauma kit is both durable and adaptable. It also features an adjustable/removable shoulder strap for customized comfort. Please note this item has Hazmat restrictions and cannot be shipped via air freight. Other restrictions may apply.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "223",
+    "226",
+    "227",
+    "271"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18522",
+      "item_index": "4487",
+      "rothco_item_no": "5984",
+      "upc": "613902598409",
+      "inventory": "26",
+      "created_date": "2018-06-20 16:10:02",
+      "weight": "2.5000",
+      "image_filename": "5984-A-amazon.jpg",
+      "catalog_page_no": "297",
+      "msrp": 76.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 34.95,
+      "case_price": 34.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18523",
+      "item_index": "4487",
+      "rothco_item_no": "5988",
+      "upc": "613902598805",
+      "inventory": "28",
+      "created_date": "2018-06-21 11:10:01",
+      "weight": "2.5000",
+      "image_filename": "5988-A-amazon.jpg",
+      "catalog_page_no": "297",
+      "msrp": 76.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 34.95,
+      "case_price": 34.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21758",
+      "item_index": "4487",
+      "rothco_item_no": "59840",
+      "upc": "613902015319",
+      "inventory": "31",
+      "created_date": "2022-04-11 11:00:19",
+      "weight": "2.5000",
+      "image_filename": "59840-A-NOLOGO.jpg",
+      "catalog_page_no": "297",
+      "msrp": 76.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 34.95,
+      "case_price": 34.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

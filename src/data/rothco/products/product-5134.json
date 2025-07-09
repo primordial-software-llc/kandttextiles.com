@@ -1,0 +1,70 @@
+{
+  "item_index": "5134",
+  "item_name": "Rothco Lightweight Woobie Backpack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Discover Rothco&rsquo;s Lightweight Woobie Backpack, built with a compact yet feature-packed design for optimal storage. The main compartment features a two-way zipper closure, padded laptop sleeve pouch, and cellphone pocket, providing full access to your electronic devices and every day carry essentials. The military-styled quilted backpack has a 20L capacity and measures 17 inch x 13 inch x 5.5 inch.</p>",
+  "no_ratings": null,
+  "sort_order": null,
+  "description": "<p>Discover Rothco&rsquo;s Lightweight Woobie Backpack, built with a compact yet feature-packed design for optimal storage. The main compartment features a two-way zipper closure, padded laptop sleeve pouch, and cellphone pocket, providing full access to your electronic devices and every day carry essentials. The military-styled quilted backpack has a 20L capacity and measures 17 inch x 13 inch x 5.5 inch. From Tactical Roots to Everyday Utility: Inspired by the dependable versatility of the iconic poncho liner, Rothco&rsquo;s Woobie collection embodies rugged style and practicality. Each item, from our durable outerwear to premium backpacks, features a distinctive quilted pattern and lightweight filling, combining unique style with everyday functionality. Stay Organized: The outdoor puffer backpack comes equipped with a variety of utility pockets, including a secondary compartment with 4 organizer pockets and 2 outer zipper storage pockets for carrying your tablet, phone, and small accessories. Carry Options: These quilted bags feature adjustable dual shoulder straps with mesh padding for a comfortable carry. The top grab handle provides quick and easy handling for when you&rsquo;re on the go. Casual Go-Anywhere Style: Whether you&rsquo;re on a daytrip or running errands, the lightweight military backpack provides all-in-one storage for your essentials and gear. The compact backpack is great for traveling, walking, everyday wear, and more.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "756",
+    "204"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "30223",
+      "item_index": "5134",
+      "rothco_item_no": "13830",
+      "upc": "613902049444",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.5000",
+      "image_filename": "13830-A.jpg",
+      "catalog_page_no": "353",
+      "msrp": 47.99,
+      "ship_length": "18.0000",
+      "ship_width": "15.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 21.5,
+      "case_price": 21.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "30224",
+      "item_index": "5134",
+      "rothco_item_no": "13831",
+      "upc": "613902049451",
+      "inventory": "99",
+      "created_date": null,
+      "weight": "0.5000",
+      "image_filename": "13831-A.jpg",
+      "catalog_page_no": "353",
+      "msrp": 47.99,
+      "ship_length": "18.0000",
+      "ship_width": "15.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 21.5,
+      "case_price": 21.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

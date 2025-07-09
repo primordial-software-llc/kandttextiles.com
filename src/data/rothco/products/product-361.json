@@ -1,0 +1,70 @@
+{
+  "item_index": "361",
+  "item_name": "Rothco Army Style C-Cell Flashlights",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Army Style C-Cell Flashlight is built for tactical applications, outdoor adventures, and everyday home use, offering a bright and reliable light source. Constructed with a metal clip for easy attachment to your tactical belt and a metal ring on the bottom for securing to other outdoor gear, this survival flashlight is designed for convenience and portability. The camping flashlight operates on 2 C-cell batteries (not included) and comes with 4 extra interchangeable lenses in blue, red, yellow, and green.</p>",
+  "no_ratings": "0",
+  "sort_order": "4186",
+  "description": "<p>Rothco's Army Style C-Cell Flashlight is built for tactical applications, outdoor adventures, and everyday home use, offering a bright and reliable light source. Constructed with a metal clip for easy attachment to your tactical belt and a metal ring on the bottom for securing to other outdoor gear, this survival flashlight is designed for convenience and portability. The camping flashlight operates on 2 C-cell batteries (not included) and comes with 4 extra interchangeable lenses in blue, red, yellow, and green, allowing you to adapt the light to different environments and tasks. Additionally, the tactical flashlight features a spare bulb stored beneath the battery spring, ensuring you&rsquo;re never left in the dark. Whether you're preparing for emergencies, outdoor adventures, or need a dependable light at home, this flashlight is a versatile and essential tool.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "470",
+    "274"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "3848",
+      "item_index": "361",
+      "rothco_item_no": "488",
+      "upc": "613902048805",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2500",
+      "image_filename": "488-B-Geen.jpg",
+      "catalog_page_no": "277",
+      "msrp": 10.99,
+      "ship_length": "8.5000",
+      "ship_width": "2.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "3859",
+      "item_index": "361",
+      "rothco_item_no": "489",
+      "upc": "613902048904",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2813",
+      "image_filename": "489-A.jpg",
+      "catalog_page_no": "277",
+      "msrp": 10.99,
+      "ship_length": "8.5000",
+      "ship_width": "2.5000",
+      "ship_height": "2.5000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

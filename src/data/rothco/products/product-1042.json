@@ -1,0 +1,40 @@
+{
+  "item_index": "1042",
+  "item_name": "Rothco Polarshield Sleeping Bag Style Survival Blanket",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Emergency Polarshield Sleeping Bag is the perfect survival blanket that you can take anywhere!&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "923",
+  "description": "<p>Rothco's Emergency Polarshield Sleeping Bag is the perfect survival blanket that you can take anywhere! The ultralight survival blanket that can be used as a sleeping bag, which is also known as a bivvy or bivouac sack. Rothco's survival blanket reflects 90% of your body heat to keep you warm. This emergency blanket fits easily into your backpack and is ideal for a Bug Out Bag or for your next camping or hiking trip. Rothco's Polarshield Survival sleep bag measures 36\"x 84\".&nbsp;&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "256"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "174",
+      "item_index": "1042",
+      "rothco_item_no": "1034",
+      "upc": "613902103405",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.2450",
+      "image_filename": "1034-a.jpg",
+      "catalog_page_no": "304",
+      "msrp": 8.99,
+      "ship_length": "4.0000",
+      "ship_width": "3.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 3.5,
+      "case_price": 3.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

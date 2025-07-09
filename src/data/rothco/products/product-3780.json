@@ -1,0 +1,43 @@
+{
+  "item_index": "3780",
+  "item_name": "Rothco Bush Pro Steel Machete with Sheath",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>The 18\" Bush Pro Steel Machete has a S45C carbon steel blade with a black coated finish and a durable plastic handle.</p>",
+  "no_ratings": null,
+  "sort_order": "197",
+  "description": "<p>The 18\" Bush Pro Steel Machete has a S45C carbon steel blade with a black coated finish and a durable plastic handle.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "298"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "14830",
+      "item_index": "3780",
+      "rothco_item_no": "1919",
+      "upc": "613902019195",
+      "inventory": "99",
+      "created_date": "2014-09-25 15:10:02",
+      "weight": "1.1000",
+      "image_filename": "1919-A.jpg",
+      "catalog_page_no": "274",
+      "msrp": 20.99,
+      "ship_length": "23.5000",
+      "ship_width": "3.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "material": "Steel"
+      },
+      "material": "Steel",
+      "price": 7.75,
+      "case_price": 7.75,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

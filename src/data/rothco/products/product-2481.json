@@ -1,0 +1,70 @@
+{
+  "item_index": "2481",
+  "item_name": "Rothco Vintage Canvas Medic Bag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Vintage Canvas Medic Bag combines timeless design with practical functionality, making it an ideal choice for those who appreciate both style and utility. Crafted from 100% durable cotton canvas with genuine leather accents, this crossbody bag offers a rugged yet sophisticated look. The large main compartment provides ample storage space for all your essentials, whether you're heading out for a day trip or need a reliable everyday carry option.</p>",
+  "no_ratings": "0",
+  "sort_order": "1507",
+  "description": "<p>Rothco&rsquo;s Vintage Canvas Medic Bag combines timeless design with practical functionality, making it an ideal choice for those who appreciate both style and utility. Crafted from 100% durable cotton canvas with genuine leather accents, this crossbody bag offers a rugged yet sophisticated look. The large main compartment provides ample storage space for all your essentials, whether you're heading out for a day trip or need a reliable everyday carry option. Leather closing straps keep the bag securely fastened, ensuring that your gear stays protected. The adjustable shoulder strap offers comfort and versatility, allowing you to carry the vintage bag with ease, whether slung over your shoulder or across your body. With its classic aesthetic and durable construction, Rothco&rsquo;s Vintage Canvas Medic Bag is perfect for anyone looking for a reliable and stylish storage solution. Made from Rothco&rsquo;s durable heavyweight canvas fabric, this superior material is naturally water-resistant, rugged, and is built for the long haul. No one comes close to Rothco&rsquo;s collection of ultra-premium canvas bags and packs.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "208",
+    "226"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "10586",
+      "item_index": "2481",
+      "rothco_item_no": "9122",
+      "upc": "613902912212",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8000",
+      "image_filename": "9122-A.jpg",
+      "catalog_page_no": "360",
+      "msrp": 23.99,
+      "ship_length": "13.7500",
+      "ship_width": "13.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Khaki"
+      },
+      "color": "Khaki",
+      "price": 9.25,
+      "case_price": 9.25,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "10592",
+      "item_index": "2481",
+      "rothco_item_no": "9127",
+      "upc": "613902912700",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.8000",
+      "image_filename": "9127-A.jpg",
+      "catalog_page_no": "360",
+      "msrp": 23.99,
+      "ship_length": "13.7500",
+      "ship_width": "13.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 9.25,
+      "case_price": 9.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

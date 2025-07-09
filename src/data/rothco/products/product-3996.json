@@ -1,0 +1,42 @@
+{
+  "item_index": "3996",
+  "item_name": "Rothco Carabiner Compass/Thermometer",
+  "has_restrictions": "0",
+  "controlled_by_map": "0",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Carabiner Compass and Thermometer is a compact, multi-functional tool designed for outdoor enthusiasts. Measuring 2.75 inches x 1.375 inches x 0.375 inch, it conveniently clips onto your outdoor gear for easy access. The built-in compass provides reliable navigation, while the thermometer offers dual Fahrenheit and Celsius readings to track the temperature in various climates.</p>",
+  "no_ratings": null,
+  "sort_order": "417",
+  "description": "<p>Rothco's Carabiner Compass and Thermometer is a compact, multi-functional tool designed for outdoor enthusiasts. Measuring 2.75 inches x 1.375 inches x 0.375 inch, it conveniently clips onto your outdoor gear for easy access. The built-in compass provides reliable navigation, while the thermometer offers dual Fahrenheit and Celsius readings to track the temperature in various climates. Lightweight yet durable, this 3-in-1 tool is perfect for camping, hiking, or survival kits. Whether you're exploring the wilderness or planning a weekend adventure, Rothco's Carabiner Compass and Thermometer ensures you're prepared for any environment.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "290",
+    "261",
+    "269"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15591",
+      "item_index": "3996",
+      "rothco_item_no": "6500",
+      "upc": "613902650015",
+      "inventory": "99",
+      "created_date": "2015-08-27 16:10:01",
+      "weight": "0.2500",
+      "image_filename": "6500-A-amazon.jpg",
+      "catalog_page_no": "282",
+      "msrp": 7.99,
+      "ship_length": "6.0000",
+      "ship_width": "3.2500",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 2.95,
+      "case_price": 2.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

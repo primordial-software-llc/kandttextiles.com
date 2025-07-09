@@ -1,0 +1,43 @@
+{
+  "item_index": "1813",
+  "item_name": "Rothco Slapper With Hand Thong",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Slapper With Hand Tong&nbsp;features lightweight leather, construction and is perfect for law enforcement, and personal safety, security.&nbsp;</p>",
+  "no_ratings": "0",
+  "sort_order": "350",
+  "description": "<p>Rothco's Slapper With Hand Tong&nbsp;features lightweight leather, construction and is perfect for law enforcement, and personal safety, security.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": [
+    "Restricted"
+  ],
+  "categories": [
+    "235",
+    "232"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "37",
+      "item_index": "1813",
+      "rothco_item_no": "10076",
+      "upc": "613902100763",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.6000",
+      "image_filename": "10076-A3.jpg",
+      "catalog_page_no": "227",
+      "msrp": 24.99,
+      "ship_length": "9.0000",
+      "ship_width": "1.0000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 10.5,
+      "case_price": 10.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

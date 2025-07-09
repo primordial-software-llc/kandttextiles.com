@@ -1,0 +1,40 @@
+{
+  "item_index": "3154",
+  "item_name": "Rothco Platoon Leader 1st Aid Pouch",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Be prepared for any emergency with Rothco's Heavy Canvas Shoulder Bag packed with essential first aid items. Built from durable heavyweight canvas, this bag is designed to withstand tough conditions while providing quick access to the tools you need,&nbsp;whether you're hiking, camping, or in a tactical situation. Stay ready with Rothco's First Aid Pouch.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "291",
+  "description": "<p>Be prepared for any emergency with Rothco's Heavy Canvas Shoulder Bag packed with essential first aid items. Built from durable heavyweight canvas, this bag is designed to withstand tough conditions while providing quick access to the tools you need,&nbsp;whether you're hiking, camping, or in a tactical situation. Stay ready with Rothco's First Aid Pouch.&nbsp;</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "271"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "9531",
+      "item_index": "3154",
+      "rothco_item_no": "8324",
+      "upc": "613902832404",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5000",
+      "image_filename": "8324-A-amazon.jpg",
+      "catalog_page_no": "295",
+      "msrp": 10.99,
+      "ship_length": "8.0000",
+      "ship_width": "5.0000",
+      "ship_height": "1.5000",
+      "eta_date": "In Stock",
+      "specs": [],
+      "price": 4.25,
+      "case_price": 4.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

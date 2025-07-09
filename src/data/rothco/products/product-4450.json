@@ -1,0 +1,47 @@
+{
+  "item_index": "4450",
+  "item_name": "Rothco LACV (Lightweight Armor Carrier Vest) Side Radio Pouch Set",
+  "has_restrictions": "1",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco LACV (Lightweight Armor Carrier Vest) Side Radio Pouch Set features hook and loop field for attaching radio pouches to the side of the lightweight armor carrier vest.&nbsp;</p>",
+  "no_ratings": null,
+  "sort_order": "132763",
+  "description": "<p>Rothco LACV (Lightweight Armor Carrier Vest) Side Radio Pouch Set features hook and loop field for attaching radio pouches to the side of the lightweight armor carrier vest. The pouches are designed with an elastic cord closure&nbsp;and pull tab for securing the radio as well as a drain hole. Sold in a set of two.&nbsp;</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "255",
+    "306",
+    "307"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "18340",
+      "item_index": "4450",
+      "rothco_item_no": "5734",
+      "upc": "613902157347",
+      "inventory": "99",
+      "created_date": "2018-04-23 10:10:02",
+      "weight": "0.3000",
+      "image_filename": "5734-B-amazon.jpg",
+      "catalog_page_no": "241",
+      "msrp": 20.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 8.25,
+      "case_price": 8.25,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

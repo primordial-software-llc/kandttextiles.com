@@ -1,0 +1,97 @@
+{
+  "item_index": "4358",
+  "item_name": "Rothco Tactical Concealed Carry Waist Pack",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "https://www.youtube.com/watch?v=npwHeTY4Bg0",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco&rsquo;s Tactical Concealed Carry Waist Pack is a lightweight and discreet carry solution for your storage needs. With 5 multi-functional pockets, including a hidden back zippered compartment with a loop field for secure ERC storage, this CCW waist pack offers versatility and convenience. The top zippered compartment features a loop field on top and a 10 inch x 4.5 inch internal pocket, ideal for everyday carry items.</p>",
+  "no_ratings": null,
+  "sort_order": "3786",
+  "description": "<p>Rothco&rsquo;s Tactical Concealed Carry Waist Pack is a lightweight and discreet carry solution for your storage needs. With 5 multi-functional pockets, including a hidden back zippered compartment with a loop field for secure ERC storage, this CCW waist pack offers versatility and convenience. The top zippered compartment features a loop field on top and a 10 inch x 4.5 inch internal pocket, ideal for everyday carry items. Additionally, the tactical pack includes 3 multi-functional outer pouches, with 2 outer triangular pouches measuring 4.5 inch x 5 inch x 5 inch x 1 inch and a center pouch measuring 4.25 inch x 5.25 inch x 1 inch. The center pouch features a quick-release buckle flap closure and loop field for added security. Constructed of durable denier polyester, this pack is built to withstand daily use. The adjustable 51 inch x 1.5 inch waist strap with quick-release buckle ensures a comfortable and secure fit. With a total width of 4 inches, this tactical hip pack offers discreet and versatile storage options for everyday carry essentials.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "598",
+    "201",
+    "650",
+    "496",
+    "553"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "17634",
+      "item_index": "4358",
+      "rothco_item_no": "4956",
+      "upc": "613902049567",
+      "inventory": "99",
+      "created_date": "2017-10-04 09:10:01",
+      "weight": "0.9000",
+      "image_filename": "4956-A-amazon.jpg",
+      "catalog_page_no": "322",
+      "msrp": 28.99,
+      "ship_length": "14.0000",
+      "ship_width": "12.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 12.95,
+      "case_price": 12.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17635",
+      "item_index": "4358",
+      "rothco_item_no": "4957",
+      "upc": "613902149571",
+      "inventory": "99",
+      "created_date": "2017-10-04 10:10:01",
+      "weight": "0.9000",
+      "image_filename": "4957-A-amazon.jpg",
+      "catalog_page_no": "322",
+      "msrp": 28.99,
+      "ship_length": "14.0000",
+      "ship_width": "12.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 12.95,
+      "case_price": 12.95,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "18547",
+      "item_index": "4358",
+      "rothco_item_no": "4960",
+      "upc": "613902004962",
+      "inventory": "99",
+      "created_date": "2018-06-27 15:10:01",
+      "weight": "0.9000",
+      "image_filename": "4960-Olive-Drab-A-amazon.jpg",
+      "catalog_page_no": "322",
+      "msrp": 28.99,
+      "ship_length": "14.0000",
+      "ship_width": "12.0000",
+      "ship_height": "3.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Olive Drab"
+      },
+      "color": "Olive Drab",
+      "price": 12.95,
+      "case_price": 12.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

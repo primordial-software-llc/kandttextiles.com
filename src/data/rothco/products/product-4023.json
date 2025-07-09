@@ -1,0 +1,96 @@
+{
+  "item_index": "4023",
+  "item_name": "Rothco Drop Leg Medical Pouch",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco presents the Drop Leg Medical Pouch. These heavy-duty leg pouches are great for storing items that are needed at a moment&rsquo;s notice, such as first aid supplies, emergency equipment, and survival gear. Keep these items at your side by attaching the utility pouch to your belt and leg. This is especially useful for when you&rsquo;re in the field or great outdoors. Please note that this purchase is for pouch only &ndash; medical supplies are not included.</p>",
+  "no_ratings": null,
+  "sort_order": "344",
+  "description": "<p>Rothco presents the Drop Leg Medical Pouch. These heavy-duty leg pouches are great for storing items that are needed at a moment&rsquo;s notice, such as first aid supplies, emergency equipment, and survival gear. Keep these items at your side by attaching the utility pouch to your belt and leg. This is especially useful for when you&rsquo;re in the field or great outdoors. Please note that this purchase is for pouch only &ndash; medical supplies are not included. Tri-Fold Design: These IFAK pouches utilize a tri-fold design for quick and easy access to your gear. With an overall measurement of 7.5 inch x 6.5 inch x 2 inch, these tactical pouches consist of a variety of compartments that keep your equipment secured and organized. This includes 11 inner elastic straps, 4 string loops, 3 interior slit pockets, and 1 zippered mesh pocket. MOLLE Compatible: These emergency preparedness pouches feature PALS webbing on the outside for mounting and securing additional items. These medical bags also feature an adjustable leg strap with rubber tread, and a belt strap that fits belts up to 3 inches wide. Furthermore, there&rsquo;s a top loop field for a name attachment or morale patches. Quick Release Convenience: In addition to a double zipper closure, the drop leg pouch utilizes a cinch strap, ensuring your equipment stays in place. The cinch, leg, and belt straps all feature a quick side release buckle. Additionally, the built-in tear away loop platform allows you to quickly detach the medical pouch for when you need immediate access to your gear. Tough and Durable Materials: With a consistent double stich pattern, these rugged medical pouches endure continuous movement and travel. The heavy-duty material effortlessly withstands field use, along with other outdoor activities such as camping, hiking, fishing, hunting, and mountain climbing.</p>",
+  "selection_groups": [
+    "color"
+  ],
+  "statuses": "",
+  "categories": [
+    "306",
+    "271",
+    "238",
+    "241"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "15655",
+      "item_index": "4023",
+      "rothco_item_no": "20755",
+      "upc": "613902207554",
+      "inventory": "99",
+      "created_date": "2015-09-16 14:10:01",
+      "weight": "1.0000",
+      "image_filename": "20755-B-amazon.jpg",
+      "catalog_page_no": "249",
+      "msrp": 35.99,
+      "ship_length": "9.0000",
+      "ship_width": "8.0000",
+      "ship_height": "2.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Black"
+      },
+      "color": "Black",
+      "price": 15.5,
+      "case_price": 15.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "17318",
+      "item_index": "4023",
+      "rothco_item_no": "21755",
+      "upc": "613902217553",
+      "inventory": "99",
+      "created_date": "2017-05-22 16:10:01",
+      "weight": "1.0000",
+      "image_filename": "20755-Coyote-A-nologo.jpg",
+      "catalog_page_no": "249",
+      "msrp": 35.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "Coyote Brown"
+      },
+      "color": "Coyote Brown",
+      "price": 15.5,
+      "case_price": 15.5,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "21982",
+      "item_index": "4023",
+      "rothco_item_no": "22755",
+      "upc": "613902017696",
+      "inventory": "99",
+      "created_date": "2022-07-06 16:00:28",
+      "weight": "0.0000",
+      "image_filename": "22755-D.jpg",
+      "catalog_page_no": "249",
+      "msrp": 56.99,
+      "ship_length": null,
+      "ship_width": null,
+      "ship_height": null,
+      "eta_date": "In Stock",
+      "specs": {
+        "color": "MultiCam"
+      },
+      "color": "MultiCam",
+      "price": 25.5,
+      "case_price": 25.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

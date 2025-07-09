@@ -1,0 +1,70 @@
+{
+  "item_index": "1393",
+  "item_name": "Rothco Deluxe US Flag",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5",
+  "item_short_desc": "<p>Rothco's Deluxe US Flag is the perfect way to show your American spirit in style. Crafted from high-quality 210D polyester, this American flag is designed to withstand tough weather conditions, ensuring long-lasting durability. The embroidered stars and sewn-on stripes give the flag a deluxe appearance and feel, making it a standout addition to any flagpole. The flag features sturdy grommets along the side, allowing for easy and secure attachment to a flagpole.</p>",
+  "no_ratings": "0",
+  "sort_order": "1266",
+  "description": "<p>Rothco's Deluxe US Flag is the perfect way to show your American spirit in style. Crafted from high-quality 210D polyester, this American flag is designed to withstand tough weather conditions, ensuring long-lasting durability. The embroidered stars and sewn-on stripes give the flag a deluxe appearance and feel, making it a standout addition to any flagpole. The flag features sturdy grommets along the side, allowing for easy and secure attachment to a flagpole. Whether you're displaying it outside your home, at a business, or during special events, this flag will proudly wave in the wind. Rothco's Deluxe US Flag is available in two sizes, 3 feet x 5 feet and 5 feet x 8 feet, to suit your specific display needs. Show your love for the Red, White, and Blue with Rothco's Deluxe US Flag. Its superior construction and elegant design make it the ideal choice for anyone looking to proudly display the American flag. Perfect for any occasion, this flag will be a symbol of your patriotic pride for years to come.</p>",
+  "selection_groups": [
+    "size"
+  ],
+  "statuses": "",
+  "categories": [
+    "428",
+    "428"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "688",
+      "item_index": "1393",
+      "rothco_item_no": "1492",
+      "upc": "613902149205",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "0.5400",
+      "image_filename": "1492-A-amazon.jpg",
+      "catalog_page_no": "211",
+      "msrp": 26.99,
+      "ship_length": "11.0000",
+      "ship_width": "8.5000",
+      "ship_height": "1.0000",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "3' x 5'"
+      },
+      "size": "3' x 5'",
+      "price": 11.9,
+      "case_price": 11.9,
+      "case_quantity": 1,
+      "statuses": ""
+    },
+    {
+      "item_variation_id": "695",
+      "item_index": "1393",
+      "rothco_item_no": "1499",
+      "upc": "613902014992",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.2500",
+      "image_filename": "1492-A-amazon.jpg",
+      "catalog_page_no": "211",
+      "msrp": 52.99,
+      "ship_length": "15.5000",
+      "ship_width": "11.0000",
+      "ship_height": "0.7500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "5' x 8'"
+      },
+      "size": "5' x 8'",
+      "price": 23.5,
+      "case_price": 23.5,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}
