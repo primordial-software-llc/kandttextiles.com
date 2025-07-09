@@ -6,6 +6,32 @@ const path = require('path');
 
 const ROTHCO_API_BASE = 'https://www.rothco.com/';
 
+// Function to read API key from config file
+function readConfig() {
+  try {
+    const configPath = path.join(__dirname, 'config.json');
+    const configData = fs.readFileSync(configPath, 'utf8');
+    return JSON.parse(configData);
+  } catch (error) {
+    console.error('❌ Error reading config file:', error.message);
+    console.error('Please ensure scripts/config.json exists with your API key');
+    process.exit(1);
+  }
+}
+
+// Function to read product IDs from file
+function readProductIds() {
+  try {
+    const idsPath = path.join(__dirname, 'rothco-ids.txt');
+    const idsData = fs.readFileSync(idsPath, 'utf8');
+    return idsData.trim().split(',').map(id => id.trim());
+  } catch (error) {
+    console.error('❌ Error reading product IDs file:', error.message);
+    console.error('Please ensure scripts/rothco-ids.txt exists with your product IDs');
+    process.exit(1);
+  }
+}
+
 async function saveProductJson(productData, basePath, filename) {
   return new Promise((resolve, reject) => {
     // Ensure the base directory exists
@@ -83,9 +109,9 @@ async function fetchRothcoApi(path, urlParams, apiKey) {
   });
 }
 
-async function lookupByVariationId(variationId, apiKey) {
+async function loadProduct(rothcoId, apiKey) {
   try {
-    const productResponse = await fetchRothcoApi('api/products/items', `&rothco_ids=${variationId}&fields=selection_groups,description,rating,categories,short_description,no_ratings,sort`, apiKey);
+    const productResponse = await fetchRothcoApi('api/products/items', `&rothco_ids=${rothcoId}&fields=selection_groups,description,rating,categories,short_description,no_ratings,sort`, apiKey);
     const product = productResponse.items.length ? productResponse.items[0] : null;
     if (product) {
       const variationsResponse = await fetchRothcoApi('api/products/variations', `&item_indexes=${product.item_index}&fields=specs,price,weight,image,catalog_page,msrp,caseprice,ship_size,eta_date`, apiKey);
@@ -122,22 +148,17 @@ async function lookupByVariationId(variationId, apiKey) {
   }
 }
 
-const args = process.argv.slice(2);
-if (args.length === 0) {
-  console.log('Usage: node rothco-lookup.js <variation_ids> <api_key>');
-  console.log('Example: node rothco-lookup.js 30779 your_api_key_here');
-  console.log('Example: node rothco-lookup.js "30779,30780,30781" your_api_key_here');
-  console.log('Example: ROTHCO_API_KEY=your_key node rothco-lookup.js 30779');
+// Read configuration and product IDs from files
+const config = readConfig();
+const variationIds = readProductIds();
+const apiKey = config.rothco_api_key;
+
+if (!apiKey || apiKey === 'your_api_key_here') {
+  console.error('❌ Error: Please set your API key in scripts/config.json');
   process.exit(1);
 }
 
-const variationIds = args[0].split(',').map(id => id.trim());
-const apiKey = args[1];
-
-if (!apiKey) {
-  console.error('❌ Error: API key is required. Provide it as an argument or set ROTHCO_API_KEY environment variable.');
-  process.exit(1);
-}
+console.log(`📋 Processing ${variationIds.length} product IDs: ${variationIds.join(', ')}`);
 
 async function processAllVariations() {
   for (let i = 0; i < variationIds.length; i++) {
@@ -145,7 +166,7 @@ async function processAllVariations() {
     console.log(`\n🔍 Processing variation ${i + 1}/${variationIds.length}: ${variationId}`);
     console.log('━'.repeat(50));
     
-    await lookupByVariationId(variationId, apiKey);
+    await syncProduct(variationId, apiKey);
     
     // Add a small delay between requests to be respectful to the API
     if (i < variationIds.length - 1) {

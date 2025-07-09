@@ -5,7 +5,7 @@ import { BaseStructuredData } from '@/components/BaseStructuredData';
 import { ProductStructuredData } from '@/components/ProductStructuredData';
 import ProductSlideshow from '@/components/ProductSlideshow';
 import { BrandHero } from '@/components/BrandHero';
-import { FeaturedProducts } from '@/components/FeaturedProducts';
+import { SimpleFeaturedProducts } from '@/components/SimpleFeaturedProducts';
 
 export const metadata = {
   title: "Harken Marine Hardware | Authorized Seller",
@@ -123,7 +123,7 @@ export default function Suppliers() {
           </div>
         </section>
 
-        <FeaturedProducts
+        <SimpleFeaturedProducts
           title={harkenData.spotlight.title}
           products={harkenData.featuredProducts}
           sectionId={`${urlSafeName(harkenData.spotlight.title)}-products`}

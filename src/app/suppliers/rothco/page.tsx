@@ -7,10 +7,10 @@ import ProductSlideshow from '@/components/ProductSlideshow';
 import { BrandHero } from '@/components/BrandHero';
 import { FeaturedProducts } from '@/components/FeaturedProducts';
 import { CONTACT } from '@/constants/contact';
-import { Footer } from '@/components/Footer';
 import { CTA } from '@/components/CTA';
 import { AnimatedButtonAccent } from '@/components/AnimatedButtonAccent';
 import { AnimatedButtonOutline } from '@/components/AnimatedButtonOutline';
+import { SimpleFeaturedProducts } from '@/components/SimpleFeaturedProducts';
 
 export const metadata = {
   title: "Rothco Military & Tactical Gear | Authorized International Dealer",
@@ -143,18 +143,13 @@ export default function Suppliers() {
 
         {/* Featured Product Groups */}
         {rothcoData.featuredProductGroups.map((group, index) => (
-          <FeaturedProducts
+          <SimpleFeaturedProducts
             key={index}
             title={group.name}
             products={group.products}
             sectionId={`${urlSafeName(group.name)}-products`}
           />
         ))}
-
-        <FeaturedProducts
-          title={`${rothcoData.spotlight.title} Featured Products`}          products={rothcoData.featuredProducts}
-          sectionId={`${urlSafeName(rothcoData.spotlight.title)}-products`}
-        />
 
         {/* CTA Section */}
         <CTA 

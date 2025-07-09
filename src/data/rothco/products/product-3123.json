@@ -1,0 +1,43 @@
+{
+  "item_index": "3123",
+  "item_name": "Rothco Reversible Rubberized Poncho",
+  "has_restrictions": "0",
+  "controlled_by_map": "1",
+  "video_link": "",
+  "rating": "5.0000",
+  "item_short_desc": "<p>Stay prepared for sudden downpours with Rothco's Reversible Rubberized Poncho. This versatile poncho offers lightweight and portable rain protection, ideal for outdoor activities like camping, hiking, festivals, and more. The rain poncho&rsquo;s reversible rubberized material ensures durability and versatility in varying weather conditions. With dimensions of 50 inches X 80 inches and a .20MM thickness, the camping poncho provides ample coverage and reliable protection against heavy rain.</p>",
+  "no_ratings": null,
+  "sort_order": "334",
+  "description": "<p>Stay prepared for sudden downpours with Rothco's Reversible Rubberized Poncho. This versatile poncho offers lightweight and portable rain protection, ideal for outdoor activities like camping, hiking, festivals, and more. The rain poncho&rsquo;s reversible rubberized material ensures durability and versatility in varying weather conditions. With dimensions of 50 inches X 80 inches and a .20MM thickness, the camping poncho provides ample coverage and reliable protection against heavy rain. Whether you're exploring the great outdoors or navigating city streets, this reversible poncho is a must-have addition to your gear collection.</p>",
+  "selection_groups": "",
+  "statuses": "",
+  "categories": [
+    "191"
+  ],
+  "variations": [
+    {
+      "item_variation_id": "2398",
+      "item_index": "3123",
+      "rothco_item_no": "3624",
+      "upc": "613902362406",
+      "inventory": "99",
+      "created_date": "2014-11-28 10:06:45",
+      "weight": "1.6500",
+      "image_filename": "3624-RIGHT-c.jpg",
+      "catalog_page_no": "93",
+      "msrp": 50.99,
+      "ship_length": "14.0000",
+      "ship_width": "10.0000",
+      "ship_height": "0.2500",
+      "eta_date": "In Stock",
+      "specs": {
+        "size": "One Size"
+      },
+      "size": "One Size",
+      "price": 22.95,
+      "case_price": 22.95,
+      "case_quantity": 1,
+      "statuses": ""
+    }
+  ]
+}

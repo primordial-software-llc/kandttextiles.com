@@ -10,6 +10,31 @@ import { ProductCard } from "@/components/ProductCard";
 import { CTA } from "@/components/CTA";
 import { CONTACT } from "@/constants/contact";
 
+// Utility function to decode HTML entities
+const decodeHtmlEntities = (text: string): string => {
+  const entities: Record<string, string> = {
+    '&nbsp;': ' ',
+    '&amp;': '&',
+    '&lt;': '<',
+    '&gt;': '>',
+    '&quot;': '"',
+    '&#39;': "'",
+    '&apos;': "'",
+    '&rsquo;': "'",
+    '&cent;': '¢',
+    '&pound;': '£',
+    '&yen;': '¥',
+    '&euro;': '€',
+    '&copy;': '©',
+    '&reg;': '®',
+    '&trade;': '™'
+  };
+  
+  return text.replace(/&[a-zA-Z0-9#]+;/g, (entity) => {
+    return entities[entity] || entity;
+  });
+};
+
 // Custom CSS animations
 const buttonStyles = `
   @keyframes pulse-glow {
@@ -56,9 +81,14 @@ export function RothcoProductTemplate({ productId, productData, relatedProducts 
   
   const videoId = getYouTubeVideoId(productData.video_link || '');
   
-  const [activeTab, setActiveTab] = useState<'specifications' | 'video'>(videoId ? 'video' : 'specifications');
+  const [activeTab, setActiveTab] = useState<'specifications' | 'video' | 'variations'>(() => {
+    // For products with many variations, default to variations tab since hero doesn't show grid
+    if (productData.variations.length > 10) return 'variations';
+    // For products with few variations, use normal priority (video > specs > variations)
+    if (videoId) return 'video';
+    return 'specifications';
+  });
   const [selectedVariation, setSelectedVariation] = useState(0);
-  const [selectedSpecs, setSelectedSpecs] = useState<Record<string, string>>({});
   const [isClicked, setIsClicked] = useState(false);
   const [clickPosition, setClickPosition] = useState({ x: 0, y: 0 });
 
@@ -85,19 +115,6 @@ export function RothcoProductTemplate({ productId, productData, relatedProducts 
     
     return Array.from(allSpecKeys) as string[];
   };
-  
-  // Get unique values for each variation property
-  const getVariationOptions = (property: string) => {
-    const values = new Set();
-    productData.variations.forEach((variation: any) => {
-      if (variation.specs?.[property]) {
-        values.add(variation.specs[property]);
-      }
-    });
-    return Array.from(values) as string[];
-  };
-  
-  const variationProperties = getVariationProperties();
 
   // Generate product-specific email subject and body
   const getEmailSubject = () => `${productData.item_name} Quote Request`;
@@ -135,7 +152,7 @@ export function RothcoProductTemplate({ productId, productData, relatedProducts 
     itemNumber: currentVariation.rothco_item_no,
     price: currentVariation.msrp,
     image: `/rothco/images/${currentVariation.image_filename}`,
-    description: productData.item_short_desc.replace(/<[^>]*>/g, ''), // Strip HTML tags
+    description: decodeHtmlEntities(productData.item_short_desc.replace(/<[^>]*>/g, '')), // Strip HTML tags and decode entities
     category: primaryCategory.category_name,
     categories: productCategories,
     videoUrl: productData.video_link,
@@ -194,7 +211,7 @@ export function RothcoProductTemplate({ productId, productData, relatedProducts 
                 </p>
 
                 {/* Variation Selectors with Thumbnails */}
-                {product.variations.length > 0 && (
+                {product.variations.length > 0 && product.variations.length <= 10 && (
                   <div className="space-y-4">
                     <h3 className="text-white font-bold">Choose Your Option:</h3>
                     <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
@@ -245,11 +262,13 @@ export function RothcoProductTemplate({ productId, productData, relatedProducts 
                               <Image 
                                 src={`/rothco/images/${variation.image_filename}`}
                                 alt={`${productData.item_name} variation`}
-                                width={200}
-                                height={200}
+                                width={150}
+                                height={150}
+                                quality={85}
                                 className={`object-contain w-full h-full transition-transform duration-300 ${
                                    isAvailable ? 'group-hover:scale-110' : ''
                                 }`}
+                                sizes="150px"
                               />
                             </div>
                             
@@ -280,6 +299,38 @@ export function RothcoProductTemplate({ productId, productData, relatedProducts 
                           </div>
                         );
                       })}
+                    </div>
+                  </div>
+                )}
+
+                {/* Message for many variations */}
+                {product.variations.length > 10 && (
+                  <div className="space-y-4">
+                    <h3 className="text-white font-bold">Current Selection:</h3>
+                    <div className="bg-white/10 border border-white/20 rounded-lg p-4 backdrop-blur-sm">
+                      <div className="flex items-center space-x-4">
+                        <div className="w-16 h-16 bg-white rounded-lg flex items-center justify-center">
+                          <Image 
+                            src={`/rothco/images/${currentVariation.image_filename}`}
+                            alt={`${productData.item_name} selected variation`}
+                            width={64}
+                            height={64}
+                            quality={85}
+                            className="object-contain"
+                            sizes="64px"
+                          />
+                        </div>
+                        <div className="flex-1">
+                          <p className="text-white font-medium">
+                            {currentVariation.specs && Object.entries(currentVariation.specs).map(([key, value]) => String(value)).join(' / ')}
+                          </p>
+                          <p className="text-white/80 text-sm">Item #{currentVariation.rothco_item_no}</p>
+                          <p className="text-white font-bold">${currentVariation.msrp}</p>
+                        </div>
+                      </div>
+                      <p className="text-white/70 text-sm mt-3">
+                        View all {product.variations.length} variations in the "Variations" tab below
+                      </p>
                     </div>
                   </div>
                 )}
@@ -354,9 +405,12 @@ export function RothcoProductTemplate({ productId, productData, relatedProducts 
                   <Image 
                     src={product.image}
                     alt={product.name}
-                    width={400}
-                    height={400}
+                    width={500}
+                    height={500}
+                    quality={95}
+                    priority
                     className="object-contain max-w-full max-h-[400px]"
+                    sizes="(max-width: 768px) 100vw, 50vw"
                   />
                 </div>
               </div>
@@ -400,6 +454,21 @@ export function RothcoProductTemplate({ productId, productData, relatedProducts 
               >
                 Specifications
               </button>
+              {product.variations.length > 0 && (
+                <button
+                  onClick={() => setActiveTab('variations')}
+                  role="tab"
+                  aria-selected={activeTab === 'variations'}
+                  aria-controls="variations-panel"
+                  className={`px-6 py-4 text-lg font-semibold transition-colors border-b-2 ${
+                    activeTab === 'variations'
+                      ? 'text-[#1B2845] border-[#1B2845]'
+                      : 'text-gray-500 border-transparent hover:text-[#1B2845]'
+                  }`}
+                >
+                  Variations ({product.variations.length})
+                </button>
+              )}
             </div>
           </div>
 
@@ -474,6 +543,117 @@ export function RothcoProductTemplate({ productId, productData, relatedProducts 
                         Watch on YouTube ↗
                       </a>
                     </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          )}
+           {/* Variations Panel - For all products with variations */}
+           {product.variations.length > 0 && (
+            <div 
+              id="variations-panel"
+              role="tabpanel"
+              aria-labelledby="variations-tab"
+              className={activeTab === 'variations' ? 'block' : 'sr-only'}
+            >
+              <div className="text-center mb-16">
+                <h2 className="text-4xl font-bold text-[#1B2845] mb-6">All Variations</h2>
+                <p className="text-gray-600 max-w-3xl mx-auto text-lg">
+                  Choose from {product.variations.length} available variations. Click any row to select that option.
+                </p>
+              </div>
+              
+              <div className="max-w-6xl mx-auto">
+                <div className="bg-gray-50 rounded-2xl p-8 shadow-sm overflow-hidden">
+                  <div className="overflow-x-auto">
+                    <table className="w-full">
+                      <thead>
+                        <tr className="border-b-2 border-gray-200">
+                          <th className="text-left py-4 px-4 font-semibold text-[#1B2845]">Image</th>
+                          <th className="text-left py-4 px-4 font-semibold text-[#1B2845]">Item #</th>
+                          {/* Dynamic spec columns */}
+                          {getVariationProperties().map(prop => (
+                            <th key={prop} className="text-left py-4 px-4 font-semibold text-[#1B2845] capitalize">
+                              {prop.replace(/_/g, ' ')}
+                            </th>
+                          ))}
+                          <th className="text-left py-4 px-4 font-semibold text-[#1B2845]">Price</th>
+                          <th className="text-left py-4 px-4 font-semibold text-[#1B2845]">Stock</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        {product.variations.map((variation: any, index: number) => {
+                          const isSelected = index === selectedVariation;
+                          const isAvailable = variation.inventory > 0;
+                          
+                          return (
+                            <tr 
+                              key={variation.item_variation_id}
+                              onClick={() => {
+                                if (isAvailable) {
+                                  setSelectedVariation(index);
+                                }
+                              }}
+                              className={`border-b border-gray-200 transition-all duration-300 ${
+                                isSelected 
+                                  ? 'bg-[#1B2845]/10 border-[#1B2845]' 
+                                  : isAvailable 
+                                    ? 'hover:bg-gray-100 cursor-pointer' 
+                                    : 'opacity-50 cursor-not-allowed'
+                              }`}
+                            >
+                              <td className="py-4 px-4">
+                                <div className="w-16 h-16 bg-white rounded-lg flex items-center justify-center border border-gray-200">
+                                  <Image 
+                                    src={`/rothco/images/${variation.image_filename}`}
+                                    alt={`${productData.item_name} variation`}
+                                    width={64}
+                                    height={64}
+                                    quality={85}
+                                    className="object-contain"
+                                    sizes="64px"
+                                  />
+                                </div>
+                              </td>
+                              <td className="py-4 px-4">
+                                <span className={`font-medium ${isSelected ? 'text-[#1B2845] font-bold' : 'text-gray-900'}`}>
+                                  {variation.rothco_item_no}
+                                </span>
+                                {isSelected && (
+                                  <span className="ml-2 bg-[#1B2845] text-white text-xs px-2 py-1 rounded">
+                                    Selected
+                                  </span>
+                                )}
+                              </td>
+                              {/* Dynamic spec values */}
+                              {getVariationProperties().map(prop => (
+                                <td key={prop} className="py-4 px-4 text-gray-600">
+                                  {variation.specs?.[prop] || '-'}
+                                </td>
+                              ))}
+                              <td className="py-4 px-4">
+                                <span className={`font-bold ${isSelected ? 'text-[#1B2845]' : 'text-gray-900'}`}>
+                                  ${variation.msrp}
+                                </span>
+                              </td>
+                              <td className="py-4 px-4">
+                                {isAvailable ? (
+                                  <span className="text-green-600 font-medium">In Stock</span>
+                                ) : (
+                                  <span className="text-red-500 font-medium">Out of Stock</span>
+                                )}
+                              </td>
+                            </tr>
+                          );
+                        })}
+                      </tbody>
+                    </table>
+                  </div>
+                  
+                  <div className="mt-6 p-4 bg-white rounded-xl">
+                    <p className="text-gray-600 text-sm">
+                      <strong>Note:</strong> Click any row to select that variation. The selected option will be reflected in the product image and pricing above.
+                    </p>
                   </div>
                 </div>
               </div>

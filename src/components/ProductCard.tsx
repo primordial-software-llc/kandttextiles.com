@@ -42,9 +42,11 @@ export const ProductCard: React.FC<ProductCardProps> = ({
               <Image 
                 src={image}
                 alt={name}
-                width={80}
-                height={80}
+                width={96}
+                height={96}
+                quality={90}
                 className="object-contain"
+                sizes="96px"
               />
             </div>
             <div className="flex-1">
@@ -69,35 +71,37 @@ export const ProductCard: React.FC<ProductCardProps> = ({
   // Default vertical layout
   return (
     <Link href={`/products/${supplier}/${id}`} className="group">
-      <div className="relative bg-white border border-gray-200 shadow-sm hover:shadow-lg transition-all duration-300 overflow-hidden">
+      <div className="relative bg-white border border-gray-200 shadow-sm hover:shadow-lg transition-all duration-300 overflow-hidden h-full flex flex-col">
         {/* Product Image */}
-        <div className="aspect-[4/3] bg-gray-50 p-6 flex items-center justify-center">
+        <div className="aspect-[3/2] bg-gray-50 p-4 flex items-center justify-center">
           <Image 
             src={image}
             alt={name}
-            width={300}
-            height={225}
+            width={400}
+            height={300}
+            quality={90}
             className="object-contain max-w-full max-h-full group-hover:scale-105 transition-transform duration-300"
+            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
           />
         </div>
         
         {/* Product Info */}
-        <div className="p-6">
+        <div className="p-6 flex-1 flex flex-col">
           <div className="flex items-center justify-between mb-2">
             <span className="text-sm text-gray-500">{toTitleCase(supplier)}</span>
             <span className="text-sm text-gray-500">#{itemNumber}</span>
           </div>
           
-          <h3 className="font-bold text-[#1B2845] mb-3 group-hover:text-[#2d4a2d] transition-colors">
-            {name}
+          <h3 className="font-bold text-[#1B2845] mb-3 group-hover:text-[#2d4a2d] transition-colors h-12 flex items-start">
+            <span className="line-clamp-2">{name}</span>
           </h3>
           
-          <p className="text-gray-600 text-sm mb-4 line-clamp-2">
+          <p className="text-gray-600 text-sm mb-4 line-clamp-2 h-10 flex-shrink-0">
             {description}
           </p>
           
           {/* Price */}
-          <div className="flex items-center justify-between">
+          <div className="flex items-center justify-between mt-auto">
             <span className="text-2xl font-bold text-[#2d4a2d]">
               ${price}
             </span>
