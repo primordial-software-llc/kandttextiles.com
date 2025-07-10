@@ -52,7 +52,7 @@ export default function RootLayout({
                   </li>
                   <li className="group">
                     <Link href="/products/featured" className="text-gray-600 font-medium hover:text-[#1B2845] transition-all duration-300 relative inline-block">
-                      <span className="relative z-10">Featured</span>
+                      <span className="relative z-10">Featured Products</span>
                       <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-full"></div>
                     </Link>
                   </li>

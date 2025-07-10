@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from 'react';
+import { useRouter, useSearchParams } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
 import { AnimatedButton } from '@/components/AnimatedButton';
@@ -9,21 +10,8 @@ import { AnimatedButtonAccent } from '@/components/AnimatedButtonAccent';
 import { CTA } from '@/components/CTA';
 import { CONTACT } from '@/constants/contact';
 
-// Import all product data
-import product2064Data from '@/data/rothco/products/product-2064.json';
-import product2065Data from '@/data/rothco/products/product-2065.json';
-import product2067Data from '@/data/rothco/products/product-2067.json';
-import product2069Data from '@/data/rothco/products/product-2069.json';
-import product2072Data from '@/data/rothco/products/product-2072.json';
-import product3123Data from '@/data/rothco/products/product-3123.json';
-import product3124Data from '@/data/rothco/products/product-3124.json';
-import product4198Data from '@/data/rothco/products/product-4198.json';
-import product4446Data from '@/data/rothco/products/product-4446.json';
-import product5131Data from '@/data/rothco/products/product-5131.json';
-import product5168Data from '@/data/rothco/products/product-5168.json';
-import product5169Data from '@/data/rothco/products/product-5169.json';
-import product5170Data from '@/data/rothco/products/product-5170.json';
-import product997Data from '@/data/rothco/products/product-997.json';
+// Import all product data dynamically
+import { getAllProducts } from '@/data/rothco/products';
 
 // Custom CSS animations
 const animationStyles = `
@@ -127,46 +115,25 @@ interface ProductCardProps {
 
 const ProductCard: React.FC<ProductCardProps> = ({ product, index }) => {
   const [isHovered, setIsHovered] = useState(false);
-  const [isClicked, setIsClicked] = useState(false);
-  const [clickPosition, setClickPosition] = useState({ x: 0, y: 0 });
   
-  // Get first available variation for display
-  const firstVariation = product.variations[0];
+  // Get first available variation for display with null safety
+  const firstVariation = product.variations && product.variations.length > 0 ? product.variations[0] : null;
   const hasVideo = product.video_link && getYouTubeVideoId(product.video_link);
   
-  const handleClick = (e: React.MouseEvent) => {
-    const rect = e.currentTarget.getBoundingClientRect();
-    setClickPosition({
-      x: e.clientX - rect.left,
-      y: e.clientY - rect.top
-    });
-    setIsClicked(true);
-    setTimeout(() => setIsClicked(false), 600);
-  };
+  // If no variations available, don't render this product
+  if (!firstVariation || !firstVariation.image_filename) {
+    return null;
+  }
   
   return (
-    <div 
-      className="group animate-fade-in-up stagger-animation"
-      style={{ '--stagger': index } as React.CSSProperties}
-      onMouseEnter={() => setIsHovered(true)}
-      onMouseLeave={() => setIsHovered(false)}
-      onClick={handleClick}
-    >
-      <div className="relative bg-white rounded-xl shadow-lg border border-gray-200 overflow-hidden transition-all duration-500 hover:shadow-2xl hover:shadow-[#1B2845]/10 transform hover:-translate-y-2 hover:scale-105 cursor-pointer flex flex-col h-full">
-        
-        {/* Click ripple effect */}
-        {isClicked && (
-          <div 
-            className="absolute bg-[#1B2845]/20 rounded-full pointer-events-none z-10"
-            style={{
-              left: clickPosition.x - 25,
-              top: clickPosition.y - 25,
-              width: 50,
-              height: 50,
-              animation: 'click-ripple 0.6s ease-out'
-            }}
-          />
-        )}
+    <Link href={`/products/rothco/${product.item_index}`}>
+      <div 
+        className="group animate-fade-in-up stagger-animation"
+        style={{ '--stagger': index } as React.CSSProperties}
+        onMouseEnter={() => setIsHovered(true)}
+        onMouseLeave={() => setIsHovered(false)}
+      >
+        <div className="relative bg-white rounded-xl shadow-lg border border-gray-200 overflow-hidden transition-all duration-500 hover:shadow-2xl hover:shadow-[#1B2845]/10 transform hover:-translate-y-2 hover:scale-105 cursor-pointer flex flex-col h-full">
         
         {/* Product Badge */}
         <div className="absolute top-4 left-4 z-20">
@@ -219,10 +186,10 @@ const ProductCard: React.FC<ProductCardProps> = ({ product, index }) => {
             {/* Variations info */}
             <div className="flex items-center justify-between text-sm">
               <span className="text-gray-500">
-                {product.variations.length} variation{product.variations.length !== 1 ? 's' : ''}
+                {product.variations?.length || 0} variation{(product.variations?.length || 0) !== 1 ? 's' : ''}
               </span>
               <span className="text-[#1B2845] font-semibold">
-                From ${Math.min(...product.variations.map((v: any) => v.msrp))}
+                From ${Math.min(...(product.variations?.map((v: any) => v.msrp) || [0]))}
               </span>
             </div>
             
@@ -241,43 +208,79 @@ const ProductCard: React.FC<ProductCardProps> = ({ product, index }) => {
             )}
           </div>
           
-          {/* Action Button */}
-          <div className="mt-6 pt-4 border-t border-gray-100">
-            <Link href={`/products/rothco/${product.item_index}`}>
-              <div className="group/btn relative w-full py-3 px-4 text-center text-white font-semibold bg-gradient-to-r from-[#1B2845] to-[#34495e] rounded-lg transition-all duration-300 hover:from-[#2d4a2d] hover:to-[#1B2845] hover:shadow-lg hover:shadow-[#1B2845]/30 overflow-hidden">
-                {/* Button shine effect */}
-                <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent transform -skew-x-12 -translate-x-full group-hover/btn:translate-x-full transition-transform duration-700"></div>
-                
-                <span className="relative z-10 flex items-center justify-center">
-                  View Details
-                  <svg className="w-4 h-4 ml-2 transition-transform duration-300 group-hover/btn:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </span>
-              </div>
-            </Link>
-          </div>
         </div>
       </div>
     </div>
+    </Link>
   );
 };
 
 export default function AllProductsPage() {
-  const [filter, setFilter] = useState<'all' | 'video' | 'popular'>('all');
-  const [sortBy, setSortBy] = useState<'name' | 'price' | 'rating'>('name');
-  const [searchTerm, setSearchTerm] = useState('');
+  const router = useRouter();
+  const searchParams = useSearchParams();
   
-  // Combine all product data
-  const allProducts = [
-    product2064Data, product2065Data, product2067Data, product2069Data, product2072Data,
-    product3123Data, product3124Data, product4198Data, product4446Data, product5131Data,
-    product5168Data, product5169Data, product5170Data, product997Data
-  ];
+  const [allProducts, setAllProducts] = useState<any[]>([]);
+  const [isLoading, setIsLoading] = useState(true);
+  const [itemsPerPage] = useState(24); // Fixed items per page
+  
+  // Get all URL parameters
+  const currentPage = parseInt(searchParams.get('page') || '1', 10);
+  const filter = (searchParams.get('filter') as 'all' | 'video' | 'popular') || 'all';
+  const sortBy = (searchParams.get('sort') as 'name' | 'price' | 'rating') || 'name';
+  const searchTerm = searchParams.get('search') || '';
+  
+  // Function to update URL with new parameters
+  const updateURL = (updates: Partial<{
+    page: number;
+    filter: 'all' | 'video' | 'popular';
+    sort: 'name' | 'price' | 'rating';
+    search: string;
+  }>) => {
+    const params = new URLSearchParams(searchParams.toString());
+    
+    // Update or remove parameters
+    Object.entries(updates).forEach(([key, value]) => {
+      if (value === undefined || value === null || 
+          (key === 'page' && value === 1) ||
+          (key === 'filter' && value === 'all') ||
+          (key === 'sort' && value === 'name') ||
+          (key === 'search' && value === '')) {
+        params.delete(key);
+      } else {
+        params.set(key, value.toString());
+      }
+    });
+    
+    const newUrl = params.toString() ? `?${params.toString()}` : '/products';
+    router.push(newUrl, { scroll: false });
+  };
+  
+  // Load all products dynamically
+  useEffect(() => {
+    const loadProducts = async () => {
+      try {
+        setIsLoading(true);
+        const products = await getAllProducts();
+        setAllProducts(products || []);
+      } catch (error) {
+        console.error('Failed to load products:', error);
+        setAllProducts([]);
+      } finally {
+        setIsLoading(false);
+      }
+    };
+    
+    loadProducts();
+  }, []);
   
   // Filter and sort products
   const filteredProducts = allProducts
     .filter(product => {
+      // Filter out products without variations
+      if (!product.variations || product.variations.length === 0) {
+        return false;
+      }
+      
       // Search filter
       if (searchTerm && !product.item_name.toLowerCase().includes(searchTerm.toLowerCase())) {
         return false;
@@ -285,7 +288,7 @@ export default function AllProductsPage() {
       
       // Category filter
       if (filter === 'video' && !product.video_link) return false;
-      if (filter === 'popular' && parseFloat(product.rating) < 4.5) return false;
+      if (filter === 'popular' && parseFloat(product.rating || '0') < 4.5) return false;
       
       return true;
     })
@@ -294,13 +297,55 @@ export default function AllProductsPage() {
         case 'name':
           return a.item_name.localeCompare(b.item_name);
         case 'price':
-          return Math.min(...a.variations.map((v: any) => v.msrp)) - Math.min(...b.variations.map((v: any) => v.msrp));
+          const aPrices = a.variations?.map((v: any) => v.msrp) || [0];
+          const bPrices = b.variations?.map((v: any) => v.msrp) || [0];
+          return Math.min(...aPrices) - Math.min(...bPrices);
         case 'rating':
-          return parseFloat(b.rating) - parseFloat(a.rating);
+          return parseFloat(b.rating || '0') - parseFloat(a.rating || '0');
         default:
           return 0;
       }
     });
+
+  // Pagination calculations
+  const totalPages = Math.ceil(filteredProducts.length / itemsPerPage);
+  const startIndex = (currentPage - 1) * itemsPerPage;
+  const endIndex = startIndex + itemsPerPage;
+  const currentPageProducts = filteredProducts.slice(startIndex, endIndex);
+
+  // This will be handled by the URL changes automatically
+
+  // Scroll to top when page changes
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }, [currentPage]);
+
+  // Add pagination SEO meta tags
+  useEffect(() => {
+    // Remove existing pagination link tags
+    const existingTags = document.querySelectorAll('link[rel="prev"], link[rel="next"]');
+    existingTags.forEach(tag => tag.remove());
+
+    if (totalPages > 1) {
+      const head = document.head;
+      
+      // Add previous page link
+      if (currentPage > 1) {
+        const prevLink = document.createElement('link');
+        prevLink.rel = 'prev';
+        prevLink.href = currentPage === 2 ? '/products' : `/products?page=${currentPage - 1}`;
+        head.appendChild(prevLink);
+      }
+      
+      // Add next page link
+      if (currentPage < totalPages) {
+        const nextLink = document.createElement('link');
+        nextLink.rel = 'next';
+        nextLink.href = `/products?page=${currentPage + 1}`;
+        head.appendChild(nextLink);
+      }
+    }
+  }, [currentPage, totalPages]);
   
   return (
     <div className="min-h-screen bg-gray-50">
@@ -322,7 +367,7 @@ export default function AllProductsPage() {
               All Rothco Products
             </h1>
             <p className="text-xl text-gray-300 leading-relaxed max-w-3xl mx-auto mb-8 animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
-              Explore our complete catalog of {allProducts.length} professional-grade tactical gear and military equipment from Rothco.
+              Explore our complete catalog of {isLoading ? '90+' : allProducts.filter(p => p.variations && p.variations.length > 0).length} professional-grade tactical gear and military equipment from Rothco.
             </p>
           </div>
         </div>
@@ -338,7 +383,7 @@ export default function AllProductsPage() {
                 type="text"
                 placeholder="Search products..."
                 value={searchTerm}
-                onChange={(e) => setSearchTerm(e.target.value)}
+                onChange={(e) => updateURL({ search: e.target.value, page: 1 })}
                 className="w-full px-4 py-3 pl-10 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#1B2845]/20 focus:border-[#1B2845] transition-all duration-300"
               />
               <svg className="absolute left-3 top-3.5 w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -349,41 +394,41 @@ export default function AllProductsPage() {
             {/* Filters */}
             <div className="flex gap-2">
               <button
-                onClick={() => setFilter('all')}
+                onClick={() => updateURL({ filter: 'all', page: 1 })}
                 className={`px-4 py-2 rounded-lg font-medium transition-all duration-300 ${
                   filter === 'all' 
                     ? 'bg-[#1B2845] text-white shadow-lg' 
                     : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
                 }`}
               >
-                All ({allProducts.length})
+                All ({allProducts.filter(p => p.variations && p.variations.length > 0).length})
               </button>
               <button
-                onClick={() => setFilter('video')}
+                onClick={() => updateURL({ filter: 'video', page: 1 })}
                 className={`px-4 py-2 rounded-lg font-medium transition-all duration-300 ${
                   filter === 'video' 
                     ? 'bg-[#1B2845] text-white shadow-lg' 
                     : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
                 }`}
               >
-                With Video ({allProducts.filter(p => p.video_link).length})
+                With Video ({isLoading ? '...' : allProducts.filter(p => p.variations && p.variations.length > 0 && p.video_link).length})
               </button>
               <button
-                onClick={() => setFilter('popular')}
+                onClick={() => updateURL({ filter: 'popular', page: 1 })}
                 className={`px-4 py-2 rounded-lg font-medium transition-all duration-300 ${
                   filter === 'popular' 
                     ? 'bg-[#1B2845] text-white shadow-lg' 
                     : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
                 }`}
               >
-                Popular ({allProducts.filter(p => parseFloat(p.rating) >= 4.5).length})
+                Popular ({isLoading ? '...' : allProducts.filter(p => p.variations && p.variations.length > 0 && parseFloat(p.rating || '0') >= 4.5).length})
               </button>
             </div>
             
             {/* Sort */}
             <select
               value={sortBy}
-              onChange={(e) => setSortBy(e.target.value as 'name' | 'price' | 'rating')}
+              onChange={(e) => updateURL({ sort: e.target.value as 'name' | 'price' | 'rating', page: 1 })}
               className="px-4 py-2 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-[#1B2845]/20 focus:border-[#1B2845] transition-all duration-300"
             >
               <option value="name">Sort by Name</option>
@@ -397,23 +442,47 @@ export default function AllProductsPage() {
       {/* Results Info */}
       <section className="bg-white py-4">
         <div className="max-w-7xl mx-auto px-5">
-          <p className="text-gray-600">
-            Showing {filteredProducts.length} of {allProducts.length} products
-            {searchTerm && ` matching "${searchTerm}"`}
-          </p>
+          <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+            <p className="text-gray-600">
+              {isLoading ? (
+                'Loading products...'
+              ) : (
+                <>
+                  Showing {startIndex + 1}-{Math.min(endIndex, filteredProducts.length)} of {filteredProducts.length} products
+                  {searchTerm && ` matching "${searchTerm}"`}
+                </>
+              )}
+            </p>
+            
+            {!isLoading && totalPages > 1 && (
+              <div className="flex items-center gap-2 text-sm text-gray-600">
+                <span>Items per page:</span>
+                <span className="font-semibold">{itemsPerPage}</span>
+                <span>•</span>
+                <span>Page {currentPage} of {totalPages}</span>
+              </div>
+            )}
+          </div>
         </div>
       </section>
       
       {/* Products Grid */}
       <section className="py-12 bg-gray-50">
         <div className="max-w-7xl mx-auto px-5">
-          {filteredProducts.length > 0 ? (
+          {isLoading ? (
+            // Loading state
+            <div className="text-center py-20">
+              <div className="inline-block animate-spin rounded-full h-20 w-20 border-b-2 border-[#1B2845] mb-4"></div>
+              <h3 className="text-2xl font-bold text-gray-600 mb-2">Loading Products...</h3>
+              <p className="text-gray-500">Fetching the latest product catalog</p>
+            </div>
+          ) : currentPageProducts.length > 0 ? (
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-              {filteredProducts.map((product, index) => (
+              {currentPageProducts.map((product, index) => (
                 <ProductCard key={product.item_index} product={product} index={index} />
               ))}
             </div>
-          ) : (
+          ) : filteredProducts.length === 0 ? (
             <div className="text-center py-20">
               <div className="text-gray-400 mb-4">
                 <svg className="w-20 h-20 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -423,14 +492,125 @@ export default function AllProductsPage() {
               <h3 className="text-2xl font-bold text-gray-600 mb-2">No products found</h3>
               <p className="text-gray-500 mb-6">Try adjusting your search or filters</p>
               <button
-                onClick={() => {
-                  setSearchTerm('');
-                  setFilter('all');
-                }}
+                onClick={() => updateURL({ search: '', filter: 'all', sort: 'name', page: 1 })}
                 className="px-6 py-3 bg-[#1B2845] text-white rounded-lg hover:bg-[#2d4a2d] transition-colors duration-300"
               >
                 Clear Filters
               </button>
+            </div>
+          ) : null}
+          
+          {/* Pagination Controls */}
+          {!isLoading && totalPages > 1 && (
+            <div className="mt-16 flex flex-col sm:flex-row items-center justify-between gap-6">
+              {/* Previous/Next Navigation */}
+              <div className="flex items-center gap-2">
+                {currentPage > 1 ? (
+                  <Link
+                    href={currentPage === 2 ? '/products' : `/products?page=${currentPage - 1}`}
+                    className="flex items-center gap-2 px-4 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-all duration-200"
+                  >
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+                    </svg>
+                    Previous
+                  </Link>
+                ) : (
+                  <span className="flex items-center gap-2 px-4 py-2 text-sm font-medium text-gray-400 bg-gray-100 border border-gray-200 rounded-lg opacity-50 cursor-not-allowed">
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+                    </svg>
+                    Previous
+                  </span>
+                )}
+                
+                {currentPage < totalPages ? (
+                  <Link
+                    href={`/products?page=${currentPage + 1}`}
+                    className="flex items-center gap-2 px-4 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-all duration-200"
+                  >
+                    Next
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                    </svg>
+                  </Link>
+                ) : (
+                  <span className="flex items-center gap-2 px-4 py-2 text-sm font-medium text-gray-400 bg-gray-100 border border-gray-200 rounded-lg opacity-50 cursor-not-allowed">
+                    Next
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                    </svg>
+                  </span>
+                )}
+              </div>
+
+              {/* Page Numbers */}
+              <div className="flex items-center gap-1">
+                {/* First page */}
+                                 {currentPage > 3 && (
+                   <>
+                     <Link href="/products" className="w-10 h-10 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-all duration-200 flex items-center justify-center">
+                       1
+                     </Link>
+                     {currentPage > 4 && (
+                       <span className="px-2 text-gray-500">...</span>
+                     )}
+                   </>
+                 )}
+
+                 {/* Current page and surrounding pages */}
+                 {Array.from({ length: Math.min(5, totalPages) }, (_, i) => {
+                   let pageNumber;
+                   if (totalPages <= 5) {
+                     pageNumber = i + 1;
+                   } else if (currentPage <= 3) {
+                     pageNumber = i + 1;
+                   } else if (currentPage >= totalPages - 2) {
+                     pageNumber = totalPages - 4 + i;
+                   } else {
+                     pageNumber = currentPage - 2 + i;
+                   }
+                   
+                   if (pageNumber < 1 || pageNumber > totalPages) return null;
+                   
+                   const href = pageNumber === 1 ? '/products' : `/products?page=${pageNumber}`;
+                   const isCurrentPage = currentPage === pageNumber;
+                   
+                   return isCurrentPage ? (
+                     <span
+                       key={pageNumber}
+                       className="w-10 h-10 text-sm font-medium rounded-lg bg-[#1B2845] text-white shadow-lg flex items-center justify-center"
+                     >
+                       {pageNumber}
+                     </span>
+                   ) : (
+                     <Link
+                       key={pageNumber}
+                       href={href}
+                       className="w-10 h-10 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-all duration-200 flex items-center justify-center"
+                     >
+                       {pageNumber}
+                     </Link>
+                   );
+                 })}
+
+                 {/* Last page */}
+                 {currentPage < totalPages - 2 && (
+                   <>
+                     {currentPage < totalPages - 3 && (
+                       <span className="px-2 text-gray-500">...</span>
+                     )}
+                     <Link href={`/products?page=${totalPages}`} className="w-10 h-10 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-all duration-200 flex items-center justify-center">
+                       {totalPages}
+                     </Link>
+                   </>
+                 )}
+              </div>
+
+              {/* Page Info */}
+              <div className="flex items-center gap-2 text-sm text-gray-600">
+                <span>Page {currentPage} of {totalPages}</span>
+              </div>
             </div>
           )}
         </div>

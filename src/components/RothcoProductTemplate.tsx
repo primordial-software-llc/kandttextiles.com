@@ -662,33 +662,6 @@ export function RothcoProductTemplate({ productId, productData, relatedProducts 
         </div>
       </section>
 
-      {/* Related Products Section */}
-      <section className="py-20 bg-white">
-        <div className="max-w-7xl mx-auto px-5">
-          <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-[#1B2845] mb-6">Related Rothco Products</h2>
-          </div>
-          
-          <div className="grid md:grid-cols-2 gap-8">
-            {relatedProducts.map((product: any) => (
-              <ProductCard
-                key={product.id}
-                id={product.id}
-                name={product.name}
-                itemNumber={product.itemNumber}
-                price={product.price}
-                image={product.image}
-                description={product.description}
-                supplier={product.supplier}
-                features={product.features}
-                specifications={product.specifications}
-                layout="horizontal"
-              />
-            ))}
-          </div>
-        </div>
-      </section>
-
       <CTA 
         title="Need Custom Products?"
         description="We specialize in custom sourcing and international shipping. Contact us for wholesale pricing and bulk orders."

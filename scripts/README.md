@@ -62,7 +62,7 @@ The lookup script handles product variations as follows:
 - `scripts/config.json` - API key configuration (gitignored)
 - `scripts/rothco-item-numbers.txt` - Product IDs to lookup
 - Product data saved to: `src/data/rothco/products/product-{item_index}.json`
-- Product images saved to: `public/rothco/images/`
+- Product images saved to: `public/rothco/images/` 
 
 ### 3. Full Sync (`rothco-full-sync.js`)
 
