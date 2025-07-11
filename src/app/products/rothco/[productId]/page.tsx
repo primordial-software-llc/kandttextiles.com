@@ -3,9 +3,9 @@ import { notFound } from "next/navigation";
 import { rothcoData } from "@/data/suppliers/rothco";
 
 interface ProductPageProps {
-  params: {
+  params: Promise<{
     productId: string;
-  };
+  }>;
 }
 
 // Generate static params for all available products

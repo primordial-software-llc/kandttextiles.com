@@ -47,7 +47,7 @@ interface Product {
   rating: string;
   item_short_desc: string;
   no_ratings: null;
-  sort_order: null;
+  sort_order: string | null;
   description: string;
   selection_groups: string[];
   statuses: string;
