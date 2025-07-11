@@ -584,6 +584,7 @@ export function RothcoProductTemplate({ productId, productData, relatedProducts 
         description="We specialize in custom sourcing and international shipping. Contact us for wholesale pricing and bulk orders."
         buttons={[
           <AnimatedButtonAccent 
+            key="contact-sales"
             href={`mailto:${CONTACT.email}?subject=${getOrderEmailSubject()}&body=${getOrderEmailBody()}`}
             isExternal={true}
             textSize="text-xl"
@@ -591,6 +592,7 @@ export function RothcoProductTemplate({ productId, productData, relatedProducts 
             <span className="font-bold">Contact Sales</span>
           </AnimatedButtonAccent>,
           <AnimatedButtonOutline 
+            key="browse-suppliers"
             href="/suppliers"
             textSize="text-xl"
           >

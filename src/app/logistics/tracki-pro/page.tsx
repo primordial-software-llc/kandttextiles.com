@@ -194,6 +194,7 @@ export default function TrackiProPage() {
         description="Join thousands of businesses that trust Tracki Pro for their most valuable assets. Experience the perfect blend of durability, reliability, and intelligent tracking."
         buttons={[
           <AnimatedButtonOutline
+            key="contact-sales"
             href={`mailto:${CONTACT.email}`}
             isExternal={true}
             textSize="text-xl"

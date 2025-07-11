@@ -591,6 +591,7 @@ export default function RipstopPage() {
         description="Contact us for pricing, samples, and custom specifications for your ripstop fabric requirements."
         buttons={[
           <AnimatedButtonAccent 
+            key="request-quote"
             href={`mailto:${CONTACT.email}?subject=Ripstop Fabric Inquiry&body=I'm interested in ripstop fabric sourcing. Please send me pricing and samples.`}
             isExternal={true}
             textSize="text-xl"
@@ -598,6 +599,7 @@ export default function RipstopPage() {
             <span className="font-bold">Request Quote</span>
           </AnimatedButtonAccent>,
           <AnimatedButtonOutline 
+            key="compare-nyco"
             href="/fabrics/nyco-50-50"
             textSize="text-xl"
           >

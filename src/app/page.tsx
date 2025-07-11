@@ -490,6 +490,7 @@ export default function Home() {
         description="We specialize in custom sourcing and international shipping. Contact us for wholesale pricing and bulk orders."
         buttons={[
           <AnimatedButtonAccent 
+            key="contact-sales"
             href="mailto:info@kandttextiles.com?subject=Custom Product Inquiry&body=I'm interested in custom product sourcing and wholesale pricing. Please send me more information."
             isExternal={true}
             textSize="text-xl"
@@ -497,6 +498,7 @@ export default function Home() {
             <span className="font-bold">Contact Sales</span>
           </AnimatedButtonAccent>,
           <AnimatedButtonOutline 
+            key="browse-suppliers"
             href="/suppliers"
             textSize="text-xl"
           >

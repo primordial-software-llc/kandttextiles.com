@@ -574,6 +574,7 @@ export default function FabricsPage() {
         description="We specialize in custom fabric sourcing and technical textiles. Contact us for specialized materials and bulk orders."
         buttons={[
           <AnimatedButtonAccent 
+            key="contact-sales"
             href={`mailto:${CONTACT.email}?subject=Custom Fabric Inquiry&body=I'm interested in custom fabric sourcing and technical textiles. Please send me more information.`}
             isExternal={true}
             textSize="text-xl"
@@ -581,6 +582,7 @@ export default function FabricsPage() {
             <span className="font-bold">Contact Sales</span>
           </AnimatedButtonAccent>,
           <AnimatedButtonOutline 
+            key="view-suppliers"
             href="/suppliers"
             textSize="text-xl"
           >

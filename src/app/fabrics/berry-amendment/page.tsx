@@ -560,6 +560,7 @@ export default function BerryAmendmentPage() {
         description="Partner with us for complete Berry Amendment compliance solutions. From material sourcing to documentation, we'll help you meet all DoD requirements."
         buttons={[
           <AnimatedButtonAccent 
+            key="start-partnership"
             href={`mailto:${CONTACT.email}?subject=Berry Amendment Partnership&body=I'm interested in partnering with K&T Textiles for Berry Amendment compliant materials and consulting services. Please send me more information about your capabilities and pricing.`}
             isExternal={true}
             textSize="text-xl"
@@ -567,6 +568,7 @@ export default function BerryAmendmentPage() {
             <span className="font-bold">Start Partnership</span>
           </AnimatedButtonAccent>,
           <AnimatedButtonOutline 
+            key="view-fabrics"
             href="/fabrics"
             textSize="text-xl"
           >

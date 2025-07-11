@@ -565,6 +565,7 @@ export default function LogisticsPage() {
         description="Contact us to learn more about implementing advanced tracking solutions for your valuable cargo."
         buttons={[
           <AnimatedButtonOutline
+            key="contact-sales"
             href={`mailto:${CONTACT.email}`}
             isExternal={true}
             textSize="text-xl"

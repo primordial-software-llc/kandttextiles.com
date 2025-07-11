@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -259,7 +259,7 @@ export default function AllProductsPage() {
   };
 
   // Helper function to build URL with preserved parameters
-  const buildURL = (page: number) => {
+  const buildURL = useCallback((page: number) => {
     const params = new URLSearchParams();
     
     // Add non-default parameters
@@ -269,7 +269,7 @@ export default function AllProductsPage() {
     if (searchTerm) params.set('search', searchTerm);
     
     return params.toString() ? `/products?${params.toString()}` : '/products';
-  };
+  }, [filter, sortBy, searchTerm]);
   
   // Load all products dynamically
   useEffect(() => {
@@ -361,7 +361,7 @@ export default function AllProductsPage() {
         head.appendChild(nextLink);
       }
     }
-  }, [currentPage, totalPages]);
+  }, [currentPage, totalPages, buildURL]);
   
   return (
     <div className="min-h-screen bg-gray-50">
@@ -633,6 +633,7 @@ export default function AllProductsPage() {
         description="We specialize in custom sourcing and international shipping. Contact us for wholesale pricing and bulk orders."
         buttons={[
           <AnimatedButtonAccent 
+            key="contact-sales"
             href={`mailto:${CONTACT.email}?subject=Custom Product Inquiry&body=I'm interested in custom product sourcing and wholesale pricing. Please send me more information.`}
             isExternal={true}
             textSize="text-xl"
@@ -640,6 +641,7 @@ export default function AllProductsPage() {
             <span className="font-bold">Contact Sales</span>
           </AnimatedButtonAccent>,
           <AnimatedButtonOutline 
+            key="browse-suppliers"
             href="/suppliers"
             textSize="text-xl"
           >

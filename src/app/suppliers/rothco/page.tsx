@@ -122,6 +122,7 @@ export default function Suppliers() {
           description={rothcoData.cta.description}
           buttons={[
             <AnimatedButtonAccent 
+              key="contact-sales"
               href={`mailto:${CONTACT.email}`}
               isExternal={true}
               textSize="text-xl"
@@ -129,6 +130,7 @@ export default function Suppliers() {
               <span className="font-bold">Contact Sales</span>
             </AnimatedButtonAccent>,
             <AnimatedButtonOutline 
+              key="view-catalog"
               href="https://www.rothco.com/catalog"
               isExternal={true}
               textSize="text-xl"

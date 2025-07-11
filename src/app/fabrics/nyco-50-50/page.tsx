@@ -501,6 +501,7 @@ export default function NYCO5050Page() {
         description="Contact us for pricing, samples, and custom specifications for your NYCO 50/50 fabric requirements."
         buttons={[
           <AnimatedButtonAccent 
+            key="request-quote"
             href={`mailto:${CONTACT.email}?subject=NYCO 50/50 Fabric Inquiry&body=I'm interested in NYCO 50/50 fabric sourcing. Please send me pricing and samples.`}
             isExternal={true}
             textSize="text-xl"
@@ -508,6 +509,7 @@ export default function NYCO5050Page() {
             <span className="font-bold">Request Quote</span>
           </AnimatedButtonAccent>,
           <AnimatedButtonOutline 
+            key="compare-ripstop"
             href="/fabrics/ripstop"
             textSize="text-xl"
           >

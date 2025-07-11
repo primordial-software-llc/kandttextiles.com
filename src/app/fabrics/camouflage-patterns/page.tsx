@@ -529,6 +529,7 @@ export default function CamouflagePatterns() {
         description="We work with licensed patterns and custom designs for military, law enforcement, and commercial applications. Contact us for pattern licensing and fabric sourcing."
         buttons={[
           <AnimatedButtonAccent 
+            key="get-custom-solutions"
             href={`mailto:${CONTACT.email}?subject=Custom Camouflage Inquiry&body=I'm interested in custom camouflage pattern solutions and fabric sourcing. Please send me more information about licensing and capabilities.`}
             isExternal={true}
             textSize="text-xl"
@@ -536,6 +537,7 @@ export default function CamouflagePatterns() {
             <span className="font-bold">Get Custom Solutions</span>
           </AnimatedButtonAccent>,
           <AnimatedButtonOutline 
+            key="view-all-fabrics"
             href="/fabrics"
             textSize="text-xl"
           >
