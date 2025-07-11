@@ -2,15 +2,12 @@ import Image from "next/image";
 import Link from "next/link";
 import { rothcoData } from '@/data/suppliers/rothco';
 import { BaseStructuredData } from '@/components/BaseStructuredData';
-import { ProductStructuredData } from '@/components/ProductStructuredData';
 import ProductSlideshow from '@/components/ProductSlideshow';
 import { BrandHero } from '@/components/BrandHero';
-import { FeaturedProducts } from '@/components/FeaturedProducts';
 import { CONTACT } from '@/constants/contact';
 import { CTA } from '@/components/CTA';
 import { AnimatedButtonAccent } from '@/components/AnimatedButtonAccent';
 import { AnimatedButtonOutline } from '@/components/AnimatedButtonOutline';
-import { SimpleFeaturedProducts } from '@/components/SimpleFeaturedProducts';
 
 export const metadata = {
   title: "Rothco Military & Tactical Gear | Authorized International Dealer",
@@ -48,28 +45,6 @@ export default function Suppliers() {
   return (
     <>
       <BaseStructuredData />
-      <ProductStructuredData 
-        products={[
-          ...rothcoData.featuredProducts.map(product => ({
-            name: product.name,
-            description: product.description,
-            image: product.image,
-            brandName: "Rothco",
-            sellerName: "K&T Textiles",
-            price: product.price
-          })),
-          ...rothcoData.featuredProductGroups.flatMap(group => 
-            group.products.map(product => ({
-              name: product.name,
-              description: product.description,
-              image: product.image,
-              brandName: "Rothco",
-              sellerName: "K&T Textiles",
-              price: product.price
-            }))
-          )
-        ]}
-      />
 
       <BrandHero
         title={rothcoData.hero.title}
@@ -140,16 +115,6 @@ export default function Suppliers() {
             </div>
           </div>
         </section>
-
-        {/* Featured Product Groups */}
-        {rothcoData.featuredProductGroups.map((group, index) => (
-          <SimpleFeaturedProducts
-            key={index}
-            title={group.name}
-            products={group.products}
-            sectionId={`${urlSafeName(group.name)}-products`}
-          />
-        ))}
 
         {/* CTA Section */}
         <CTA 

@@ -51,15 +51,6 @@ export default function Home() {
       { ...product5168Data, selectedVariationItemNo: "12422" },
       { ...product5169Data, selectedVariationItemNo: "12431" }
     ]
-  },
-  {
-    supplier: "rothco",
-    name: "Boots",
-    products: [
-      { ...product997Data, selectedVariationItemNo: "12440" },
-      { ...product4198Data, selectedVariationItemNo: "12422" },
-      { ...product4446Data, selectedVariationItemNo: "12431" }
-    ]
   }];
   
   // Helper function to find specific product groups
@@ -429,8 +420,8 @@ export default function Home() {
 
           {/* Call to action */}
           <div className="text-center">
-            <AnimatedButton href="/suppliers/rothco" textSize="text-lg">
-              View Rothco Products
+            <AnimatedButton href="/products" textSize="text-lg">
+              View All Products
             </AnimatedButton>
           </div>
         

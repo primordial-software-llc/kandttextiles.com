@@ -126,9 +126,9 @@ const ProductCard: React.FC<ProductCardProps> = ({ product, index }) => {
   }
   
   return (
-    <Link href={`/products/rothco/${product.item_index}`}>
+    <Link href={`/products/rothco/${product.item_index}`} className="block h-full">
       <div 
-        className="group animate-fade-in-up stagger-animation"
+        className="product-card group animate-fade-in-up stagger-animation h-full"
         style={{ '--stagger': index } as React.CSSProperties}
         onMouseEnter={() => setIsHovered(true)}
         onMouseLeave={() => setIsHovered(false)}
@@ -172,17 +172,21 @@ const ProductCard: React.FC<ProductCardProps> = ({ product, index }) => {
         
         {/* Content */}
         <div className="p-6 relative z-10 flex flex-col flex-grow">
-          <div className="space-y-4 flex-grow">
-            <div>
-              <h3 className="text-xl font-bold text-[#1B2845] mb-2 line-clamp-2 group-hover:text-[#2d4a2d] transition-colors duration-300">
-                {product.item_name}
-              </h3>
-              
-              <p className="text-gray-600 text-sm line-clamp-3 leading-relaxed">
-                {decodeHtmlEntities(product.item_short_desc.replace(/<[^>]*>/g, ''))}
-              </p>
-            </div>
-            
+          {/* Title */}
+          <h3 className="text-xl font-bold text-[#1B2845] mb-2 line-clamp-2 group-hover:text-[#2d4a2d] transition-colors duration-300">
+            {product.item_name}
+          </h3>
+          
+          {/* Description - grows to fill available space */}
+          <p className="text-gray-600 text-sm leading-relaxed flex-grow mb-4">
+            {(() => {
+              const cleanDesc = decodeHtmlEntities(product.item_short_desc.replace(/<[^>]*>/g, ''));
+              return cleanDesc.length > 120 ? cleanDesc.substring(0, 120) + '...' : cleanDesc;
+            })()}
+          </p>
+          
+          {/* Bottom section - fixed at bottom */}
+          <div className="space-y-3 mt-auto">
             {/* Variations info */}
             <div className="flex items-center justify-between text-sm">
               <span className="text-gray-500">
@@ -207,7 +211,6 @@ const ProductCard: React.FC<ProductCardProps> = ({ product, index }) => {
               </div>
             )}
           </div>
-          
         </div>
       </div>
     </div>
@@ -253,6 +256,19 @@ export default function AllProductsPage() {
     
     const newUrl = params.toString() ? `?${params.toString()}` : '/products';
     router.push(newUrl, { scroll: false });
+  };
+
+  // Helper function to build URL with preserved parameters
+  const buildURL = (page: number) => {
+    const params = new URLSearchParams();
+    
+    // Add non-default parameters
+    if (page > 1) params.set('page', page.toString());
+    if (filter !== 'all') params.set('filter', filter);
+    if (sortBy !== 'name') params.set('sort', sortBy);
+    if (searchTerm) params.set('search', searchTerm);
+    
+    return params.toString() ? `/products?${params.toString()}` : '/products';
   };
   
   // Load all products dynamically
@@ -333,7 +349,7 @@ export default function AllProductsPage() {
       if (currentPage > 1) {
         const prevLink = document.createElement('link');
         prevLink.rel = 'prev';
-        prevLink.href = currentPage === 2 ? '/products' : `/products?page=${currentPage - 1}`;
+        prevLink.href = buildURL(currentPage - 1);
         head.appendChild(prevLink);
       }
       
@@ -341,7 +357,7 @@ export default function AllProductsPage() {
       if (currentPage < totalPages) {
         const nextLink = document.createElement('link');
         nextLink.rel = 'next';
-        nextLink.href = `/products?page=${currentPage + 1}`;
+        nextLink.href = buildURL(currentPage + 1);
         head.appendChild(nextLink);
       }
     }
@@ -349,22 +365,18 @@ export default function AllProductsPage() {
   
   return (
     <div className="min-h-screen bg-gray-50">
-      {/* Inject custom animations */}
-      <style jsx>{animationStyles}</style>
       
       {/* Hero Section */}
-      <section className="relative bg-gradient-to-br from-[#0f172a] via-[#1e293b] to-[#334155] text-white py-20">
-        {/* Background Pattern */}
-        <div className="absolute inset-0 opacity-10">
+      <section className="relative bg-[#0f172a] text-white py-20">
+        <div className="absolute inset-0">
           <div className="absolute inset-0 bg-[linear-gradient(45deg,rgba(255,255,255,0.03)_25%,transparent_25%,transparent_50%,rgba(255,255,255,0.03)_50%,rgba(255,255,255,0.03)_75%,transparent_75%)] bg-[length:24px_24px]"></div>
+          <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_50%,rgba(255,255,255,0.02)_1px,transparent_1px)] bg-[length:16px_16px]"></div>
         </div>
-        
-        <div className="max-w-7xl mx-auto px-5 relative z-10">
+        <div className="absolute inset-0 bg-gradient-to-t from-[#0f172a]/90 via-transparent to-transparent"></div>
+        <div className="max-w-7xl mx-auto px-5 relative z-20">
           <div className="text-center">
-
-            
             <h1 className="text-4xl md:text-6xl font-bold leading-tight mb-6 animate-fade-in-up">
-              All Rothco Products
+              Products
             </h1>
             <p className="text-xl text-gray-300 leading-relaxed max-w-3xl mx-auto mb-8 animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
               Explore our complete catalog of {isLoading ? '90+' : allProducts.filter(p => p.variations && p.variations.length > 0).length} professional-grade tactical gear and military equipment from Rothco.
@@ -507,7 +519,7 @@ export default function AllProductsPage() {
               <div className="flex items-center gap-2">
                 {currentPage > 1 ? (
                   <Link
-                    href={currentPage === 2 ? '/products' : `/products?page=${currentPage - 1}`}
+                    href={buildURL(currentPage - 1)}
                     className="flex items-center gap-2 px-4 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-all duration-200"
                   >
                     <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -526,7 +538,7 @@ export default function AllProductsPage() {
                 
                 {currentPage < totalPages ? (
                   <Link
-                    href={`/products?page=${currentPage + 1}`}
+                    href={buildURL(currentPage + 1)}
                     className="flex items-center gap-2 px-4 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-all duration-200"
                   >
                     Next
@@ -549,7 +561,7 @@ export default function AllProductsPage() {
                 {/* First page */}
                                  {currentPage > 3 && (
                    <>
-                     <Link href="/products" className="w-10 h-10 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-all duration-200 flex items-center justify-center">
+                     <Link href={buildURL(1)} className="w-10 h-10 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-all duration-200 flex items-center justify-center">
                        1
                      </Link>
                      {currentPage > 4 && (
@@ -573,7 +585,6 @@ export default function AllProductsPage() {
                    
                    if (pageNumber < 1 || pageNumber > totalPages) return null;
                    
-                   const href = pageNumber === 1 ? '/products' : `/products?page=${pageNumber}`;
                    const isCurrentPage = currentPage === pageNumber;
                    
                    return isCurrentPage ? (
@@ -586,7 +597,7 @@ export default function AllProductsPage() {
                    ) : (
                      <Link
                        key={pageNumber}
-                       href={href}
+                       href={buildURL(pageNumber)}
                        className="w-10 h-10 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-all duration-200 flex items-center justify-center"
                      >
                        {pageNumber}
@@ -600,7 +611,7 @@ export default function AllProductsPage() {
                      {currentPage < totalPages - 3 && (
                        <span className="px-2 text-gray-500">...</span>
                      )}
-                     <Link href={`/products?page=${totalPages}`} className="w-10 h-10 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-all duration-200 flex items-center justify-center">
+                     <Link href={buildURL(totalPages)} className="w-10 h-10 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-all duration-200 flex items-center justify-center">
                        {totalPages}
                      </Link>
                    </>

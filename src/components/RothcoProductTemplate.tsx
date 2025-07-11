@@ -35,36 +35,6 @@ const decodeHtmlEntities = (text: string): string => {
   });
 };
 
-// Custom CSS animations
-const buttonStyles = `
-  @keyframes pulse-glow {
-    0%, 100% { box-shadow: 0 0 5px rgba(45, 74, 45, 0.5), 0 0 10px rgba(45, 74, 45, 0.3), 0 0 15px rgba(45, 74, 45, 0.1); }
-    50% { box-shadow: 0 0 10px rgba(45, 74, 45, 0.8), 0 0 20px rgba(45, 74, 45, 0.6), 0 0 30px rgba(45, 74, 45, 0.4); }
-  }
-  
-  @keyframes rotate-border {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-  }
-  
-  @keyframes click-ripple {
-    0% { transform: scale(0); opacity: 1; }
-    100% { transform: scale(4); opacity: 0; }
-  }
-  
-  .animate-pulse-glow {
-    animation: pulse-glow 2s ease-in-out infinite;
-  }
-  
-  .animate-rotate-border {
-    animation: rotate-border 3s linear infinite;
-  }
-  
-  .animate-click-ripple {
-    animation: click-ripple 0.6s ease-out;
-  }
-`;
-
 interface RothcoProductTemplateProps {
   productId: string;
   productData: any;
@@ -89,8 +59,6 @@ export function RothcoProductTemplate({ productId, productData, relatedProducts 
     return 'specifications';
   });
   const [selectedVariation, setSelectedVariation] = useState(0);
-  const [isClicked, setIsClicked] = useState(false);
-  const [clickPosition, setClickPosition] = useState({ x: 0, y: 0 });
 
   // Get the selected variation for pricing and image data
   const currentVariation = productData.variations[selectedVariation];
@@ -121,18 +89,6 @@ export function RothcoProductTemplate({ productId, productData, relatedProducts 
   const getEmailBody = () => `I'm interested in the ${productData.item_name} (Item #${currentVariation.rothco_item_no}). Please send me pricing and availability information.`;
   const getOrderEmailSubject = () => `${productData.item_name} Order`;
   const getOrderEmailBody = () => `I'd like to place an order for the ${productData.item_name} (Item #${currentVariation.rothco_item_no}). Please send me wholesale pricing and shipping information.`;
-  
-  // Handle button click animation
-  const handleButtonClick = (e: React.MouseEvent<HTMLAnchorElement>) => {
-    const rect = e.currentTarget.getBoundingClientRect();
-    const x = e.clientX - rect.left;
-    const y = e.clientY - rect.top;
-    setClickPosition({ x, y });
-    setIsClicked(true);
-    
-    // Reset animation after it completes
-    setTimeout(() => setIsClicked(false), 600);
-  };
   
   // Format variation specs for display
   const getVariationDisplayName = () => {
@@ -176,9 +132,7 @@ export function RothcoProductTemplate({ productId, productData, relatedProducts 
   };
 
   return (
-    <div className="min-h-screen bg-gray-50">
-      {/* Inject custom animations */}
-      <style jsx>{buttonStyles}</style>
+    <div className="rothco-product-template min-h-screen bg-gray-50">
       {/* Hero Section */}
       <section className="relative bg-gradient-to-br from-[#0f172a] via-[#1e293b] to-[#334155] text-white min-h-[60vh] flex items-center">
         {/* Background Pattern */}
@@ -338,50 +292,13 @@ export function RothcoProductTemplate({ productId, productData, relatedProducts 
 
               {/* CTA Buttons */}
               <div className="flex flex-wrap gap-4">
-                <div className="group inline-block transform transition-transform duration-300 hover:scale-105">
-                  <a href={`mailto:${CONTACT.email}?subject=${getEmailSubject()}&body=${getEmailBody()}`} 
-                     onClick={handleButtonClick}
-                     className={`relative inline-flex items-center w-44 justify-center py-4 px-6 text-white font-semibold transition-all duration-500 ease-out bg-gradient-to-r from-[#2d4a2d] to-[#1f3a1f] hover:from-[#3a5a3a] hover:to-[#2d4a2d] shadow-lg hover:shadow-2xl hover:shadow-[#2d4a2d]/40 rounded-lg border border-[#2d4a2d]/20 hover:border-[#3a5a3a]/40 overflow-hidden backdrop-blur-sm hover:animate-pulse-glow ${isClicked ? 'scale-95' : ''}`}>
-                    
-                    {/* Rotating border on hover */}
-                    <div className="absolute -inset-0.5 bg-gradient-to-r from-[#2d4a2d] via-[#4a6a4a] to-[#2d4a2d] rounded-lg opacity-0 group-hover:opacity-20 group-hover:animate-rotate-border transition-opacity duration-500"></div>
-                    
-                    {/* Background glow effect */}
-                    <div className="absolute inset-0 bg-gradient-to-r from-[#2d4a2d]/20 to-[#1f3a1f]/20 opacity-0 group-hover:opacity-100 transition-opacity duration-700 blur-sm"></div>
-                    
-                    {/* Shine effect overlay */}
-                    <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/40 to-transparent transform -skew-x-12 -translate-x-full group-hover:translate-x-full transition-transform duration-1200 ease-out"></div>
-                    
-                    {/* Subtle inner glow */}
-                    <div className="absolute inset-0 bg-gradient-to-r from-white/10 via-transparent to-white/10 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
-                    
-                    {/* Ripple effect on hover */}
-                    <div className="absolute inset-0 bg-white/10 opacity-0 group-hover:opacity-100 transform scale-75 group-hover:scale-100 transition-all duration-500 ease-out rounded-lg"></div>
-                    
-                    {/* Click ripple animation */}
-                    {isClicked && (
-                      <div 
-                        className="absolute bg-white/30 rounded-full animate-click-ripple pointer-events-none"
-                        style={{
-                          left: clickPosition.x - 8,
-                          top: clickPosition.y - 8,
-                          width: 16,
-                          height: 16,
-                        }}
-                      />
-                    )}
-                    
-                    <span className="relative z-20 flex items-center transform transition-transform duration-300 group-hover:translate-y-[-1px]">
-                      <span className="mr-2 transition-all duration-300 group-hover:tracking-wide">Get Quote</span>
-                      <svg className="w-4 h-4 transition-all duration-500 ease-out group-hover:translate-x-2 group-hover:scale-110 group-hover:rotate-12" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M9 5l7 7-7 7" />
-                      </svg>
-                    </span>
-                    
-                    {/* Bottom border accent */}
-                    <div className="absolute bottom-0 left-0 right-0 h-0.5 bg-gradient-to-r from-transparent via-white/30 to-transparent transform scale-x-0 group-hover:scale-x-100 transition-transform duration-500"></div>
-                  </a>
-                </div>
+                <AnimatedButtonAccent 
+                  href={`mailto:${CONTACT.email}?subject=${getEmailSubject()}&body=${getEmailBody()}`}
+                  isExternal={true}
+                  textSize="text-lg"
+                >
+                  Get Quote
+                </AnimatedButtonAccent>
 
                 <AnimatedButtonOutline href="/suppliers/rothco" textSize="text-lg">
                   View More Rothco

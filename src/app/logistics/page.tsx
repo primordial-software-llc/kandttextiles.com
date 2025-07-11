@@ -2,24 +2,24 @@ import Image from "next/image";
 import Link from "next/link";
 import { CTA } from "@/components/CTA";
 import { CONTACT } from "@/constants/contact";
-import { Footer } from "@/components/Footer";
 import { AnimatedButtonOutline } from "@/components/AnimatedButtonOutline";
 
 export default function LogisticsPage() {
   return (
     <div className="min-h-screen bg-white">
       {/* Hero Section */}
-      <section className="relative min-h-[500px] flex items-center bg-gradient-to-br from-[#1B2845] to-[#2C3E50]">
+      <section className="relative min-h-[500px] flex items-center bg-[#0f172a]">
         <div className="absolute inset-0">
           <div className="absolute inset-0 bg-[linear-gradient(45deg,rgba(255,255,255,0.03)_25%,transparent_25%,transparent_50%,rgba(255,255,255,0.03)_50%,rgba(255,255,255,0.03)_75%,transparent_75%)] bg-[length:24px_24px]"></div>
-          <div className="absolute inset-0 bg-black/20"></div>
+          <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_50%,rgba(255,255,255,0.02)_1px,transparent_1px)] bg-[length:16px_16px]"></div>
         </div>
-        <div className="max-w-7xl mx-auto px-5 relative z-10">
-          <div className="max-w-3xl">
+        <div className="absolute inset-0 bg-gradient-to-t from-[#0f172a]/90 via-transparent to-transparent"></div>
+        <div className="relative z-20 max-w-7xl mx-auto px-5">
+          <div className="text-center">
             <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 leading-tight">
               Modern Logistics<br />Technology
             </h1>
-            <p className="text-xl text-white/80 mb-8 leading-relaxed max-w-2xl">
+            <p className="text-xl text-white/80 mb-8 leading-relaxed max-w-3xl mx-auto font-light">
                 Gain control with logistics technology that delivers real-time visibility, actionable intelligence and peace of mind.
             </p>
           </div>
