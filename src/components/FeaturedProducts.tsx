@@ -13,52 +13,9 @@ function stripHtml(html: string): string {
     .trim(); // Remove leading/trailing whitespace
 }
 
-interface ProductVariation {
-  item_variation_id: string;
-  item_index: string;
-  rothco_item_no: string;
-  upc: string;
-  inventory: string;
-  created_date: null;
-  weight: string;
-  image_filename: string;
-  catalog_page_no: null;
-  msrp: number;
-  ship_length: string;
-  ship_width: string;
-  ship_height: string;
-  eta_date: string;
-  specs: {
-    color: string;
-  };
-  color: string;
-  price: number;
-  case_price: number;
-  case_quantity: number;
-  statuses: string;
-}
-
-interface Product {
-  item_index: string;
-  item_name: string;
-  has_restrictions: string;
-  controlled_by_map: string;
-  video_link: string;
-  rating: string;
-  item_short_desc: string;
-  no_ratings: null;
-  sort_order: string | null;
-  description: string;
-  selection_groups: string[];
-  statuses: string;
-  categories: string[];
-  variations: ProductVariation[];
-  selectedVariationItemNo?: string;
-}
-
 interface FeaturedProductsProps {
   title: string;
-  products: Product[];
+  products: Record<string, any>[];
   sectionId: string;
   supplier: string;
 }
@@ -74,7 +31,7 @@ export function FeaturedProducts({ title, products, sectionId, supplier }: Featu
           <div className="grid md:grid-cols-3 gap-8">
             {products.map((product, index) => {
               const selectedVariation = product.selectedVariationItemNo 
-                ? product.variations.find(v => v.rothco_item_no === product.selectedVariationItemNo) || product.variations[0]
+                ? product.variations.find((v: any) => v.rothco_item_no === product.selectedVariationItemNo) || product.variations[0]
                 : product.variations[0];
               return (
                 <ProductCard

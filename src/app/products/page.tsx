@@ -1,10 +1,9 @@
 "use client";
 
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
-import { AnimatedButton } from '@/components/AnimatedButton';
 import { AnimatedButtonOutline } from '@/components/AnimatedButtonOutline';
 import { AnimatedButtonAccent } from '@/components/AnimatedButtonAccent';
 import { CTA } from '@/components/CTA';
@@ -12,68 +11,6 @@ import { CONTACT } from '@/constants/contact';
 
 // Import all product data dynamically
 import { getAllProducts } from '@/data/rothco/products';
-
-// Custom CSS animations
-const animationStyles = `
-  @keyframes fadeInUp {
-    from {
-      opacity: 0;
-      transform: translateY(30px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-  
-  @keyframes pulse-glow {
-    0%, 100% { 
-      box-shadow: 0 0 5px rgba(27, 40, 69, 0.3), 0 0 10px rgba(27, 40, 69, 0.2); 
-    }
-    50% { 
-      box-shadow: 0 0 15px rgba(27, 40, 69, 0.5), 0 0 30px rgba(27, 40, 69, 0.3); 
-    }
-  }
-  
-  @keyframes shimmer {
-    0% { transform: translateX(-100%); }
-    100% { transform: translateX(100%); }
-  }
-  
-  @keyframes float {
-    0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-6px); }
-  }
-  
-  @keyframes rotate-border {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-  }
-  
-  .animate-fade-in-up {
-    animation: fadeInUp 0.6s ease-out;
-  }
-  
-  .animate-pulse-glow {
-    animation: pulse-glow 2s ease-in-out infinite;
-  }
-  
-  .animate-shimmer {
-    animation: shimmer 2s ease-in-out infinite;
-  }
-  
-  .animate-float {
-    animation: float 3s ease-in-out infinite;
-  }
-  
-  .animate-rotate-border {
-    animation: rotate-border 3s linear infinite;
-  }
-  
-  .stagger-animation {
-    animation-delay: calc(var(--stagger) * 0.1s);
-  }
-`;
 
 // Utility function to decode HTML entities
 const decodeHtmlEntities = (text: string): string => {
@@ -218,7 +155,8 @@ const ProductCard: React.FC<ProductCardProps> = ({ product, index }) => {
   );
 };
 
-export default function AllProductsPage() {
+// Main products component that uses useSearchParams
+function ProductsContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
   
@@ -651,4 +589,26 @@ export default function AllProductsPage() {
       />
     </div>
   );
-} 
+}
+
+// Loading component for Suspense fallback
+function ProductsLoading() {
+  return (
+    <div className="min-h-screen bg-gray-50 flex items-center justify-center">
+      <div className="text-center">
+        <div className="inline-block animate-spin rounded-full h-20 w-20 border-b-2 border-[#1B2845] mb-4"></div>
+        <h3 className="text-2xl font-bold text-gray-600 mb-2">Loading Products...</h3>
+        <p className="text-gray-500">Fetching the latest product catalog</p>
+      </div>
+    </div>
+  );
+}
+
+// Main export with Suspense boundary
+export default function AllProductsPage() {
+  return (
+    <Suspense fallback={<ProductsLoading />}>
+      <ProductsContent />
+    </Suspense>
+  );
+}

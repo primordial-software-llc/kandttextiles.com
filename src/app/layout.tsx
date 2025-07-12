@@ -7,6 +7,7 @@ import { Navigation } from "@/components/Navigation";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://kandttextiles.com'),
   title: "K&T Textiles - Global Textile Export Solutions",
   description: "Specializing in premium fabric and apparel exports since 2020. Your trusted partner for quality textile logistics.",
   keywords: ['textile exports', 'fabric exports', 'apparel exports', 'logistics', 'quality control'],
