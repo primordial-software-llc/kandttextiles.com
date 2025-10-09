@@ -1,4 +1,5 @@
 import { Metadata } from "next";
+import Link from "next/link";
 import { CTA } from "@/components/CTA";
 import { CONTACT } from "@/constants/contact";
 import { AnimatedButtonAccent } from "@/components/AnimatedButtonAccent";
@@ -102,11 +103,11 @@ export default function ITAREARRestrictionsPage() {
         <div className="max-w-7xl mx-auto px-5">
           <ol className="flex items-center space-x-2 text-sm text-gray-600">
             <li>
-              <a href="/" className="hover:text-[#1B2845] transition-colors">Home</a>
+              <Link href="/" className="hover:text-[#1B2845] transition-colors">Home</Link>
             </li>
             <li className="flex items-center">
               <span className="mx-2">/</span>
-              <a href="/logistics" className="hover:text-[#1B2845] transition-colors">Logistics</a>
+              <Link href="/logistics" className="hover:text-[#1B2845] transition-colors">Logistics</Link>
             </li>
             <li className="flex items-center">
               <span className="mx-2">/</span>
