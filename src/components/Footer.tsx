@@ -59,6 +59,18 @@ export function Footer() {
                 </Link>
               </li>
               <li className="group">
+                <Link href="/logistics/itar-ear-restrictions" className="text-gray-300 hover:text-white transition-all duration-300 relative inline-block">
+                  <span className="relative z-10">ITAR & EAR Guide</span>
+                  <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-full"></div>
+                </Link>
+              </li>
+              <li className="group">
+                <Link href="/sitemap" className="text-gray-300 hover:text-white transition-all duration-300 relative inline-block">
+                  <span className="relative z-10">Sitemap</span>
+                  <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-full"></div>
+                </Link>
+              </li>
+              <li className="group">
                 <Link href="/#about" className="text-gray-300 hover:text-white transition-all duration-300 relative inline-block">
                   <span className="relative z-10">About Us</span>
                   <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-full"></div>

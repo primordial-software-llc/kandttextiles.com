@@ -39,7 +39,7 @@ export function FeaturedProducts({ title, products, sectionId, supplier }: Featu
                   id={product.item_index || `product-${index}`}
                   name={product.item_name}
                   itemNumber={selectedVariation.rothco_item_no}
-                  price={selectedVariation.price}
+                  price={selectedVariation.msrp}
                   image={`/${supplier}/images/${selectedVariation.image_filename}`}
                   description={stripHtml(product.item_short_desc)}
                   supplier={supplier}

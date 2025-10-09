@@ -95,11 +95,28 @@ export function Navigation() {
                   </div>
                 </div>
               </li>
-              <li className="group">
-                <Link href="/logistics" className="text-gray-600 font-medium hover:text-[#1B2845] transition-all duration-300 relative inline-block">
+              <li className="group relative">
+                <Link href="/logistics" className="text-gray-600 font-medium hover:text-[#1B2845] transition-all duration-300 relative inline-block flex items-center">
                   <span className="relative z-10">Logistics</span>
+                  <svg className="w-4 h-4 ml-1 transition-transform duration-200 group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                  </svg>
                   <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-full"></div>
                 </Link>
+                
+                {/* Dropdown Menu */}
+                <div className="absolute top-full left-0 mt-2 w-56 bg-white rounded-lg shadow-lg border border-gray-200 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
+                  <div className="py-2">
+                    <Link href="/logistics" className="block px-4 py-3 text-sm text-gray-700 hover:bg-gray-50 hover:text-[#1B2845] transition-colors">
+                      <div className="font-medium">Logistics Overview</div>
+                      <div className="text-xs text-gray-500">Tracking & technology</div>
+                    </Link>
+                    <Link href="/logistics/itar-ear-restrictions" className="block px-4 py-3 text-sm text-gray-700 hover:bg-gray-50 hover:text-[#1B2845] transition-colors">
+                      <div className="font-medium">ITAR & EAR Restrictions</div>
+                      <div className="text-xs text-gray-500">Export compliance guide</div>
+                    </Link>
+                  </div>
+                </div>
               </li>
               <li className="group">
                 <Link href="/about" className="text-gray-600 font-medium hover:text-[#1B2845] transition-all duration-300 relative inline-block">
@@ -191,6 +208,15 @@ export function Navigation() {
               <li className="border-b group">
                 <Link href="/logistics" className="block w-full px-5 py-4 text-gray-600 font-medium hover:text-[#1B2845] hover:bg-gray-50 transition-all duration-300 relative">
                   <span className="relative z-10">Logistics</span>
+                  <div className="absolute bottom-0 left-5 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-[calc(100%-2.5rem)]"></div>
+                </Link>
+              </li>
+              <li className="border-b group">
+                <Link href="/logistics/itar-ear-restrictions" className="block w-full px-5 py-4 text-gray-600 font-medium hover:text-[#1B2845] hover:bg-gray-50 transition-all duration-300 relative">
+                  <span className="relative z-10 flex items-center">
+                    <span className="w-2 h-2 bg-red-500 rounded-full mr-3"></span>
+                    ITAR & EAR Restrictions
+                  </span>
                   <div className="absolute bottom-0 left-5 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-[calc(100%-2.5rem)]"></div>
                 </Link>
               </li>

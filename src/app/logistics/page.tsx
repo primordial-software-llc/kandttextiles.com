@@ -560,6 +560,61 @@ export default function LogisticsPage() {
           </div>
         </div>
       </section>
+
+      {/* Export Compliance Section */}
+      <section className="py-16 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-5">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl font-bold text-[#1B2845] mb-4">Export Compliance & Regulations</h2>
+            <p className="text-lg text-gray-600 max-w-3xl mx-auto">
+              Understanding export restrictions and compliance requirements for international shipping of tactical gear and shooting accessories.
+            </p>
+          </div>
+          
+          <div className="grid md:grid-cols-2 gap-8">
+            <div className="bg-white rounded-lg p-8 shadow-sm border border-gray-200">
+              <div className="w-12 h-12 bg-red-100 rounded-lg flex items-center justify-center mb-4">
+                <svg className="w-6 h-6 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-2.5L13.732 4c-.77-.833-1.732-.833-2.5 0L4.268 19.5c-.77.833.192 2.5 1.732 2.5z" />
+                </svg>
+              </div>
+              <h3 className="text-xl font-bold text-[#1B2845] mb-4">ITAR & EAR Restrictions</h3>
+              <p className="text-gray-600 mb-6">
+                Learn about International Traffic in Arms Regulations (ITAR) and Export Administration Regulations (EAR) 
+                that may affect your tactical gear exports.
+              </p>
+              <Link 
+                href="/logistics/itar-ear-restrictions"
+                className="inline-flex items-center px-6 py-3 bg-[#1B2845] text-white rounded-lg font-medium hover:bg-[#34495e] transition-all duration-300 shadow-md hover:shadow-lg"
+              >
+                View Compliance Guide
+                <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                </svg>
+              </Link>
+            </div>
+
+            <div className="bg-white rounded-lg p-8 shadow-sm border border-gray-200">
+              <div className="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mb-4">
+                <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+              </div>
+              <h3 className="text-xl font-bold text-[#1B2845] mb-4">K&T Textiles Compliance</h3>
+              <p className="text-gray-600 mb-6">
+                We are NOT a Federal Firearms Licensee (FFL) and do not handle firearms, ammunition, body armor, 
+                explosives, or ITAR-controlled items. We specialize in compliant accessories and gear only.
+              </p>
+              <div className="bg-green-50 border border-green-200 rounded p-4">
+                <p className="text-green-800 text-sm font-medium">
+                  ✓ Non-ITAR textile accessories only
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <CTA 
         title="Ready to Enhance Your Logistics?"
         description="Contact us to learn more about implementing advanced tracking solutions for your valuable cargo."
