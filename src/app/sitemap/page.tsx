@@ -25,6 +25,7 @@ const siteStructure = {
   "Suppliers": [
     { name: "Our Suppliers", url: "/suppliers" },
     { name: "Rothco", url: "/suppliers/rothco" },
+    { name: "Oakley", url: "/suppliers/oakley" },
     { name: "Harken", url: "/suppliers/harken" },
   ],
   "Logistics & Compliance": [

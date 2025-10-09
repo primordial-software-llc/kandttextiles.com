@@ -4,9 +4,11 @@ import { AnimatedButtonAccent } from "@/components/AnimatedButtonAccent";
 import { AnimatedButtonOutline } from "@/components/AnimatedButtonOutline";
 import { CTA } from "@/components/CTA";
 import { FeaturedProducts } from "@/components/FeaturedProducts";
+import { SimpleFeaturedProducts } from "@/components/SimpleFeaturedProducts";
 import { AnimatedButton } from "@/components/AnimatedButton";
 import { CONTACT } from "@/constants/contact";
 import { shootingAccessoriesConfig } from "@/data/shootingAccessories";
+import { harkenData } from "@/data/suppliers/harken";
 
 // Import specific product data for shooting accessories
 import product3553Data from '@/data/rothco/products/product-3553.json'; // G96 Synthetic CLP Gun Oil
@@ -309,6 +311,15 @@ export default function ShootingAccessoriesPage() {
             sectionId={`shooting-accessories-${group.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')}-products`}
           />
         ))}
+
+        {/* Harken Tactical Gloves */}
+        <SimpleFeaturedProducts
+          title="Tactical Gloves"
+          products={[harkenData.featuredProducts[0]]} // Reflex Gloves 3/4 Finger
+          sectionId="shooting-accessories-tactical-gloves"
+          supplier="harken"
+          productIds={["reflex-gloves-3-4-finger"]}
+        />
 
         {/* Call to action */}
         <div className="text-center py-12">

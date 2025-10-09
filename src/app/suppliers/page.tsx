@@ -44,6 +44,13 @@ export default function Suppliers() {
       link: "/suppliers/rothco"
     },
     {
+      name: "Oakley",
+      specialty: "Performance Eyewear & Tactical Equipment",
+      description: "Premium manufacturer of ballistic-rated eyewear and tactical gear, trusted by military and law enforcement worldwide. Oakley SI (Standard Issue) provides battle-proven protection.",
+      logo: "/oakley/oakley-logo.svg",
+      link: "/suppliers/oakley"
+    },
+    {
       name: "Harken",
       specialty: "Marine Hardware & Textiles",
       description: "Global leader in marine hardware and performance textiles, providing innovative solutions for sailing and marine applications.",
