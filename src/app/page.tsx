@@ -76,11 +76,6 @@ export default function Home() {
           }))
         )}
       />
-      {/* AvantLink Affiliate Verification */}
-      <Script
-        src="http://classic.avantlink.com/affiliate_app_confirm.php?mode=js&authResponse=e7db51ace1f37e7d2389bba2c897aa39e3be5c92"
-        strategy="afterInteractive"
-      />
       <Script
         id="structured-data"
         type="application/ld+json"
