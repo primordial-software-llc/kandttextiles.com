@@ -35,7 +35,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <div
           dangerouslySetInnerHTML={{
-            __html: '<script type="text/javascript" src="https://classic.avantlink.com/affiliate_app_confirm.php?mode=js&authResponse=e7db51ace1f37e7d2389bba2c897aa39e3be5c92"></script>'
+            __html: '<script type="text/javascript" src="http://classic.avantlink.com/affiliate_app_confirm.php?mode=js&authResponse=e7db51ace1f37e7d2389bba2c897aa39e3be5c92"></script>'
           }}
         />
         <Navigation />
