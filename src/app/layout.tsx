@@ -36,7 +36,7 @@ export default function RootLayout({
       <body className={inter.className}>
         {/* AvantLink Affiliate Verification */}
         <Script
-          src="http://classic.avantlink.com/affiliate_app_confirm.php?mode=js&authResponse=e7db51ace1f37e7d2389bba2c897aa39e3be5c92"
+          src="https://classic.avantlink.com/affiliate_app_confirm.php?mode=js&authResponse=e7db51ace1f37e7d2389bba2c897aa39e3be5c92"
           strategy="beforeInteractive"
         />
         <Navigation />
