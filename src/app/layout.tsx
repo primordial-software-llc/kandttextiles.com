@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-import Script from "next/script";
 import "./globals.css";
 import { Footer } from "@/components/Footer";
 import { Navigation } from "@/components/Navigation";
@@ -34,10 +33,10 @@ export default function RootLayout({
         <link rel="manifest" href="/site.webmanifest" />
       </head>
       <body className={inter.className}>
-        {/* AvantLink Affiliate Verification */}
-        <Script
-          src="https://classic.avantlink.com/affiliate_app_confirm.php?mode=js&authResponse=e7db51ace1f37e7d2389bba2c897aa39e3be5c92"
-          strategy="beforeInteractive"
+        <div
+          dangerouslySetInnerHTML={{
+            __html: '<script type="text/javascript" src="https://classic.avantlink.com/affiliate_app_confirm.php?mode=js&authResponse=e7db51ace1f37e7d2389bba2c897aa39e3be5c92"></script>'
+          }}
         />
         <Navigation />
         {children}
