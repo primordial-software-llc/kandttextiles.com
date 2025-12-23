@@ -119,6 +119,12 @@ export function Navigation() {
                 </div>
               </li>
               <li className="group">
+                <Link href="/news" className="text-gray-600 font-medium hover:text-[#1B2845] transition-all duration-300 relative inline-block">
+                  <span className="relative z-10">Industry News</span>
+                  <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-full"></div>
+                </Link>
+              </li>
+              <li className="group">
                 <Link href="/about" className="text-gray-600 font-medium hover:text-[#1B2845] transition-all duration-300 relative inline-block">
                   <span className="relative z-10">About</span>
                   <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-full"></div>
@@ -217,6 +223,12 @@ export function Navigation() {
                     <span className="w-2 h-2 bg-red-500 rounded-full mr-3"></span>
                     ITAR & EAR Restrictions
                   </span>
+                  <div className="absolute bottom-0 left-5 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-[calc(100%-2.5rem)]"></div>
+                </Link>
+              </li>
+              <li className="border-b group">
+                <Link href="/news" className="block w-full px-5 py-4 text-gray-600 font-medium hover:text-[#1B2845] hover:bg-gray-50 transition-all duration-300 relative">
+                  <span className="relative z-10">Industry News</span>
                   <div className="absolute bottom-0 left-5 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-[calc(100%-2.5rem)]"></div>
                 </Link>
               </li>

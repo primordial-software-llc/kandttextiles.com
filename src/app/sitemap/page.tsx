@@ -36,6 +36,10 @@ const siteStructure = {
   "Resources": [
     { name: "Florida Range Guides", url: "/ranges/tampa-bay" },
   ],
+  "Industry News": [
+    { name: "Industry News", url: "/news" },
+    { name: "Mossberg 590A1 Professional Series", url: "/news/mossberg-590a1-professional-series-announcement" },
+  ],
   "Fabrics": [
     { name: "Fabrics Overview", url: "/fabrics" },
     { name: "Berry Amendment Compliance", url: "/fabrics/berry-amendment" },
