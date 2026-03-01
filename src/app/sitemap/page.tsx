@@ -17,39 +17,33 @@ const siteStructure = {
     { name: "About Us", url: "/#about" },
     { name: "Contact", url: "/#contact" },
   ],
-  "Products": [
-    { name: "All Products", url: "/products" },
-    { name: "Featured Products", url: "/products/featured" },
-    { name: "Shooting Accessories", url: "/products/shooting-accessories" },
-  ],
   "Suppliers": [
     { name: "Our Suppliers", url: "/suppliers" },
     { name: "Rothco", url: "/suppliers/rothco" },
     { name: "Oakley", url: "/suppliers/oakley" },
     { name: "Harken", url: "/suppliers/harken" },
   ],
+  "Fabrics": [
+    { name: "Fabrics Overview", url: "/fabrics" },
+    { name: "NYCO 50/50 Fabric", url: "/fabrics/nyco-50-50" },
+    { name: "Ripstop Fabric", url: "/fabrics/ripstop" },
+    { name: "Berry Amendment Compliance", url: "/fabrics/berry-amendment" },
+    { name: "Camouflage Patterns", url: "/fabrics/camouflage-patterns" },
+  ],
   "Logistics & Compliance": [
     { name: "Logistics", url: "/logistics" },
     { name: "ITAR & EAR Restrictions Guide", url: "/logistics/itar-ear-restrictions" },
     { name: "Tracki Pro GPS Tracking", url: "/logistics/tracki-pro" },
   ],
-  "Resources": [
-    { name: "Florida Range Guides", url: "/ranges/tampa-bay" },
-  ],
   "Industry News": [
     { name: "Industry News", url: "/news" },
-    { name: "Mossberg 590A1 Professional Series", url: "/news/mossberg-590a1-professional-series-announcement" },
-  ],
-  "Fabrics": [
-    { name: "Fabrics Overview", url: "/fabrics" },
-    { name: "Berry Amendment Compliance", url: "/fabrics/berry-amendment" },
-    { name: "Camouflage Patterns", url: "/fabrics/camouflage-patterns" },
-    { name: "NYCO 50/50 Fabric", url: "/fabrics/nyco-50-50" },
-    { name: "Ripstop Fabric", url: "/fabrics/ripstop" },
+    { name: "Berry Amendment Caucus & Military Textiles", url: "/news/berry-amendment-caucus-military-textiles" },
+    { name: "Mossberg Awarded US Army Contract", url: "/news/mossberg-awarded-us-army-contract" },
+    { name: "CORDURA NYCO Royal Marines Uniform", url: "/news/cordura-nyco-royal-marines-uniform" },
   ],
   "Vendor Portal": [
     { name: "Vendor Login", url: "/vendor/login" },
-    { name: "Vendor Dashboard", url: "/vendor/dashboard" }
+    { name: "Vendor Dashboard", url: "/vendor/dashboard" },
   ],
 };
 
@@ -138,7 +132,7 @@ export default function SitemapPage() {
             </p>
             <p className="text-gray-700 leading-relaxed">
               For questions about specific products or services, please visit our <Link href="/#contact" className="text-[#1B2845] hover:underline">contact page</Link> or 
-              email us at <a href="mailto:contact@kandttextiles.com" className="text-[#1B2845] hover:underline">contact@kandttextiles.com</a>.
+              email us at <a href="mailto:contact@k-and-t-textiles.com" className="text-[#1B2845] hover:underline">contact@k-and-t-textiles.com</a>.
             </p>
           </div>
         </div>

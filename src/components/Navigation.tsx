@@ -43,18 +43,6 @@ export function Navigation() {
             {/* Desktop Navigation */}
             <ul className="hidden md:flex space-x-8 items-center">
               <li className="group">
-                <Link href="/products" className="text-gray-600 font-medium hover:text-[#1B2845] transition-all duration-300 relative inline-block">
-                  <span className="relative z-10">Products</span>
-                  <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-full"></div>
-                </Link>
-              </li>
-              <li className="group">
-                <Link href="/products/featured" className="text-gray-600 font-medium hover:text-[#1B2845] transition-all duration-300 relative inline-block">
-                  <span className="relative z-10">Featured Products</span>
-                  <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-full"></div>
-                </Link>
-              </li>
-              <li className="group">
                 <Link href="/suppliers" className="text-gray-600 font-medium hover:text-[#1B2845] transition-all duration-300 relative inline-block">
                   <span className="relative z-10">Suppliers</span>
                   <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-full"></div>
@@ -151,18 +139,6 @@ export function Navigation() {
           {/* Mobile Navigation */}
           <div className="hidden peer-checked/nav:block md:hidden absolute left-0 right-0 top-full bg-white mt-2 shadow-lg z-50 w-full rounded-b-lg border-t">
             <ul className="flex flex-col">
-              <li className="border-b group">
-                <Link href="/products" className="block w-full px-5 py-4 text-gray-600 font-medium hover:text-[#1B2845] hover:bg-gray-50 transition-all duration-300 relative">
-                  <span className="relative z-10">All Products</span>
-                  <div className="absolute bottom-0 left-5 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-[calc(100%-2.5rem)]"></div>
-                </Link>
-              </li>
-              <li className="border-b group">
-                <Link href="/products/featured" className="block w-full px-5 py-4 text-gray-600 font-medium hover:text-[#1B2845] hover:bg-gray-50 transition-all duration-300 relative">
-                  <span className="relative z-10">Featured</span>
-                  <div className="absolute bottom-0 left-5 w-0 h-0.5 bg-gradient-to-r from-[#1B2845] to-[#34495e] transition-all duration-300 group-hover:w-[calc(100%-2.5rem)]"></div>
-                </Link>
-              </li>
               <li className="border-b group">
                 <Link href="/suppliers" className="block w-full px-5 py-4 text-gray-600 font-medium hover:text-[#1B2845] hover:bg-gray-50 transition-all duration-300 relative">
                   <span className="relative z-10">Suppliers</span>

@@ -49,6 +49,14 @@ function formatDate(dateString: string): string {
 // This would typically come from a CMS or database
 const articles = [
   {
+    slug: "berry-amendment-caucus-military-textiles",
+    title: "Congress Launches Berry Amendment Caucus to Protect Domestic Military Textile Manufacturing",
+    excerpt: "A bipartisan Berry Amendment Caucus has been launched in the House of Representatives to strengthen domestic defense textile manufacturing, protecting over $1.8 billion in annual military uniform and equipment production.",
+    publishedDate: "2026-02-20",
+    category: "Industry News",
+    readTime: "6 min read"
+  },
+  {
     slug: "mossberg-awarded-us-army-contract",
     title: "Mossberg Awarded US Army Contract",
     excerpt: "Mossberg has been awarded a significant contract by the US Army, marking an important development in military procurement and tactical equipment.",
@@ -58,30 +66,11 @@ const articles = [
     readTime: "5 min read"
   },
   {
-    slug: "mossberg-cerakote-590r-shotguns",
-    title: "Mossberg Adds Cerakote Versions of 590R Shotguns with Rotary Safety Selector",
-    excerpt: "Mossberg has introduced Cerakote-finished versions of their 590R shotguns featuring rotary safety selectors, offering enhanced durability and corrosion resistance.",
-    publishedDate: "2025-07-01",
-    category: "Product Announcements",
-    image: "/images/news/MOSSBERG_SINCE 1919_Black_with path.jpg",
-    readTime: "5 min read"
-  },
-  {
-    slug: "palmetto-state-armory-x57-mp7-variant",
-    title: "Palmetto State Armory Announces X5.7 MP7 Variant",
-    excerpt: "Palmetto State Armory has announced their X5.7 MP7 variant, bringing an accessible platform inspired by the MP7 design to the civilian market.",
-    publishedDate: "2025-01-20",
-    category: "Product Announcements",
-    image: "/images/news/palmetto_state_armory_logo.png",
-    readTime: "5 min read"
-  },
-  {
-    slug: "mossberg-590a1-professional-series-announcement",
-    title: "Mossberg Introduces Purpose-Built 590A1 Professional Series Shotguns",
-    excerpt: "Mossberg's latest announcement about building purpose-made 590A1 versions marks a significant development for law enforcement and tactical professionals.",
-    publishedDate: "2025-01-15",
-    category: "Product Announcements",
-    image: "/images/news/MOSSBERG_SINCE 1919_Black_with path.jpg",
+    slug: "cordura-nyco-royal-marines-uniform",
+    title: "CORDURA® NYCO Fabric Selected for New Royal Marines Uniform Program",
+    excerpt: "CORDURA® NYCO fabric has been adopted for the Royal Marines' Future Commando Force uniform program, reinforcing NYCO ripstop as the global standard for modern military combat uniforms.",
+    publishedDate: "2025-11-15",
+    category: "Industry News",
     readTime: "5 min read"
   }
 ];
