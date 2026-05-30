@@ -38,7 +38,6 @@ const siteStructure = {
   "Industry News": [
     { name: "Industry News", url: "/news" },
     { name: "Berry Amendment Caucus & Military Textiles", url: "/news/berry-amendment-caucus-military-textiles" },
-    { name: "Mossberg Awarded US Army Contract", url: "/news/mossberg-awarded-us-army-contract" },
     { name: "CORDURA NYCO Royal Marines Uniform", url: "/news/cordura-nyco-royal-marines-uniform" },
   ],
   "Vendor Portal": [
