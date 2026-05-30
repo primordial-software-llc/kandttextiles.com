@@ -57,15 +57,6 @@ const articles = [
     readTime: "6 min read"
   },
   {
-    slug: "mossberg-awarded-us-army-contract",
-    title: "Mossberg Awarded US Army Contract",
-    excerpt: "Mossberg has been awarded a significant contract by the US Army, marking an important development in military procurement and tactical equipment.",
-    publishedDate: "2025-12-01",
-    category: "Industry News",
-    image: "/images/news/MOSSBERG_SINCE 1919_Black_with path.jpg",
-    readTime: "5 min read"
-  },
-  {
     slug: "cordura-nyco-royal-marines-uniform",
     title: "CORDURA® NYCO Fabric Selected for New Royal Marines Uniform Program",
     excerpt: "CORDURA® NYCO fabric has been adopted for the Royal Marines' Future Commando Force uniform program, reinforcing NYCO ripstop as the global standard for modern military combat uniforms.",
