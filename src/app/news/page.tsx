@@ -1,7 +1,5 @@
 import { Metadata } from "next";
 import Link from "next/link";
-import Image from "next/image";
-
 export const metadata: Metadata = {
   title: "Industry News & Insights | K&T Textiles",
   description: "Stay informed with industry news, product announcements, and insights on tactical gear, law enforcement equipment, and shooting sports.",
@@ -134,19 +132,9 @@ export default function NewsPage() {
               <article key={article.slug} className="bg-white border border-gray-200 rounded-lg overflow-hidden hover:shadow-lg transition-shadow">
                 <Link href={`/news/${article.slug}`} className="block">
                   <div className="aspect-video bg-gray-100 relative">
-                    {article.image ? (
-                      <Image
-                        src={article.image}
-                        alt={article.title}
-                        fill
-                        className="object-contain"
-                        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-                      />
-                    ) : (
-                      <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-[#1B2845] to-[#34495e]">
-                        <span className="text-white text-2xl font-bold">News</span>
-                      </div>
-                    )}
+                    <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-[#1B2845] to-[#34495e]">
+                      <span className="text-white text-2xl font-bold">News</span>
+                    </div>
                   </div>
                   <div className="p-6">
                     <div className="flex items-center justify-between mb-3">
